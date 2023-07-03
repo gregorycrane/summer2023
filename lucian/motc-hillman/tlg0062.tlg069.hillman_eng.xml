@@ -55,13 +55,15 @@
 <p>based on data entry by https://www.sacred-texts.com/cla/luc/motc/index.htm with occasional corrections</p>
 </correction>
 </editorialDecl>
- <refsDecl n="CTS">
- <cRefPattern matchPattern="(\w+)"
- replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
- <p>This pointer pattern extracts section.</p>
- </cRefPattern>
- </refsDecl>
-<!-- <refsDecl doctype="TEI.2">
+            <refsDecl n="CTS">
+                <cRefPattern n="section" matchPattern="(\w+).(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])">
+                    <p>This pointer pattern extracts book and section.</p>
+                </cRefPattern>
+                <cRefPattern n="book" matchPattern="(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+                    <p>This pointer pattern extracts book.</p>
+                </cRefPattern>
+            </refsDecl>
+ <!-- <refsDecl doctype="TEI.2">
 <state unit="section" n="chunk"/>å
 </refsDecl>-->
 </encodingDesc>
@@ -90,6 +92,9 @@
  <p>You can't imagine how hard it has been for us to get along since your blessed father's death. We lacked nothing when he was alive. He had quite a reputation as a blacksmith in the Piraeus. People say
 <pb n="14"/>
 there will never be another blacksmith like Philipinos. After his death I sold his tongs, anvil and hammer for two hundred drachmas. We lived on that for some time. I found work weaving and turning thread, barely earning enough to buy bread with. I have raised you, however, my precious little daughter. You are the only hope left me.</p>
+</div>
+
+<div type="textpart" subtype="section" n="2">
  <p><label>CORINNA</label></p>
  <p>Weren't you going to say something about my hundred drachmas, mother?</p>
  <p><label>CROBYLE</label></p>
@@ -108,9 +113,11 @@ there will never be another blacksmith like Philipinos. After his death I sold h
  <p>But she is--a courtesan!</p>
  <p><label>CROBYLE</label></p>
  <p>What of it? There is no harm in that. You will become rich. You are sure to have many lovers.</p>
- <p><label>CORINNA</label> <stage>Weeps</stage></p>
- <p>CROBYLE</p>
- <p>Why, Corinna! Why do you weep? Don't you see how many courtesans there are, how they are all sought after, and how they all make money? I knew Daphnis when she was in rags--that was before she got sense enough to make use of her body. Look at her now! She struts like a queen, all bespangled with gold, wearing flowery dresses, and no less than four slaves behind her.</p>
+ <p><stage>CORINNA weeps</stage></p>
+<p><label>CROBYLE</label></p> <p>Why, Corinna! Why do you weep? Don't you see how many courtesans there are, how they are all sought after, and how they all make money? I knew Daphnis when she was in rags--that was before she got sense enough to make use of her body. Look at her now! She struts like a queen, all bespangled with gold, wearing flowery dresses, and no less than four slaves behind her.</p>
+</div>
+
+<div type="textpart" subtype="section" n="3">
  <p><label>CORINNA</label></p>
  <p>And how did she get all that, dear mother?</p>
  <p><label>CROBYLE</label></p>
@@ -123,6 +130,9 @@ shrewdly, but without double-crossing, the men that come to see her or take her 
  <p>Especially when she is thirsty, foolish girl! And she never speaks more than is necessary, and never pokes fun at anybody present, and has eyes only for the man who has paid her. That is why everybody appreciates her. Furthermore, when it is time to get into bed, she never resorts to any obscenity, but does her task with care and loving attention. In bed, she bears one thing in mind--to win the man and make a steady lover of him. That is why everybody speaks highly of her. If you take this lesson to heart and do likewise we, too, shall be rich, for she is far from having your looks and your complexion. But I won't
 <pb n="17"/>
 say anything more. Long may you live, little daughter, and prosper!</p>
+</div>
+
+<div type="textpart" subtype="section" n="4">
  <p><label>CORINNA</label></p>
  <p>But tell me, dear mother: Will all those that will pay me be as handsome as Eucritos, the fellow I slept with yesterday?</p>
  <p><label>CROBYLE</label></p>
@@ -152,12 +162,18 @@ will easily surpass the best of our courtesans. Now run and wash yourself, child
 <pb n="24"/>
  <p><label>MOTHER</label></p>
  <p>And you believe all that? Why, the other day, when he did not have enough money to pay a debt, you handed him your ring; you said nothing to me. And he traded it for a few drinks. Then followed both of your Ionic necklaces, each of which weighs no less than two <hi rend="italic">darikes</hi>. The armorer Praxias of Chios had to send to Ephesus to get them for you. Well, dear Chaireas had better start paying what he owes us. I won't say anything about your linen and shirts. Every lover naturally gives those things. But Chaireas isn't much of an asset as a lover.</p>
+</div>
+
+<div type="textpart" subtype="section" n="2">
  <p><label>MOUSARION</label></p>
  <p>But he is so handsome. There isn't a sign of a hair on his chin. And he tells me he loves me and often weeps while he is saying that he loves me. Furthermore, he is the son of Dinomache and Lathes the Areopagite. We shall get married as soon as the old man shuts his eyes for good.</p>
  <p><label>MOTHER</label> <stage>Ironically</stage></p>
  <p>Well, Mousarion. Whenever we are in need of shoes and the cobbler says, "Two drachmas, please," we shall tell him, "Sorry, we have no money, but won't you take a few fine hopes?" And when the flour merchant presents his bill, we'll say, "Wait. The old</p>
 <pb n="25"/>
  <p> Laches Collyetus will soon be dead. We shall pay after the marriage ceremony." Aren't you ashamed of yourself? You are the only one among courtesans without a pair of earrings, without a necklace, or one Tarentine tunic?</p>
+</div>
+
+<div type="textpart" subtype="section" n="3">
  <p><label>MOUSARION</label></p>
  <p>Why should I feel ashamed, mother? Are the other courtesans happier or better looking?</p>
  <p><label>MOTHER</label></p>
@@ -168,6 +184,9 @@ will easily surpass the best of our courtesans. Now run and wash yourself, child
 smooth and soft. It is just like the skin of a suckling pig from Acharnai.</p>
  <p><label>MOTHER</label></p>
  <p>Fine. That was a rustic who smelled of goats and cow-dung. But what about Antiphon, the son of Menecrates? Why didn't you receive Antiphon? He offered you a hundred drachmas for the pleasure of one night? Isn't he handsome? Isn't he a man of the world? Isn't he citified? Is Antiphon a day older than your dear little Chaireas?</p>
+</div>
+
+<div type="textpart" subtype="section" n="4">
  <p><label>MOUSARION</label></p>
  <p>But Chaireas says he will kill both of us if he ever finds him with me.</p>
  <p><label>MOTHER</label></p>
@@ -205,6 +224,9 @@ to give whatever stipend he receives to me. He is generous. Have no fear, dear m
  <p>No. But may he always get angry when your attention wanders to some other man! He must be crazy about you. If he weren't, he wouldn't have gotten excited when he saw you with another lover.</p>
  <p><label>CHRYSIS</label></p>
  <p>But I have no other lover. He imagines that I am in love with a rich old man just because I spoke to the fellow the other day.</p>
+</div>
+
+<div type="textpart" subtype="section" n="2">
  <p><label>AMPELIS</label></p>
  <p>It is a very good thing that he thinks the rich are after you. The more he will suffer on account of that, the more he will try to rival them--you know how--so as not to be left behind.</p>
  <p><label>CHRYSIS</label></p>
@@ -217,7 +239,12 @@ to give whatever stipend he receives to me. He is generous. Have no fear, dear m
  <p><label>AMPELIS</label></p>
  <p>I am not saying that. I do know, however, that men become bigger-hearted and better lovers once they get the suspicion that their mistresses care less about them. When a man believes himself to be the one and only lover in a woman's life, he'll whistle and go his way.</p>
  <p>I ought to know; I have followed this profession for the last twenty years. If you want me to, I will tell you what happened to me a few years ago.</p>
- <p>At that time I had a steady lover, a certain Demophantos, a usurer living near Poikile. He had never given me more than five drachmas and he pretended to be my man. But his love was only superficial, Chrysis. He never sighed, he never shed tears for me and he never spent the night waiting at my door. One day he came to see me, knocked at my door, but I did not open it. You see, I had the painter, Callides, in my room; Callides had given me ten drachmas. Demophantos swore and beat his fists on the door and left cursing me. Several days passed without my sending for him; Callides was still in my house. Thereupon Demophantos, who was already quite excited, went wild. He broke open my door, wept, pulled me about, threatened to
+ <p>At that time I had a steady lover, a certain Demophantos, a usurer living near Poikile. He had never given me more than five drachmas and he pretended to be my man. But his love was only superficial, Chrysis. He never sighed, he never shed tears for me and he never spent the night waiting at my door. 
+ </p>
+</div>
+
+<div type="textpart" subtype="section" n="3">
+ <p rend="merge">One day he came to see me, knocked at my door, but I did not open it. You see, I had the painter, Callides, in my room; Callides had given me ten drachmas. Demophantos swore and beat his fists on the door and left cursing me. Several days passed without my sending for him; Callides was still in my house. Thereupon Demophantos, who was already quite excited, went wild. He broke open my door, wept, pulled me about, threatened to
 <pb n="36"/>
 kill me, tore my tunic, and did everything, in fact, that a jealous man would do, and finally presented me with six thousand drachmas. In consideration of this sum, I was his for a period of eight months. His wife used to say that I had bewitched him with some powder. That bewitching powder, to be sure, was jealousy. That is why, Chrysis, I advise you to act likewise with Gorgias. The boy will be rich if anything happens to his father.</p>
 </div></div>
@@ -287,8 +314,8 @@ knock on the door, but lifted it quietly off its hinges; I had done this once be
 <div type="textpart" subtype="book" xml:base="urn:cts:greekLit:tlg0062.tlg069" n="4">
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg069:4" n="1">
 <pb n="51"/>
- <head>BACCHIS</head>
- <head>}Courtesans</head>
+  <head>Courtesans</head>
+<head>BACCHIS</head>
  <head>MELITTA</head>
 <pb n="53"/>
  <p><label>MELITTA</label></p>
@@ -298,6 +325,9 @@ knock on the door, but lifted it quietly off its hinges; I had done this once be
  <p><label>MELITTA</label></p>
  <p>Ah, all that belongs to the past. I haven't seen him for the last five days. Charinos has deserted me. He and Simiche are drinking at the house of his friend Ramaenes.</p>
 <pb n="54"/>
+</div>
+
+<div type="textpart" subtype="section" n="2">
  <p><label>BACCHIS</label></p>
  <p>That is terrible, Melitta. But how did you happen to fall out? Undoubtedly it was not over a trifle.</p>
  <p><label>MELITTA</label></p>
@@ -306,6 +336,9 @@ knock on the door, but lifted it quietly off its hinges; I had done this once be
  <p>"Which Hermotimos?" I asked him in surprise.</p>
  <p>But without answering and without tasting a morsel of food, he got into bed and turned his back on me. I did everything I could think of to win his attention. I took him in my arms, I lay on top of him, I kissed him between the shoulders, on the lower section of his back, and put my hand between his legs. It was all in vain. Nothing could soften him, and he said:</p>
  <p>"If you continue your maneuvers, I'll leave immediately, dark and late as it is!"</p>
+ </div>
+
+<div type="textpart" subtype="section" n="3">
  <p><label>BACCHIS</label></p>
  <p>But you do know Hermotimos, don't you?</p>
  
@@ -316,6 +349,9 @@ knock on the door, but lifted it quietly off its hinges; I had done this once be
  <p>What a dirty trick! I understand now. Somebody wrote the words on the wall in order to get even with Charinos, knowing he is very jealous. He believed what he read without asking a question. If I saw him, I'd tell him about it.</p>
  <p><label>MELITTA</label></p>
  <p>But how can you see him? How can anybody see him? He has shut himself up with Simiche. His parents came to my house to see if Charinos was with me. Ah, if only I could find an old witch who would make the right kind of incantation. She'd save my life.</p>
+ </div>
+
+<div type="textpart" subtype="section" n="4">
  <p><label>BACCHIS</label></p>
  <p>Don't worry, my dear. I happen to be acquainted with an experienced witch. She is a Syrian, still in the
 <pb n="56"/>
@@ -326,6 +362,9 @@ prime of her career as a magician. You remember how Phanias left me for no reaso
  <p>Not at all. I'll tell you everything. You don't need to pay her very much, Melitta, only one drachma and a loaf of bread. But you will have to bring along some salt, seven oboles, sulfur and a torch. The witch takes it all, and--oh, yes! You must bring some wine in a krater; the old woman will drink the wine. And you'll need something of the man himself as, for example, an article of clothing, a hair, or some such thing.</p>
  <p><label>MELITTA</label></p>
  <p>I still have his shoes.</p>
+ </div>
+
+<div type="textpart" subtype="section" n="5">
  <p><label>BACCHIS</label></p>
  <p>Well, she will hang them on a nail, burn the sulfur underneath and strew salt over the fire while she keeps repeating your name, your own and your lover's. Then she draws a top from between her breasts and spins it,</p>
 <pb n="57"/>
@@ -351,10 +390,16 @@ prime of her career as a magician. You remember how Phanias left me for no reaso
 <pb n="64"/>
 closely? Examine her face and her eyes. One of these days you might be sorry to have married a woman whose eyes squint. Indeed, they are like a fish's.</p>
  <p>But you have seen Pheidon, your fiancée's father. Well, all one needs is to take a good look at his face; there is no need of seeing his daughter after that.</p>
+</div>
+
+<div type="textpart" subtype="section" n="2">
  <p><label>PAMPHILOS</label></p>
  <p>But you are talking nonsense, Myrtion. How long must I hear you talk about pilots' daughters and marriages? Do I know if the bride in question is squint-eyed, snub-nosed or beautiful, or if Pheidon, the Alopekethian, (for it is of him you are talking, I believe) has an ugly daughter? He isn't even a friend of my father's. I recall they had a lawsuit recently over some matter of navigation. I think he owed my father one talent and refused to pay; so that my father hailed him before the maritime court. He had a hard time making the pilot yield; Pheidon never paid the entire sum.</p>
  <p>If I wanted to get married, would I have refused the hand of the daughter of Demea who was <hi rend="italic">strategus</hi> last year (she is my first cousin on my mother's side) in order to marry the daughter of Pheidon, the pilot? Where have you garnered such queer news? Are these chimeras the inventions of your jealousy?</p>
 <pb n="65"/>
+</div>
+
+<div type="textpart" subtype="section" n="3">
  <p><label>MYRTION</label></p>
  <p>In that case it is not true you are getting married?</p>
  <p><label>PAMPHILOS</label></p>
@@ -370,6 +415,9 @@ closely? Examine her face and her eyes. One of these days you might be sorry to 
  <p>And did you go to see?</p>
  <p><label>DORIS</label></p>
  <p>Certainly. And I found everything Lesbia mentioned..</p>
+</div>
+
+<div type="textpart" subtype="section" n="4">
  <p><label>PAMPHILOS</label></p>
  <p>Now I understand your mistake. Lesbia did not actually fool you, Doris, and you have without doubt imparted the truth to my Myrtion. However, both of you permitted yourselves to become excited about nothing at all. The marriage feast you are talking about is not being celebrated in our house. I remember now that last night, upon my return home from your side, dear Myrtion, my mother happened to remark:</p>
  <p>"Pamphilos, your friend Charmides, the son of our neighbor Aristainetos, is getting married to a good girl; he has curbed his wild desires and become respectable. Till when, son, will you continue with your shameful courtesans?"</p>
@@ -406,17 +454,23 @@ care, not only the street, but also the door. You will see which door is decorat
  <p>Now I am sure you don't love me. If you did, you would not think of hiding such things from me.</p>
  <p><label>LEAINA</label></p>
  <p>I do love you, Clonarion. I love you more than anybody else. But this is such a strange matter. I am so ashamed. That woman is so terribly like a male.</p>
+</div>
+
+<div type="textpart" subtype="section" n="2">
  <p><label>CLONARION</label></p>
  <p>I don't understand. Do you mean to say she is one of those man-like females of Lesbos who will not suffer in their beds the company of men, but prefer to find pleasure, instead, with other women, as if they themselves were men?</p>
  <p><label>LEAINA</label></p>
  <p>She is somewhat like that.</p>
  <p><label>CLONARION</label> <stage>With enthusiasm</stage></p>
  <p>In that case, Leaina, tell me everything, please! How did she seduce you, in the first place? And how was it that you let Megilla have her way with you? And what came after? Tell me everything, please!</p>
+</div>
+
+<div type="textpart" subtype="section" n="3">
  <p><label>LEAINA</label></p>
- <p>You see, Megilla and Demonassa, the Corinthian, sweating and very hot, pulled off her false hair--I had never suspected her of wearing a wig. And I saw her</p>
+ <p>You see, Megilla and Demonassa, the Corinthian, sweating and very hot, pulled off her false hair--I had never suspected her of wearing a wig. And I saw her
  
 <pb n="75"/>
- <p>head was smooth-shaven as that of a young athlete. I was quite scared to see this. But Megilla spoke up and said to me:</p>
+head was smooth-shaven as that of a young athlete. I was quite scared to see this. But Megilla spoke up and said to me:</p>
  <p>"Tell me, O Leaina, have you ever seen a better looking young man?"</p>
  <p>"But I see no young man here, Megilla!" I told her.</p>
  <p>"Now, now! Don't you effeminate me!" she reproved. "You must understand my name is Megillos. Demonassa is my wife."</p>
@@ -425,6 +479,9 @@ care, not only the street, but also the door. You will see which door is decorat
  <p>"That Leaina," she replied, "is not entirely so. You will soon see how we shall couple up in a fashion that is much more voluptuous."</p>
  <p>"In that case," I said, "you are not a hermaphrodite. They, I have been told, have both a man's and woman's organs."</p>
  <p>"No," she said, "I am quite like a man."</p>
+</div>
+
+<div type="textpart" subtype="section" n="4">
  <p>"Ismenodora, the Boietian flute player, has told me about a Theban woman who was changed into a man. A certain good soothsayer by the name of Teiresias—</p>
 <pb n="76"/>
  <p>Did any accident like that happen to you by chance?"</p>
@@ -454,6 +511,9 @@ care, not only the street, but also the door. You will see which door is decorat
  <p>That was wrong. You shouldn't have used such words. You should have said instead: "You are safe, praised be the gods, especially Dzeus Xenios and Athena Stratia! The mistress has asked me to inquire how your master has gotten along and if both of you
 <pb n="82"/>
 are in good health." And it would have sounded even better if you had added: "She hasn't ceased weeping for Polemon and thinking about him." That would have been much better.</p>
+</div>
+
+<div type="textpart" subtype="section" n="2">
  <p><label>DORCAS</label></p>
  <p>Indeed, I did tell something like what you say as soon as I opened my mouth. But I didn't repeat my words, the exact words I used to Parmenon, because I wanted to warn you immediately what I have learned. When I came near Parmenon, I started this way:</p>
  <p>"Is it possible, Parmenon, that your own and your master's ears did not tingle all thru this war? For the mistress hasn't stopped talking about both of you. She has shed tears every day since you left. And whenever anybody returns from the battle area and there is news of a great fight and many are killed, she tears her hair and beats her breasts. Indeed, any kind of war news makes her lament."</p>
@@ -466,7 +526,10 @@ are in good health." And it would have sounded even better if you had added: "Sh
  <p>He did not begin by saying that Polemon still remembers me and that he hopes to find me alive and awaiting him?</p>
  <p><label>DORCAS</label></p>
  <p>In fact, Parmenon did mention several little things to that effect; but I found much more agreeable his account of his master's and his own good fortune. Parmenon spoke at length of great riches, of gold, fine raiments and slaves and ivory. It appears that they have so much money that they don't count it by pieces but by <hi rend="italic">medimnas</hi>, and many are the <hi rend="italic">medimnas</hi> they have brought along. Parmenon himself carries on his little finger a large polygonal ring in which is set a wonderful tri-colored stone.</p>
- <p>Before I left him, he tried to tell me how they had crossed the Halys and killed a certain Tiridates, and how Polemon distinguished himself in a fight against the Pisidians. I ran to you to announce their return so that you may have time to decide what to do. Should Polemon arrive and find Philostratos here, he will-----Can you imagine what he might do?</p>
+ <p>Before I left him, he tried to tell me how they had crossed the Halys and killed a certain Tiridates, and how Polemon distinguished himself in a fight against the Pisidians. I ran to you to announce their return so that you may have time to decide what to do. Should Polemon arrive and find Philostratos here, he will—Can you imagine what he might do?</p>
+</div>
+
+<div type="textpart" subtype="section" n="3">
  <p><label>PANNYCHIS</label></p>
  <p>We must find some remedy for this queer situation. It would not be wise to desert Philostratos; he gave me
 <pb n="84"/>
@@ -479,6 +542,9 @@ six thousand drachmas the other day. And, besides, he is a merchant; he may give
  <p>And there is Philostratos, too!</p>
  <p><label>PANNYCHIS</label></p>
  <p>Oh, what will become of me! May the earth open its mouth and swallow me</p>
+</div>
+
+<div type="textpart" subtype="section" n="4">
  <p><label>PHILOSTRATOS</label> <stage>Coming near</stage></p>
  <p>I suggest we have a drink, dear Pannychis.</p>
  <p><label>PANNYCHIS</label></p>
@@ -504,6 +570,9 @@ six thousand drachmas the other day. And, besides, he is a merchant; he may give
  <p>It is best to return inside. You can't remain near Polemon while he is in such a dudgeon. He will become even more jealous.</p>
  <p><label>PANNYCHIS</label></p>
  <p>All right. Let us go in.</p>
+</div>
+
+<div type="textpart" subtype="section" n="5">
  <p><label>POLEMON</label></p>
  <p>I warn you that this is the last time you will drink together. It is not for play alone that I have survived so many a martial slaughter. I shall kill. My Thracians, Parmenon! Let the phalanx cut off this street from the rest of the metropolis! To the front, hoplites! Slingers and bowmen on the flanks! The rest to the rear of the column!</p>
  <p><label>PHILOSTRATOS</label></p>
@@ -527,6 +596,9 @@ six thousand drachmas the other day. And, besides, he is a merchant; he may give
  <p><label>PARTHENIS</label></p>
  <p>The soldier, the Aitolian, the big fellow, he beat me because he found me playing in the house of that Crocale woman. I was paid by Gorgos. Gorgos is his rival. And he broke my flutes and beat me and did all kinds of nasty things. And he turned over the table and threw himself on the <hi rend="italic">krater</hi> and emptied it. And then he seized Gorgos, the farmer, by his hair and dragged him out of the banquet hall. And the soldier--I think Deinomachos is his name--and some of his comrades surrounded the farmer and beat him so hard. I don't know, Cochlis, if he'll ever recover. Blood flowed from his nostrils and his face was swollen and blue.</p>
 <pb n="94"/>
+</div>
+
+<div type="textpart" subtype="section" n="2">
  <p><label>COCHLIS</label></p>
  <p>Was the man insane or drunk? It sounds like the work of a drunkard.</p>
  <p><label>PARTHENIS</label></p>
@@ -537,6 +609,9 @@ six thousand drachmas the other day. And, besides, he is a merchant; he may give
 <pb n="95"/>
  <p>robe and tunic off my body and played with me. They slapped and beat me about my thighs till my nether part was burning red. Then they lifted their own tunics and made me sink down in their laps so that I felt very much ashamed. Then they obliged me to take . . . . . . between my lips, saying: "Try a new melody, genial little flute player!"</p>
  <p>Now I am bound for my master's house. I am going to tell him everything that happened. The farmer went to find friends in the city to help him bring the Megarian to justice.</p>
+</div>
+
+<div type="textpart" subtype="section" n="3">
  <p><label>COCHLIS</label></p>
  <p>That is what you get out of those resplendent military love affairs--blows and lawsuits. To hear them talk they are all chiliarchs or hegemons. But when it comes to paying for services rendered--"Wait," they say, "Wait till I get paid. As soon as I receive my salary, you will surely be made happy."</p>
  <p>Let those boasters carry themselves off to their wars! May they all be killed off! I believe I do best by not receiving any of that herd. All others are welcome: fishermen, sailors, farmers, they are all welcome. They don't know how to flatter, but they pay. Anyhow, those flaunters of plumes and tellers of martial tales are never serious lovers. What do they know about love!</p>
@@ -552,6 +627,9 @@ six thousand drachmas the other day. And, besides, he is a merchant; he may give
 <pb n="101"/>
  <p><label>LEONTICHOS</label> <stage>Bombastically</stage></p>
  <p>And what about the battle with the Galateans, Chenidas? Do you remember how I rode my white charger ahead of all our horsemen and how the Galateans, who are pretty brave fellows at that, trembled as soon as they saw me, so that not a warrior among them dared to face me. And then, throwing my javelin, I pierced their hipparchos and his mount. As for those that reassembled--for after their phalanx was broken, some Galateans reorganized as a square--I attacked them sword in hand. The sudden burst forward of my faithful steed knocked over the first seven. With a swing of my blade I hacked in halves the head of their chief. Our men then came up, but the enemy was already in flight.</p>
+</div>
+
+<div type="textpart" subtype="section" n="2">
  <p><label>CHENIDAS</label></p>
  <p>And do you recall Paphlagonia, Leontichos? You did grand work in that country too. Do you remember
 <pb n="102"/>
@@ -563,16 +641,22 @@ how, single-handed, you engaged the Satrap himself?</p>
  <p>I confess that I myself was among those who were worried about your safety, Leontichos. You remember how I tried to detain you, pleading with my beloved Leontichos not to sacrifice himself for our sake. Many
 <pb n="103"/>
 of our Greeks would have found life unbearable without the comradeship of the brave Leontichos.</p>
+</div>
+
+<div type="textpart" subtype="section" n="3">
  <p><label>LEONTICHOS</label></p>
  <p>But I, in a reckless burst to the fore, I advanced towards the haughty enemy. I was as well armed as the Paphlagonian; I, too, was harnessed in gold. Upon my appearance in view of all, a cry arose from both armies, for I was recognized, especially by my shield, my martial ornaments and helmet plume. Let us hear a word, Chenidas! Tell us now, whom did everybody compare me with?</p>
  <p><label>CHENIDAS</label></p>
- <p>By Dzeus, whom could we have compared you with at that moment, if not to Achilles, the son of Thetis and Peleus? How well your helmet suited you! And the purple of your cloak shone like--my, I can't think of what! Your shield made bolts of lightning in the air.</p>
+ <p>By Zeus, whom could we have compared you with at that moment, if not to Achilles, the son of Thetis and Peleus? How well your helmet suited you! And the purple of your cloak shone like--my, I can't think of what! Your shield made bolts of lightning in the air.</p>
  <p><label>LEONTICHOS</label></p>
  <p>And when we met--well, the barbarian was the first to draw blood. Oh! he scratched me a bit, below the knee, you know. But I--one well aimed blow and my reliable sarissee tore thru his heavy shield and wounded him in the chest. He fell at my feet, more from surprise than weakness. Then I stood on his body for a
 <pb n="104"/>
 while. There was only one thing to do. Drawing my sword, I cut off the Satrap's head. Well, I gathered his collection of arms and returned to our side with the giant's head stuck on the spike of my sarissee. Blood from the dissevered head dripped on my own. You can imagine the applause that greeted me upon my return.</p>
+</div>
+
+<div type="textpart" subtype="section" n="4">
  <p><label>HYMNIS</label> <stage>Nauseated</stage></p>
- <p>Ah, go away, you sickening Leontichos! What disgusting stories you tell!;: Who could look at you, least of all applaud you, after that bloody mess? Do you believe I could force myself to sleep with you after your tales of killing and blood? I am going away.</p>
+ <p>Ah, go away, you sickening Leontichos! What disgusting stories you tell! Who could look at you, least of all applaud you, after that bloody mess? Do you believe I could force myself to sleep with you after your tales of killing and blood? I am going away.</p>
  <p><label>LEONTICHOS</label></p>
  <p>Please don't go. I'll pay you doubly; but don't go away.</p>
  <p><label>HYMNIS</label></p>
@@ -593,6 +677,9 @@ blood dripped down on your own head. And you expect me to take an odious man lik
  <p>Go and tell such stories to the Lemnians or the fifty daughters of Danais, if you find any. They will find them amusing. I will sleep in my mother's house tonight. Follow me, Grammis. Take good care of
 <pb n="106"/>
 yourself this night, valiant chiliarch! And do not kill too many! (<hi rend="italic">She leaves</hi>.)</p>
+</div>
+
+<div type="textpart" subtype="section" n="5">
  <p><label>LEONTICHOS</label></p>
  <p>Stay, O Hymnis, stay!—Oh, she is gone!</p>
  <p><label>CHENIDAS</label></p>
@@ -601,6 +688,9 @@ yourself this night, valiant chiliarch! And do not kill too many! (<hi rend="ita
  <p>I thought she'd like me the more. But it was you who lost me altogether by putting in my head the idea of the duel.</p>
  <p><label>CHENIDAS</label></p>
  <p>I wanted to help you. But it was you, yourself, who made the story too horrible for the girl's tastes. You could have had your dirty Paphlagonian head without having it stuck on the end of a sarissee and without smearing yourself with the Satrap's blood.</p>
+</div>
+
+<div type="textpart" subtype="section" n="6">
  <p><label>LEONTICHOS</label></p>
  <p>It is true. My story was a bit too strong for the likes of Hymnis. The rest, however, wasn't so badly imagined. Won't you help an old comrade in trouble,</p>
 <pb n="107"/>
@@ -634,6 +724,9 @@ the little Aphrodite whom my Mars has just scared away.</p>
 naked. And you don't seem to get excited over the fact. You repel me when I want to take you in my arms. Why, you have even dragged your clothes into bed and put the bundle as a dike between us, lest my fine emotions flow over and get you wet. Tell me: Who is the lady? Possibly I can help you. I am good at such little services.</p>
  <p><label>CHARMIDES</label></p>
  <p>Oh, you know her, and I think she knows you too. She is not an obscure courtesan, you understand.</p>
+</div>
+
+<div type="textpart" subtype="section" n="2">
  <p><label>TYPHAINA</label></p>
  <p>Her name, Charmides?</p>
  <p><label>CHARMIDES</label></p>
@@ -644,6 +737,9 @@ naked. And you don't seem to get excited over the fact. You repel me when I want
  <p>The latter. Hers is the bad genius that has captured me. I am obsessed by a passion for Pagis.</p>
  
 <pb n="115"/>
+</div>
+
+<div type="textpart" subtype="section" n="4">
  <p><label>TYPHAINA</label></p>
  <p>By Aphrodite! I wouldn't have come if I had known you called me in order to get even with that carcass of a Philemation. And now the cock has crowed thrice. I shall go my way.</p>
  <p><label>CHARMIDES</label></p>
@@ -665,6 +761,9 @@ naked. And you don't seem to get excited over the fact. You repel me when I want
  <p>You have impoverished me, Myrtale, and now you won't let me in. Before, when I brought you fine gifts from abroad, you called me your beloved, your man, your master. I was your all in all. But now that I am miserably flat, and you have found for yourself a rich merchant from Bithynia, you won't let me approach you. I sit on your doorstep and shed bitter tears while he enjoys your kisses and shares your warm bed. And now you tell me you will have a child by the fat merchant. (<hi rend="italic">He weeps</hi>.)</p>
  <p><label>MYRTALE</label></p>
  <p>Ah, you suffocate me, Dorion. You say that you have showered me with gifts and that I have impoverished you. How many gifts have you given me, you wet-nosed sailor? Count how many!</p>
+</div>
+
+<div type="textpart" subtype="section" n="2">
  <p><label>DORION</label></p>
  <p>Very well, Myrtale, I shall count my gifts and estimate the total value of the wealth I have handed over
 <pb n="122"/>
@@ -682,6 +781,9 @@ to you, Myrtale, as proof of my love and esteem. To start with, you have those s
 from the Bosphorus? And when we returned from Patares, ten breads packed in one bundle and an amphora of Carian figs and a pair of sandals embroidered with gold thread? Oh, you ingrate! Dorion, the sailor, has presented you with sandals embroidered with gold. And I remember now, a huge Cythonian cheese.</p>
  <p><label>MYRTALE</label> <stage>Contemptuously</stage></p>
  <p>Altogether five drachmas. Five drachmas, and possibly less.</p>
+</div>
+
+<div type="textpart" subtype="section" n="3">
  <p><label>DORION</label> <stage>Sadly</stage></p>
  <p>Ah, Myrtale, it was all a sailor could afford. But now I am in charge of the right flank of rowers on our ship. Why do you look at me that way? And--remember!--at the last feast of Aphrodite, I left for your account a whole drachma at the feet of the goddess. Yes, a whole silver drachma! And I gave your mother two drachmas for shoes. Very often would I leave two oboles or four in the beckoning palm of the old Lyde. All that mounts up to a fortune for a sailor.</p>
  <p><label>MYRTALE</label></p>
@@ -696,6 +798,9 @@ if I were rich. I have never brought more than a head of garlic to my own mother
  <p>That? Why you have had it for some time!</p>
  <p><label>MYRTALE</label></p>
  <p>The one you saw on me before was much thinner and had no emeralds. And look at these earrings and this rug! And yesterday he gave me two hundred drachmas, and he promised to pay the rent for us. This is not sandals from Patares or cheese from Cythion and a lot of worthless chatter about love, mournful sailor!</p>
+</div>
+
+<div type="textpart" subtype="section" n="4">
  <p><label>DORION</label></p>
  <p>But you don't say how he is himself. You don't describe the man you prefer to me on account of his impossible riches. He is more than fifty years old. He is bald-headed. He is as red as a lobster. And you haven't noticed his teeth, I suppose. Where are his teeth, Myrtale? I ask you: Where are his teeth? And what grace is his? O Dioscores, what grace! It is
 <pb n="125"/>
@@ -714,6 +819,9 @@ most evident when he tries to sing and play the young fellow. An ass strumming o
 <pb n="131"/>
  <p><label>MOTHER</label></p>
  <p>You must have been crazy yesterday, Philinna. What got into you during the banquet? Diphilos came weeping here this morning. He told me you had made him suffer. You were drunk. You rose from your couch in the middle of the meal and danced, though he had ordered you to remain at his side. After that you kissed his friend, Lamprias. And when Diphilos became angry, you left him altogether and took Lamprias in your arms and lay with him, while Diphilos choked with rage. And you did not sleep with him at night. You left Diphilos to his tears and anguish. You stretched yourself on another bed and sang all night so as to hurt him the more.</p>
+</div>
+
+<div type="textpart" subtype="section" n="2">
  <p><label>PHILINNA</label> <stage>Furious</stage></p>
  <p>But he forgot to tell you what he did to me! If you knew everything, you would not be taking his side. He left me to talk to Thais, the mistress of Lamprias, who hadn't yet arrived. He saw that this made me unhappy.</p>
 <pb n="132"/>
@@ -724,6 +832,9 @@ most evident when he tries to sing and play the young fellow. An ass strumming o
  
 <pb n="133"/>
  <p>and danced. I wasn't going to let everybody present believe that woman was right.</p>
+</div>
+
+<div type="textpart" subtype="section" n="3">
  <p><label>MOTHER</label></p>
  <p>You are too touchy, child. You shouldn't take such things to heart.</p>
  <p><label>PHILINNA</label></p>
@@ -745,8 +856,8 @@ most evident when he tries to sing and play the young fellow. An ass strumming o
 <div type="textpart" subtype="book" xml:base="urn:cts:greekLit:tlg0062.tlg069" n="1">
 <div type="textpart" subtype="section" xml:base="urn:cts:greekLit:tlg0062.tlg069:1" n="1">
 <pb n="138"/>
- <head>GLYKERA</head>
- <head>} Courtesans</head>
+  <head>Courtesans</head>
+<head>GLYKERA</head>
  <head>THAIS</head>
 <pb n="139"/>
  <p><label>GLYKERA</label></p>
@@ -761,7 +872,12 @@ most evident when he tries to sing and play the young fellow. An ass strumming o
  <p>Yes, Thais, and I am terribly hurt.</p>
 <pb n="140"/>
  <p><label>THAIS</label></p>
- <p>That's bad, dear Glykera; but it can't be helped. Such things are to be expected among us hetairas. You ought not to worry about it and don't you speak ill of Gorgona. Abrotonan has said nothing bad about you in the same situation; you are still friends. But I wonder what that soldier sees in the woman. He must be slightly blind not to notice how little hair she has left. Her lips are livid, almost cadaverous, and her neck is thin. And she has bulging veins and a nose that is long, much too long. However, there is one attractive feature about her: she is tall and bears herself very erect. And then her rump, they say, is soft and white, and the skin between her thighs is entirely hairless. It is as smooth as your face. And you will concede that she has a fascinating smile.</p>
+ <p>That's bad, dear Glykera; but it can't be helped. Such things are to be expected among us hetairas. You ought not to worry about it and don't you speak ill of Gorgona. Abrotonan has said nothing bad about you in the same situation; you are still friends. 
+ </p>
+</div>
+
+<div type="textpart" subtype="section" n="2">
+ <p>But I wonder what that soldier sees in the woman. He must be slightly blind not to notice how little hair she has left. Her lips are livid, almost cadaverous, and her neck is thin. And she has bulging veins and a nose that is long, much too long. However, there is one attractive feature about her: she is tall and bears herself very erect. And then her rump, they say, is soft and white, and the skin between her thighs is entirely hairless. It is as smooth as your face. And you will concede that she has a fascinating smile.</p>
  <p><label>GLYKERA</label></p>
  <p>So you believe that it is for her beauty that the Arcanian loves her? You don't know, then, that her mother is the sorceress Chrysarion. The witch knows the Thettalian charms and can make the moon come down to earth. People say she flies in the air by night. It was the sorceress who must have turned the soldier's
 <pb n="141"/>
