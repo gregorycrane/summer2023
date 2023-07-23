@@ -4,9 +4,9 @@
     <teiHeader xml:lang="eng">
 <fileDesc>
 <titleStmt>
-<title xml:lang="grc">Ἐνάλιοι διάλογοι</title>
-<title>Dialogues of the Sea-Gods</title>
-<author>Lucian of Samosata</author>
+  <title xml:lang="grc">Θεῶν διάλογοι</title>
+  <title>Dialogues of the Gods</title>
+  <author>Lucian of Samosata</author>
 <editor>Matthew Donald Macleod</editor>
 <sponsor>Perseus Project, Tufts University</sponsor>
 <principal>Gregory Crane</principal>
