@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+ <teiHeader xml:lang="eng">
+<fileDesc>
+<titleStmt>
+ <title xml:lang="deu">Charikles</title>
+<author>Wilhelm Adolf Becker</author>
+ <sponsor>Perseus Project, Tufts University</sponsor>
+ <principal>Gregory Crane</principal>
+ <respStmt>
+  <resp>Prepared under the supervision of</resp>
+  <name>Lisa Cerrato</name>
+  <name>Gregory Crane</name>
+ </respStmt>
+ <funder>National Endowment for the Humanities</funder>
+</titleStmt>
+ 
+ <publicationStmt>
+  <publisher>Trustees of Tufts University</publisher>
+  <pubPlace>Medford, MA</pubPlace>
+  <authority>Perseus Project</authority>
+  <date type="release" when="2023-08-27">Perseus 5.0</date>
+  <idno type="filename">TBA</idno>
+  <availability>
+   <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence> 
+  </availability>
+ </publicationStmt>
+
+ <sourceDesc>
+  <biblStruct>
+   <monogr>
+    <title xml:lang="lat">Charikles: Bilder Altgriechischer Sitte</title>
+    <author>Wilhelm Adolf Becker</author>
+    <author>Hermann Göll</author>
+    <imprint>
+     <publisher>S. Calvary and Comp</publisher>
+     <pubPlace>Berlin</pubPlace>
+     <date>1877</date>
+    </imprint>
+    <biblScope unit="volume">1</biblScope>
+   </monogr>
+   <ref target="https://archive.org/details/operaexrecogniti03luciuoft/page/442/mode/2up">Internet Archive</ref>
+  </biblStruct>
+ </sourceDesc>
+</fileDesc>
+  
+  <encodingDesc>
+   <editorialDecl>
+    <correction><p>keyboarding</p>
+     <p>Lace v. 0.6.22 copyright 2013-2021, Bruce Robertson, Dept. of Classics, Mount Allison University.</p></correction>
+   </editorialDecl>
+      
+    
+    <refsDecl n="CTS">
+     <cRefPattern n="line" matchPattern="(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div//tei:l[@n='$1'])">
+      <p>This pointer pattern extracts line</p>
+     </cRefPattern>
+    </refsDecl> 
+ 
+   
+<!--<refsDecl doctype="TEI.2">
+<state unit="chapter" n="chunk"/>
+<state unit="altsection"/>
+</refsDecl>-->
+  </encodingDesc>
+  
+  <profileDesc>
+   <langUsage>
+    <language ident="grc">Greek</language>
+   </langUsage>
+  </profileDesc>
+  <revisionDesc>
+   <change who="Gregory Crane" when="2023-05-06">File created from tesseract OCR</change>
+  </revisionDesc>
+ </teiHeader>
+ 
+<text>
+<body>
+<div type="commentary" n="urn:cts:greekLit:TBA" xml:lang="grc">
+<pb n="47"/>
+<div type="textpart" subtype="notes" n="2">
+<head>Anmerkungen
+    zur zweiten Scene.</head>
+    <p>
+<ref n="1"/> Je weniger ich daran denken durfte, aus der Reihe der Bilder,
+in welchen das griechische Privatleben sich darstellen soll, eine
+Schilderung des Hetärenlebens, dem griechische Leichtfertigkeit eine
+so eigenthümliche Farbe verliehen hatte und das so tief in das Leben,
+der jungen Leute besonders, eingriff, ganz auszulassen, desto schwieriger
+war es, für ein solches Bild ein Motiv zu wählen, das sich einigermassen
+mit Decenz behandeln liess. Es hätten aus den Schriften
+der Alten selbst sich sehr interessante Situationen der Art entnehmen
+lassen; allein wenn man auch ganz von der gemeineren Klasse solcher
+Geschöpfe absehen wollte, so würde demungeachtet eine Darstellung
+dieses wüsten Lebens und Treibens, die Schilderung des
+Tons, der im Umgange mit ihnen herrschte, wenn man anders wahr
+und treu darstellen wollte, für unser sittliches Gefühl gar sehr beleidigend
+sein. Je weniger der Grieche aus dergleichen Liebesverhältnissen
+ein Geheimniss machte, je milder die allgemeine Stimme
+darüber urtheilte, und je weniger man daher Ursache hatte, sich im
+Clairobscur verschämter Sentimentalität zu halten oder den Schleier
+der Heimlichkeit darüber zu ziehen, desto offener und unverhüllter
+tritt überall der wollüstige Zweck dieses Umgangs hervor, und es
+bieten die Symposien, an denen Hetären Theil nehmen, Scenen dar,
+zu deren Schilderung ich meine Feder nicht leihen möchte. — Ich
+habe daher einen der gewiss häufigen Fälle gewählt, wo das Gewerbe
+etwas weniger öffentlich getrieben wurde, und es schien mir
+nicht nöthig, zur Andeutung des allgemeinen Charakters solcher Häuser
+mich in das Detail verliebter Scenen einzulassen. Sollte aber
+jemand meinen, dass eben dadurch die Darstellung zu sehr in den
+Ton des Romans oder der Novelle verfallen sei, so muss ich zu
+meiner Rechtfertigung anführen, dass ich im Grunde sehr wenig hinzugethan
+habe und dass fast allen Zügen des Gemäldes, bis auf
+
+<pb n="48"/>
+
+Kleinigkeiten herab, klassische Stellen zu Grunde liegen. Hauptsächlich
+ist der Stoff aus mehreren Stellen der Rede gegen Neära
+und der des Lysias über den an Eratosthenes verübten Mord genommen;
+doch haben auch Lucians Toxaris, die Hetärengespräche,
+der Esel, oder Appulejus in den Metamorphosen, Heliodor, die Komiker
+u. a, Beiträge geliefert. Ich glaube nicht, dass man sagen könnte,
+durch diese Zusammensetzung einzelner Fragmente sei ein Bild entstanden,
+gas als Ganzes sich doch in der Wirklichkeit nicht finde.
+Im Gegentheile liegt allerdings ein Factum zu Grunde, der verdriessliche
+Handel des Epänetos, den <bibl n="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg059.perseus-grc2:64-65/">(Pseudo-)Demosthenes in
+Neaer. S. 64 fg.</bibl> also erzählt: Ἐπαίνετον γὰρ τὸν Ἄνδριον ἐραστὴν
+ὄντα Νεαίρας ταυτησὶ παλαιὸν xal πολλὰ ἀνηλωκότα εἰς αὐτὴν καὶ
+καταγόμενον παρὰ τούτοις, ὁπότε ἐπιδημήσειεν Ἀϑήναζε διὰ τὴν
+φιλίαν τῆς Νεαίρας, ἐπιβουλεύσας ὁ Στέφανος οὗτοσί, μεταπεμψάμενος
+εἰς ἀγρὸν ὡς ϑύων, λαμβάνει μοιχὸν ἐπὶ τῇ ϑυγατρὶ τῆς
+Νεαίρας ταυτησὶ καὶ εἰς φόβον καταστήσας πράττεται μνᾶς τριάκοντα·
+καὶ λαβὼν ἐγγυητὰς τούτων Ἡριστόμαχόν τε τὸν ϑεσμοϑετήσαντα
+καὶ Ναυσίφιλον τὸν Ναυσινίκου τοῦ ἄρξαντος υἱόν, ἀφέησιν
+ὡς ἀποδώσοντ᾽ αὐτῷ τὸ ἀργύριον. Mit dieser kurzen Erzählung
+habe ich die umständlichere des Lysias verbunden und zur weiteren
+Ausführung andere Stellen benutzt. Ich selbst habe natürlich
+binzufügen müssen, was zur Verbindung der gegebenen Theile nöthig
+war; aber ich hoffe nichts eingemischt zu haben, was dem Gemälde
+die antike Färbung rauben könnte. — Manches wird sich übrigens
+in dem Excurse, Anderes in den folgenden Anmerkungen gerechtfertigt
+finden.
+<ref n="2"/> Am ausführlichsten spricht über diese glückliche Lage Korinths
+
+<cit><bibl n="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0099.tlg001.perseus-grc2:8.6.20/">Strabo VIII, 6, 20</bibl> <quote xml:lang="grc">ὁ δὲ Κόρινθος ἀφνειὸς μὲν λέγεται διὰ
+τὸ ἐμπόριον, ἐπὶ τῷ ᾿Ισϑμῷ κείμενος καὶ δυοῖν λιμένων κύριος, ὧν
+ὁ μὲν τῆς Ἀσίας, ὁ δὲ τῆς Ἰταλίας ἐγγύς ἐστι, καὶ ῥᾳδίας ποιεῖ
+τὰς ἑκατέρωϑεν ἀμοιβὰς τῶν φορτίων πρὸς ἀλλήλους τοῖς τοσοῦτον ἀφεστῶσιν.</quote></cit> 
+
+Wegen der Gefahren, welche mit der Umschiffung
+des maleischen Vorgebirges verbunden waren, zog man es vor, die
+Waaren hier umzuladen: 
+
+<cit><bibl n="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0099.tlg001.perseus-grc2:8.6.20/">Strabo VIII, 6, 20</bibl> <quote xml:lang="grc">ἀγαπητὸν οὖν ἐκατέροις ἦν τοῖς τε ἐκ τῆς
+Ἀσίας καὶ τοῖς ἐκ τῆς Ἰταλίας ἐμπόροις ἀφεῖσι τὸν ἐπὶ Μαλίας
+πλοῦν εἰς Κόρινϑον κατάγεσϑαι τὸν φόρτον αὐτόϑι· καὶ πεζῇ δὲ
+τῶν ἐκκομιζομένων ἐκ τῆς Πελοποννήσου καὶ τῶν εἰσαγομένων
+
+
+<pb n="49"/>
+
+ἔπιπτε τὰ τέλη τοῖς τὰ κλεῖϑρα ἔχουσι.</quote></cit> 
+
+ Darum sagt eben Dio
+Chrysost. Or. VIII, 5, p. 276: ὅτε ἡ πόλις ὥσπερ ἐν τριόδῳ
+τῆς Ἑλλάδος ἔκειτο [und XXXVII, 7: ἐν Κορίνϑῳ ἐν τῷ περιπάτῳ
+τῆς Ἑλλάδος, Vgl. Göttling Gesammelte Abhandl. aus
+dem klass. Alterthum I, S. 38—48.]
+<ref n="3"/> In der Nähe von Mistra sieht man jetzt eine so gefasste Quelle.
+S. Expéd de Morée t. II, pl. 42. Ob das (überhaupt wohl einer
+späten Zeit angehörende) Relief ursprünglich eine solche Bestimmung
+gehabt haben oder für den übrigens mittelalterlichen Bau nur benutzt
+worden sein möge, will ich freilich nicht behaupten.
+<ref n="4"/> Vgl. den Ausdruck bei 
+
+Lucian. Navig. 11: μῶν ἐρωτικόν
+τί ἐστιν; οὐδὲ γὰρ τοῦτο ἀμυήτοις ἡμῖν ἐξαγορεύσεις, ἀλλ᾽ ὑπὸ
+λαμπρᾳ τῇ δᾳδὶ καὶ αὐτοῖς τετελεσμένοις.
+
+
+<ref n="5"/> Strabo VIII, 6, 20:
+οὐ παντὸς ἀνδρὸς ἐς Κόρινϑον ἔσϑ᾽ ὃ πλοῦς.
+
+<ref n="6"/> Die älteste Erwähnung des Κράνειον oder Κράνιον und, so
+viel ich weiss, die einzige aus der Zeit vor der Zerstörung Korinths,
+findet sich bei 
+
+Xenoph. Hell. IV, 4, 4: 
+ἀποϑνήσκουσι δὲ οὕτω
+τῶν μὲν πρεσβυτέρων πολλοί· μᾶλλον γὰρ ἔτυχον ἐν τῇ ἀγορᾷ
+ὄντες· οἱ δὲ νεώτεροι... ἡσυχίαν ἔσχον ἐν τῷ Κρανίῳ: [Es war
+nach Diogen. L. VI, 77 und Suidas ein Gymnasium und dazu
+stimmt auch 
+
+Themist. Or. II, p. 45 Dind.: Διονύσιος μετὰ τὴν
+τυραννίδα περιπατῶν ἐν τῷ Κρανείῳ. 
+
+Pausanias II, 2, 4 nennt
+es aber bloss ein κυπαρίσσων ἄλσος, weil bei dem Wiederaufbau der
+Stadt durch die Römer die Stätte ihre frühere Bestimmung nicht
+wieder erhielt. Dass das Kraneion nun ein sehr gesuchtes Quartier
+der Stadt war, erhellt aus 
+
+Plut. de exilio 6: τὸ δέ σε μὴ κατοιχεῖν
+Σάρδεις οὐδέν ἐστιν οὐδέ γὰρ Ἀϑηναῖοι πάντες κατοιχοῦσι Κολυττὸν,
+οὐδὲ Κορίνϑιοι Κράνειον, οὐδὲ Πιτάνην Λάκωνες. 
+
+Denn wenn
+Plutarch hier auch nur den Gegensatz zwischen Theil und Ganzem
+hervorheben wollte, so konnte er doch bei den drei Städten nicht
+unbedeutende und deshalb weniger bekannte Viertel nennen, Für
+die Stattlichkeit des Kraneion zeugt ausserdem 
+
+Dio Chrysost.
+Or. VI, 4, p. 199: πολὺ ἄμεινον κατεσχευάσϑαι τῶν Exel βασιλεέων
+(Ἐκβατάνων καὶ Βαβυλῶνος) τό τε Κράνιον καὶ τὴν Ἀϑήνησιν
+ἀκρόπολιν καὶ τὰ προπύλαια. 
+
+Einen Hauptanziehungsgrund
+bildete die dort herrschende Frische und Reinheit der Luft, in Beziehung
+
+<pb n="50"/>
+
+ auf welche schon vor der Zerstörung der Stadt 
+ 
+ Theophrast. de caus. plant. V, 20 schreibt: 
+ σκληραὶ γὰρ αἱ αἰθρίαι σφόδρα
+περὶ τὸ Κράνιον, ὥστε καὶ τοῖς φυτοῖς καὶ τῇ αἰσϑήσει δῆλον εἶναι.
+
+Vgl. Göttling Gesamm. Abhandl. S. 180.]
+
+<ref n="7"/> Pausan. II, 2, 4: ἐνταῦϑα Βελλεροφόντου τέ ἔστι τέμενος
+καὶ Ἀφροδίτης ναὸς Μελαινίδος, vgl.
+
+VIII, 6, 5: ἐπίκλησιν δὲ ἡ
+ϑεὸς ταύτην κατ' ἄλλο μὲν ἔσχεν οὐδέν, ὅτε δὲ ἀνθρώπων μὴ τὰ
+πάντα αἱ μίξεις ὥσπερ τηῖς χτήνεσι μεθ' ἡμέραν, τὰ πλείω δέ
+εἰσιν ἐν νυχτί, 
+
+[Weil Becker irrthümlich mit diesem Tempel das
+Hieroduleninstitut verbindet, habe ich im Texte mit K. F. Hermann
+„in deren uraltem Burgsitze“ geschrieben.]
+
+<ref n="8"/> 
+
+Strabo VIII, 6, 20: τὸ δὲ τῆς Ἀφροδίτης ἱερὸν οὕτω πλούσιον
+ὑπῆρξεν, ὥστε πλείους ἢ χιλίας ἱεροδούλους ἐκέκτητο ἑταίρας
+... καὶ διὰ ταύτας οὖν πολυωχλεῖτο ἡ πόλις καὶ ἐπλουτίζετο·
+οὗ γὰρ ναύχληροι ῥᾳδίως ἐξανηλίσκοντο. 
+
+Die Kaufleute des Alterthums,
+welche oft Jahre lang von ihrer Heimath entfernt waren,
+mochten besonders dem Grundsatze „ein andrer Ort, ein andres Mädchen‘
+folgen. Ein Bild solchen Lebens giebt uns 
+
+Isocr. Aegin. §. 6: 
+πλάνης δὲ γενόμενος καὶ διαιτηϑεὶς ἐν πολλαῖς πόλεσιν ἄλλαις
+τε γυναιξὶ συνεγένετο, ὧν ἔνιαι καὶ παιδάρι' ἀπέδειξαν, ἃ ἐκεῖνος
+οὐδὲ πώποτε γνήσια ἐνόμισε, καὶ δὴ καὶ τὴν ταύτης μητέρα ἐν
+τούτοις τοῖς γρόνοις ἔλαβεν. 
+
+Darum waren auch in den Häfen, wie
+im Peiraeus, die πόρναι und πόρνοι häufig. Vgl. Plaut. Epid.
+IV, 1, 18, Terent. Phorm. IV, 1. 
+[Aristoph. Pac. v. 165: ἐν
+Πειραιεῖ παρὰ ταῖς πόρναις. Vgl. Böckh Staatsh. B. I, 8. 84:
+„Aphrodision, ein jedem Hafen des Alterthums sehr nothwendiges
+Heiligthum.“ Athen. XIII, 28.]
+<ref n="11"/> Pausan. a. a. O.: τάφος Λαΐδος, ᾧ δὴ λέαινα ἐπίϑημά ἐστι
+κριὸν ἔχουσα ἐν τοῖς προτέροις ποσίν. [Wenn es dagegen bei
+
+Athen. XIII, 55 heisst: αὐτοσχεδιάζουσιν οὖν οὗ λέγοντες αὐτὴν
+ἐν Κορένϑῳ τεϑάφϑαι πρὸς τῷ Κρανείῳ, 
+
+so ergiebt der ganze Zusammenhang
+der Stelle, dass er die ältere Lais mit der jüngeren,
+deren Grab am Peneios gezeigt wurde, verwechselt hat. Uebrigens
+war die Löwin mit dem Widder wahrscheinlich nicht ein Symbol
+des Hetärengewerbes, sondern des erbarmungslosen Todes.]
+<ref n="12"/> 
+
+Dio Chrysost. Or. VIII, 4, p. 276 von Diogenes von
+Sinope: μετέβη εἰς Κόρινθον κἀκεῖ διῆγον, οὔτε οἰκίαν μισϑωσάμενος
+
+<pb n="51"/>
+
+οὔτε παρὰ ξένῳ τινὶ καταγόμενος, ἀλλ᾽ ἐν τῷ Κρανίῳ ϑυραυλῶν·
+ἑώρα γὰρ ὅτι πλεῖστοι ἄνϑρωποι ἐκεῖ συνίασι διὰ τοὺς λιμένας καὶ
+τὰς ἑταίρας. 
+
+Vgl. IX, 4, p. 489. Plutarch. Alex. 14. Lucian.
+Hist. conscr. c. 3. Diog. Laért. VI, 77 u. s. w.
+<ref n="13"/> Alciphr. epist. III, 60: ὡς γὰρ ἐλούσαντο οἱ πολλοὶ καὶ
+μεσοῦσα ἡμέρα ἦν, στωμύλους ἐϑεασάμην καὶ εὐφυεῖς νεανισκοὺς
+οὐ περὶ τὰς οἰκίας, ἀλλὰ περὶ τὸ Κράνειον εἰλουμένους καὶ οὗ μάλιστα
+ταῖς ἀρτοπώλισι καὶ ὁπωροκαπήλοις ἔϑος ἀναστρέφειν. 
+
+[Vgl. Ruhnken ad Tim. p. 167.]
+
+<ref n="14"/> Dass mit Werken der Kunst, namentlich Götterbildern, ein
+bedeutender Handel in's Ausland getrieben wurde und dass sie nicht
+nur auf Bestellung, sondern auf Speculation verführt wurden, bezeugt
+noch für die späte Zeit die Erzählung von Apollonios, der im Peiräeus
+eine ganze Schiffsladung der Art traf. 
+
+Philostr. Vit. Apollon. 
+Tyan. V, 20: ἐρομένου δὲ τοῦ Ἀπολλωνίου, τίς ὁ φόρτος: ϑεῶν,
+ἔφη, ἀγάλματα ἀπάγω ἐς Ἰωνίαν, τὰ μὲν χρυσοῦ καὶ λίϑου, τὰ δὲ
+ἐλέφαντος καὶ χρυσοῦ. Ἱδρυσαμένους ἣ τί; Ἡποδωσόμενος, ἔφη, τοῖς
+βουλομένοις ἱδρύεσϑαι. 
+
+[Vgl. L. Friedländer, Darstell. aus
+d. Sittengesch. Roms Th. III, S. 187.] Die sicilische Kunstliebe
+ist aus Cicero's vierter Verrina bekannt.
+
+<ref n="15"/> 
+
+Plutarch. Timol. 22: ἡ μὲν ἐν Συραχούσαις ἀγορὰ δι᾽ 
+ἐρημίαν οὕτω πολλὴν καὶ βαϑεῖαν ἐξέφυσεν ὕλην, ὥστε τοὺς ἵππους
+ἐν αὐτῇ κατανέμεσθαι, τῶν ἱπποκόμων ἐν τῇ χλόῃ κατακειμένων·
+αὶ δ᾽ ἄλλαι πόλεις πλὴν παντελῶς ὀλίογων ἐλάφων ἐγένοντο μεσταὶ
+καὶ συῶν ἀγρίων, ἐν δὲ τοῖς προαστείοις καὶ περὶ τὰ τείχη πολλάχις
+οὗ σχολὴν ἄγοντες ἐκυνηγέτουν. 
+
+Das ist etwa zehn Jahre früher
+als für diese Erzählung die Zeit angenommen ist; später mochte auch
+manche andere Stadt durch den Verfall des öffentlichen Lebens ein
+solches Ansehen erhalten. So auf Euböa bei 
+
+Dio Chrysost. Or. VI, 39, p. 233: 
+βλέπετε γὰρ αὐτοὶ δήπουϑεν, ὅτι τὸ γυμνάσιον
+ὑμῖν ἄρουραν πεποιήκασιν, ὥστε τὸν Ἡρακλέα καὶ ἄλλους ἀνδριάντας
+συχνοὺς ὑπὸ τοῦ ϑέρους ἀποκεκρύφϑαι τοὺς μὲν ἡρώων, τοὺς
+δὲ ϑεῶν, καὶ ὅτι καϑ' ἡμέραν τὰ τοῦ ῥήτορος τούτου πρόβατα
+ἔωϑεν εἷς τὴν ἀγορὰν ἐμβάλλει καὶ κατανέμεται περὶ τὸ βουλευτήριον.
+
+[Vgl. schon die Klage des 
+
+Polybius XXXVII, 4: ἐπέσχεν
+ἐν τοῖς καϑ' ἡμᾶς καιροῖς τὴν Ἑλλάδα πᾶσαν ἀπαιδία καὶ συλλήβδην
+ὀλιγανϑρωπία, δὲ ἣν αἵ τε πόλεις ἐξηρημώϑησαν καὶ ἀφορίαν εἶναι
+
+<pb n="52"/>
+
+συνέβαινε, καίπερ οὔτε πολέμων συνεχῶν ἐσχηκότων ἡμᾶς οὔτε
+λοιμικῶν, 
+
+und einzelne Beispiele bei Strab. VIII, p. 388; IX, p. 403
+u. 412. Vgl. Hermann Privatalterth. S. 1, n. 9 ff.]
+<ref n="16"/> Vgl. den Excurs über die Reise.
+<ref n="17"/> Ein Beispiel der Art ist eben das des Epänetos, Demosth. in Neaer. 64. 
+
+<ref n="18"/> Plutarch. de aud. poët. 8 nennt einen gewissen Poliagros,
+der seine eigene Frau verkuppelte. Darauf wurde in irgend
+einer Komódie mit dem Verse angespielt:
+
+<l>εὐδαίμων Πολίαγρος οὐράνιον αἶγα πλουτοφόρον τρέφων.</l>
+
+Ueber die Spottnamen der Hetären ist im Excurse gesprochen worden.
+Wie Niko Αἴξ, so konnte auch Nikippe Αἰγίδιον heissen; vgl.
+Ath. XV, 24.
+
+<ref n="19"/> Auch Nikarete trieb es ähnlich mit den sieben Mädchen,
+welche sie sich verschafft hatte. 
+
+Demosth. in Neaer. 19: 
+πρoσειποῦσα
+αὐτὰς ὀνόματι ϑυγατέρας, ἵν᾽ ὡς μεγίστους μισϑοὺς πράττοιτο
+τοὺς βουλομένους πλησιάζειν αὐταῖς ὡς ἐλευϑέραις οὔσαις.
+
+
+Ebenso Neära, nachdem Stephanos sie geheirathet hatte, ebend. 
+S. 41:
+διεγγυηϑεῖσα δὲ ὁπὸ Στεφάνου καὶ οὖσα παρὰ τούτῳ τὴν μὲν αὐτὴν
+ἐργασίαν οὐδὲν ἧττον ἢ τὸ πρότερον εἰργάζετο· τοὺς δὲ μισϑοὺς
+μείζους ἐπράττετο τοὺς βουλομένους αὐτῇ πλησιάζειν, ὡς ἐπὶ προσχήματος
+ἤδη τινὸς οὖσα καὶ ἀνδρὶ συνοικοῦσα.
+
+<ref n="20"/> Was der Tagelohn für gemeine Handarbeit gewesen sei,
+lässt sich nicht genau bestimmen. S. Böckh Staatshaush. d.
+Ath. B. I, S. 165. Lucian. Tim. 6 nennt vier Obolen; vgl. auch
+Epist. Saturn. 21: ὀνειροπολεῖν, εἴ ποθεν ὀβολοὶ τέσσαρες γένοιντο,
+ὡς ἔχοιμεν ἄρτων γοῦν ἢ ἀλφίτων ἐμπεπλησμένοι καϑεύδειν
+
+[4 Obolen auch Aristoph. bei Pollux VII, 133; nur 3 Obolen:
+Aristoph. Eccles. 310], aber der tägliche Lohn eines Ruderers
+oder Schiffziehers wird an einem anderen Orte auf die Hälfte angegeben,
+de electro 3: εἰ δὲ ἦν τι τοιοῦτον, οἴεε ἡμᾶς δυοῖν ófgo-
+Aoiy ἕνεχα ἐρέττειν ἂν ἢ ἕλχειν τὰ πλοῖα πρὸς ἐναντίον τὸ ὕδωρ,
+οἷς ἐξῆν πλουτεῖν.
+
+<ref n="22"/> Wenn auch der Arbeitslohn im Ganzen billig gewesen sein
+mag, so wurde doch für einzelne Dienstleistungen verhältnissmässig
+viel mehr gefordert. S. Aristoph. Ran. 173 mit Böckh. a. a. O.
+Es scheint, dass man wie bei uns für jeden kleinen Dienst auf Bezahlung
+
+<pb n="53"/>
+
+rechnete und auch der Gebrauch der Douceurs oder Trinkgelder,
+die im Grunde für nichts gegeben werden, war dem Alterthume
+nicht fremd. Lucian de merc. cond. 14 schildert vortrefflich
+den scheinbar der Annahme sich weigernden Sklaven: 
+
+εὐθὺς
+οὖν πρόσεισι παραγγέλλων τις ἥκειν ἐπὶ τὸ δεῖπνον, οὐχ ἀνομέλητος
+οἰχέτης, ὃν χρὴ πρότερον ἵλεων ποιήσασϑαι παραβύσαντα ἐς τὴν
+χεῖρα, ὡς μὴ ἀδέξιος εἶναι δοκῆς, τοὐλάχιστον πέντε δραχμάς· ὁ
+δὲ ἀχχισάμενος καὶ Ἄπαγε, παρὰ σοῦ δ' ἐγώ: καὶ Ἡράκλεις, μὴ γένοιτο,
+ἐπειπὼν τέλος ἐπείσϑη. 
+
+Vgl. 10 und 38. [Mit diesen freilich
+auf römische Sitte bezüglichen Stellen vgl. noch die von Hermann
+beigebrachten Juvenal. III, 184 ff. VIII, 218 ff. und Ritschl
+Rhein. Mus. IV, S. 314]. — Diesen Remunerationen verwandt sind
+die Geschenke, welche man Leuten, die man selbst im Dienste hatte,
+an gewissen jährlichen Festen machte, wie wir es zu Weihnachten,
+an Messen und bei anderen Gelegenheiten thun. Bei der Unterhandlung
+um den Lohn lässt sie Lucian sogleich mit in Anschlag bringen,
+
+
+19: σὺ δ᾽ αὐτὸς, ὅτι βούλει λέγε μεμνημένος, ὦ φίλτατε, κἀκείνων,
+ἅπερ ἐν ἑορταῖς ἐτησίοις εἰκὸς ἡμᾶς παρέξειν· οὐ γὰρ ἀμελήσομεν
+οὐδὲ τῶν τοιούτων, εἰ καὶ μὴ νῦν αὐτὰ συντιϑέμεϑα. 
+
+Damit
+lässt sich vergleichen, was 
+
+ sagt: 
+ <cit>
+    <bibl>Athen. X, 49, p. 437</bibl>
+
+ <quote>
+ τῇ δὲ
+ἑορτῇ τῶν Χοῶν ἔϑος ἐστὶν Ἀϑήνησι πέμπεσθαι δῶρά τε καὶ τοὺς
+μισϑοὺς τοῖς σοφισταῖς, οἵπερ καὶ αὐτοὶ συνεκάλουν ἐπὶ ξενέᾳ τοὺς
+γνωρίμους, ὥς φησιν Εὐβουλίδης ὁ διαλεκτικὸς ἐν δράματι Konaσταῖς
+οὕτως:
+<l>σοφιστιᾷς, κάκιστε, καὶ Χοῶν δέει</l>
+<l>τῶν μισϑοδώρων, οὐχ ἀδείπνων ἐν τρυφῇ.</l></quote>
+</cit>
+
+<ref n="23"/> 
+
+Plutarch  schildert so den Anblick, den
+das Haus des unordentlich Lebenden gewähre: 
+<cit>
+    <bibl>Plutarch de cohib. ira 15</bibl>
+    <quote>διὸ τῶν μὲν ἀσώτων
+        ταῖς οἰκίαις προσιόντες αὐλητρίδος ἀκούομεν ἑωϑινῆς καὶ πηλόν, ὥς
+        τις εἶπεν, οἴνου καὶ σπαράγματα στεφάνων καὶ κραιπαλῶντας δρῶμεν
+        ἐπὶ ϑύραις ἀκολούϑους.</quote>
+</cit>
+
+<ref n="24"/> Den Alten galt als vorzüglichstes Mittel, die Müdigkeit als
+Folge der Anstrengung zu beseitigen, das Bad. Was Dionysos bei
+Aristophes sagt:
+<cit>
+    <bibl>Aristoph. Ran. 1279</bibl>
+    <quote>
+        <l>ἐγὼ μὲν οὖν ἐς τὸ βαλανεῖον βούλομαι·</l>
+        <l>ὑπὸ τῶν κόπων γὰρ τὼ νεφρὼ βουβωνιῶ,</l>
+    </quote>
+</cit>
+
+
+
+<pb n="54"/>
+
+das ist die allgemeine Ansicht von dem Zwecke des Bades. 
+
+<cit>
+    <bibl>Aristot.
+        Probl. I, 39, p. 863:</bibl>
+    <quote>διὰ τί τοὺς μὲν ϑερινοὺς κόπους λουτρῷ
+        ἰᾶσϑαι δεῖ, τοὺς δὲ χειμέρινοὺς ἀλείμματι:</quote>
+</cit>
+ 
+ <cit>
+    <bibl>Lucian. Lexiph. 2:</bibl>
+    <quote>χαίρω δὲ μετὰ κάματον ἀπολουόμενος. </quote>
+ </cit>
+
+
+<cit><bibl>Athen. I, 44, p. 24:</bibl>
+<quote>ἴσασι
+    δὲ καὶ λουτρὰ ἄκη πόνων παντοῖα. </quote>
+</cit>
+
+ 
+Vgl. meine Antiq. Plaut. p. 9
+und den Exc. über die Bäder zu Sc. VIII.
+<ref n="25"/> 
+<cit><bibl>Lucian. Asin. 2</bibl>
+<quote>εἶτα πέμπε αὐτὸν εἰς βαλανεῖον· οὐχὶ
+    γὰρ μετρίαν ἐλήλυϑεν ὁδόν. 
+    Ausführlicher </quote>
+</cit>
+
+
+<cit><bibl>Appul. Metam. I, 23 :</bibl>
+    <quote xml:lang="lat">ex promptuario oleum unctui et lintea tersui et caetera huic eidem
+        usui profer ociter, et hospitem meum produc ad proximas balneas :
+        satis arduo itinere atque prolixo fatigatus est.</quote>
+    </cit>
+
+
+<ref n="26"/> 
+<cit><bibl></bibl>
+    <quote></quote>
+    </cit>
+Xenoph. de rep. Lac. 1,3: 
+οἱ μὲν ἄλλοι τὰς μελλούσας
+τίκτειν καὶ καλῶς δοκούσας κόρας παιδεύεσθαι καὶ σίτῳ ᾖ ἀνυστὸν
+μετριωτάτῳ τρέφουσι καὶ ὄψῳ ᾗ δυνατὸν μιχροτάτῳ· οἴνου γε μὴν
+ἢ πάμπαν ἀπεχομένας ἢ ὑδαρεῖ ζρωμένας διάγουσιν.
+<ref n="27"/> Es war dies eines der Zeichen, durch welche man stillschweigend
+seine Liebe erklärte oder auf ein geheimes Einverständniss
+sich bezog. 
+
+<cit><bibl>Ovid. Amor. I, 4, 31:</bibl>
+    <quote>
+        <l>Quae tu reddideris, ego primus pocula sumam,</l>
+        <l>Et qua tu biberis, hac ego parte bibam.</l>
+    </quote>
+    </cit>
+
+
+
+
+</p>
+
+<p>
+    <cit><bibl>Lucian. Dial. meretr. XII, 1: </bibl>
+        <quote>καὶ πιὼν ἂν ἐκείνῃ μὲν ὑπέδειξας
+            τὸ ποτήριον, ἀποδιδοὺς δὲ τῷ παιδὶ πρὸς τὸ οὖς ἐκέλευες, εἰ μὴ
+            Πυραλλὶς αἰτήσειε, μὴ ἂν ἄλλῳ ἐγχέαι.</quote>
+        </cit>
+         
+
+Die Hauptstelle darüber ist
+aber bei 
+<cit><bibl>Achill. Tat. II, 9: </bibl>
+    <quote>ᾠνοχόει δὲ ὁ Σάτυρος ἡμῖν καὶ τε
+        ποιεῖ ἐρωτικόν· διαλλάσσει γὰρ τὰ ἐκπώματα καὶ τὸ μὲν ἐμὸν τῇ
+        χόρῃ προστίϑησι, τὸ δὲ ἐκείνης ἐμοί, καὶ ἐγχέων ἀμφοτέροις καὶ
+        ἐγχερασάμενος ὥρεγεν. ἐγὼ δὲ ἐπιτηρήσας τὸ μέρος τοῦ ἐκπώματος
+        ἔνϑα τὸ χεῖλος ἡ κόρη πίνουσα προσέϑιγεν ἐναρμοσάμενος
+        ἔπινον ἀποστολιμαῖον τοῦτο φίλημα ποιῶν καὶ ἅμα κατεφίλουν τὸ
+        ἔχπωμα.</quote>
+    </cit>
+ 
+
+Bei nochmaliger Vertauschung thut dann das Mädchen dasselbe,
+und so wird es mehrmals wiederholt. Ueber andere ähnliche
+Arten von Liebeserklärungen s. Anm. 10 ff. zu Sc. XI.
+<ref n="28"/> Ich habe an den treffenden Vergleich bei Plautus  gedacht:
+<cit><bibl>Plaut. Asin. I,
+    9, 63</bibl>
+    <quote>
+        <l>Non tu scis? hic noster quaestus aucupii simillimu'st,</l>
+        <l>Auceps quando concinnavit aream, offundit cibum.</l>
+        <l>Aves assuescunt. Necesse est facere sumtum , qui quaerit lucrum.</l>
+
+        <l>Saepe edunt: semel si captae sunt, rem solvunt aucupi.</l>
+        <l>Itidem hic apud, nos, aedes nobis area est, auceps ego,</l>
+        <l>Esca est meretrix, lectus illex est, amatores aves etc.</l>
+    </quote>
+    </cit>
+
+
+
+
+
+<pb n="55"/>
+
+
+
+
+<ref n="29"/> 
+
+<cit><bibl></bibl>
+    <quote></quote>
+    </cit>
+    Lysias de caede Erat. S. 17: ἀναμιμνησχόμενος, ὅτι ἐν
+ἐκείνῃ τῇ vuxtl ἐφόφει ἣ μέταυλος ϑύρα καὶ ἡ αὔλειος. 
+
+S. d. Exc.
+über das Haus. — Auch Euphiletos hörte das im oberen Stockwerke.
+<ref n="30"/> Der Gebrauch des Nachtlichts war, wie bei uns, ebensowenig
+allgemein als ungewöhnlich. Das erhellt schon aus der särtlichen
+Anrede der Praxagora an ihre Lampe, Aristoph. Eccl. 8, und
+dem witzigen Einfalle Lucians Catapl. 27, die Nachtlampe als
+Zeuge gegen den Tyrannen auftreten zu lassen. Auch Leontidas
+schlief bei Nachtlicht, Plutarch. Pelop. 11. Dagegen wird bei
+Aristoph. Nub. 18. Theophr. Char. 18. Theocr. XXIV, 48
+erst, wenn das Bedürfniss eintritt, Licht angezündet.
+
+
+<ref n="31"/> 
+<cit><bibl>Lysias de caed. Erat. 14:</bibl>
+    <quote>ἐρομένου δέ μου, τί αὶ
+        ϑύραι νύκτωρ Φοφοῖεν, ἔφασκε τὸν λύχνον ἀποσβεσϑῆναι τὸν παρὰ
+        τῷ παιδίῳ, εἶτα ἐκ τῶν γειτόνων ἀνάψασϑαι. ἐσιώπων ἐγὼ καὶ
+        ταῦτα οὕτως ἔχειν ἡγούμην.</quote>
+    </cit>  Es konnte also nichts Auffallendes
+haben, dass, wiewohl des Nachts, die Gefälligkeit vom Nachbar erbeten
+wurde; im Gegentheile scheint der Fall oft vorgekommen zu
+sein. Auch Sokrates sagt bei 
+
+<cit><bibl>Xenoph. Mem. II, 2, 12:</bibl>
+    <quote>οὐκοῦν
+        καὶ τῷ γείτονι βούλει σὺ ἀρέσκειν, ἵνα σοι καὶ πῦρ ἐναύῃ, ὅταν
+        τούτου δέῃ.</quote>
+    </cit>
+  
+
+[Vgl. 
+<cit><bibl>Diphilus bei Athen. VI, 35:</bibl>
+    <quote>ἀγνοεῖς ἐν ταῖς ἀραῖς
+        ὅ τι ἔστιν, εἴ τις μὴ φράσει᾽ ὀρϑῶς δδόν,
+        ἢ πῦρ ἐναύσει, ἣ διαφϑεέρει᾽ ὕδωρ,
+        ἢ δειπνιεῖν μέλλοντα κωλύσαι τινά.</quote>
+    </cit>
+
+
+
+Denselben Grundsatz bezeugt auch für die Römer 
+
+<cit><bibl>Cic. Offic. I, 16:</bibl>
+    <quote>ex quo sunt illa communia: non prohibere aqua profluente; pati ab
+        igne ignem capere, si qui velit; consilium fidele deliberanti dare.</quote>
+    </cit>
+
+
+Das Gegentheil findet sich bei 
+
+Demosth. in Aristog. I, 61]
+Auch andere kleine Dienste und Gefälligkeiten wurden oft in Anspruch
+genommen und, wie es scheint, gern gewührt. 
+
+Theophrastus rechnet es zu den Kennzeichen eines 
+
+<cit><bibl>Theophr.
+    Char. 10 </bibl>
+    <quote>μικρολόγος : ἀπαγoρεῦσαι
+        τῇ γυναιχὶ μήτε ἅλας γρᾶν μήτε ἑλλύχνιον μήτε χύμινον
+        μήτε ὀρίγανον μήτε οὐλὰς μήτε στέμματα μήτε ϑυλήματα· ἀλλὰ
+        λέγειν, ὅτι τὰ μιχρὰ ταῦτα πολλά ἔστι τοῦ ἐνιαυτοῦ.</quote>
+    </cit>
+     [Dass das Leihen
+
+<pb n="56"/>
+
+und Borgen unter den Nachbarn und besonders den Nachbarinnen
+überhaupt sehr an der Tagesordnung war, sieht man auch aus 
+
+<cit><bibl>Plaut.
+    Aulul. I, 2, 13:</bibl>
+    <quote><l>Quod quispiam ignem quaerat, exstingui volo ...</l>
+        <l>Tum aquam aufugisse dicito, si quis petet;</l>
+        <l>Cultrum, securim, pistillum, mortarium,</l>
+        <l>Quae utenda vasa semper vicini rogant,</l>
+        <l>Fures venisse atque abstulisse dicito;</l></quote>
+    </cit>
+    
+
+
+vgl. dagegen den Gefülligen im 
+
+<cit><bibl>Rudens I, 2, 45:</bibl>
+    <quote>
+        <l part="F">— — semper petunt</l>
+        <l>Aquam hinc aut ignem aut vascula aut cultrum aut veru</l>
+        <l part="I">Aut aulam exiarem aut aliquid.</l>
+
+    </quote>
+    </cit>
+    
+
+
+
+
+]
+So wurden namentlich Geschirre u. dergl. häufig geliehen, obgleich
+dabei auch Vorsicht weder ungebräuchlich noch unnöthig war; s.
+<cit><bibl>Aristoph. Eccl. 446:</bibl>
+    <quote><l>ἔπειτα συμβάλλειν πρὸς ἀλλήλας ἔφη</l>
+        <l>ἱμάτια, χρυσι᾽, ἀργύριον, ἐκπώματα</l>
+        <l>μόνας μόναις γ᾽, οὐ μαρτύρων γ᾽ ἐναντίον,</l>
+        <l>καὶ ταῦτ᾽ ἀποφέρειν πάντα κοὐχ ἀποστερεῖν·</l>
+        <l>ἡμῶν δὲ τοὺς πολλοὺς ἔφασκε τοῦτο δρᾶν.</l></quote>
+    </cit>
+
+
+
+Zu den letzten Worten kann als Commentar dienen, was bei Demosth.
+in Timoth. $. 24 ff. erzählt wird.
+<ref n="32"/> Eurip. Bacch. 729:
+οἴνου δὲ μηχέτ᾽ ὄντος οὐχ ἔστιν Κύπρις.
+Auch Aristot. Probl. XXX, 1, p. 953, 31 Bekk. sagt: ὀρϑῶς
+Διόνυσος καὶ ’Appoditn λέγονται μετ’ ἀλλήλων εἶναι. Vgl. Terent.
+Eunuch. IV, 5, 6: sine Cerere et Libero friget Venus, [die Erklär.
+zu Appul. Metam. Il, 11: ecce Veneris hortator et armiger Liber
+advenit ultro, und v. Leutsch zu Apostol. Prov. p. 321]
+<ref n="33"/> Einen solchen Fall bietet die Geschichte von Stephanos und
+Epänetos dar, s. die erste Anmerkung. Aber Stephanos hatte früher
+auf dieselbe Weise auch seine Frau als Lockspeise gebraucht: Demosth.
+in Neaer. ὃ. 41: συνεσυχοφάντει δὲ καὶ οὗτος, εἴ τινα
+ξένον ἀγνῶτα πλούσιον λάβοι ἐραστὴν αὐτῆς ὡς μοιχὸν ἐπ᾽ αὐτῇ,
+ἕνδον ἀποχλείων καὶ ἀργύριον πραττόμενος πολύ. Diese Beispiele
+sind uns zufällig bekannt geworden; aber auf wie viele ähnliche
+Bubenstücke lässt sich daraus schliessen!
+
+<pb n="57"/>
+
+<ref n="34"/> Es ist die hintere Thür des Hauses gemeint, die gewöhnlich
+ϑύρα xyraía genannt wurde. S. den Exc. über das Haus Dass
+es möglich war, eine verschlossene Thüre auf solche Weise zu öffnen,
+beseugt Lucian. Dial. meretr. XII, 3: τὴν αὔλειον εὗρον droxeχλεισμένην
+ἐπιμελῶς· μέσαι γὰρ νύχτες ἦσαν· οὐχ Exoda δ' οὖν,
+ἀλλ᾿ ἑπάρας ἠρέμα τὴν ϑύραν (ἤδη δὲ καὶ ἄλλοτε ἐπεποιήχειν αὐτό)
+παραγαγὼν τὸν στροφέα παρῆλθον ἀφοφητί.
+<ref n="35"/> Ich habe dabei an die puncia, lasciva quae terebrantur acu
+gedacht. S. Mart. XI, 45, 6.
+<ref n="36"/> Appul. Metam. II, 26: insperato lucro diffusus in gaudium
+et in aureos refulgentes, quos idemtidem manu mea ventilabam,
+altonitus.
+<ref n="37"/> Die Zeugen, welche hier nur als bestochene gedacht werden
+kónhen, holte Euphiletos wirklich herbei. Lysias de caede Erat.
+$. 23: καὶ <ref n="38"/> ϑεράπαινα énsys(paad us εὐθὺς φράξει, ὅτι (ὁ μοιχὸς)
+ἔνδον daté χἀγὼ εἰπὼν Exeivn ἐπιμελεῖσϑαι τῆς ϑύρας xaraβὰς
+σιωπὴ ἐξέρχομαι καὶ ἀφιχνοῦμαι ὡς τὸν καὶ τόν· καὶ τοὺς μὲν
+ἔνδον χατέλαβον, τοὺς δὲ ἐπιδημοῦντας εὗρον. παραλαβὼν δ᾽ ὡς
+οἷόν τε ἦν πλείστους ἐκ τῶν παρόντων, ἐβάδιζον.
+<ref n="39"/> Lysias a. a. O.: χαὶ δᾷδας λαβόντες ἐκ τοῦ ἐγγυτάτου
+χαπηλείου εἰσερχόμεϑα. Ueber den Gebrauch der Fackeln und die
+Beleuchtung überhaupt wird weiterhin ausführlich gesprochen werden.
+<ref n="40"/> Lucian. Asin. 7: τῶν δὲ στρωμάτων ῥόδα πολλὰ xareπέπαστο,
+τὰ μὲν οὕτω γυμνὰ xaó! abrd, cà δὲ ÀsAuuéva, τὰ δὲ
+στεφάνοις συμπεπλεγμένα. Appul. Metam. lI, 16: commodum
+cubueram et ecce Fotis mea, iam domina cubitum reddita, lecto prozimat
+rosae serta et rosa soluta in sinu tuberante.
+<ref n="41"/> Die ganze Schilderung dieser Scene ist aus Lysias de
+caede Erat. S. 24 entnommen, mit den wenigen Abänderungen,
+welche durch die Verschiedenheit des Factums bedingt sind. Denn
+bei Lysias, wo Euphiletos den wirklichen Verführer seiner Frau ertappt
+und tödtet, heisst es: ὥσαντες δὲ τὴν ϑύραν τοῦ δωματίου
+οἱ μὲν πρῶτοι εἰσιόντες ἔτι εἴδομεν αὐτὸν xaraxeiuevov παρὰ τῇ
+γυναιχέ, οὗ δ᾽ ὕστερον ἐν τῇ χλίνῃ γυμνὸν ἑστηχότα. ἐγὼ δ᾽, ὦ ἂνδρες,
+πατάξας καταβάλλω αὐτὸν καὶ τὼ χεῖρε περιαγαγὼν εἰς Tobπισϑεν
+καὶ δήσας ἠρώτων, διὰ τί bf piter elg τὴν olxiav τὴν ἐμὴν
+εἰσιών; χἀχεῖνος ἀδιχεῖν μὲν ὡμολόγει, ἠντιβόλει δὲ xol Ixereve μὴ
+
+<pb n="58"/>
+
+αὐτὸν xreivar, ἀλλ᾽ ἀργύριον πράξασϑαι. ἐγὼ δ᾽ εἶπον, ὅτε οὐκ
+ἐγώ σε ἀποχτενῶ, ἀλλ᾽ ὁ τῆς πόλεως νόμος. Das geschah in Athen;
+wer wollte aber bezweifeln, dass in Korinth eben so gut der Beleidigte
+den ertappten μοιχός tödten durfte? S. den Exc. über die Frauen.
+<ref n="42"/> So viel, nämlich dreissig Minen, erpresste Stephanos von
+Epänetos, s. Demosth. in Neaer. $. 65.
+<ref n="43"/> Es war eine schöne Sitte, die sich gewiss nicht bloss auf
+Athen beschränkte, dass, wenn jemand in Noth oder augenblickliche
+Geldverlegenheit gerathen war, die Freunde, die er darum anging,
+es für Pflicht hielten, den Bedarf nach Kräften und Willen zusammenzuschiessen
+und so dem Freunde zu helfen. Von dieser Beisteuer,
+die unter dem Namen ἔοανος bekannt ist, hat schon Casaubonus
+zu Theophr. Char. 15 so befriedigend gehandelt, dass im Grunde
+nur die nach alter Weise vernachlässigten Nachweisungen hinzugefügt
+werden konnten. Die übrige Literatur s: bei Hermann Staatsalterth.
+S. 146, N. 9 und Wachsmuth B. II, S. 185, welcher
+letztere mit Recht bemerkt, dass der Begriff des Gesellschaftlichen,
+der sich in den meisten Erklärungen der Grammatiker finde, dabei
+nicht wesentlich sei. Vielmehr muss eine zweifache Art des <foreign>ἔρανος</foreign>
+angenommen werden, wie es von Meier und Schömann Att. Process
+BS. 542 ff. geschehen ist. [Ueber die wirklich als Vorschussoder
+Creditvereine organisirten ἔρανοι vgl. ausser der bei Hermann
+Privatalterth. $. 69, N. 11 angeführten Literatur: Caillemer,
+le contrat de société d' Athènes, ét. X. Paris, 1872; Foucart, des
+associations religieuses chez les Grecs, Thiases, Eranes, Orgéons avec
+le texte des inscriptions relatives à ces associations. Paris, 1873, beurtheilt
+von J. H. Lipsius in Bursians Jahresbericht 1875,
+10. H. S. 1887.]
+<ref n="44"/> Aeschin. in Timarch. ὃ. 182: ὥστ᾽ ἀνὴρ εἷς τῶν πολιτῶν
+εὑρὼν τὴν ἑαυτοῦ δυγατέρα διεφϑαρμένην χαὶ τὴν ἡλιχίαν οὐ
+χαλῶς διαφυλάξασαν μέχρε γάμου, ἐγχατῳχοδόμησεν αὐτὴν ned
+ἵππου elg ἔρημον olxiav, bg? οὗ προδήλως ἔμελλεν ἀπολεῖσϑαι διὰ
+λιμὸν συγχαϑειργμένη. καὶ ἔτει νῦν τῆς οἰχίας ταύτης ἕἔστηχε τὰ
+οἰχόπεδα ἐν τῷ ὁμετέρῳ ἄστει, καὶ 6 τόπος οὗτος χαλεῖται παρ᾽
+ἵππον καὶ χόρην. Vgl Schneidewin ad Herael. Pol. p. 35 und
+Paroemiogr. t. I, p. 214.
+<ref n="45"/> Wie ich schon im Gallus Th. I, 8. 126 bemerkt habe
+
+<pb n="59"/>
+
+war es im Alterthume nicht sehr gebräuchlich, Namen in gewisser
+Hinsicht verächtlicher Thiere als Schimpfwörter zu gebrauchen. Dann
+und wann geschieht es indessen doch. Für das von ältester Zeit her
+sehr gewöhnliche χύων bedarf es keines Beweises. Seltener ist 7í-
+ϑηχος, Demosth. de cor. ὃ. 242 [Aristoph. Ran. 707 und Av.
+441 (vgl. d. Schol.) bezieht es sich auf körperliche Hässlichkeit, besonders
+Zwerghaftigkeit, wie auch oft das römische simia (z. B. Horat.
+sat. I, 10, <ref n="46"/>. Aber es wird auch wie bei uns in Bezug auf
+Nachäfferei und Ziererei gebraucht (Plaut. Mostell. IV, 2, <ref n="47"/>. Vgl.
+Harpooration s. v. τραγιχὸς πίϑηχος, Aristot. Poet. 26, p. 1461,
+K. Fr. Hermann Progymn. Arist. Equ. p. 7, Winckelmann
+zu Plato ed. Turic. t. XII, p. IX und Jahn, Arch. Beiträge
+B. 494.] und xépxoj Alciphr. Epist.I, 28. Aber auch die Dummheit
+des Schafes war zum Sprüchworte geworden und wird, wie das
+lateinische vervez, auf einfältige, leicht zu betrügende Menschen angewendet.
+Lucian. Alex. 15: (ἀνϑρώπων) οὐδὲν ἐοιχότων arropdyoıs
+ἀνδράσιν, ἀλλὰ μόνῃ τῇ μορφῇ μὴ οὐχὶ πρόβατα εἶναι dıapsρόντων.
+Daher das Sprüchwort bei Suidas: προβατίου βίὸν ζῆν·
+ἐπὶ τῶν μωρῶν καὶ ἀνοήτων, und die herbe Anspielung bei Lucian.
+Demon. 41: ἰδὼν δέ τινα τῶν εὐπαρύφων ἐπὶ τῷ πλάτει τῆς πορ-᾿
+φύρας μέγα φρονοῦντα, χύφας αὐτοῦ πρὸς τὸ οὖς καὶ τῆς ἐσθῆτος
+λαβόμενος καὶ δείξας ἔφη, Τοῦτο μέντοι πρὸ σοῦ πρόβατον ἐφόρει
+καὶ ἦν πρόβατον. Vgl. die gleich anzuführende Stelle aus Aristophanes
+und Plaut. Bacch, V, 9, 2 [auch Senec. de const. 17].
+Mit dem Schafe in Gesellschaft geht der Esel. Plutarch. Gryll.
+10: νῦν μὲν οὖν, Γρύλλε, μεταβέβλησαι σὺ καὶ τὸ πρόβατον Aoyıχὸν
+ἀποφαίνεις καὶ τὸν ὄνον; Lucian. Jup. Trag. 81: γόητα μὲν
+εἶναι τοῦτον, ἡμᾶς δὲ ὄνους χανϑηλίους, νὴ Alta, καὶ ἡμιόνους, τοὺς
+πιστεύοντας αὐτῷ καὶ ὅσον αἱ ἀχρέδες τὸν νοῦν ἔχοντας. Lysipp.
+b. Dicaearch. p. 141 Fuhr:
+εἰ μὴ τεϑέασαι τὰς Adnvas, στέλεχος εἶ"
+εἰ δὲ τεϑέασαι, μὴ τεϑήρευσαι 0’, ὄνος.
+Diog. Laört. VII, 170: καὶ σχωπτόμενος δὲ ὑπὸ τῶν συμμαϑητῶν
+ἠνέσχετο καὶ ὄνος ἄχούων προσεδέχετο x. τ. À. Indessen wird nicht
+bloss die Dummheit des Thiers, sondern auch seine Trägheit dabei
+berücksichtigt: Aristoph. Av. 1827:
+πάνυ γὰρ βραδύς τίς ἐστιν ὥσπερ ὄνος,
+
+<pb n="60"/>
+
+[ferner seine Unempfindlichkeit: Plaut. Pseud. I, 2, 4: neque homines
+magis asinos unquam vidi, ita plagis costae callent, seine
+Tölpelhaftigkeit und Ungeschicklichkeit: Terent. Eun. III, 5, 50:
+tum equidem istuc os tuum impudens videre nimium vellem:
+qui esset status, flabellum tenere te asinum tantum]
+und noch andere Eigenschaften, s. Lucian. Pisc. 34. Plut. de Isid.
+et Osir. 31. (Merkwürdiger Weise zählte auch der Kukuk, χόχχυξ,
+zu den schmühenden Prüdikaten für Dummköpfe und Gimpel: Aristoph.
+Acharn. 598. Plaut. Asin, V, 2, 78; Pseud. I, 1, 94.]
+Sonst wird häufig für den einfältigen, schwer begreifenden Menschen
+der Ausdruck λέϑος gebraucht. Aristoph. Nub. 1202:
+εὖ γ᾽, ὦ χαχοδαίμονες, τέ χάϑησϑ'᾽ ἀβέλτεροι,
+ἡμέτερα χέρδη τῶν σοφῶν, ὄντες λέϑοι,
+ἀριϑμός, πρόβατ' ἄλλως, ἀμφορῆς νενησμένου;
+d.i. wie die Scholien erklären, dvaiodnroı und ἁπλούστατοι μάτην.
+Als Aristipp von jemandem gefragt wurde, welchen Vortheil sein
+Sohn von wissenschaftlicher Bildung haben würde, antwortete er: καὶ
+εἰ μηδὲν ἄλλο, ἕν γ᾽ οὖν τῷ ϑεάτρῳ οὐ χαϑεδήσεται λίϑος ἐπὶ
+λέϑῳ, Diog. Laért. II, 72; vgl. Liban. Or. XXIV, p. 79: χἂν
+μὴ ϑεῶν παῖδας ἀποφήνῃ τοὺς νέους, χἂν ὦσι λίϑινοι, τέχνῃ νιχήσας
+τὴν φύσιν, χατηγορέαι πολλαί. Terent. Heaut. IV, 7, 3: Quid
+stas, lapis? V, 1, 48:
+Quot res dedere, ubi possem persentiscere,
+Nisı si essem lapis.</p>
+
+<p>Hecyr. II, 1, 17: quae me omnino lapidem, non hominem putas.
+[Vgl. Plaut. Mil. glor. IV, 2, 81.J Doch wird es auch von der
+Unempfindlichkeit gesagt, die sich durch nichts rühren lässt. Lucian.
+Dial. mer. XII, 2: ὦ τῆς ἀγριότητος, τὸ δὲ μὴ ἐπιχλασϑῆναι daχρυούσης,
+λίϑος, οὐχ ἄνθρωπός ἐστι. Dio Chrysost. Or. XXI,
+p. 506: οὐδεὶς γὰρ οὕτως ἀναιδὴς καὶ λίϑινός ἐστιν. Dieselbe Bedeutung
+wie ἀέϑενος hat auch σιδηροῦς. Lysiss in Theomn. I,
+8. 20: ἀλλ᾽ εἰ μὴ σιδηροῦς ἔστιν, οἴομαι αὐτὸν ἕννουν γεγονέναι,
+vgl. ferreus Cic. Verrin. V, 46 und Ovid. Trist. I, 8, 42. Andere
+Schimpfwörter liessen sich aus Aristophanes anführen. Sie sind
+zum Theil sehr gemein; man muss aber bedenken, dass wir deren
+auch haben und sie gebrauchen, obne an den ursprünglichen Sinn
+
+<pb n="61"/>
+
+mehr zu denken. Freilich liegt auch bei uns die Etymologie nicht
+so klar vor wie bei den griechischen Wörtern. |
+<ref n="48"/> Das war auch der Fall mit den angeblichen Töchtern des
+Stephanos. Demosth. in Neaer. ὃ. 62: καὶ ὡμολόγει μὲν (ὃ
+Ἕπαίνετος) γρῆσϑαι τῇ ἀνθρώπῳ, ob μέντοι μοιχός γε εἶναι· οὔτε
+γὰρ Στεφάνου ϑυγατέρα αὐτὴν εἶναι ἀλλὰ Νεαίρας, τὴν δὲ μητέρα
+αὐτῆς συνειδέναι πλησιάζουσαν αὐτῷ, ἀνηλωχέναι τε πολλὰ εἰς αὐτὰς
+τρέφειν τε, ὁπότε ἐπιδημήσειε, τὴν οἰχέαν ὅλην.
+<ref n="49"/> Lucian. Somn. 14: ἡ δὲ ἀπολειφϑεῖσα τὸ μὲν πρῶτον
+ἡγανάχτει καὶ τὼ γεῖρε συνεχρότει καὶ τοὺς ὀδόντας ἐνέπριε. Dagegen
+ist es auch wiederum ein Zeichen der Freude und des Triumphs,
+in die Hände zu klatschen. S. Jacobs zu Achill. Tat. I, 7.</p>
+
+</div>
+</div>
+</body>
+</text>
+</TEI>
