@@ -1,649 +1,209 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
- <teiHeader xml:lang="eng">
+<teiHeader xml:lang="eng">
 <fileDesc>
 <titleStmt>
- <title xml:lang="deu">Charikles</title>
+<title xml:lang="deu">Charikles</title>
 <author>Wilhelm Adolf Becker</author>
- <sponsor>Perseus Project, Tufts University</sponsor>
- <principal>Gregory Crane</principal>
- <respStmt>
-  <resp>Prepared under the supervision of</resp>
-  <name>Lisa Cerrato</name>
-  <name>Gregory Crane</name>
- </respStmt>
- <funder>National Endowment for the Humanities</funder>
+<sponsor>Perseus Project, Tufts University</sponsor>
+<principal>Gregory Crane</principal>
+<respStmt>
+<resp>Prepared under the supervision of</resp>
+<name>Lisa Cerrato</name>
+<name>Gregory Crane</name>
+</respStmt>
+<funder>National Endowment for the Humanities</funder>
 </titleStmt>
- 
- <publicationStmt>
-  <publisher>Trustees of Tufts University</publisher>
-  <pubPlace>Medford, MA</pubPlace>
-  <authority>Perseus Project</authority>
-  <date type="release" when="2023-08-27">Perseus 5.0</date>
-  <idno type="filename">TBA</idno>
-  <availability>
-   <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence> 
-  </availability>
- </publicationStmt>
 
- <sourceDesc>
-  <biblStruct>
-   <monogr>
-    <title xml:lang="lat">Charikles: Bilder Altgriechischer Sitte</title>
-    <author>Wilhelm Adolf Becker</author>
-    <author>Hermann Göll</author>
-    <imprint>
-     <publisher>S. Calvary and Comp</publisher>
-     <pubPlace>Berlin</pubPlace>
-     <date>1877</date>
-    </imprint>
-    <biblScope unit="volume">1</biblScope>
-   </monogr>
-   <ref target="https://archive.org/details/operaexrecogniti03luciuoft/page/442/mode/2up">Internet Archive</ref>
-  </biblStruct>
- </sourceDesc>
+<publicationStmt>
+<publisher>Trustees of Tufts University</publisher>
+<pubPlace>Medford, MA</pubPlace>
+<authority>Perseus Project</authority>
+<date type="release" when="2023-08-27">Perseus 5.0</date>
+<idno type="filename">TBA</idno>
+<availability>
+<licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence> 
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<biblStruct>
+<monogr>
+<title xml:lang="lat">Charikles: Bilder Altgriechischer Sitte</title>
+<author>Wilhelm Adolf Becker</author>
+<author>Hermann Göll</author>
+<imprint>
+<publisher>S. Calvary and Comp</publisher>
+<pubPlace>Berlin</pubPlace>
+<date>1877</date>
+</imprint>
+<biblScope unit="volume">1</biblScope>
+</monogr>
+<ref target="https://archive.org/details/operaexrecogniti03luciuoft/page/442/mode/2up">Internet Archive</ref>
+</biblStruct>
+</sourceDesc>
 </fileDesc>
-  
-  <encodingDesc>
-   <editorialDecl>
-    <correction><p>keyboarding</p>
-     <p>Lace v. 0.6.22 copyright 2013-2021, Bruce Robertson, Dept. of Classics, Mount Allison University.</p></correction>
-   </editorialDecl>
-      
-    
-    <refsDecl n="CTS">
-     <cRefPattern n="line" matchPattern="(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div//tei:l[@n='$1'])">
-      <p>This pointer pattern extracts line</p>
-     </cRefPattern>
-    </refsDecl> 
- 
-   
+
+<encodingDesc>
+<editorialDecl>
+<correction><p>keyboarding</p>
+<p>Lace v. 0.6.22 copyright 2013-2021, Bruce Robertson, Dept. of Classics, Mount Allison University.</p></correction>
+</editorialDecl>
+
+
+<refsDecl n="CTS">
+<cRefPattern n="line" matchPattern="(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div//tei:l[@n='$1'])">
+<p>This pointer pattern extracts line</p>
+</cRefPattern>
+</refsDecl> 
+
+
 <!--<refsDecl doctype="TEI.2">
 <state unit="chapter" n="chunk"/>
 <state unit="altsection"/>
 </refsDecl>-->
-  </encodingDesc>
-  
-  <profileDesc>
-   <langUsage>
-    <language ident="grc">Greek</language>
-   </langUsage>
-  </profileDesc>
-  <revisionDesc>
-   <change who="Gregory Crane" when="2023-05-06">File created from tesseract OCR</change>
-  </revisionDesc>
- </teiHeader>
- 
+</encodingDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="grc">Greek</language>
+</langUsage>
+</profileDesc>
+<revisionDesc>
+<change who="Gregory Crane" when="2023-05-06">File created from tesseract OCR</change>
+</revisionDesc>
+</teiHeader>
+
 <text>
 <body>
 <div type="commentary" n="urn:cts:greekLit:TBA" xml:lang="grc">
 <pb n="47"/>
 <div type="textpart" subtype="chapter" n="1">
 
-  
 
-    <head>ERSTE SCENE: DIE FREUNDE.</head>
-    <pb n="1"/>
-    
-    <p>Unweit der Trümmer von Mykenä, jener uralten Zeugen
-    frühester griechischer Fürstengrösse, die auch in der Zerstörung
-    noch riesenhaft dem vierten Jahrtausende ihrer Dauer
-    entgegengehen, windet sich zwischen steilen Felsenwänden ein
-    enger Gebirgspass in nördlicher Richtung dem Thale zu, in
-    welchem auf einem Hügel die kleine, aber von Homer nicht
-    ohne Lob genannte Stadt Kleonä gelegen haben mag<ref/>. Dieser
-    schmale Weg war im Alterthume auch für Wagen befahrbar<ref/>;
-    jetzt ist er so verwildert, dass selbst zu Pferde die Reise
-    nicht ohne Beschwerden ist<ref/>. An der westlichen Felsenwand
-    drängt sich durch dichtes Gestrüpp ein nördlich entspringender
-    Bach. Die schroffen Steinmassen werden durch zahlreiche
-    Schluchten und Höhlen unterbrochen, deren eine noch jetzt,
-    wie zu Pausanias Zeit, als Schlupfwinkel des Löwen von
-    Nemea gezeigt wird<ref/>. Die ganze Gegend bietet den Anblick
-    eines vielfach zerrissenen Gebirgszuges dar, wo jenseit der
-    westlichen Höhen die Säulen des Jupitertempels die Stelle anzeigen,
-    an der Nemea lag, während zwei Stunden südlich von
-    Mykenä das alte Argos in moderner Umgestaltung fortlebt<ref/>.</p>
-    <p xml:lang="eng">Not far from the ruins of Mycenae, those ancient witnesses of the earliest Greek princely greatness, which, even in destruction, still stand imposingly against the fourth millennium of their existence, a narrow mountain pass winds between steep rock faces in a northern direction towards the valley, in which on a hill the small city of Cleonae, praised by Homer, might have been located<ref/>. This narrow path was also accessible for wagons in antiquity<ref/>; now it has become so overgrown that even traveling on horseback is not without its difficulties<ref/>. On the western rock face, a brook springing from the north makes its way through thick undergrowth. The rugged rock masses are interspersed with numerous gorges and caves, one of which is still shown, as in the time of Pausanias, as the hiding place of the Lion of Nemea<ref/>. The entire area presents the sight of a rugged mountain range, where beyond the western peaks the pillars of the Temple of Jupiter indicate the location of Nemea, while two hours south of Mycenae, old Argos continues to live on in a modern transformation<ref/>.</p>
-    
-    <p>Es war im letzten Monat der hundert und elften Olympiade,
-    als ein junger Mann, dessen Jahre kaum über das
-    Ephebenalter hinausreichen konnten, diese Strasse zog. Ihn
-    
-    
-    
-    <pb n="2"/>
-    
-    
-    trug ein dunkelfarbiges Ross<ref/>, das zwar durch kein Brandmal
-    zum Abkömmling einer der berühmteren Racen gestempelt
-    war, aber kräftig und muthvoll der edlen Gestalt seines
-    Reiters nicht unwürdig erschien. Er selbst, wiewohl breit
-    um Brust und Schultern, verrieth doch mehr schlanke und
-    weichere, als gedrängte und muskelkräftige Formen des Körpers.
-    Der sanft geröthete Nacken hob sich stolz und frei;
-    aber in die Lebhaftigkeit des blauen Auges mischte sich ein
-    fast schmachtender, Liebe fordernder und verheissender Blick.
-    Unter der breiten Krempe des braunen Reisehuts drängte sich
-    eine Fülle blonder Locken hervor, und ein zarter Flaum sprossenden
-    Barthaars umkränzte Wangen und Kinn. Seine ganze
-    Erscheinung, der edle Anstand und der feine Schnitt des Gesichts
-    kündigten einen Jüngling von guter Herkunft und sorgfältiger
-    Erziehung an<ref/>.</p>
-    
-    <p xml:lang="eng">It was in the last month of the 111th Olympiad when a young man, who seemed to be just past adolescence, took this road. He was riding a dark-colored horse<ref/>, which, although it did not bear any brand marking it as offspring of one of the more famous races, looked strong and spirited, worthy of the noble figure of its rider. He himself, though broad in chest and shoulders, revealed a more slender and softer physique than a compact and muscular one. The gently reddened nape of his neck stood proudly and freely; but into the liveliness of his blue eyes was mixed an almost languishing, love-demanding, and promising gaze. Under the wide brim of the brown traveling hat, a profusion of blonde curls peeked out, and a delicate fuzz of emerging beard encircled his cheeks and chin. His entire appearance, the noble demeanor, and the fine features of his face indicated a young man of good lineage and careful upbringing<ref/>.</p>
-    
-    <p>Ihm folgte ein einziger Sklave, der kaum zehn Jahre
-    mehr zu zählen schien als sein Herr, ‘und rüstig hinter der
-    Spur des Rosses einher schritt, wiewohl die Schweisstropfen,
-    die von seiner Stirne rannen, wohl erkennen liessen, dass das
-    Bündel, worin er auf seinen Schultern die Decken zum Nachtlager
-    und das nöthigste Reisegeräthe trug, keine leichte Bürde
-    für die Schwüle eines sonnigen Tages im Monate Skirophorion
-    sei. </p>
-    
-    <p xml:lang="eng">Following him was a single slave, who seemed only about ten years older than his master, and briskly followed the horse's path, although the beads of sweat dripping from his forehead suggested that the bundle he carried on his shoulders, containing the blankets for the night and essential travel gear, was no light burden on a hot sunny day in the month of Skirophorion.</p>
-    
-    <p>Die beiden Wanderer waren an einer Einbiegung der östlichen
-    Bergeswand angekommen: einem kleinen Halbkreise,
-    dessen grüner Rasenteppich von dichtem Gebüsche blühender
-    Myrten eingefasst wurde, zwischen denen hier und da Stechpalmen,
-    wie zum Schutze des Gesträuchs, die spitze Waffe
-    ihrer glänzenden Blätter hervorstreckten, während am Fusse
-    der Umsäumung und zwischen dem herabgerollten Gesteine
-    üppig wuchernde Farrenkräuter ihre hellgrünen Fächer entrollt
-    hatten, und darüber die rothen Früchte des Erdbeerbaums
-    mit den gelben Blüthenbüscheln des Salbey abwechselnd
-    die Nacktheit der Felsen dürftig, aber malerisch 
-    
-    
-    
-    <pb n="3"/>
-    
-    
-    
-    kleideten<ref/>. Der Reiter hielt sein Pferd an und sagte zu dem
-    Sklaven gewendet: Manes, wie hoch mag es am Tage sein?
-    — Mindestens schon um die Zeit, wo der Markt sich füllt<ref/>,
-    antwortete dieser. — So lass uns hier Halt machen. Schwerlich
-    dürften wir einen Ort finden, der einladender wäre, einen
-    Imbiss einzunehmen. Der Vorsprung des Felsen schützt vor
-    den brennenden Sonnenstrahlen; diese mit Moos überwachsenen
-    Steinblöcke sind wie absichtlich für die Ruhe des Wanderers
-    geschaffen, und dort, etwas weiter hinauf, sehe ich
-    einen Quell aus dem Felsen hervorsprudeln, der einen frischen
-    Trunk verspricht. — Mit diesen Worten sprang er vom Pferde,
-    rieb ihm mit einer Hand voll Laub den schaumigen Schweiss
-    von Hals und Rücken, und entzäumte es dann, damit es sich
-    gütlich thue in dem hohen, die Strasse zu beiden Seiten einfassenden
-    Grase, von dem es schon dann und wann im Vorbeigehen
-    genascht hatte!<ref/>. — Unterdessen hatte Manes bereitwillig
-    sein Bündel abgelegt und langte daraus Brod, sicilischen
-    Käse und getrocknete Feigen hervor, denen er auch
-    einige frische, die er unterwegs gepflückt hatte, beifügte, für
-    sich aber Lauch und Zwiebeln, ebenfalls auf dem Wege erbeutet,
-    bei Seite legte!<ref/>. Ein kleiner Schlauch voll mendäischen
-    Weins, von dem Gastfreunde in Argos für die Reise
-    gefüllt, und eine silberne Trinkschale<ref n="12"/> vollendeten den Apparat
-    zu dem frugalen Frühstücke, dessen beste Würze die
-    vorhergegangene Anstrengung war. Bald hatte auch Manes die Anhöhe erstiegen, wo aus dem Gestein der Quell mit starkem Strahle hervordrang, und brachte den irdenen Krug mit Wasser gefüllt zurück, dessen Kälte trefflich zu Statten kam, um den von der Wärme des Tags matt gewordenen Wein zu erfrischen.</p>
-    
-    <p xml:lang="eng">The two travelers had reached a bend in the eastern mountain wall: a small semicircle, whose green grass carpet was framed by dense flowering myrtle bushes. Among them, here and there, holly bushes, as if to protect the shrubbery, extended the sharp weapon of their shiny leaves. At the foot of the border and between the fallen rocks, lush ferns had unfurled their bright green fronds, and above them, the red fruits of the strawberry tree alternated with the yellow flower clusters of the sage, modestly but picturesquely dressing the bareness of the rocks<ref/>. The rider stopped his horse and, turning to the slave, said, "Manes, what time of day do you think it is?" — "At least around the time when the market gets busy," he replied<ref/>. — "Then let's stop here. We're unlikely to find a more inviting place to have a snack. The rock's overhang protects from the scorching sunrays; these moss-covered boulders seem to be made specifically for a traveler's rest, and there, a bit further up, I see a spring gushing from the rock, promising a fresh drink." — With these words, he jumped off the horse, wiped the foamy sweat from its neck and back with a handful of leaves, and then unbridled it, allowing it to graze on the tall grass lining both sides of the road, which it had occasionally nibbled on as they passed<ref/>. — Meanwhile, Manes had willingly set down his bundle, and from it took out bread, Sicilian cheese, and dried figs, to which he added some fresh ones he had picked along the way. For himself, he set aside leeks and onions, also acquired during their journey<ref/>. A small flask filled with Mendean wine, gifted by hosts in Argos for their journey, and a silver drinking bowl<ref/> completed the apparatus for the frugal breakfast, the best spice of which was the exertion that preceded it. Soon, Manes had also climbed the hill where the spring burst forth from the rock with a strong jet and brought back a clay jug filled with water, which was perfectly cool for refreshing the wine that had grown tepid from the heat of the day.</p>
-    
-    <p>Der junge Mann hatte sein Morgenmahl bereits beendigt
-    und ruhete nur noch behaglich auf der bemoosten Steinplatte,
-    als ein zweiter Reisender um die Ecke des Felsen bog, um,
-    wie es schien, den schon früher gekannten Ruheplatz aufzun
-    
-    
-    
-    <pb n="4"/>
-    
-    
-    
-    suchen. Er war zu Fusse und ohne Begleitung; auch seine
-    Kleidung, wiewohl nicht wider den Anstand verstossend, verrieth
-    keine besondere Wohlhabenheit; aber es war eine Gestalt
-    voll Kraft und entschlossener Haltung, die sich wunderbar
-    mit einer Geschmeidigkeit und Gewandtheit der Glieder paarte,
-    wie sie nur eine vollendete Bildung in den Gymnasien zu
-    geben vermochte. Den gediegenen Körperformen entsprach
-    der Ausdruck des männlich schönen Gesichts. Das lebhafte
-    Auge unter der hohen von einem Kranze schwarzlockiger
-    Haare umschlossenen Stirne verrieth eben so viel durchdringenden
-    Verstand und scharfen Beubachtungsgeist, als der fein
-    geformte Mund, neben einem Zuge von Verschlagenheit, freundliches
-    Wohlwollen verhiess. Man mochte am treffendsten ihn
-    einer Hermesgestalt in der ersten Blüthe des beginnenden
-    Mannosalters vergleichen. — Er schien weder betroffen, noch
-    übel gelaunt, den Platz bereits besetzt zu finden. Freundlich
-    grüssend trat er auf den früher Gekommenen zu, der eben so
-    freundlich den Gruss erwiederte und den Ankömmling einlud,
-    einen Theil des natürlichen Sitzes einzunehmen. Der Fremde
-    betrachtete einige Augenblicke nachdenkend die Züge des
-    Jünglings. Eine dunkle Erinnerung an ein ähnliches Bild
-    aus früherer Zeit schien sich aus der Tiefe seines Innern
-    emporzuarbeiten. — Wir scheinen gleiches Ziel der Reise zu
-    haben, sagte er endlich, indem er die Spange seiner Chlamys
-    lösete und dann der Einladung folgte. Ich habe die Spur
-    deines Rosses bemerkt: sie führt nach Kleonä. — Allerdings,
-    erwiederte jener; über Kleonä nach Korinth. — So können
-    wir Reisegefährten sein, hub Ersterer wieder an; wenn du
-    anders so lange verweilest, bis ich kühler geworden hinaufsteige
-    zu jenem Quell, den wohlwollend die Nymphe zur Erquickung
-    des Wanderers rinnen lässt. — Recht gern, versetzte
-    der Blonde; allein der Mühe des Hinaufsteigens bedarf
-    es nicht. Geh, Manes, fülle den Krug frisch und reiche
-    
-    
-    
-    <pb n="5"/>
-    
-    
-    Becher und Wein noch einmal her, dass ich dem willkommenen
-    Reisegefährten den Becher der Freundschaft zutrinke.
-    Das Anerbieten wurde mit Dank angenommen, und Manes
-    kehrte bald mit dem frischen Trunke zurück. — Möge, sagte
-    der Jüngling, indem er die Schaale dem neuen Bekannten
-    darreichte, möge jeder Tropfen, den dieser Becher birgt, zu
-    einer nie versiegenden Quelle herzlicher Zuneigung zwischen
-    uns werden! Du besitzest wunderbar die Gabe, das Vertrauen
-    der Menschen zu gewinnen. Ich fühle mich hingezogen zu
-    dir, so fremd wir uns auch noch vor wenigen Augenblicken
-    waren. Ich hoffe, wir werden Freunde werden. — Das möge
-    Zeus Philios geben, versetzte der Andere, indem er den Becher
-    empfing und leerte. Sein Blick ruhete wieder, wie vergleichend,
-    auf der Gestalt des Jünglings. Vielleicht sind wir
-    indessen uns nicht ganz so fremd, als du denkst, setzte er
-    dann hinzu, und es dürfte nicht das erste Salz sein, das wir
-    gemeinschaftlich kosteten<ref/>. Wenigstens sind wir doch sicherlich
-    Landsleute; denn klingt auch deine Sprache etwas fremd,
-    so erkennt man doch leicht den Athener, und es bedarf also
-    für mich nur zur Hälfte der Frage, mit der die homerischen
-    Helden sich begegnen:
-    Wer und woher der Männer? wo hausest du? wo die Erzeuger?
-    Allerdings, antwortete lächelnd der Gefragte, habe ich
-    Anspruch auf den Namen eines attischen Bürgers; aber
-    nach sechsjähriger Abwesenheit ist es kein Wunder, wenn
-    ich den Dialekt meiner Vaterstadt nicht mehr so rein spreche,
-    als du. Doch um auf den andern Theil der Frage zu antworten:
-    mein Name ist Charikles, des Charinos Sohn, kein
-    unangesehenes Haus, wenn auch sein Stammbaum sich weder
-    auf Herakles noch auf Hermes zurückführen lässt!<ref/>. Ich aber
-    bin der einzige noch übrige Sprössling meines Stammes, vielersehnt
-    meinem Vater erst nach sechsjähriger Ehe geboren,
-    wenn — er hielt nachdenkend inne und betrachtete ernst
-    einen Ring, den er am vierten Finger der linken Hand trug.
-    
-    
-    
-    <pb n="6"/></p>
-    
-    <p>Wenn es wahr ist, was deine Mutter dir sagte, ergänzte
-    lachend der junge Mann, dessen Mienen man ansah, dass ihm
-    die Bestätigung einer nicht völlig sicheren Vermuthung geworden
-    war. Das ist nun einmal der Punkt, in dem man
-    nichts besseres thun kann, als wie Telemach sich auf Treu
-    und Glauben zu ergeben. Aber welchen Grund konnte eine
-    so lange Abwesenheit von Athen haben? Es geschieht wohl
-    jetzt öfter, dass attische Bürger sich und ihr Vermögen dem
-    Vaterlande entziehen und sich in irgend einer reicheren Gegend
-    des Auslandes niederlassen!<ref/>. War dein Vater vielleicht
-    auch einer von denen, die dem Spruche folgen: wo
-    sich’s gut lebt, da ist das Vaterland <ref n="15"/>? Oder gedachte er an
-    einem anderen Orte besser deine Erziehung vollenden zu können?
-    Gehört es doch eigentlich schon zum Lobe eines guten
-    Bürgers, so wenig als ; möglich unnöthige Reisen gemacht zu
-    haben<ref/>.</p>
-    
-    <p>Nicht doch, erwiederte Charikles. Aus keinem solchen
-    Grunde hat mein Vater einen andern Wohnort gesucht. Niemand
-    konnte besorgter sein, seinem Sohne eine ächt attische
-    Erziehung zu geben!<ref/>. Ich habe ihn oft voll Unwillen darüber 
-    klagen hören, dass viele Väter ungebildete Sklaven, deren
-    Sprache voll Barbarismen sei, ihren Söhnen zu Pädagogen
-    gäben und gleichgültig in der Wahl der Schulen wären. Mir
-    hatte er schon die Amme mit ängstlicher Sorgfalt gewählt.
-    Die Theuerung, welche zur Zeit meiner Geburt herrschte, bot
-    ihm die Gelegenheit, eine anständige, aber durch die Umstände
-    in drückende Lage versetzte Bürgerin dafür zu gewinnen;
-    und was von Wärterinnen und bedienenden Sklaven
-    mich umgab, das wurde wohl geprüft, ob auch Sprache und
-    Sitte nicht ungriechisch sei. Ich erinnere mich noch jetzt
-    mit Vergnügen daran, wie in den Winterabenden die schon
-    ältliche Manto, während die übrigen Sklavinnen um meine
-    Mutter mit Wollarbeiten beschäftigt waren, so artige Geschichten
-    zu erzählen wusste. Ich habe später erst den
-    
-    
-    
-    <pb n="7"/>
-    
-    
-    Unterschied zwischen diesen sinnigen Sagen und Fabeln, und
-    den Märchen voll Aberglauben und gespenstischem Spuk kennen
-    lernen, welche gewöhnlich in dem Munde der Ammen
-    und Wärterinnen leben. Und so war auch mein Pädagog
-    zwar ein etwas grämlicher Alter, der mich oft hart anliess,
-    wenn ich etwa beim Essen die linke Hand statt der rechten
-    gebrauchen wollte, oder mit übereinandergeschlagenen Füssen
-    sass, oder wohl gar, wenn es zur Schule ging, den Blick einmal
-    von dem Schmutze der Strasse aufwärts richtete, wäre
-    es auch nur geschehen, um einer Schwalbe nachzusehen, die
-    mit Jubel als Verkünderin des Frühlings begrüsst wurde!<ref/>;
-    aber das geschah nur eben, weil er voll war von der Idee
-    altattischer Zucht und Sitte.</p>
-    
-    <p>Dein Vater musste wohl sehr vermögend sein, bemerkte
-    der Andere, um weniger auf die sonstige Brauchbarkeit der
-    Sklaven als auf den Anstrich attischer Bildung zu sehen.</p>
-    
-    <p>Er war keineswegs reich, versetzte Charikles, und überdiess
-    hatten Trierarchien und Choregien, wie andere dem
-    Staate gebrachte Opfer ihn bedeutende Summen gekostet;
-    allein wo es meine Erziehung galt, schonte er keine Ausgabe,
-    und ich: weiss noch gar wohl, wie erzürnt er war, als ein
-    Freund einst ihm rieth, mich lieber in die wohlfeilere Schule
-    des Elpias am Theseion<ref/> zu schicken, als zu Hermippos,
-    von dessen Rufe als Lehrer jener Zeit auch du wohl gehört
-    haben wirst.</p>
-    
-    <p>Der junge Mann lächelte und sagte: er ist mir nicht unbekannt;
-    aber wie kam es denn doch, dass dein Vater Athen
-    verliess und auch dich so lange Zeit davon entfernt hielt?</p>
-    
-    <p>Es war nicht sein freier Entschluss, erwiederte jener,
-    sondern eine unglückliche Verkettung von Umständen, von
-    nichtswürdigen Sykophanten benutzt, hat ihn gewaltsam von
-    der Heimat vertrieben. Du gedenkest sicher noch der Bestürzung,
-    welche Athen nach der unglücklichen Schlacht bei
-    Chäroneia ergriff.
-    
-    
-    
-    <pb n="8"/></p>
-    
-    <p>Ob ich ihrer gedenke! Nie wird die Erinnerung an die
-    Schrecken jenes Tages, da die Unglücksbotschaft bekannt
-    wurde, meinem Gedächtnisse entschwinden. Ich sehe es noch
-    vor mir, das Volk, wie es mit Hast durch die Strassen zur
-    Versammlung stürzte, wie an den 'Thüren der Häuser freie
-    Frauen, über der qualvollen Ungewissheit fast den Anstand
-    vergessend, zitternd und angstvoll die Vorübergehenden um
-    Auskunft über das Leben ihrer Männer, ihrer Väter, ihrer
-    Brüder baten; wie in allen Strassen der Stadt bejahrte Leute,
-    die längst das Geseiz vom Dienste der Waffen frei sprach,
-    Männer auf der Schwelle des Greisenalters, im Kriegskleide
-    umherzogen; wie der attische Stolz es mit tiefem Schmerze
-    empfand, als die dringende Gefahr nach dem Verluste von
-    3000 Bürgern zu dem verzweifelten Beschlusse getrieben hatte,
-    dass Sklaven frei, Schutzgenossen Bürger sein, die mit Verlust
-    der Bürgerehre Bestraften ihre Rechte wieder erlangen
-    sollten <ref/>.</p>
-    
-    <p>Du schilderst treu und wahr, fuhr Charikles fort. Ich
-    selbst, wiewohl noch ein Knabe, nicht viel über vierzehn Jahre
-    und sonst völlig unbekümmert um jede öffentliche Angelegenheit,
-    bin Zeuge genug der allgemeinen Niedergeschlagenheit
-    gewesen, und überdies empfand nicht leicht ein Haus schwerer
-    die Schrecken der drohenden Zukunft als das unsrige. Mein
-    Vater war wenige Stunden vor Veröffentlichung der Nachricht2<ref/>
-    zu Schiffe gegangen. Er hatte einem lykischen Kaufmanne
-    eine bedeutende Summe vorgestreckt, um Wein und
-    andere Waaren nach Kreta und eine Ladung ägyptischen Getreides
-    zurück nach Athen zu führen?<ref/>. Der muthmassliche
-    Termin seiner Rückkehr war längst vorüber, als die Nachricht
-    kam, dass das Schiff in Epidauros eingelaufen sei und
-    die Ladung dort verkauft werde. Mein Vater, nicht nur mit
-    dem Verluste seines Capitals bedroht, sondern auch den Vorwurf
-    fürchtend, zu gesetzwidrigem Handel das Geld geliehen
-    zu haben<ref/>, benutzte, wiewohl krank, ein eben nach jenem
-    
-    
-    <pb n="9"/></p>
-    
-    <p>Hafen abgehendes Schiff, um den Wortbrüchigen persönlich
-    sur Rechenschaft zu ziehen. In der That traf er ihn an, und
-    erbielt von ihm das Versprechen der Zahlung, sobald die Ladung
-    verkauft sein werde; allein die Reise hatte seinen Zustand
-    verschlimmert, und die schnell nach Epidauros gelangte
-    Kunde von dem Unglück Athens erschütterte ihn so heftig,
-    dass er schwer erkrankt dort zurückbleiben musste. Der treulose
-    Lykier aber benutzte die Zeit seiner Leiden und schiffte
-    mit dem unverkauften Theile der Ladung nach Athen, wo die
-    Umstände bessere Preise hoffen liessen. Hier traf ihn mein
-    Vater noch an, als er halbgenesen zurückkehrte. Die Stadt
-    hatte sich von ihrem Schrecken erholt und die Befürchtung
-    weiteren Unglücks war vorüber: Philipp hatte sich gemässigt
-    gezeigt. Um so freier aber war das Feld für Verfolgungen
-    und Verdächtigungen gegen Alle, denen man etwa einen
-    Schein der Verschuldung an dem Unglücke des Staats aufbürden
-    konnte.</p>
-    
-    <p>Ich kann den weitern Verlauf errathen, sagte der Fremde.
-    Man wird deinen Vater angeklagt haben, im Augenblicke der
-    Gefahr und gegen den ausdrücklichen Volksbeschluss<ref n="25"/> das
-    Vaterland verlassen und preisgegeben zu haben?</p>
-    
-    <p>Niemand hätte wohl daran gedacht, wenn nicht der nichtswürdige
-    Lykier, um sich seiner Verbindlichkeit zu entziehen
-    und selbst doppelter Anklage zu entgehen, zwei berüchtigte
-    Sykophanten bestochen hätte. Mein Vater verachtete anfangs
-    die Drohung der Klage; als er jedoch sich hier und da kalt
-    aufgenommen sah, als er erfuhr, dass ein Paar bedeutende
-    ihm übelwollende Volksmänner gegen ihn auftreten würden,
-    da erwog er die Gefahr, von einem Augenblicke leidenschaftlicher
-    Aufregung sein Leben abhängig zu machen; er gedachte
-    des Schicksals, das unvermuthet Lysikles und Andere
-    betroffen hatte?<ref/>, und der Schmach, welche über sein Haus
-    kommen könnte, und entschloss sich mit dem Bewusstsein
-    völliger Unschuld der Anklage auszuweichen. Es war ein
-    
-    
-    
-    <pb n="10"/>
-    
-    
-    Augenblick: der schmerzlichsten Bestürzung, als eines Abends
-    mein Vater, der im Stillen alle Vorbereitungen zur Reise getroffen
-    hatte, uns ankündigte, dass wir Athen verlassen müssten,
-    um künftig als Fremde bei Fremden zu leben. Wie Verbrecher
-    schlichen wir, statt im lichten Hafen, im Angesichte
-    glückwünschender Freunde uns einzuschiffen, im Dunkel der
-    Nacht durch das kleine Thor nach der Küste hin, wo schon
-    das Schiff unser wartete, dem bereits unsere Sklaven das Gepäck
-    überliefert hatten?<ref/>. Wir gingen zunächst nach Trözen;
-    allein das ungünstige Klima des Ortes2<ref/> trieb uns von dort
-    weiter nach Sicilien, und so haben wir fünf Jahre in Syrakus
-    gewohnt, ohne dass jedoch die Zeit oder die Entfernung die
-    Leiden meiner Aeltern vermindert hätte. Schon im ersten
-    Jahre unseres dortigen Aufenthaltes starb meine Mutter; vor
-    wenigen Monaten ist ihr auch mein Vater gefolgt; und nachdem
-    ich den Pflichten der Pietät genügt und den Rest unseres
-    Vermögens flüssig gemacht habe, kehre ich nun allein
-    zurück, voll Schmerz, und doch voll Sehnsucht; denn nichts
-    ersetzt doch das Vaterland, und schön vor allen Städten ist
-    Athen, wiewohl mein Vater immer sagte, es sei zwar voll
-    Reiz und Anmuth für den Fremden, der es besuche, aber
-    voll Gefahren für den Bewohner <ref/>.</p>
-    
-    <p>Er hatte Recht, bemerkte der junge Mann. Was der
-    Sehstern im Auge, das ist in Hellas Athen®<ref/>. Aber ein
-    leichtsinniges, unzuverlässiges Volk; eben so rasch begeistert
-    für jeden hohen Gedanken, als hingerissen zu jedem Greuel
-    der Ungerechtigkeit; jetzt tief ergriffen und zu Thränen des
-    Mitleids gerührt durch das tragische Ende eines Oedipus oder
-    den Schmerz unglücklicher Troörinnen, und von da hingehend,
-    um durch ein Gewebe boshafter Ränke Unglück und Verderben
-    über das Haus des Mitbürgers zu verhängen; ein verzogenes
-    Kind voll Launen und Eitelkeit; sich sonnend in dem
-    Glanze einer früheren Zeit, deren Flecken von dem Lichte
-    grosser Thaten überstrahlt werden; sich brüstend mit dem
-    
-    
-    
-    <pb n="11"/>
-    
-    
-    eiteln Namen des reinsten Hellenenblutes, wie mit dem Ruhme,
-    zuerst Gesetz und Recht geübt zu haben, und in seinem
-    Schosse die giftigste Brut nichtswürdiger Sykophanten nährend
-    und der Laune des Augenblicks jedes Gesetz unterordnend;
-    den Namen der Freiheit beständig im Munde führend,
-    und mit Tod oder Verbannung das freie Wort bedrohend, das
-    nicht dem Sinne der Menge entspricht. Und doch wiederum
-    ein Charakter von der liebenswürdigsten Mischung ernster und
-    heiterer Elemente; leicht und fröhlich durch das Leben hingehend,
-    zufrieden, wenn ihm zu streiten oder zu lachen gegeben
-    wird; gleich empfänglich für die erhabenste Dichtung
-    der tragischen Bühne und die possenhafteste Karikatur der
-    Komödie, für den Umgang mit dem ernstesten Philosophen
-    wie mit der .leichtfertigsten Hetäre; karg im eigenen Haushalte
-    und
-    schlechten Kleidern, unbeschuhet, ohne ihnen einen Sklaven
-    zur Bedienung oder die Decken zum Nachtlager oder irgend
-    etwas aus der reichen Verlassenschaft ihres Vaters mitzu-
-    geben. Da standen nun die Jüngeren ganz hülflos. Die
-    Mutter war seit einem Jahre todt; der ältere Bruder suchte
-    im Auslande Kriegsdienste; niemand stand ihnen zur Seite,
-    der gegen den treulosen Vormund den Beweis hätte führen
-    können. Ein verarmter Verwandter, selbst in grosser Dürftig-
-    keit lebend, nahm sich der Waisen an. Er war es, der in
-    jener Schule des Grammatikers als Gehülfe arbeitete und
-    natürlich auch darauf dachte, dass der angenommene Knabe
-    durch Dienste, zu denen er freilich nicht durch die Geburt
-    bestimmt war, etwas zu seinem Unterhalte beitrug. Ktesi-
-    
-    Google
-    
-    <pb n="14"/>
-    
-    14 Erste Scene.
-    
-    phons Verstand und gefälliges Wesen gewannen ihm man-
-    chen Freund unter den Knaben, welche die Schule besuch-
-    ten, und als einer derselben, der einzige Sohn eines ange-
-    sehenen Bürgers, frühzeitig starb, nahm dessen Vater den
-    vierzehnjährigen Knaben, den auch er lieb gewonnen hatte,
-    an Kindes Statt an.
-    
-    Mein Wohlthäter ist nun auch todt, schloss Ktesiphon
-    seine Erzählung, und ich war eben in Argos, um eine Schuld
-    einzutreiben, welche zu meinem Erbe gehört, das übrigens
-    zwar nicht sehr bedeutend ist, aber doch mir die Mittel ge-
-    währt, in der Einfachheit, die ich liebe, zu leben. Glück-
-    licherweise zog ich dem kürzeren Fusswege diese Strasse, ‘die
-    mehr Schatten bietet, vor, und musste so der Erste sein, der
-    dich auf der Heimkehr ins Vaterland begrüsst. Aber eines
-    sage mir: wie führt: dich dein Weg, wenn du aus Sicilien
-    kommst, nach Kleonä?
-    
-    Das Schiff, antwortete Charikles, mit dem ich zurück-
-    gekehrt bin, lief in den Hafen von Epidauros ein. Ich be-
-    schloss, den Rest der Reise zu Lande zu machen, und wählte
-    den Weg über Argos und Kleonä, weil der nähere Gebirgs-
-    pfad nach Korinth den Hufen meines Pfordes weniger zuge-
-    sagt haben würde) und ich in Argos zugleich einen alten
-    Freund meines Vaters besuchen wollte.
-    
-    Die Freunde waren unter diesen Gesprächen in das Thal
-    gelangt, auf welches vom Hügel herab die terrassenartig über
-    einander sich erhebenden Häuser von Kleonä herabsahen 3).
-    Hier wurde eine kurze Zeit gerastet und dann die Reise nach
-    Korinth fortgesetzt.
-    
-    Google
-    chtzig
-    Stadien bis Korinth?<ref/>.</p>
-    
-    <p>Die Freunde brachen auf. Charikles zog seinem von
-    Manes wieder gezäumten Rosse den Zügel über den Kopf und
-    liess es hinter sich drein gehen, indem er selbst an Ktesipbons
-    Seite die Reise zu Fuss fortsetzte und sich von diesem die
-    ihn betreffenden Ereignisse der letzten acht Jahre erzählen
-    liess. — Ktesiphon?<ref/> war der Sohn eines wohlhabenden attischen
-    Bürgers, der, nachdem ihm aus einer früheren Ehe ein
-    einziger Sohn am Leben geblieben war, zum zweiten Male
-    sich mit der Tochter seines Bruders verheirathet hatte. Aus
-    dieser zweiten Ehe stammte nebst einer jüngeren Schwester
-    Ktesiphon. Der Vater, in weitläufigen Handelsverbindungen
-    reichen Gewinn suchend, sah sich zu einer Reise nach Thrakien
-    und dem Pontus veranlasst. Ehe er Athen verliess,
-    
-    
-    
-    <pb n="13"/>
-    
-    
-    übergab er seinem Bruder, den ja doppelte Bande an seine Kinder
-    knüpften, für den Fall, dass ihm etwas zustossen sollte, ein
-    Testament und zugleich theils baar theils in Nachweisungen
-    ausgeliehener Gelder ein Vermögen von mehr als funfzehn
-    Talenten. Er kehrte nicht zurück. Der treulose Vormund
-    verheimlichte seinen Tod, bis er sich im Besitze der Papiere
-    sah, welche der Verstorbene versiegelt zurückgelassen hatte.
-    Dann trat er mit der Erklärung hervor; verheirathete die
-    Wittwe, nicht mit der vollen Mitgift, die ihr bestimmt war,
-    und übernahm die Erziehung des achtjährigen Ktesiphon und
-    seiner Schwester, so wie die Verpflegung des älteren Stief-.
-    bruders. Als aber dieser das achtzehnte Jahr erreicht hatte
-    und für mündig erklärt war, da rief er die drei Geschwister
-    zu sich, setzte ihnen auseinander, dass ihr Vater nicht mehr
-    als zwanzig Minen in Silber und dreissig Goldstateren hinterlassen,
-    dass er nun schon ein Bedeutendes mehr auf ihre Erziehung
-    verwendet habe, jetzt aber nicht mehr in der Lage
-    sei, weiter für sie sorgen zu können. Du bist ein Mann,
-    sprach er zu dem Aeltesten: deine Sache ist es, nun selbst
-    für euern Unterhalt zu sorgen. Damit wies er die Armen aus
-    dem Hause ihres Vaters, das er selbst bezogen hatte, in 
-    schlechten Kleidern, unbeschuhet, ohne ihnen einen Sklaven
-    zur Bedienung oder die Decken zum Nachtlager oder irgend
-    etwas aus der reichen Verlassenschaft ihres Vaters mitzugeben.
-    Da standen nun die Jüngeren ganz hülflos. Die
-    Mutter war seit einem Jahre todt; der ältere Bruder suchte
-    im Auslande Kriegsdienste; niemand stand ihnen zur Seite,
-    der gegen den treulosen Vormund den Beweis hätte führen
-    können. Ein verarmter Verwandter, selbst in grosser Dürftigkeit
-    lebend, nahm sich der Waisen an. Er war es, der in
-    jener Schule des Grammatikers als Gehülfe arbeitete und
-    natürlich auch darauf dachte, dass der angenommene Knabe
-    durch Dienste, zu denen er freilich nicht durch die Geburt
-    bestimmt war, etwas zu seinem Unterhalte beitrug. Ktesiphons
-    
-    <pb n="14"/></p>
-    
-    <p>Verstand und gefälliges Wesen gewannen ihm manchen
-    Freund unter den Knaben, welche die Schule besuchten,
-    und als einer derselben, der einzige Sohn eines angesehenen
-    Bürgers, frühzeitig starb, nahm dessen Vater den
-    vierzehnjährigen Knaben, den auch er lieb gewonnen hatte,
-    an Kindes Statt an.</p>
-    
-    <p>Mein Wohlthäter ist nun auch todt, schloss Ktesiphon
-    seine Erzählung, und ich war eben in Argos, um eine Schuld
-    einzutreiben, welche zu meinem Erbe gehört, das übrigens
-    zwar nicht sehr bedeutend ist, aber doch mir die Mittel gewährt,
-    in der Einfachheit, die ich liebe, zu leben. Glücklicherweise
-    zog ich dem kürzeren Fusswege diese Strasse, ‘die
-    mehr Schatten bietet, vor, und musste so der Erste sein, der
-    dich auf der Heimkehr ins Vaterland begrüsst. Aber eines
-    sage mir: wie führt: dich dein Weg, wenn du aus Sicilien
-    kommst, nach Kleonä?</p>
-    
-    <p>Das Schiff, antwortete Charikles, mit dem ich zurückgekehrt
-    bin, lief in den Hafen von Epidauros ein. Ich beschloss,
-    den Rest der Reise zu Lande zu machen, und wählte
-    den Weg über Argos und Kleonä, weil der nähere Gebirgspfad
-    nach Korinth den Hufen meines Pfordes weniger zugesagt
-    haben würde<ref n="34"/> und ich in Argos zugleich einen alten
-    Freund meines Vaters besuchen wollte.</p>
-    
-    <p>Die Freunde waren unter diesen Gesprächen in das Thal
-    gelangt, auf welches vom Hügel herab die terrassenartig über
-    einander sich erhebenden Häuser von Kleonä herabsahen <ref n="35"/>.
-    Hier wurde eine kurze Zeit gerastet und dann die Reise nach
-    Korinth fortgesetzt.</p>
+
+<head>ERSTE SCENE: DIE FREUNDE.</head>
+<pb n="1"/>
+
+<p>Unweit der Trümmer von Mykenä, jener uralten Zeugen frühester griechischer Fürstengrösse, die auch in der Zerstörung noch riesenhaft dem vierten Jahrtausende ihrer Dauer entgegengehen, windet sich zwischen steilen Felsenwänden ein enger Gebirgspass in nördlicher Richtung dem Thale zu, in welchem auf einem Hügel die kleine, aber von Homer nicht ohne Lob genannte Stadt Kleonä gelegen haben mag<ref n="ZZ"/>. Dieser schmale Weg war im Alterthume auch für Wagen befahrbar<ref n="ZZ"/>; jetzt ist er so verwildert, dass selbst zu Pferde die Reise nicht ohne Beschwerden ist<ref n="ZZ"/>. An der westlichen Felsenwand drängt sich durch dichtes Gestrüpp ein nördlich entspringender Bach. Die schroffen Steinmassen werden durch zahlreiche Schluchten und Höhlen unterbrochen, deren eine noch jetzt, wie zu Pausanias Zeit, als Schlupfwinkel des Löwen von Nemea gezeigt wird<ref n="ZZ"/>. Die ganze Gegend bietet den Anblick eines vielfach zerrissenen Gebirgszuges dar, wo jenseit der westlichen Höhen die Säulen des Jupitertempels die Stelle anzeigen, an der Nemea lag, während zwei Stunden südlich von Mykenä das alte Argos in moderner Umgestaltung fortlebt<ref n="ZZ"/>.</p>
+<p xml:lang="eng">Not far from the ruins of Mycenae, those ancient witnesses of the earliest Greek princely greatness, which, even in destruction, still stand imposingly against the fourth millennium of their existence, a narrow mountain pass winds between steep rock faces in a northern direction towards the valley, in which on a hill the small city of Cleonae, praised by Homer, might have been located<ref n="ZZ"/>. This narrow path was also accessible for wagons in antiquity<ref n="ZZ"/>; now it has become so overgrown that even traveling on horseback is not without its difficulties<ref n="ZZ"/>. On the western rock face, a brook springing from the north makes its way through thick undergrowth. The rugged rock masses are interspersed with numerous gorges and caves, one of which is still shown, as in the time of Pausanias, as the hiding place of the Lion of Nemea<ref n="ZZ"/>. The entire area presents the sight of a rugged mountain range, where beyond the western peaks the pillars of the Temple of Jupiter indicate the location of Nemea, while two hours south of Mycenae, old Argos continues to live on in a modern transformation<ref n="ZZ"/>.</p>
+
+<p>Es war im letzten Monat der hundert und elften Olympiade, als ein junger Mann, dessen Jahre kaum über das Ephebenalter hinausreichen konnten, diese Strasse zog. Ihn
+
+
+
+<pb n="2"/>
+ trug ein dunkelfarbiges Ross<ref n="6"/>, das zwar durch kein Brandmal zum Abkömmling einer der berühmteren Racen gestempelt war, aber kräftig und muthvoll der edlen Gestalt seines Reiters nicht unwürdig erschien. Er selbst, wiewohl breit um Brust und Schultern, verrieth doch mehr schlanke und weichere, als gedrängte und muskelkräftige Formen des Körpers. Der sanft geröthete Nacken hob sich stolz und frei; aber in die Lebhaftigkeit des blauen Auges mischte sich ein fast schmachtender, Liebe fordernder und verheissender Blick. Unter der breiten Krempe des braunen Reisehuts drängte sich eine Fülle blonder Locken hervor, und ein zarter Flaum sprossenden Barthaars umkränzte Wangen und Kinn. Seine ganze Erscheinung, der edle Anstand und der feine Schnitt des Gesichts kündigten einen Jüngling von guter Herkunft und sorgfältiger Erziehung an<ref n="7"/>.</p>
+
+<p xml:lang="eng">It was in the last month of the 111th Olympiad when a young man, who seemed to be just past adolescence, took this road. He was riding a dark-colored horse<ref n="6"/>, which, although it did not bear any brand marking it as offspring of one of the more famous races, looked strong and spirited, worthy of the noble figure of its rider. He himself, though broad in chest and shoulders, revealed a more slender and softer physique than a compact and muscular one. The gently reddened nape of his neck stood proudly and freely; but into the liveliness of his blue eyes was mixed an almost languishing, love-demanding, and promising gaze. Under the wide brim of the brown traveling hat, a profusion of blonde curls peeked out, and a delicate fuzz of emerging beard encircled his cheeks and chin. His entire appearance, the noble demeanor, and the fine features of his face indicated a young man of good lineage and careful upbringing<ref n="7"/>.</p>
+
+<p>Ihm folgte ein einziger Sklave, der kaum zehn Jahre mehr zu zählen schien als sein Herr, und rüstig hinter der Spur des Rosses einher schritt, wiewohl die Schweisstropfen, die von seiner Stirne rannen, wohl erkennen liessen, dass das Bündel, worin er auf seinen Schultern die Decken zum Nachtlager und das nöthigste Reisegeräthe trug, keine leichte Bürde für die Schwüle eines sonnigen Tages im Monate Skirophorion sei. </p>
+
+<p xml:lang="eng">Following him was a single slave, who seemed only about ten years older than his master, and briskly followed the horse's path, although the beads of sweat dripping from his forehead suggested that the bundle he carried on his shoulders, containing the blankets for the night and essential travel gear, was no light burden on a hot sunny day in the month of Skirophorion.</p>
+
+<p>Die beiden Wanderer waren an einer Einbiegung der östlichen Bergeswand angekommen: einem kleinen Halbkreise, dessen grüner Rasenteppich von dichtem Gebüsche blühender Myrten eingefasst wurde, zwischen denen hier und da Stechpalmen, wie zum Schutze des Gesträuchs, die spitze Waffe ihrer glänzenden Blätter hervorstreckten, während am Fusse der Umsäumung und zwischen dem herabgerollten Gesteine üppig wuchernde Farrenkräuter ihre hellgrünen Fächer entrollt hatten, und darüber die rothen Früchte des Erdbeerbaums mit den gelben Blüthenbüscheln des Salbey abwechselnd die Nacktheit der Felsen dürftig, aber malerisch 
+
+
+
+<pb n="3"/>
+
+ kleideten<ref n="8"/>. Der Reiter hielt sein Pferd an und sagte zu dem Sklaven gewendet: Manes, wie hoch mag es am Tage sein?
+— Mindestens schon um die Zeit, wo der Markt sich füllt<ref n="9"/>, antwortete dieser. — So lass uns hier Halt machen. Schwerlich dürften wir einen Ort finden, der einladender wäre, einen Imbiss einzunehmen. Der Vorsprung des Felsen schützt vor den brennenden Sonnenstrahlen; diese mit Moos überwachsenen Steinblöcke sind wie absichtlich für die Ruhe des Wanderers geschaffen, und dort, etwas weiter hinauf, sehe ich einen Quell aus dem Felsen hervorsprudeln, der einen frischen Trunk verspricht. — Mit diesen Worten sprang er vom Pferde, rieb ihm mit einer Hand voll Laub den schaumigen Schweiss von Hals und Rücken, und entzäumte es dann, damit es sich gütlich thue in dem hohen, die Strasse zu beiden Seiten einfassenden Grase, von dem es schon dann und wann im Vorbeigehen genascht hatte!<ref n="10"/>. — Unterdessen hatte Manes bereitwillig sein Bündel abgelegt und langte daraus Brod, sicilischen Käse und getrocknete Feigen hervor, denen er auch einige frische, die er unterwegs gepflückt hatte, beifügte, für sich aber Lauch und Zwiebeln, ebenfalls auf dem Wege erbeutet, bei Seite legte!<ref n="11"/>. Ein kleiner Schlauch voll mendäischen Weins, von dem Gastfreunde in Argos für die Reise gefüllt, und eine silberne Trinkschale<ref n="12"/> vollendeten den Apparat zu dem frugalen Frühstücke, dessen beste Würze die vorhergegangene Anstrengung war. Bald hatte auch Manes die Anhöhe erstiegen, wo aus dem Gestein der Quell mit starkem Strahle hervordrang, und brachte den irdenen Krug mit Wasser gefüllt zurück, dessen Kälte trefflich zu Statten kam, um den von der Wärme des Tags matt gewordenen Wein zu erfrischen.</p>
+
+<p xml:lang="eng">The two travelers had reached a bend in the eastern mountain wall: a small semicircle, whose green grass carpet was framed by dense flowering myrtle bushes. Among them, here and there, holly bushes, as if to protect the shrubbery, extended the sharp weapon of their shiny leaves. At the foot of the border and between the fallen rocks, lush ferns had unfurled their bright green fronds, and above them, the red fruits of the strawberry tree alternated with the yellow flower clusters of the sage, modestly but picturesquely dressing the bareness of the rocks<ref n="8"/>. The rider stopped his horse and, turning to the slave, said, "Manes, what time of day do you think it is?" — "At least around the time when the market gets busy," he replied<ref n="9"/>. — "Then let's stop here. We're unlikely to find a more inviting place to have a snack. The rock's overhang protects from the scorching sunrays; these moss-covered boulders seem to be made specifically for a traveler's rest, and there, a bit further up, I see a spring gushing from the rock, promising a fresh drink." — With these words, he jumped off the horse, wiped the foamy sweat from its neck and back with a handful of leaves, and then unbridled it, allowing it to graze on the tall grass lining both sides of the road, which it had occasionally nibbled on as they passed<ref n="10"/>. — Meanwhile, Manes had willingly set down his bundle, and from it took out bread, Sicilian cheese, and dried figs, to which he added some fresh ones he had picked along the way. For himself, he set aside leeks and onions, also acquired during their journey<ref n="11"/>. A small flask filled with Mendean wine, gifted by hosts in Argos for their journey, and a silver drinking bowl<ref n="12"/> completed the apparatus for the frugal breakfast, the best spice of which was the exertion that preceded it. Soon, Manes had also climbed the hill where the spring burst forth from the rock with a strong jet and brought back a clay jug filled with water, which was perfectly cool for refreshing the wine that had grown tepid from the heat of the day.</p>
+
+<p>Der junge Mann hatte sein Morgenmahl bereits beendigt und ruhete nur noch behaglich auf der bemoosten Steinplatte, als ein zweiter Reisender um die Ecke des Felsen bog, um, wie es schien, den schon früher gekannten Ruheplatz aufzun
+
+
+
+<pb n="4"/>
+
+ suchen. Er war zu Fusse und ohne Begleitung; auch seine Kleidung, wiewohl nicht wider den Anstand verstossend, verrieth keine besondere Wohlhabenheit; aber es war eine Gestalt voll Kraft und entschlossener Haltung, die sich wunderbar mit einer Geschmeidigkeit und Gewandtheit der Glieder paarte, wie sie nur eine vollendete Bildung in den Gymnasien zu geben vermochte. Den gediegenen Körperformen entsprach der Ausdruck des männlich schönen Gesichts. Das lebhafte Auge unter der hohen von einem Kranze schwarzlockiger Haare umschlossenen Stirne verrieth eben so viel durchdringenden Verstand und scharfen Beubachtungsgeist, als der fein geformte Mund, neben einem Zuge von Verschlagenheit, freundliches Wohlwollen verhiess. Man mochte am treffendsten ihn einer Hermesgestalt in der ersten Blüthe des beginnenden Mannosalters vergleichen. — Er schien weder betroffen, noch übel gelaunt, den Platz bereits besetzt zu finden. Freundlich grüssend trat er auf den früher Gekommenen zu, der eben so freundlich den Gruss erwiederte und den Ankömmling einlud, einen Theil des natürlichen Sitzes einzunehmen. Der Fremde betrachtete einige Augenblicke nachdenkend die Züge des Jünglings. Eine dunkle Erinnerung an ein ähnliches Bild aus früherer Zeit schien sich aus der Tiefe seines Innern emporzuarbeiten. — Wir scheinen gleiches Ziel der Reise zu haben, sagte er endlich, indem er die Spange seiner Chlamys lösete und dann der Einladung folgte. Ich habe die Spur deines Rosses bemerkt: sie führt nach Kleonä. — Allerdings, erwiederte jener; über Kleonä nach Korinth. — So können wir Reisegefährten sein, hub Ersterer wieder an; wenn du anders so lange verweilest, bis ich kühler geworden hinaufsteige zu jenem Quell, den wohlwollend die Nymphe zur Erquickung des Wanderers rinnen lässt. — Recht gern, versetzte der Blonde; allein der Mühe des Hinaufsteigens bedarf es nicht. Geh, Manes, fülle den Krug frisch und reiche
+
+
+
+<pb n="5"/>
+ Becher und Wein noch einmal her, dass ich dem willkommenen Reisegefährten den Becher der Freundschaft zutrinke. Das Anerbieten wurde mit Dank angenommen, und Manes kehrte bald mit dem frischen Trunke zurück. — Möge, sagte der Jüngling, indem er die Schaale dem neuen Bekannten darreichte, möge jeder Tropfen, den dieser Becher birgt, zu einer nie versiegenden Quelle herzlicher Zuneigung zwischen uns werden! Du besitzest wunderbar die Gabe, das Vertrauen der Menschen zu gewinnen. Ich fühle mich hingezogen zu dir, so fremd wir uns auch noch vor wenigen Augenblicken waren. Ich hoffe, wir werden Freunde werden. — Das möge Zeus Philios geben, versetzte der Andere, indem er den Becher empfing und leerte. Sein Blick ruhete wieder, wie vergleichend, auf der Gestalt des Jünglings. Vielleicht sind wir indessen uns nicht ganz so fremd, als du denkst, setzte er dann hinzu, und es dürfte nicht das erste Salz sein, das wir gemeinschaftlich kosteten<ref n="ZZ"/>. Wenigstens sind wir doch sicherlich Landsleute; denn klingt auch deine Sprache etwas fremd, so erkennt man doch leicht den Athener, und es bedarf also für mich nur zur Hälfte der Frage, mit der die homerischen Helden sich begegnen: Wer und woher der Männer? wo hausest du? wo die Erzeuger? Allerdings, antwortete lächelnd der Gefragte, habe ich Anspruch auf den Namen eines attischen Bürgers; aber nach sechsjähriger Abwesenheit ist es kein Wunder, wenn ich den Dialekt meiner Vaterstadt nicht mehr so rein spreche, als du. Doch um auf den andern Theil der Frage zu antworten: mein Name ist Charikles, des Charinos Sohn, kein unangesehenes Haus, wenn auch sein Stammbaum sich weder auf Herakles noch auf Hermes zurückführen lässt!<ref n="ZZ"/>. Ich aber bin der einzige noch übrige Sprössling meines Stammes, vielersehnt meinem Vater erst nach sechsjähriger Ehe geboren, wenn — er hielt nachdenkend inne und betrachtete ernst einen Ring, den er am vierten Finger der linken Hand trug.
+
+
+
+<pb n="6"/></p>
+
+<p>Wenn es wahr ist, was deine Mutter dir sagte, ergänzte lachend der junge Mann, dessen Mienen man ansah, dass ihm die Bestätigung einer nicht völlig sicheren Vermuthung geworden war. Das ist nun einmal der Punkt, in dem man nichts besseres thun kann, als wie Telemach sich auf Treu und Glauben zu ergeben. Aber welchen Grund konnte eine so lange Abwesenheit von Athen haben? Es geschieht wohl jetzt öfter, dass attische Bürger sich und ihr Vermögen dem Vaterlande entziehen und sich in irgend einer reicheren Gegend des Auslandes niederlassen!<ref n="ZZ"/>. War dein Vater vielleicht auch einer von denen, die dem Spruche folgen: wo sich’s gut lebt, da ist das Vaterland <ref n="15"/>? Oder gedachte er an einem anderen Orte besser deine Erziehung vollenden zu können? Gehört es doch eigentlich schon zum Lobe eines guten Bürgers, so wenig als ; möglich unnöthige Reisen gemacht zu haben<ref n="ZZ"/>.</p>
+
+<p>Nicht doch, erwiederte Charikles. Aus keinem solchen Grunde hat mein Vater einen andern Wohnort gesucht. Niemand konnte besorgter sein, seinem Sohne eine ächt attische Erziehung zu geben!<ref n="ZZ"/>. Ich habe ihn oft voll Unwillen darüber  klagen hören, dass viele Väter ungebildete Sklaven, deren Sprache voll Barbarismen sei, ihren Söhnen zu Pädagogen gäben und gleichgültig in der Wahl der Schulen wären. Mir hatte er schon die Amme mit ängstlicher Sorgfalt gewählt. Die Theuerung, welche zur Zeit meiner Geburt herrschte, bot ihm die Gelegenheit, eine anständige, aber durch die Umstände in drückende Lage versetzte Bürgerin dafür zu gewinnen; und was von Wärterinnen und bedienenden Sklaven mich umgab, das wurde wohl geprüft, ob auch Sprache und Sitte nicht ungriechisch sei. Ich erinnere mich noch jetzt mit Vergnügen daran, wie in den Winterabenden die schon ältliche Manto, während die übrigen Sklavinnen um meine Mutter mit Wollarbeiten beschäftigt waren, so artige Geschichten zu erzählen wusste. Ich habe später erst den
+
+
+
+<pb n="7"/>
+ Unterschied zwischen diesen sinnigen Sagen und Fabeln, und den Märchen voll Aberglauben und gespenstischem Spuk kennen lernen, welche gewöhnlich in dem Munde der Ammen und Wärterinnen leben. Und so war auch mein Pädagog zwar ein etwas grämlicher Alter, der mich oft hart anliess, wenn ich etwa beim Essen die linke Hand statt der rechten gebrauchen wollte, oder mit übereinandergeschlagenen Füssen sass, oder wohl gar, wenn es zur Schule ging, den Blick einmal von dem Schmutze der Strasse aufwärts richtete, wäre es auch nur geschehen, um einer Schwalbe nachzusehen, die mit Jubel als Verkünderin des Frühlings begrüsst wurde!<ref n="ZZ"/>; aber das geschah nur eben, weil er voll war von der Idee altattischer Zucht und Sitte.</p>
+
+<p>Dein Vater musste wohl sehr vermögend sein, bemerkte der Andere, um weniger auf die sonstige Brauchbarkeit der Sklaven als auf den Anstrich attischer Bildung zu sehen.</p>
+
+<p>Er war keineswegs reich, versetzte Charikles, und überdiess hatten Trierarchien und Choregien, wie andere dem Staate gebrachte Opfer ihn bedeutende Summen gekostet; allein wo es meine Erziehung galt, schonte er keine Ausgabe, und ich: weiss noch gar wohl, wie erzürnt er war, als ein Freund einst ihm rieth, mich lieber in die wohlfeilere Schule des Elpias am Theseion<ref n="ZZ"/> zu schicken, als zu Hermippos, von dessen Rufe als Lehrer jener Zeit auch du wohl gehört haben wirst.</p>
+
+<p>Der junge Mann lächelte und sagte: er ist mir nicht unbekannt; aber wie kam es denn doch, dass dein Vater Athen verliess und auch dich so lange Zeit davon entfernt hielt?</p>
+
+<p>Es war nicht sein freier Entschluss, erwiederte jener, sondern eine unglückliche Verkettung von Umständen, von nichtswürdigen Sykophanten benutzt, hat ihn gewaltsam von der Heimat vertrieben. Du gedenkest sicher noch der Bestürzung, welche Athen nach der unglücklichen Schlacht bei Chäroneia ergriff.
+
+
+
+<pb n="8"/></p>
+
+<p>Ob ich ihrer gedenke! Nie wird die Erinnerung an die Schrecken jenes Tages, da die Unglücksbotschaft bekannt wurde, meinem Gedächtnisse entschwinden. Ich sehe es noch vor mir, das Volk, wie es mit Hast durch die Strassen zur Versammlung stürzte, wie an den 'Thüren der Häuser freie Frauen, über der qualvollen Ungewissheit fast den Anstand vergessend, zitternd und angstvoll die Vorübergehenden um Auskunft über das Leben ihrer Männer, ihrer Väter, ihrer Brüder baten; wie in allen Strassen der Stadt bejahrte Leute, die längst das Geseiz vom Dienste der Waffen frei sprach, Männer auf der Schwelle des Greisenalters, im Kriegskleide umherzogen; wie der attische Stolz es mit tiefem Schmerze empfand, als die dringende Gefahr nach dem Verluste von
+3000 Bürgern zu dem verzweifelten Beschlusse getrieben hatte, dass Sklaven frei, Schutzgenossen Bürger sein, die mit Verlust der Bürgerehre Bestraften ihre Rechte wieder erlangen sollten <ref n="ZZ"/>.</p>
+
+<p>Du schilderst treu und wahr, fuhr Charikles fort. Ich selbst, wiewohl noch ein Knabe, nicht viel über vierzehn Jahre und sonst völlig unbekümmert um jede öffentliche Angelegenheit, bin Zeuge genug der allgemeinen Niedergeschlagenheit gewesen, und überdies empfand nicht leicht ein Haus schwerer die Schrecken der drohenden Zukunft als das unsrige. Mein Vater war wenige Stunden vor Veröffentlichung der Nachricht2<ref n="ZZ"/> zu Schiffe gegangen. Er hatte einem lykischen Kaufmanne eine bedeutende Summe vorgestreckt, um Wein und andere Waaren nach Kreta und eine Ladung ägyptischen Getreides zurück nach Athen zu führen?<ref n="ZZ"/>. Der muthmassliche Termin seiner Rückkehr war längst vorüber, als die Nachricht kam, dass das Schiff in Epidauros eingelaufen sei und die Ladung dort verkauft werde. Mein Vater, nicht nur mit dem Verluste seines Capitals bedroht, sondern auch den Vorwurf fürchtend, zu gesetzwidrigem Handel das Geld geliehen zu haben<ref n="ZZ"/>, benutzte, wiewohl krank, ein eben nach jenem
+
+
+<pb n="9"/></p>
+
+<p>Hafen abgehendes Schiff, um den Wortbrüchigen persönlich sur Rechenschaft zu ziehen. In der That traf er ihn an, und erbielt von ihm das Versprechen der Zahlung, sobald die Ladung verkauft sein werde; allein die Reise hatte seinen Zustand verschlimmert, und die schnell nach Epidauros gelangte Kunde von dem Unglück Athens erschütterte ihn so heftig, dass er schwer erkrankt dort zurückbleiben musste. Der treulose Lykier aber benutzte die Zeit seiner Leiden und schiffte mit dem unverkauften Theile der Ladung nach Athen, wo die Umstände bessere Preise hoffen liessen. Hier traf ihn mein Vater noch an, als er halbgenesen zurückkehrte. Die Stadt hatte sich von ihrem Schrecken erholt und die Befürchtung weiteren Unglücks war vorüber: Philipp hatte sich gemässigt gezeigt. Um so freier aber war das Feld für Verfolgungen und Verdächtigungen gegen Alle, denen man etwa einen Schein der Verschuldung an dem Unglücke des Staats aufbürden konnte.</p>
+
+<p>Ich kann den weitern Verlauf errathen, sagte der Fremde. Man wird deinen Vater angeklagt haben, im Augenblicke der Gefahr und gegen den ausdrücklichen Volksbeschluss<ref n="25"/> das Vaterland verlassen und preisgegeben zu haben?</p>
+
+<p>Niemand hätte wohl daran gedacht, wenn nicht der nichtswürdige Lykier, um sich seiner Verbindlichkeit zu entziehen und selbst doppelter Anklage zu entgehen, zwei berüchtigte Sykophanten bestochen hätte. Mein Vater verachtete anfangs die Drohung der Klage; als er jedoch sich hier und da kalt aufgenommen sah, als er erfuhr, dass ein Paar bedeutende ihm übelwollende Volksmänner gegen ihn auftreten würden, da erwog er die Gefahr, von einem Augenblicke leidenschaftlicher Aufregung sein Leben abhängig zu machen; er gedachte des Schicksals, das unvermuthet Lysikles und Andere betroffen hatte?<ref n="ZZ"/>, und der Schmach, welche über sein Haus kommen könnte, und entschloss sich mit dem Bewusstsein völliger Unschuld der Anklage auszuweichen. Es war ein
+
+
+
+<pb n="10"/>
+ Augenblick: der schmerzlichsten Bestürzung, als eines Abends mein Vater, der im Stillen alle Vorbereitungen zur Reise getroffen hatte, uns ankündigte, dass wir Athen verlassen müssten, um künftig als Fremde bei Fremden zu leben. Wie Verbrecher schlichen wir, statt im lichten Hafen, im Angesichte glückwünschender Freunde uns einzuschiffen, im Dunkel der Nacht durch das kleine Thor nach der Küste hin, wo schon das Schiff unser wartete, dem bereits unsere Sklaven das Gepäck überliefert hatten?<ref n="ZZ"/>. Wir gingen zunächst nach Trözen; allein das ungünstige Klima des Ortes<ref n="ZZ"/> trieb uns von dort weiter nach Sicilien, und so haben wir fünf Jahre in Syrakus gewohnt, ohne dass jedoch die Zeit oder die Entfernung die Leiden meiner Aeltern vermindert hätte. Schon im ersten Jahre unseres dortigen Aufenthaltes starb meine Mutter; vor wenigen Monaten ist ihr auch mein Vater gefolgt; und nachdem ich den Pflichten der Pietät genügt und den Rest unseres Vermögens flüssig gemacht habe, kehre ich nun allein zurück, voll Schmerz, und doch voll Sehnsucht; denn nichts ersetzt doch das Vaterland, und schön vor allen Städten ist Athen, wiewohl mein Vater immer sagte, es sei zwar voll Reiz und Anmuth für den Fremden, der es besuche, aber voll Gefahren für den Bewohner <ref n="ZZ"/>.</p>
+
+<p>Er hatte Recht, bemerkte der junge Mann. Was der Sehstern im Auge, das ist in Hellas Athen<ref n="ZZ"/>. Aber ein leichtsinniges, unzuverlässiges Volk; eben so rasch begeistert für jeden hohen Gedanken, als hingerissen zu jedem Greuel der Ungerechtigkeit; jetzt tief ergriffen und zu Thränen des Mitleids gerührt durch das tragische Ende eines Oedipus oder den Schmerz unglücklicher Troörinnen, und von da hingehend, um durch ein Gewebe boshafter Ränke Unglück und Verderben über das Haus des Mitbürgers zu verhängen; ein verzogenes Kind voll Launen und Eitelkeit; sich sonnend in dem Glanze einer früheren Zeit, deren Flecken von dem Lichte grosser Thaten überstrahlt werden; sich brüstend mit dem
+
+<pb n="11"/>
+
+ eiteln Namen des reinsten Hellenenblutes, wie mit dem Ruhme, zuerst Gesetz und Recht geübt zu haben, und in seinem Schosse die giftigste Brut nichtswürdiger Sykophanten nährend und der Laune des Augenblicks jedes Gesetz unterordnend; den Namen der Freiheit beständig im Munde führend, und mit Tod oder Verbannung das freie Wort bedrohend, das nicht dem Sinne der Menge entspricht. Und doch wiederum ein Charakter von der liebenswürdigsten Mischung ernster und heiterer Elemente; leicht und fröhlich durch das Leben hingehend, zufrieden, wenn ihm zu streiten oder zu lachen gegeben wird; gleich empfänglich für die erhabenste Dichtung der tragischen Bühne und die possenhafteste Karikatur der Komödie, für den Umgang mit dem ernstesten Philosophen wie mit der .leichtfertigsten Hetäre; karg im eigenen Haushalte und kleinlich am Tische des Wechslers, aber verschwenderisch, wo es sich darum handelt, bei einer Choregie zu glänzen oder Meisterschöpfungen der Kunst aufzustellen.</p>
+
+<p>So ungefähr lautete meines Vaters Urtheil auch, sagte Charikles. Aber du weisst nun mehr von mir als den Namen; nenne mir nun auch den deinigen. Eine dunkle Ahnung sagt auch mir, dass wir uns schon in früherer Zeit begegnet haben.</p>
+
+<p>Charikles! rief der junge Mann, und trat vor ihn, gerade in’s Gesicht ihm sehend. Ich habe dich erkannt bei der ersten Begrüssung; du aber erinnerst dich meiner nicht mehr! Und doch gab es eine Zeit, wo wir täglich uns sahen, und meine Dürftigkeit hielt dich nicht ab, mein Freund und Gespiele zu sein. Gedenkst du nicht mehr des armen Knaben, der in eben jener Schule des Hermippos Sklavendienste verrichtete, zu denen er nicht geboren war? der bald die Schreibschwärze reiben, bald die Schulstube kehren und die Bänke mit dem Schwamme reinigen musste ?<ref n="ZZ"/></p>
+
+<p>Ktesiphon! rief aufspringend der Jüngling, und fasste des Freundes Hand; ja wahrhaftig du bist's, und mein Gefühl hat besser als mein Gedächtniss mir gesagt, dass wir Freunde
+
+<pb n="12"/>
+ sein mussten. Aber wie könnte ich dich vergessen haben? wie nicht gedenken der tausend Gefälligkeiten, die da mir vor Anderen erwiesest; wie du bald einen Wagen aus Kork geschnitzt mir schenktest, bald den schwirrenden Goldkäfer fingst und an seinem Fusse geschickt mir den Faden befestigtest, und wie du später die kleinen Kunstgriffe beim Schreiben und Rechnen — denn du warst darin fertig vor Allen — mir zeigtest, so dass selbst der strenge Pädagog dich lieb gewann und mich gern mit dir umgehen sah, ob du gleich ein Paar Jahre älter warst und os ihm sonst nicht gleich galt, was für ein Kleid jemand trug. Aber dein Bart macht dich unkenntlich, Freund, und wer möchte überhaupt in diesem von der Sonne gebräunten athletischen Körper den blassen, schwächlichen Knaben wiedererkennen? Ueberdies sind es acht Jahre, dass wir uns nicht mehr sahen. Wie kam es doch, dass du damals so plötzlich die Schule des Hermippos verliessest ?</p>
+ 
+ <p>Lass dir das auf dem Wege erzählen, erwiederte Ktesiphon. Wir sind dem Mittage nahe und möchten bis dahin noch Kleonä zu erreichen suchen. Es sind von da noch achtzig Stadien bis Korinth<ref n="29"/>.</p>
+
+<p>Die Freunde brachen auf. Charikles zog seinem von Manes wieder gezäumten Rosse den Zügel über den Kopf und liess es hinter sich drein gehen, indem er selbst an Ktesipbons Seite die Reise zu Fuss fortsetzte und sich von diesem die ihn betreffenden Ereignisse der letzten acht Jahre erzählen liess. — Ktesiphon<ref n="30"/> war der Sohn eines wohlhabenden attischen Bürgers, der, nachdem ihm aus einer früheren Ehe ein einziger Sohn am Leben geblieben war, zum zweiten Male sich mit der Tochter seines Bruders verheirathet hatte. Aus dieser zweiten Ehe stammte nebst einer jüngeren Schwester Ktesiphon. Der Vater, in weitläufigen Handelsverbindungen reichen Gewinn suchend, sah sich zu einer Reise nach Thrakien und dem Pontus veranlasst. Ehe er Athen verliess, übergab
+
+
+
+
+<pb n="13"/>
+ übergab er seinem Bruder, den ja doppelte Bande an seine Kinder knüpften, für den Fall, dass ihm etwas zustossen sollte, ein Testament und zugleich theils baar theils in Nachweisungen ausgeliehener Gelder ein Vermögen von mehr als funfzehn Talenten. Er kehrte nicht zurück. Der treulose Vormund verheimlichte seinen Tod, bis er sich im Besitze der Papiere sah, welche der Verstorbene versiegelt zurückgelassen hatte. Dann trat er mit der Erklärung hervor; verheirathete die Wittwe, nicht mit der vollen Mitgift, die ihr bestimmt war, und übernahm die Erziehung des achtjährigen Ktesiphon und seiner Schwester, so wie die Verpflegung des älteren Stief-. bruders. Als aber dieser das achtzehnte Jahr erreicht hatte und für mündig erklärt war, da rief er die drei Geschwister zu sich, setzte ihnen auseinander, dass ihr Vater nicht mehr als zwanzig Minen in Silber und dreissig Goldstateren hinterlassen, dass er nun schon ein Bedeutendes mehr auf ihre Erziehung verwendet habe, jetzt aber nicht mehr in der Lage sei, weiter für sie sorgen zu können. Du bist ein Mann, sprach er zu dem Aeltesten: deine Sache ist es, nun selbst für euern Unterhalt zu sorgen. Damit wies er die Armen aus dem Hause ihres Vaters, das er selbst bezogen hatte, in  schlechten Kleidern, unbeschuhet, ohne ihnen einen Sklaven zur Bedienung oder die Decken zum Nachtlager oder irgend etwas aus der reichen Verlassenschaft ihres Vaters mitzugeben. Da standen nun die Jüngeren ganz hülflos. Die Mutter war seit einem Jahre todt; der ältere Bruder suchte im Auslande Kriegsdienste; niemand stand ihnen zur Seite, der gegen den treulosen Vormund den Beweis hätte führen können. Ein verarmter Verwandter, selbst in grosser Dürftigkeit lebend, nahm sich der Waisen an. Er war es, der in jener Schule des Grammatikers als Gehülfe arbeitete und natürlich auch darauf dachte, dass der angenommene Knabe durch Dienste, zu denen er freilich nicht durch die Geburt bestimmt war, etwas zu seinem Unterhalte beitrug. Ktesiphons
+
+<pb n="14"/>
+
+Verstand und gefälliges Wesen gewannen ihm manchen Freund unter den Knaben, welche die Schule besuchten, und als einer derselben, der einzige Sohn eines angesehenen Bürgers, frühzeitig starb, nahm dessen Vater den vierzehnjährigen Knaben, den auch er lieb gewonnen hatte, an Kindes Statt an.</p>
+
+<p>Mein Wohlthäter ist nun auch todt, schloss Ktesiphon seine Erzählung, und ich war eben in Argos, um eine Schuld einzutreiben, welche zu meinem Erbe gehört, das übrigens zwar nicht sehr bedeutend ist, aber doch mir die Mittel gewährt, in der Einfachheit, die ich liebe, zu leben. Glücklicherweise zog ich dem kürzeren Fusswege diese Strasse, die mehr Schatten bietet, vor, und musste so der Erste sein, der dich auf der Heimkehr ins Vaterland begrüsst. Aber eines sage mir: wie führt dich dein Weg, wenn du aus Sicilien kommst, nach Kleonä?</p>
+
+<p>Das Schiff, antwortete Charikles, mit dem ich zurückgekehrt bin, lief in den Hafen von Epidauros ein. Ich beschloss, den Rest der Reise zu Lande zu machen, und wählte den Weg über Argos und Kleonä, weil der nähere Gebirgspfad nach Korinth den Hufen meines Pferdes weniger zugesagt haben würde<ref n="34"/> und ich in Argos zugleich einen alten Freund meines Vaters besuchen wollte.</p>
+
+<p>Die Freunde waren unter diesen Gesprächen in das Thal gelangt, auf welches vom Hügel herab die terrassenartig über einander sich erhebenden Häuser von Kleonä herabsahen <ref n="35"/>. Hier wurde eine kurze Zeit gerastet und dann die Reise nach Korinth fortgesetzt.</p>
 </div>
 </div>
 </body>
