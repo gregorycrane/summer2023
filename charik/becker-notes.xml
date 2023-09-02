@@ -803,7 +803,7 @@ Städten sich einen Tempel der Musen, eine ächte Pflegerin
 für Wissenschaft und Kunst, eine Schule für ganz Griechenland, ja <cit>
 <quote xml:lang="grc">κοινὸν παιδευτήριον πᾶσιν ἀνϑρώποις
 </quote>
-<quote xml:lang="eng">to be the common school for all human beings.
+<quote xml:lang="eng">the common school for all human beings.
 </quote>
 <bibl>(Diodor. Sic. XIII, 27)</bibl>
 
@@ -850,7 +850,7 @@ Herodotus bezeugt den Athenern als Ausländer:
 
 Ja, am Ende des
 peloponnesischen Krieges soll das delphische Orakel die Stadt τὴν
-κοινὴν ἑστίαν τῆς Ἑλλάδος genannt haben: Athen. V, 12; Aelian.
+<foreign>κοινὴν ἑστίαν τῆς Ἑλλάδος</foreign> genannt haben: Athen. V, 12; Aelian.
 V. Hist. IV, 6. Vgl. <cit><bibl>Cic. ad fam. VI, 1, 6:</bibl>
 <quote xml:lang="lat">urbs, in qua nata et
 alta est ratio et moderatio vitae,
@@ -892,7 +892,7 @@ nehmen und zunächst den ziemlich zweideutigen Ruhm hervorheben,
 dass die Athener die einzigen Autochthonen in Griechenland seien,
 ein Ruhm, auf den man sich in der That nicht wenig eingebildet
 zu haben und der auch nicht bloss von den Rednern als Effectphrase
-benutzt worden zu sein scheint. Mehr als alle schón klingenden
+benutzt worden zu sein scheint. Mehr als alle schϑοn klingenden
 Tiraden sprechen dafür die ernsten Worte Lykurgs, wo es in Bezug auf den angeführten Beschluss nach der
 Schlacht bei Chäroneia: 
 <cit><bibl>in Leocr. 41</bibl>
@@ -924,7 +924,7 @@ Hauptstellen zu seben, welchen Sinn man damit verband. Ursprünglieh
 wollte man nichts anderes damit sagen, als dass die Bewohner
 Attikas von jeher diese Landschaft bewohnt hätten, ohne weder
 irgendwo verdrängt worden noch selbst eingewandert zu sein. So
-mgt einfach 
+mit einfach 
 <cit><bibl>Thucyd. II, 36:</bibl>
 <quote xml:lang="grc">τὴν χώραν ἀεὶ οἱ αὐτοὶ οἰκοῦντες,
 </quote>
@@ -975,7 +975,7 @@ Worte bei
 <quote xml:lang="eng">For it was the genesis first of their ancestors that established the nobility of these men, not having come in from outside nor revealing that the descendants were immigrants in the land, having come from elsewhere, but being native born and truly dwelling in their fatherland and living and being nourished not by a stepmother land like others but by their mother country in which they dwelt. </quote>
 </cit>
 Dazu kommt nun noch bei Anderen
-die ausdrückliche Verwalrung gegen den Gedanken, als könnte in
+die ausdrückliche Verwahrung gegen den Gedanken, als könnte in
 Attika das reine hellenische Blut sich mit fremdem vermischt haben.
 
 <cit><bibl>Isocr. Paneg. 24:</bibl>
@@ -1054,18 +1054,21 @@ de pace 14</bibl>
 </cit>
 
 und weiterhin: 
-<quote xml:lang="grc">πρὸς δὲ τοὺς ἐπιπλήττοντας καὶ vou-
-ϑετοῦντας ὅμᾶς οὕτω διατέϑεσθε δυσκόλως, ὥσπερ τοὺς κακόν τι
+<quote xml:lang="grc">πρὸς δὲ τοὺς ἐπιπλήττοντας καὶ vouϑετοῦντας ὑμᾶς οὕτω διατέϑεσθε δυσκόλως, ὥσπερ τοὺς κακόν τι
 τὴν πόλιν ἐργαζομένους.
 </quote> 
+<quote xml:lang="eng">But to those who rebuke and admonish you, be as difficult to get along with as those who are doing something bad to the city.</quote>
 Dies ist hinreichend, um das Gelüste nach
-solchem 
+solchem wie 
+<cit>
 <quote xml:lang="grc">δημοκρατικὸς ὄχλος οὕτως ἐλευϑεριάζων,
-</quote> wie Alciphr.
-epist. II, 3 sagt, zu unterdrücken und den Commentar zu den
-Worten des Aristot. de republ. V, 10, p. 1312, 5 Bekk. zu liefern:
+</quote>
+<quote xml:lang="eng">the mob of common people acting with such freedom</quote> <bibl>Alciphr.
+epist. II, 3</bibl></cit> sagt, zu unterdrücken und den Commentar zu den
+Worten des Aristotles zu liefern:
+<cit><bibl>Aristot. de republ. V, 10, p. 1312, 5 Bekk.</bibl>
 <quote xml:lang="grc">καὶ γὰρ ἡ δημοκρατία ἡ τελευταία τυραννίς ἔστιν,
-</quote> oder 
+</quote> <quote xml:lang="grc">For democracy is the ultimate tyranny.</quote></cit> oder 
 
 <cit><bibl>c. 11,
 p 1313, 32:</bibl>
@@ -1077,6 +1080,8 @@ p 1313, 32:</bibl>
 </cit>
 Noch besser aber charakterisiren den Geist
 einer solchen Verfassung die Worte: 
+
+<cit><bibl>Aristotle's "Politics," book 4, chapter 12</bibl>
 <quote xml:lang="grc">καὶ γὰρ ó δῆμος εἶναι βούλεται
 μόναρχος· διὸ καὶ ὃ κόλαξ παρ᾽ ἀμφοτέροις ἔντιμος, παρὰ μὲν
 τοῖς δήμοις ὁ δημαγωγός (ἔστι γὰρ ὁ δημαγωγὸς τοῦ δήμου κόλαξ),
@@ -1085,7 +1090,10 @@ einer solchen Verfassung die Worte:
 
 παρὰ δὲ τοῖς τυράννοις ol ταπεινῶς ὁμιλοῦντες, ὅπερ ἑστὶν ἔργον
 κολακείας.
-</quote> Vgl. IV, 4, p. 1292. Daher ist das Urtheil Gells (Journey
+</quote>
+<quote xml:lang="eng">
+    For the people wants to be a monarch; therefore, the flatterer is honored by both, by the people the demagogue (for the demagogue is a flatterer of the people), by the tyrants those who speak humbly, which is the work of flattery.
+</quote></cit> Vgl. IV, 4, p. 1292. Daher ist das Urtheil Gells (Journey
 of the Morea p. 408 f) über die athenische Freiheit nicht
 ungegründet (vgl. Hermann gr. Staatsalt. §. 67 ff. Rötscher
 Aristophanes und sein Zeitalter §. 100 ff) und mit Recht
@@ -1549,7 +1557,7 @@ IV, 1, 18, Terent. Phorm. IV, 1.
 Πειραιεῖ παρὰ ταῖς πόρναις. Vgl. Böckh Staatsh. B. I, 8. 84:
 „Aphrodision, ein jedem Hafen des Alterthums sehr nothwendiges
 Heiligthum.“ Athen. XIII, 28.]
-<ref n="11"/> Pausan. a. a. O.: τάφος Λαΐδος, ᾧ δὴ λέαινα ἐπίϑημά ἐστι
+<ref n="9"/> Pausan. a. a. O.: τάφος Λαΐδος, ᾧ δὴ λέαινα ἐπίϑημά ἐστι
 κριὸν ἔχουσα ἐν τοῖς προτέροις ποσίν. [Wenn es dagegen bei
 Athen. XIII, 55 heisst:
 <cit><bibl>Athen. XIII, 55 heisst:</bibl>
@@ -1565,7 +1573,7 @@ der Stelle, dass er die ältere Lais mit der jüngeren,
 deren Grab am Peneios gezeigt wurde, verwechselt hat. Uebrigens
 war die Löwin mit dem Widder wahrscheinlich nicht ein Symbol
 des Hetärengewerbes, sondern des erbarmungslosen Todes.]
-<ref n="12"/> 
+<ref n="10"/> 
 
 <cit><bibl>Dio Chrysost. Or. VIII, 4, p. 276 von Diogenes von
     Sinope:</bibl>
@@ -1584,7 +1592,7 @@ des Hetärengewerbes, sondern des erbarmungslosen Todes.]
 
 Vgl. IX, 4, p. 489. Plutarch. Alex. 14. Lucian.
 Hist. conscr. c. 3. Diog. Laért. VI, 77 u. s. w.
-<ref n="13"/> <cit><bibl>Alciphr. epist. III, 60:</bibl>
+<ref n="11"/> <cit><bibl>Alciphr. epist. III, 60:</bibl>
     <quote xml:lang="grc">ὡς γὰρ ἐλούσαντο οἱ πολλοὶ καὶ
         μεσοῦσα ἡμέρα ἦν, στωμύλους ἐϑεασάμην καὶ εὐφυεῖς νεανισκοὺς
         οὐ περὶ τὰς οἰκίας, ἀλλὰ περὶ τὸ Κράνειον εἰλουμένους καὶ οὗ μάλιστα
@@ -1596,7 +1604,7 @@ Hist. conscr. c. 3. Diog. Laért. VI, 77 u. s. w.
 
 [Vgl. Ruhnken ad Tim. p. 167.]
 
-<ref n="14"/> Dass mit Werken der Kunst, namentlich Götterbildern, ein
+<ref n="12"/> Dass mit Werken der Kunst, namentlich Götterbildern, ein
 bedeutender Handel in's Ausland getrieben wurde und dass sie nicht
 nur auf Bestellung, sondern auf Speculation verführt wurden, bezeugt
 noch für die späte Zeit die Erzählung von Apollonios, der im Peiräeus
@@ -1617,7 +1625,7 @@ eine ganze Schiffsladung der Art traf.
 d. Sittengesch. Roms Th. III, S. 187.] Die sicilische Kunstliebe
 ist aus Cicero's vierter Verrina bekannt.
 
-<ref n="15"/> 
+<ref n="13"/> 
 
 <cit><bibl>Plutarch. Timol. 22:</bibl>
     <quote xml:lang="grc">ἡ μὲν ἐν Συρακούσαις ἀγορὰ δι᾽ 
@@ -1666,10 +1674,10 @@ solches Ansehen erhalten. So auf Euböa bei
 
 und einzelne Beispiele bei Strab. VIII, p. 388; IX, p. 403
 u. 412. Vgl. Hermann Privatalterth. S. 1, n. 9 ff.]
-<ref n="16"/> Vgl. den Excurs über die Reise.
-<ref n="17"/> Ein Beispiel der Art ist eben das des Epänetos, Demosth. in Neaer. 64. 
+<ref n="14"/> Vgl. den Excurs über die Reise.
+<ref n="15"/> Ein Beispiel der Art ist eben das des Epänetos, Demosth. in Neaer. 64. 
 
-<ref n="18"/> Plutarch. de aud. poët. 8 nennt einen gewissen Poliagros,
+<ref n="16"/> Plutarch. de aud. poët. 8 nennt einen gewissen Poliagros,
 der seine eigene Frau verkuppelte. Darauf wurde in irgend
 einer Komódie mit dem Verse angespielt:
 
@@ -1681,7 +1689,7 @@ Ueber die Spottnamen der Hetären ist im Excurse gesprochen worden.
 Wie Niko <foreign>Αἴξ</foreign> <gloss>Goat</gloss>, so konnte auch Nikippe Αἰγίδιον heissen; vgl.
 Ath. XV, 24.
 
-<ref n="19"/> Auch Nikarete trieb es ähnlich mit den sieben Mädchen,
+<ref n="17"/> Auch Nikarete trieb es ähnlich mit den sieben Mädchen,
 welche sie sich verschafft hatte. 
 
 <cit><bibl>Demosth. in Neaer. 19: </bibl>
@@ -1707,7 +1715,7 @@ S. 41:
     </cit>
 
 
-<ref n="20"/> Was der Tagelohn für gemeine Handarbeit gewesen sei,
+<ref n="18"/> Was der Tagelohn für gemeine Handarbeit gewesen sei,
 lässt sich nicht genau bestimmen. S. Böckh Staatshaush. d.
 Ath. B. I, S. 165. Lucian. Tim. 6 nennt vier Obolen; vgl. auch
 
@@ -1730,7 +1738,7 @@ oder Schiffziehers wird an einem anderen Orte auf die Hälfte angegeben,
     </cit>
     
 
-<ref n="22"/> Wenn auch der Arbeitslohn im Ganzen billig gewesen sein
+<ref n="19"/> Wenn auch der Arbeitslohn im Ganzen billig gewesen sein
 mag, so wurde doch für einzelne Dienstleistungen verhältnissmässig
 viel mehr gefordert. S. Aristoph. Ran. 173 mit Böckh. a. a. O.
 Es scheint, dass man wie bei uns für jeden kleinen Dienst auf Bezahlung
@@ -1790,7 +1798,7 @@ sagt:
 </quote>
 </cit>
 
-<ref n="23"/> 
+<ref n="20"/> 
 
 Plutarch  schildert so den Anblick, den
 das Haus des unordentlich Lebenden gewähre: 
@@ -1805,7 +1813,7 @@ das Haus des unordentlich Lebenden gewähre:
 
 </cit>
 
-<ref n="24"/> Den Alten galt als vorzüglichstes Mittel, die Müdigkeit als
+<ref n="21"/> Den Alten galt als vorzüglichstes Mittel, die Müdigkeit als
 Folge der Anstrengung zu beseitigen, das Bad. Was Dionysos bei
 Aristophes sagt:
 <cit>
@@ -1852,7 +1860,7 @@ Probl. I, 39, p. 863:</bibl>
 
 Vgl. meine Antiq. Plaut. p. 9
 und den Exc. über die Bäder zu Sc. VIII.
-<ref n="25"/> 
+<ref n="22"/> 
 <cit><bibl>Lucian. Asin. 2</bibl>
 <quote xml:lang="grc">εἶτα πέμπε αὐτὸν εἰς βαλανεῖον· οὐχὶ
 γὰρ μετρίαν ἐλήλυϑεν ὁδόν. 
@@ -1873,7 +1881,7 @@ satis arduo itinere atque prolixo fatigatus est.
 </cit>
 
 
-<ref n="26"/> 
+<ref n="23"/> 
 <cit><bibl>Xenoph. de rep. Lac. 1,3:</bibl>
 <quote xml:lang="grc">οἱ μὲν ἄλλοι τὰς μελλούσας
 τίκτειν καὶ καλῶς δοκούσας κόρας παιδεύεσθαι καὶ σίτῳ ᾖ ἀνυστὸν
@@ -1885,7 +1893,7 @@ satis arduo itinere atque prolixo fatigatus est.
 </cit>
 
 
-<ref n="27"/> Es war dies eines der Zeichen, durch welche man stillschweigend
+<ref n="24"/> Es war dies eines der Zeichen, durch welche man stillschweigend
 seine Liebe erklärte oder auf ein geheimes Einverständniss
 sich bezog. 
 
@@ -1893,6 +1901,10 @@ sich bezog.
 <quote xml:lang="lat">
 <l>Quae tu reddideris, ego primus pocula sumam,</l>
 <l>Et qua tu biberis, hac ego parte bibam.</l>
+</quote>
+<quote xml:lang="eng">
+    <l>The cups which you give back, I will be the first to take,</l>
+        <l>And from the part where you drank, I will drink from that part.</l>
 </quote>
 </cit>
 
@@ -1931,7 +1943,7 @@ aber bei
 Bei nochmaliger Vertauschung thut dann das Mädchen dasselbe,
 und so wird es mehrmals wiederholt. Ueber andere ähnliche
 Arten von Liebeserklärungen s. Anm. 10 ff. zu Sc. XI.
-<ref n="28"/> Ich habe an den treffenden Vergleich bei Plautus  gedacht:
+<ref n="25"/> Ich habe an den treffenden Vergleich bei Plautus  gedacht:
 <cit><bibl>Plaut. Asin. I,
 9, 63</bibl>
 <quote xml:lang="lat">
@@ -1942,6 +1954,16 @@ Arten von Liebeserklärungen s. Anm. 10 ff. zu Sc. XI.
 <l>Saepe edunt: semel si captae sunt, rem solvunt aucupi.</l>
 <l>Itidem hic apud, nos, aedes nobis area est, auceps ego,</l>
 <l>Esca est meretrix, lectus illex est, amatores aves etc.</l>
+</quote>
+<quote xml:lang="eng">
+<l>You don't know? Our profession is very similar to that of a fowler,</l>
+<l>When a fowler has prepared his yard, he scatters food,</l>
+<l>The birds get used to it. He who seeks profit must spend something.</l>
+
+<l>Often they eat: but once they're caught, they pay the fowler.</l>
+<l>So it is here with us, our house is the yard, I'm the fowler,</l>
+<l>The bait is the courtesan, the bed is the snare, the lovers are the birds, etc.</l>
+
 </quote>
 </cit>
 
@@ -1954,7 +1976,7 @@ Arten von Liebeserklärungen s. Anm. 10 ff. zu Sc. XI.
 
 
 
-<ref n="29"/> 
+<ref n="26"/> 
 
 <cit><bibl>Lysias de caede Erat. S. 17:</bibl>
 <quote xml:lang="grc">ἀναμιμνησχόμενος, ὅτι ἐν
@@ -1967,7 +1989,7 @@ Arten von Liebeserklärungen s. Anm. 10 ff. zu Sc. XI.
 
 S. d. Exc.
 über das Haus. — Auch Euphiletos hörte das im oberen Stockwerke.
-<ref n="30"/> Der Gebrauch des Nachtlichts war, wie bei uns, ebensowenig
+<ref n="27"/> Der Gebrauch des Nachtlichts war, wie bei uns, ebensowenig
 allgemein als ungewöhnlich. Das erhellt schon aus der särtlichen
 Anrede der Praxagora an ihre Lampe, Aristoph. Eccl. 8, und
 dem witzigen Einfalle Lucians Catapl. 27, die Nachtlampe als
@@ -1977,7 +1999,7 @@ Aristoph. Nub. 18. Theophr. Char. 18. Theocr. XXIV, 48
 erst, wenn das Bedürfniss eintritt, Licht angezündet.
 
 
-<ref n="31"/> 
+<ref n="28"/> 
 <cit><bibl>Lysias de caed. Erat. 14:</bibl>
 <quote xml:lang="grc">ἐρομένου δέ μου, τί αὶ
 ϑύραι νύκτωρ φοφοῖεν, ἔφασκε τὸν λύχνον ἀποσβεσϑῆναι τὸν παρὰ
@@ -2004,10 +2026,15 @@ sein. Auch Sokrates sagt bei
 
 [Vgl. 
 <cit><bibl>Diphilus bei Athen. VI, 35:</bibl>
-<quote xml:lang="grc">ἀγνοεῖς ἐν ταῖς ἀραῖς
-ὅ τι ἔστιν, εἴ τις μὴ φράσει᾽ ὀρϑῶς δδόν,
-ἢ πῦρ ἐναύσει, ἣ διαφϑεέρει᾽ ὕδωρ,
-ἢ δειπνιεῖν μέλλοντα κωλύσαι τινά.
+<quote xml:lang="grc">
+    <l>ἀγνοεῖς ἐν ταῖς ἀραῖς</l> 
+    <l>ὅ τι ἔστιν, εἴ τις μὴ φράσει᾽ ὀρϑῶς δδόν,</l> 
+    <l>ἢ πῦρ ἐναύσει, ἣ διαφϑεέρει᾽ ὕδωρ,</l> 
+    <l>ἢ δειπνιεῖν μέλλοντα κωλύσαι τινά.</l> 
+    
+
+
+
 </quote>
 
 <quote xml:lang="eng">You do not understand what is in curses, if one does not explain: to bar the way correctly or light fire or destroy water or hinder someone about to dine. </quote>
@@ -2111,7 +2138,7 @@ dabei auch Vorsicht weder ungebräuchlich noch unnöthig war; s.
 
 Zu den letzten Worten kann als Commentar dienen, was bei Demosth.
 in Timoth. 24 ff. erzählt wird.
-<ref n="32"/> 
+<ref n="29"/> 
 
 <cit><bibl>Eurip. Bacch. 729:</bibl>
 <quote xml:lang="grc"><l>οἴνου δὲ μηκέτ᾽ ὄντος οὐχ ἔστιν Κύπρις.</l>
@@ -2148,7 +2175,7 @@ advenit ultro,
 
 </cit>
 und v. Leutsch zu Apostol. Prov. p. 321]
-<ref n="33"/> Einen solchen Fall bietet die Geschichte von Stephanos und
+<ref n="30"/> Einen solchen Fall bietet die Geschichte von Stephanos und
 Epänetos dar, s. die erste Anmerkung. Aber Stephanos hatte früher
 auf dieselbe Weise auch seine Frau als Lockspeise gebraucht: 
 
@@ -2169,7 +2196,7 @@ Bubenstücke lässt sich daraus schliessen!
 
 <pb n="57"/>
 
-<ref n="34"/> Es ist die hintere Thür des Hauses gemeint, die gewöhnlich
+<ref n="31"/> Es ist die hintere Thür des Hauses gemeint, die gewöhnlich
 ϑύρα κηπαία genannt wurde. S. den Exc. über das Haus. Dass
 es möglich war, eine verschlossene Thüre auf solche Weise zu öffnen,
 bezeugt 
@@ -2183,9 +2210,9 @@ bezeugt
 
 </cit>
 
-<ref n="35"/> Ich habe dabei an die puncta, lasciva quae terebrantur acu
+<ref n="32"/> Ich habe dabei an die puncta, lasciva quae terebrantur acu
 gedacht. S. Mart. XI, 45, 6.
-<ref n="36"/> 
+<ref n="33"/> 
 <cit><bibl>Appul. Metam. II, 26:</bibl>
 <quote xml:lang="lat">insperato lucro diffusus in gaudium
 et in aureos refulgentes, quos idemtidem manu mea ventilabam,
@@ -2195,7 +2222,7 @@ altonitus.
 
 </cit>
 
-<ref n="37"/> Die Zeugen, welche hier nur als bestochene gedacht werden
+<ref n="34"/> Die Zeugen, welche hier nur als bestochene gedacht werden
 können, holte Euphiletos wirklich herbei. 
 
 <cit><bibl>Lysias de caede Erat.
@@ -2209,7 +2236,7 @@ können, holte Euphiletos wirklich herbei.
 <quote xml:lang="eng">And the maid woke me immediately and said that (the adulterer) was inside. And I told her to watch the door, went downstairs silently, and went out and arrived at so-and-so's house. And I caught some at home, others I found at home in town. Taking as many of those present as possible, I set out. </quote>
 
 </cit> 
-<ref n="39"/> 
+<ref n="35"/> 
 
 <cit><bibl>Lysias a. a. O.: </bibl>
 <quote xml:lang="grc">καὶ δᾷδας λαβόντες ἐκ τοῦ ἐγγυτάτου
@@ -2220,7 +2247,7 @@ können, holte Euphiletos wirklich herbei.
 </cit>
 Ueber den Gebrauch der Fackeln und die
 Beleuchtung überhaupt wird weiterhin ausführlich gesprochen werden.
-<ref n="40"/> 
+<ref n="36"/> 
 <cit><bibl>Lucian. Asin. 7: </bibl>
 <quote xml:lang="grc">τῶν δὲ στρωμάτων ῥόδα πολλὰ xareπέπαστο,
 τὰ μὲν οὕτω γυμνὰ xaó! abrd, cà δὲ ÀsAuuéva, τὰ δὲ
@@ -2239,7 +2266,7 @@ rosae serta et rosa soluta in sinu tuberante.
 
 </cit>
 
-<ref n="41"/> Die ganze Schilderung dieser Scene ist aus 
+<ref n="37"/> Die ganze Schilderung dieser Scene ist aus 
 
 Lysias de
 caede Erat. S. 24 entnommen, mit den wenigen Abänderungen,
@@ -2267,9 +2294,9 @@ caede Erat. S. 24</bibl>
 Das geschah in Athen;
 wer wollte aber bezweifeln, dass in Korinth eben so gut der Beleidigte
 den ertappten μοιχός tödten durfte? S. den Exc. über die Frauen.
-<ref n="42"/> So viel, nämlich dreissig Minen, erpresste Stephanos von
+<ref n="38"/> So viel, nämlich dreissig Minen, erpresste Stephanos von
 Epänetos, s. Demosth. in Neaer. $. 65.
-<ref n="43"/> Es war eine schöne Sitte, die sich gewiss nicht bloss auf
+<ref n="39"/> Es war eine schöne Sitte, die sich gewiss nicht bloss auf
 Athen beschränkte, dass, wenn jemand in Noth oder augenblickliche
 Geldverlegenheit gerathen war, die Freunde, die er darum anging,
 es für Pflicht hielten, den Bedarf nach Kräften und Willen zusammenzuschiessen
@@ -2291,7 +2318,7 @@ associations religieuses chez les Grecs, Thiases, Eranes, Orgéons avec
 le texte des inscriptions relatives à ces associations. Paris, 1873, beurtheilt
 von J. H. Lipsius in Bursians Jahresbericht 1875,
 10. H. S. 1887.]
-<ref n="44"/> 
+<ref n="40"/> 
 
 <cit><bibl>Aeschin. in Timarch. 182:</bibl>
 <quote xml:lang="grc">ὥστ᾽ ἀνὴρ εἷς τῶν πολιτῶν
@@ -2310,7 +2337,7 @@ von J. H. Lipsius in Bursians Jahresbericht 1875,
 
 Vgl Schneidewin ad Herael. Pol. p. 35 und
 Paroemiogr. t. I, p. 214.
-<ref n="45"/> Wie ich schon im Gallus Th. I, 8. 126 bemerkt habe
+<ref n="41"/> Wie ich schon im Gallus Th. I, 8. 126 bemerkt habe
 
 <pb n="59"/>
 
@@ -2519,7 +2546,7 @@ auch haben und sie gebrauchen, obne an den ursprünglichen Sinn
 mehr zu denken. Freilich liegt auch bei uns die Etymologie nicht
 so klar vor wie bei den griechischen Wörtern. 
 
-<ref n="48"/> Das war auch der Fall mit den angeblichen Töchtern des
+<ref n="42"/> Das war auch der Fall mit den angeblichen Töchtern des
 Stephanos. 
 
 <cit><bibl>Demosth. in Neaer. 62: </bibl>
@@ -2534,7 +2561,7 @@ Stephanos.
 </cit>
 
 
-<ref n="49"/> 
+<ref n="43"/> 
 
 <cit><bibl>Lucian. Somn. 14:</bibl>
 <quote xml:lang="grc">ἡ δὲ ἀπολειφϑεῖσα τὸ μὲν πρῶτον
