@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader xml:lang="eng">
+<fileDesc>
+<titleStmt>
+<title xml:lang="deu">Charikles</title>
+<author>Wilhelm Adolf Becker</author>
+<sponsor>Perseus Project, Tufts University</sponsor>
+<principal>Gregory Crane</principal>
+<respStmt>
+<resp>Prepared under the supervision of</resp>
+<name>Lisa Cerrato</name>
+<name>Gregory Crane</name>
+</respStmt>
+<funder>National Endowment for the Humanities</funder>
+</titleStmt>
+
+<publicationStmt>
+<publisher>Trustees of Tufts University</publisher>
+<pubPlace>Medford, MA</pubPlace>
+<authority>Perseus Project</authority>
+<date type="release" when="2023-08-27">Perseus 5.0</date>
+<idno type="filename">TBA</idno>
+<availability>
+<licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence> 
+</availability>
+</publicationStmt>
+
+<sourceDesc>
+<biblStruct>
+<monogr>
+<title xml:lang="lat">Charikles: Bilder Altgriechischer Sitte</title>
+<author>Wilhelm Adolf Becker</author>
+<author>Hermann Göll</author>
+<imprint>
+<publisher>S. Calvary and Comp</publisher>
+<pubPlace>Berlin</pubPlace>
+<date>1877</date>
+</imprint>
+<biblScope unit="volume">1</biblScope>
+</monogr>
+<ref target="https://archive.org/details/operaexrecogniti03luciuoft/page/442/mode/2up">Internet Archive</ref>
+</biblStruct>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<editorialDecl>
+<correction><p>keyboarding</p>
+<p>Lace v. 0.6.22 copyright 2013-2021, Bruce Robertson, Dept. of Classics, Mount Allison University.</p></correction>
+</editorialDecl>
+
+
+<refsDecl n="CTS">
+<cRefPattern n="line" matchPattern="(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div//tei:l[@n='$1'])">
+<p>This pointer pattern extracts line</p>
+</cRefPattern>
+</refsDecl> 
+
+
+<!--<refsDecl doctype="TEI.2">
+<state unit="chapter" n="chunk"/>
+<state unit="altsection"/>
+</refsDecl>-->
+</encodingDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="grc">Greek</language>
+</langUsage>
+</profileDesc>
+<revisionDesc>
+<change who="Gregory Crane" when="2023-05-06">File created from tesseract OCR</change>
+</revisionDesc>
+</teiHeader>
+
+<text>
+<body>
+<div type="commentary" n="urn:cts:greekLit:TBA" xml:lang="grc">
+<pb n="1"/>
+<div type="textpart" subtype="appendix" n="1">
+
+    <pb n="1"/>
+
+    <head>ERSTER EXCURS ZUR ERSTEN SCENE: DAS REISEN.</head>
+    <p>
+    [Bereits in dem von Homer geschilderten heroischen Zeitalter
+    hatte gute Sitte und religiöse Rücksicht (namentlich auf Ζεὺς
+    ξένιος) das Gastrecht ‘so weit ausgebildet, dass nur ganz rohe
+    und ungesittete Männer, wie Lastrygonen und Kyklopen sich
+    an Fremden vergreifen (Odyss. VIII, 575), wie denn noch
+    viel später Plat. Legg. V, p. 729 sagt: πρὸς δ᾽ αὖ τοὺς
+    ξένους διανοητέον ὡς ἁγιώτατα ξυμβόλαια ὄντα: σχεδὸν γὰρ
+    πάντ᾽ ἐστὶ τὰ τῶν ξένων καὶ εἰς τοὺς ξένους ἁμαρτήματα παρὰ
+    τὰ τῶν πολιτῶν εἰς θεὸν ἀνηρτημένα τιμωρὸν μᾶλλον: ἔρημος
+    γὰρ ὧν ὁ ξένος ἑταίρων τε καὶ ξυγγενῶν ἐλεεινότερος ἀνθρώποις
+    καὶ θεοῖς· ὁ δυνάμενος οὖν τιμωρεῖν μᾶλλον βοηθεῖ 
+    προθυμότερον· δύναται δὲ διαφερόντως ὁ ξένιος ἑκάστων δαίμων
+    καὶ θεὸς τῷ ξενίῳ ξυνεπόμενοι Διί. 
+    
+    Demgemäss hatte sich
+    schon in der homerischen Zeit eine conventionelle Rücksichtsnahme
+    und Artigkeit in der Gastfreundschaft entwickelt, die
+    der Edle sowohl, als der Hörige zu beobachten nie vergass.
+    Vergl. Il. VI, 15. 174. Odyss. 1, 120; XIV, 55; XV, 68;
+    XIX, 314 u. a. St. Auch waren die Reisen damals, keineswegs
+    selten. Ausser dem Handelsmanne und Schiffer wanderten
+    die Demiurgen, gerufen und ungerufen, hin und her (vgl.
+    A. Riedenauer Handwerk und Handwerker in den
+    homer. Zeiten, 1873. 5. 30 ff.); aber auch Fürsten und
+    
+    
+    <pb n="2"/>
+    
+    Vornehme reisten nicht bloss, um Schulden einzutreiben, Metalle
+    oder irgend eins besondere Waare einzutauschen, um
+    Beute zu machen, sondern auch, um einander zu besuchen.
+    So sagt Telemach in Bezug auf seinen Vater 
+    
+    
+    <cit><bibl>Odyss. I, 176:</bibl>
+    <quote xml:lang="grc"><l>ἐπεὶ πολλοὶ ἔσαν ἀνέρες ἡμέτερον δῶ</l>
+        <l>ἄλλοι, ἐπεὶ καὶ κεῖνος ἐπίστροφος ἦν ἀνθρώπων.</l></quote>
+    </cit>
+    
+    
+    
+    
+    Vgl. v. 209 und IV, 178. Der gemeine Mann zog mit einem
+    tüchtigen Stocke oder mit der Lanze in der Hand seine Strasse,
+    während Edelgeborene im Wagen reisten, die mit Pferden oder
+    Maulthieren bespannt waren. Telemach und Peisistratos fahren,
+    im alten Streitwagen, δίφρος, stehend, von Rossen gezogen,
+    von Pylos nach Lakedämon: III, 478 ff. Ebenso entsendet
+    Menelaos seine Tochter Hermione mit Rossen und Wagen nach
+    Thessalien: IV, 8. Es lässt dies schliessen, dass das Pferd,
+    wie im Kriege, so auch auf der Reise nicht zum Reiten benutzt
+    wurde; andererseits aber auch, dass die Wege schon in
+    so früher Zeit in guter Verfassung waren. Auf Letzteres deuten
+    auch Stellen hin, wie 
+    
+    Il. XV, 682: λαοφόρον ὁδόν, 
+    XXI, 146: κατ᾽ ἀμαξιτὸν ἐσσεύοντο, 
+    Odyss. X, 184: λείην ὁδὸν, 
+    ᾗ περ ἄμαξαι τ ἀφ᾽ ὑψηλῶν ὀρέων καταγίνεον ὕλην, 
+    vergl.
+    III, 323ff. Was freilich speciell die historische Wahrheit der
+    erwähnten Reise von Pylos über Pherä nach Sparta betrifft,
+    so steht ihr entgegen, dass der einzige Pass über das Taygeton,
+    die Langada, nie eine Fahrstrasse gewesen sein kann
+    (Bursian Geographie von Griechenland II, 8. 105).
+    Ueber die Konstruktion der Wagen im heroischen Zeitalter
+    vgl. Guhl und Koner S. 304ff.] Die schöne Sitte der Gastfreundschaft
+    reicht auch bis in die historische Zeit herüber;
+    vgl. 
+    
+    Herodot. VI, 35: 
+    οὗτος ὁ Μιλτιάδης (ὁ Κυψέλου, Ἀθηναῖος)
+    κατήμενος ἐν τοῖσι προθύροισι τοῖσι ἑωυτοῦ, ὁρέων τοὺς
+    Δολόγκους παριόντας, ἐσθῆτα ἔχοντας οὐκ ἐγχωρίην καὶ αἰχμάς,,
+    προσεβώσατο καὶ σφι προςελθοῦσι ἐπηγγείλατο καταγωγὴν
+    καὶ ξείνια. 
+    
+    Ein Gesetz des Charondas schrieb sogar vor:
+    Charondas bei Stob. Serm. XLIV, 40
+     ξένον πάντα τὸν ἐν τῇ ἑαυτοῦ
+    
+    <pb n="3"/>
+    
+    πατρίδι σεβόμενον καὶ κατὰ τοὺς οἰκείους νόμους εὐφήμως καὶ
+    οἰκείως προσδέχεσθαι καὶ ἀποστέλλειν, μεμνημένους Διὸς Ξενίου,
+    ὡς παρὰ πᾶσιν ἱδρυμένου κοινοῦ θεοῦ καὶ ὄντος ἐπισκόπου φιλοξενίας
+    τε καὶ κακοξενίας, 
+    
+    und auch bei nicht griechischen
+    Völkern findet sich dieselbe Gesinnung. 
+    
+    Aelian. V. Hist. IV, 1: λέγει τις νόμος Λευκανῶν, ἐὰν ἡλίου δύσαντος ἀφίκηται
+    ξένος καὶ παρελθεῖν ἐθελήσῃ εἰς στέγην τινός, εἶτα μὴ δέξηται
+    τὸν ἄνδρα, ζημιοῦσθαι αὐτὸν καὶ ὑπέχειν δίκας τῆς 
+    κακοξενίας. 
+    
+    Vgl. die Φασιανοί bei 
+    
+    Heracl. Pol. 18: 
+    φιλόξενοι
+    δ᾽ εἰσὶν ὥστε τοὺς ναυαγοὺς ἐφοδιάζειν καὶ τρεῖς μνᾶς διδόντας
+    ἀποπλεῖν 
+    
+    oder wie wahrscheinlich gelesen werden muss
+    ἀποπέμπειν, Plat. Meno p. 91. 
+    
+    
+    [Auch Dichter priesen die
+    Tugend der Gastfreundschaft, wie Pindar. Isthm. II, 51 und
+    Theocr. XVI, 27.] Allein es ist natürlich, dass von der
+    Zeit an, wo der Verkehr mit dem Auslande bedeutender und
+    die Reisen im Inlande häufiger wurden, wo Städte wie Athen
+    und Korinth oft überfüllt mit Fremden waren, das Bedürfniss
+    öffentlicher Gasthäuser fühlbar werden musste. Man bedenke
+    nur, welche Menge Schaulustiger nicht nur zu den in bestimmten
+    Zwischenräumen wiederkehrenden allgemein griechischen
+    Festen, sondern auch den besonderen einzelner Städte strömte,
+    welche Zahl fremder Kaufleute und Schiffer der Handel den
+    Seestädten zuführte, und man wird es natürlich finden, dass
+    ein grosser Theil derselben keinen Anspruch auf das Gastrecht
+    in einem Privathause machen konnte, sondern auf eine
+    öffentliche Herberge verwiesen war. Gilt es auch fortwährend
+    als eine Pflicht (Aristot. Eth. Nic. IV, 5, p. 1123) und
+    ein Vorzug des wohlhabenden Mannes, gastfrei gegen Fremde
+    zu sein, ξενοδοκεῖν, wie es Plato Republ. IV, p. 419 unter
+    die Zeichen des Glückes und Reichthums, Sokrates bei Xenoph.
+    Oec. 2, 5 geradezu ‚unter die stehenden Ausgaben
+    rechnet 
+    
+    (ἔπειτα ξένους προσήκει σοι πολλοὺς δέχεσθαι, καὶ
+    τούτους μεγαλοπρεπῶς) 
+    
+    — so sind das doch theils Freunde, .
+    theils erbetene Gäste, theils ausgezeichnete Persönlichkeiten,
+    
+    <pb n="4"/>
+    
+    deren Anwesenheit dem Hause zur Ehre und zum Glanze gereicht;
+    und selbst wenn wir z. B. das Haus des Kallias (Plat.
+    Protag. p. 315) so überfüllt mit Gästen finden, dass die gewöhnlichen
+    Räume sie zu beherbergen nicht hinreichen, so
+    liegt darin nichts, was nicht auch auf unsere Zeit und Verhältnisse
+    anwendbar wäre. [Prahlerische Menschen suchten
+    einen Ruhm darin, für gastfrei zu gelten. Vgl. 
+    Theophr.
+    Char. 20: 
+    καὶ ξενίζων δὲ φῆσαι, ὅτι ἣ οἰκία αὐτοῦ πανδοκεῖόν
+    ἐστι· μεστὴ γάρ ἐστιν ἀεὶ ξένων, und 
+    
+    28: καὶ ἐν μισθωτῇ
+    οἰκίᾳ οἰκῶν φῆσαι, ταύτην εἶναι τὴν πατρῴαν, πρὸς τὸν μὴ
+    εἰδότα, καὶ ὅτι μέλλει πωλεῖν αὐτὴν διὰ τὸ ἐλάττω εἶναι αὐτῷ
+    πρὸς τὰς ξενοδοκίας. 
+    Ein Beispiel von einem Jedermann
+    offenstehenden Hause erzählt 
+    Aelian,
+    wo es am Schlusse heisst: 
+    
+    Aelian. Var. Hist. XIV, 24,
+    ἐοίκαμεν γὰρ ἀντὶ περιστερᾶς ἔχειν
+    φάτταν, ὑπὲρ οἰκίας εὑρόντες πανδοκεῖον. Ausnahmen dagegen
+    ganz besonderer Art sind es gewesen, wenn Lichas in Sparta
+    an den Gymnopädien die anwesenden Fremden speiste: Xenoph.
+    Memor. Socr. I, 2, 61 und Plut. Cim. 10, oder
+    wenn der kolossal reiche Agrigentiner Gellias in seinem Hause
+    umfassende Einrichtungen zur Beherbergung von Fremden
+    getroffen hatte und sogar seine Diener an die Stadtthore stellt,
+    um die Reisenden einzuladen: Diodor. XIII, 83 und Valer.
+    Max. IV, 8, ext.2. Die am gastlichen Herde geschlossenen
+    Freundschaftsbündnisse erbten auch jetzt noch auf die Nachkommen
+    fort und anstatt der Gastgeschenke tauschte man
+    förmliche Erkennungszeichen, σύμβολα, in zerschnittenen Ringen,
+    Knöcheln oder Siegelmarken bestehend, aus, um sich legitimiren
+    zu können: Plat. Symp. p. 191 und 193. Schol.
+    zu Eurip. Med. 116. Plaut. Cistell. II, 1, 27 und Poenul.
+    V, 25; Hermann Privatalt. ὁ 52, No. 15 mit den
+    Zusätzen von Stark. Etwas lauer gestaltete sich das gastfreundliche
+    Verhältniss schon dadurch, dass der Fremde nicht
+    nothwendig täglicher Tischgenosse war. Schon Miltiades hatte
+    den Dolonkern bloss καταγωγὴν καὶ ξείνια anbieten lassen:
+    
+    <pb n="5"/>
+    Herod. VI, 35, vgl. 
+    
+    Anacreon bei Plut. adv. Stoic. 20:
+    ἔστε ξένοισι μειλίχοις ἐοικότες στέγης τε μοῦνον καὶ πυρὸς
+    κεχρημένοι. 
+    
+    Bei Appul. Metam. II, 11 und Lucian.
+    Asin. 3 giebt der Reisende nach seiner Ankunft in Hypata
+    dem Dieustmädchen Geld, um Futter für das Pferd zu kaufen,
+    und später schickt ihm eine befreundete Matrone in das Haus
+    seines Gastfreundes porcum opimum et quinque gallinulas et
+    vini cadum, als xeniola. Dieselbe Sitte bezeugt auch Vitruv.
+    VL 7 (10), 4: nam cum fuerunt Graeci delicatiores et fortuna
+    opulentiores, hospitibus advenientibus instruebant triclinia,
+    cubicula, cum penu cellas, primoque die ad coenam invitabant,
+    postero mittebant pullos, ova, olera, poma reliquasque res
+    agrestes; ideo pictores ea, quae mittebantur hospitibus, picturis
+    imitantes xenia appellaverunt.</p>
+    
+    <p>In grossen Städten, die oft von Fremden wimmelten, und
+    an besuchten Wallfahrtsorten, sahen sich natürlich die Reisenden
+    genöthigt, auf andere Weise ein Unterkommen zu suchen.
+    Sie mietheten sich daher irgendwo ein, wie z, B. Dio
+    Chrysostom von Diogenes von Sinope
+    sagt: 
+    Chrysost. Or. VIII, 4, p. 276
+    μετέβη εἰς Κόρινθον κἀκεῖ διῆγεν, οὔτε οἰκίαν μισθωσάμενος
+    οὔτε παρὰ ξένῳ τινὶ καταγόμενος. 
+    
+    Vgl. Lucian. Toxar.
+    61 und besonders
+    
+    Aelian. Var. Hist. III, 14: Βυζαντίους
+    δὲ δεινῶς οἰνόφλυγας ὄντας ἐνοικεῖν τοῖς καπηλείοις ὁ
+    λόγος ἔχει, τῶν οἰκιῶν τῶν ἰδίων καὶ τῶν δωματίων ἐξοικισθέντας
+    καὶ τοῖς ξένοις τοῖς ἐπιδημοῦσι τῇ πόλει ἐπιμισθώσαντας
+    αὐτά, 
+    
+    wozu Theopomp. bei Athen. XII, p. 526 stimmt.] —
+    Andere mussten dagegen jedenfalls in einem Wirthshause (πανδοκεῖον,
+    καταγώγιον, κατάλυσις) unterzukommen suchen, und
+    im Grunde liegt eine solche Distinction auch in den wiewohl
+    ganz eigenthümlichen Bestimmungen Plato’s Leges,
+    dessen Verlangen: 
+    
+    Plato’s Leg. XII, p. 952
+    τῷ δὴ τοιούτῳ (θεωρῷ) παντὶ χρὴ καταλύσεις
+    πρὸς ἱεροῖς εἶναι φιλοξενίαις ἀνθρώπων παρεσκευασμένας,
+    sich zum Theile in der Wirklichkeit dadurch erfüllt findet,
+    dass an jenen Orten öffentlicher Feste oder in der Nähe berühmter
+    
+    <pb n="6"/>
+    
+    
+    und vielbesuchter Tempel allerdings schon auf Öffentliche
+    Kosten dafür gesorgt war, den Ankömmlingen ein Obdach
+    zu gewähren. So waren in der olympischen Altis zahlreiche
+    σκηναί oder καταγώγια, deren Ursprung der Scholiast
+    zu Pindar. Ol. XI, 55 auf Herakles zurückführt; vgl. Aelian.
+    V. Hist. IV, 9. Eine ganz ähnliche Einrichtung fand sich
+    bei dem Tempel der Aphrodite zu Knidos, 
+    
+    Lucian. Amor. 12:
+    ἦν δ᾽ ὑπὸ ταῖς ἄγαν παλινσκίοις ὕλαις ἱλαραὶ κλισίαι τοῖς ἐνεστιᾶσθαι
+    θέλουσιν, εἰς ἃ τῶν μὲν ἀστικῶν σπανίως ἐπεφοίτων
+    τινές· ἀθρόος δ᾽ ὁ πολιτικὸς ὄχλος ἐπανηγύριζεν, ὄντως ἀφροδισιάζοντες.
+    
+    [Für den Isthmos vgl. 
+    
+    Corp. Inscr. No. 1104:
+    καταλύσεις τοῖς ἀπὸ τῆς οἰκουμένης ἐπὶ τὰ Ἴσθμια παραγενομένοις
+    ἀθληταῖς.
+    ] Das bedeutendste Gebäude dieser Art aber
+    war nach der Zerstörung von Platää von den Spartanern an
+    der Stelle der verwüsteten Stadt neben dem Heräon erbaut
+    worden. 
+    Thucyd. II, 68: 
+    ᾠκοδόμησαν πρὸς τῷ Ἡραίῳ καταγώγιον
+    διακοσίων ποδῶν, πανταχῇ κύκλῳ οἰκήματα ἔχον κάτωθεν
+    καὶ ἄνωθεν. 
+    
+    [Wenn es dann weiter heisst, dass man
+    das vorhandene Eisen und Kupfer zu Bettstellen benutzt und
+    dieselben der Hera geweiht habe, so kann man nur daran denken,
+    dass sie eben in dem καταγώγιον aufgestellt wurden.
+    Dass man überhaupt in diesen Karawansereien nichts anderes
+    vorfand, ja dass man auch in den Privatherbergen für das
+    Bettzeug selbst sorgte, (wenn der Redner Aristides drei
+    Meilen vor Pergamos im Wirthshause ausser dem Feldbette
+    noch einen reinen Teppich findet, so ist dies auch eine spätere
+    Zeit), ergiebt sich aus der allgemeinen Sitte, mindestens
+    einen Sklaven mit auf die Reise zu nehmen, welcher ausser
+    dem nöthigen anderen Geschirr die στρώματα trug.] So sagt
+    Peisthetäros 
+    <cit><bibl>Aristoph. Av. 615:</bibl>
+    <quote xml:lang="grc">
+    <l>οὕτω μὲν εἰσίωμεν. ἄγε δὴ, Ξανθία</l>
+    <l>καὶ Μανόδωρε, λαμβάνετε τὰ στρώματα.</l>
+    </quote>
+    </cit>
+    
+    
+    
+    </p>
+    
+    <p>Vergl. Ran. 12 u. ö. Am deutlichsten erhellt die Sitte aus
+    
+    Xenoph. Memor. III, 13, 6: 
+    ἄλλου δὲ λέγοντος, ὡς παρετάθη
+    
+    <pb n="7"/>
+    
+     μακρὰν ὁδὸν πορευθείς, ἤρετο αὐτὸν, εἰ καὶ φορτίον ἔφερε.
+    Μὰ Δί᾽, οὐκ ἔγωγ᾽, ἔφη, ἀλλὰ τὸ ἱμάτιον. Μόνος δ᾽ ἐπορεύου,
+    ἔφη, ἢ καὶ ἀκόλουθός σοι ἠκολούθει; Ἠκολούθει, ἔφη. Πότερον,
+    ἔφη, κενὸς ἢ φέρων τι; φέρων νὴ Δί´, ἔφη, τά τε στρώματα
+    καὶ τὰ ἄλλα σκεύη. 
+    
+    Der Sack oder überhaupt der Behälter
+    für dieses Reisegepäck hiess στρωματόδεσμον. 
+    
+    
+    Plato Theaet. p. 175: 
+    ὅταν εἰς δουλικὰ ἐμπέσῃ διακονήματα, οἷον στρωματόδεσμον
+    μὴ ἐπιστάμενος συσκευάσασθαι. 
+    
+    Aeschin. de falsa leg.  99: 
+    συνηκολούθουν δ᾽ αὐτῷ ἄνθρωποι δύο στρωματόδεσμα
+    φέροντες, ἐν δὲ τῷ ἑτέρῳ τούτων, ὡς αὐτὸς ἔφη, τάλαντον
+    ἐνῆν ἀργυρέου: 
+    
+    in späterer Zeit auch στρωματεύς nach
+    
+    Poll. VII, 79: 
+    ἃ δὲ οἱ παλαιοὶ στρωματόδεσμα, ταῦθ᾽ ol νεώτεροι
+    στρωματεῖς ἔλεγον, ἐν οἷς, ὡς μὲν τοὔνομα δηλοῖ, τὰ
+    στρώματα ἀπετίθεντο· δῆλον δὲ ὅτι καὶ τὰς ἄλλας ἐσθῆτας.
+    Vgl. 
+    
+    X, 137: 
+    θύλακοι, στρωματόδεσμα. 
+    
+    Lobeck ad Phryn. p. 401. Pollux scheint sie nicht auf den Gebrauch der Reise
+    zu beschränken. — Die Last, welche der Sklave zu tragen
+    hatte, mochte bisweilen bedeutend genug sein. Bei Aeschines
+    ist zwar gewiss nicht an Silbergeld zu denken; doch spricht
+    von solcher Unbilligkeit 
+    
+    Theophr. Char. 30: 
+    τῷ ἀκολούθῳ
+    ἐπιθεῖναι μεῖζον φορτίον ἢ δύναται φέρειν. 
+    
+    Machte übrigens
+    der Herr die Reise zu Pferde, so folgte demungeachtet der
+    Sklave zu Fusse nach; dann trug aber auch wohl das Pferd
+    einen Theil des Gepäcks. 
+    
+    Lucian. Asin. 1: ἕπος δέ με
+    κατῆγε καὶ τὰ σκεύη, καὶ θεράπων ἠκολούθει εἷς. 
+    
+    [Darum
+    wird es von Theophrast hervorgehoben,
+    dass die nach Magnesia zum Tempel der Artemis Wallfahrenden
+    bekommen hätten 
+    
+    Theophrast bei Athen. IV, p. 173
+    
+    στέγην, ἅλας, ἔλαιον, ὄξος, ἐπέ
+    λύχνον, κλίνας, στρώματα, τραπέζας. 
+    
+    Oeffentliche Anstalten,
+    wie die genannten καταγώγια schlägt Xenoph. de vectigal.
+    III, 12 vor, auch für die Kaufleute in Hafenorten zu erbauen.]
+    Allein solche einzelne öffentliche Anstalten an besonders besuchten
+    Orten schliessen das Bestehen von zahlreichen Privatunternehmungen
+    derselben Art nicht aus; manche schlugen
+    
+    <pb n="8"/>
+    
+    auch ihre eigenen Zelte auf, wie man aus dem Beispiele des
+    Alkibiades sieht, Plutarch. Alcib. 12, oder errichteten ähnliche
+    zur Aufnahme der Fremden, worauf z. B. die oxnvire:
+    in einer ein böotisches Fest betreffenden Inschrift bezogen
+    werden mögen, Böckh C. Inscr. n. 1625, p. 793; und dass
+    es an allen belebteren Landstrassen Herbergen gab, von welchen
+    nicht nur die niedere Klasse, sondern Leute jedes Standes
+    Gebrauch machten, liegt in der Natur der Sache und
+    könnte nicht bezweifelt werden, wenn sich auch nicht Beispiele
+    nachweisen liessen. Selbst die Gesandten Athens an
+    Philipp, von denen sich am ersten erwarten liesse, dass sie
+    allenthalben gastliche Aufnahme finden würden, kehren, wie
+    es scheint überall, in Wirtbshäusern, πανδοχείοις, ein. 
+    
+    Aeschin. de falsa leg. 97: οὐδεὶς αὐτῷ συσσιτεῖν, ὅτ᾽ ἐξῄειμεν ἐπὶ
+    τὴν ὑστέραν πρεσβείαν, ἤθελεν οὐδὲ ἐν ταῖς ὁδοῖς, ὅπου δυνατὸν
+    ἦν, εἰς ταὐτὸ πανδοχεῖον καταλύειν. 
+    
+    Vgl. 
+    
+    Demosth. de falsa leg. 158. 
+    
+    [von Epidauros
+    
+    Plaut. Menaechm. II, 3, 81 :
+    abduce istos in tabernam actutum deversoriam. 
+    
+    Appul.
+    Met. I, 15: 
+    sumo sarcinulam et pretio mansionis stabulario
+    persoluto capessimus viam. 
+    Cic. Divin. I, 27: cum duo
+    quidem Arcades familiares iter una facerent et Megaram venissent,
+    alterum ad cauponem devertisse, ad hospitem alterum.
+    
+    Auch die Geschichte von der Ermordung eines Reisenden durch
+    den Wirth 
+    de Invent. II, 4, 14 spielt jedenfalls in einem
+    griechischen Gasthause. 
+    
+    Diog. Laërt. II, 132 von Menedemos:
+    σὺν γοῦν Ἀσκληπίαδῃ xar’ ἄγνοιαν ἐν πανδοχείῳ ποτὶ
+    κρεάτων ῥιπτουμένων φαγών. Plut. Cat. Min. 12: εἰ μηδεὶς
+    τύχοι φίλος ὧν adrödı πατρῷος ἢ γνώριμος, ἐν πανδοχείῳ
+    τὴν ὑποδοχὴν αὐτοῦ παρεσκεύαζον, 
+    
+    Vgl. Amator. narr. 3;
+    Defect. Orac. 5. Daher will denn auch Dionysos Kenntniss
+    von den Wirthshäusern auf dem Wege zum Hades haben;
+    s. Aristoph. Ran. 112ff., eine Stelle, in der so ziemlich
+    alles genannt wird, was dem Reisenden, der nur materielle
+    Zwecke verfolgt, zu wissen wünschenswerth sein kann:
+    
+    <pb n="9"/>
+    
+    Aristoph. Ran. 112ff.
+    τούτους (ξένους) φράσον μοι, λιμένας, dpronwita,
+    nopvei’, ἀναπαύλας, ἐκτροπάς, κρήνας, ὁδούς,
+    πόλεις, διαίτας, πανδοκευτρίας, ὅπου
+    κόρεις ὀλίγιστοι.
+    
+    </p>
+    
+    <p>Dass man oft die Auswahl unter den Herbergen hatte, lehrt
+    
+    Plut. de vitios. pud. 8: 
+    φέρε δὲ καὶ πρὸς ταῦτα — γυμνάζωμεν
+    ἑαυτούς — μήτε καταλύειν ἐν φαύλῳ πανδοκείῳ, βελτίονος
+    παρόντος, ὅτι πολλάκις ὁ πανδοκεὺς ἠσπάσατο ἡμᾶς,
+    ἀλλ᾽ ἔθους ἕνεκα, κἂν γ παρὰ μικρόν, αἱρεῖσθαι τὸ βελτίον.
+    
+    Selbst in dem am arabischen Meerbusen liegenden Handelsorte
+    Berenike gab es nach 
+    
+    Strab. XVII, p. 815: 
+    καταγωγὰς 
+    ἐπιτηδείους 
+    
+    und wenn Aristides  in Bezug
+    auf Thrakien über 
+    
+    Aristides Or. XXVII, p. 304
+    καταγωγίων ἀπορία 
+    
+    klagt, so ist dies eben
+    ein wenig civilisirtes Land gewesen. Es gab in späterer Zeit
+    so comfortabel eingerichtete Gasthäuser, dass man sich versucht
+    fühlen konnte, länger darin zu verweilen, als man gerade
+    nöthig hatte; vgl. 
+    
+    Epictet. Diss. II, 23, 36: 
+    οἷον εἴ
+    τίς ἀπιὼν εἰς τὴν πατρίδα τὴν ἑαυτοῦ καὶ διοδεύων πανδοκεῖον
+    καλὸν, ἀρέσαντος αὐτῷ τοῦ πανδοκείου, καταμένοι ἐν τῷ πανδοκείῳ,
+    
+    und Strab. XVIII, p. 801 über das ägyptische Kanobos.
+    Allein im Allgemeinen werden sicher die griechischen
+    Gasthöfe nicht verlockender gewesen sein als die uns besser
+    bekannten italischen, und zwar nicht etwa deshalb, weil bloss
+    Leute niederen Standes in ihnen einkehrten, sondern weil, wie
+    heute noch im Süden überall, wo die nördlichere Sitte noch
+    nicht Fuss gefasst hat, die Reisenden überaus genügsam und
+    anspruchslos waren. Da wie in Italien (Sueton. Vitell. 7)
+    die letzteren sich mit den Kutschern, Matrosen und Maulthiertreibern
+    in einem Raume befanden, so war natürlich die Gesellschaft
+    sehr gemischt. Belehrend dafür ist 
+    
+    Plut. De san. praecept. 15: 
+    ὅθεν οὐδὲ πλοῦν ποιητέον οὔτε καταγωγὴν ἐν
+    πανδοχείῳ σιγῆς πρόφασιν, οὐδ᾽ ἐὰν πάντες καταγελῶσιν. Ὅπου
+    γὰρ οὐκ αἰσχρὸν τὸ φαγεῖν, οὐδὲ τὸ γυμνάζεσθαι δήπουθεν
+    αἰσχρόν: ἀλλ᾽ αἰσχίον τὸ δεδοικέναι καὶ δυσωπεῖσθαι ναύτας
+    
+    <pb n="10"/>
+    
+    καὶ ὀρεωκόμους καὶ πανδοκεῖς καταγελῶντας, οὐ τοῦ σφαιρίζοντος
+     καὶ σκιαμαχοῦντος, ἀλλὰ τοῦ λέγοντος. 
+     
+     Dazu kam noch
+    die Anwesenheit gefälliger Dirnen: 
+    
+    Plut. Dometr. 26 und
+    Strab. XII, p. 578; vgl. die Inschrift von Aesernia im Gall.
+    III, S. 23 und bei Marquardt Privatalterth. II, S. 83.
+    Ueberhaupt standen die πανδοκεῖς, sowie die kreischenden
+    (Aristoph. Plut. 427) πανδοκεύτριαι in üblem Rufe, was
+    seinen] Grund darin hat, dass eine Bewirthung um des Gewinns
+    willen dem ursprünglichen Begriffe der ξενία gänzlich zuwider
+    ist, und zweitens durch die Schlechtigkeit und betrügerische
+    Handlungsweise der meisten πανδοκεῖς gerechtfertigt wurde,
+    so dass es Theophr. Charact. 6 geradezu als ein Merkmal
+    der ἀπόνοια d. h. ὑπομονὴ αἰσχρῶν ἔργων καὶ λόγων angiebt:
+    δεινὸς πανδοκεῦσαι καὶ πορνοβοσκῆσαι καὶ τελωνῆσαι: vergl.
+    Plato Leg. XI, p. 918: πάντα τὰ περὶ τὴν καπηλείαν καὶ ἐμπορίαν
+    καὶ πανδοκείαν γένη διαβέβληταί τε καὶ ἐν αἰσχροῖς γέγονεν
+    ὀνείδεσιν· ἐπεὶ εἴ τίς (ὁ μή ποτε γένοιτο οὐδ᾽ εἰρήσεται) προσαναγκάσειε
+    (γέλοιον μὲν εἰπεῖν, ὅμως δὲ εἰρήσεται) πανδοκεῦσαι
+    τοὺς πανταχῇ ἀρίστους ἄνδρας ἐπέ τινα χρόνον --- γνοίημεν
+    ἄν, ὡς φίλον καὶ ἀγαπητόν ἐστιν ἕκαστον τούτων, und was im
+    Exc. zu Sc. IV über die καπηλεῖα gesagt ist. [Und wenn, wie
+    in den oben aus Cicero erwähnten Fällen, zuweilen selbst das
+    Leben der Reisenden in solchen Herbergen von Seiten der
+    Wirthe gefährdet war, so wird es wohl auch nicht selten vorgekommen
+    sein, dass sie, wie z.B. bei Alciphr. Epist. 46
+    und 53 sich zu Hehlern für Diebe hergaben. Bei Artemid.
+    Onirocr. I, 23 und IV, 57 bedeuten eherne und eiserne
+    Stirnen, sowie scharfe Dornen im Traume den Gastwirthen
+    Gutes! Uebrigens scheint es, als haben die griechischen Gasthäuser,
+    wie die römischen, ihre besonderen Namen und Schilder
+    geführt. Wenigstens erwähnt Artemid. Onirocr. 1, 4
+    ein ξενοδοκεῖν, ᾧ ἐπώνυμον κάμηλος und auf einen zavdoxebs
+    wird auch das χέρας AuoAdeias bei Palaeph. Incredib.
+    46 gedeutet.</p>
+    
+    <pb n="11"/>
+    
+    <p>Ueber das Verhältniss des Reisenden zum Wirthe hinsichtlich
+    der Bedürfnisse und deren Preise sind wir gar nicht
+    unterrichtet. Wenn aber Polybios II, 15 vom gesegneten
+    cisalpinischen Gallien sagt: ποιοῦντας γὰρ τὰς καταλύσεις οὗ
+    διοδεύοντες τὴν χώραν ἐν τοῖς πανδοχείοις, οὐ συμφωνοῦντες
+    περὶ τῶν κατὰ μέρος ἐπιτηδείων, ἀλλ᾽ ἐρωτῶντες. πόσου τὸν
+    ἄνδρα δέχεται. ὡς μὲν οὖν ἐπὶ τὸ πολὺ παρίενται τοὺς καταλύτας
+    οἱ πανδοκεῖς, ὡς ἱκανὰ πάντ᾽ ἔχειν τὰ πρὸς τὴν χρείαν
+    ἡμιασσαρίου " τοῦτο δ᾽ ἔστε τέταρτον μέρος ὀβολοῦ. σπανίως
+    δὲ Todd’ ὑπερβαίνουσι, so erkennt man deutlich, dass er den
+    Contrast dieser Sitte zur sonstigen italischen (vgl. die Tafel
+    von Aesernia) und zur heimischen hervorheben will, dass man
+    also in Griechenland die Bedürfnisse einzeln bezahlte und mit
+    dem Wirthe darüber bei der Einkehr einen Akkord schloss.
+    Auf bestimmte Preise deuten auch die χρέα ἀνάβραστα ἡμιωβολιαῖα
+    der πανδοκεύτρια bei Aristoph. Ran. 553 hin. Doch
+    kam es auch vor, dass man Lebensmittel mitbrachte und sie
+    dem Wirthe zur Zubereitung übergab; vgl. Plut. Apophth.
+    Lacon. 44: εἰς navdoxeiov τις καταλύσας καὶ δοὺς ὄψον τῷ
+    πανδοκεῖ σκευάσαι, ὡς ἕτερος τυρὸν ᾔτει καὶ ἔλαιον, Ti, ἔφη,
+    εἰ τυρὸν εἶχον, ἔτι ἂν ἐδεόμην ὄψου; der zu Polybios Zeit in
+    Griechenland übliche Preis der Tageszehrung kann wohl getrost
+    auf das Achtfache der von ihm angegebenen Kleinigkeit
+    veranschlagt werden.</p>
+    
+    <p>Strabo’s ungünstiges Urtheil in Bezug auf die Strassen
+    (V, p. 330) gilt den Griechen bloss in Vergleich mit den Römern.
+    E. Curtius Ueber den Wegebau bei den Griechen
+    in den Abhandl. der Berl. Acad. der Wissensch.
+    1854 hat S. 221ff. auf den religiösen Zusammenhang der Wegeanlagen
+    mit den Nationalheiligthümern aufmerksam gemacht
+    und sorgfältig ausgemeiselte, gleichspurige Geleise, Ausweichestellen
+    (ἐκτροπαί und κάμψεις), Ruheplätze (ἀνάπαυλαι, ἀναπαυστήρια)
+    und Treppenwege (κλίμακες) nachgewiesen.</p>
+    
+    <p>Die meisten Reisen scheinen auch in der historischen Zeit
+    
+    <pb n="12"/>
+    
+    19 Erster Excurs
+    zu Fuss gemacht worden zu sein.] Selbst öffentliche Gesandtschaften
+    reisen nicht anders, wie man deutlich aus Aeschin.
+    de falsa leg. 8 97ff. sieht (vgl. Anm. 8). Indessen finden
+    sich auch für Reisen zu Pferde Beispiele und Demosthenes
+    selbst begleitet die Gesandten Philipp’s auf diese Weise bis
+    Theben. Aeschin. a. a. 0. ὁ 111: ἐμισθώσατ᾽ αὐτοῖς ὅτ᾽
+    <choice><sic></sic><corr n="88">ἀπῄεσαν</corr></choice> Öpıxa ζεύγη καὶ συμπαρῄει ἐφ᾽ ἵππου: vgl. in Ctesiph.
+    76. Bei Xenoph. Symp. 9, 7 sind selbst einige der Gäste zu
+    Pferde in Kallias Haus gekommen, oder haben (wie Schneider
+    zu 1, 7 annimmt) sie für die Heimkehr nachkommen lassen. Wenn
+    daher bei Lysias de inval. $ 11 der Gebrauch der Pferde
+    zu solchem Zwecke für ὕβρις erklärt wird, so gilt dies bloss
+    den dürftigen Umständen des Beschuldigten. Vgl. Lucian.
+    Asin. 1 oder Appul. Metam. I, 2. Der Gebrauch der Wagen
+    war sehr beschränkt, und wenn namentlich Männer sich
+    ihrer in der Stadt und ihren Umgebungen bedienten, so wird
+    dieses immer als Zeichen der Weichlichkeit oder des Hochmuths
+    getadelt. So sagt Demosth. adv. Phaenipp. ὁ 24: 
+    δόμενος τὸν πολεμιστήριον ἵππον καταβέβηκεν ἀπὸ τῶν ἕππων
+    καὶ ἀντ᾽ ἐκείνου ὄχημα αὑτῷ τηλικοῦτος ὧν ἐώνηται, ἵνα μὴ
+    πεζῇ πορεύηται τοσαύτης τρυφῆς μεστὸς οὗτός ἐστι. Daraus
+    erklärt sich die Anekdote von Speusippos und Diogenes bei
+    Diog. Laërt. IV, 3: φασὶ δὲ ἐφ᾽ ἁμαξίου αὐτὸν φερόμενον
+    εἰς τὴν Axaöyılav συναντῆσαι Διογένει καὶ, χαῖρε, εἰπεῖν· τὸν
+    δὲ φάναι, ἀλλὰ μὴ σύ γε, ὅστις ὑπομένεις ζῆν τοιοῦτος ὦν.
+    Vgl. Aristoph. Thesm. 811. Selbst bei Frauen wird es als
+    Zeichen des Hochmuths betrachtet, wie bei Demosth. in
+    Mid. ὁ 158: καὶ εἰς μυστήρια τὴν γυναῖκα ἄγει κἂν ἄλλοσέ
+    not βούληται ἐπὶ τοῦ λευκοῦ ζεύγους τοῦ ἐκ Σικυῶνος. Daher
+    veranlasste auch der Redner Lykurg ein Gesetz, dass die Weiber
+    nicht nach Eleusis fahren sollten, damit nicht die Aermeren
+    durch die Reichen beschämt würden. Plutarch. X Orat.
+    vit. p. 842. Seine eigene Gemahlin indessen übertrat das
+    Gesetz und er musste die Sykophanten mit einem Talente zum
+    
+    <pb n="13"/>
+    
+    Schweigen bringen. Wenn Timoleon sich in die Versammlung
+    fahren liess und auf dem Wagen bleibend der Berathung beiwohnte
+    (Plutarch. Timol. 38), so geschah dieses, weil er
+    blind war; aber als Auszeichnung gilt es bei Andoc. de
+    myst. ὁ 45: τὸν δὲ τῶν xaxav τούτων αἴτιον Διοκλείδην ὡς
+    σωτῆρα ὄντα τῆς πόλεως ἐπὶ ζεύγους ἦγον εἰς τὸ πρυτανεῖον
+    στεφανώσαντες. — [Zu weiteren Reisen wird sich das weibliche
+    Geschlecht stets der Wagen bedient haben. Schon Solon
+    hatte ja befohlen (Plut. Sol. 21): μὴ vöxtwp πορεύεσθαι
+    πλὴν ἁμάξῃ κομιζομένην, λύχνου προφαίνοντος. So reiste auch
+    die peloponnesische Festgesandtschaft, welche nach Plut.
+    Quaest. Graoc. 59 in Megara arg beleidigt wurde, mit Weibern
+    und Kindern in Wagen, die ihnen zugleich zum Uebernachten
+    dienten. Aber auch von Empedokles erzählt Diog.
+    Laërt. VIII, 73: διά τινα πανήγυριν πορευόμενον ἐφ᾽ ἁμάξης
+    ὡς εἰς Μεσσήνην πεσεῖν καὶ τὸν μηρὸν κλᾶσαι.</p>
+    
+    <p>Was nun die verschiedenen Arten von Wagen betrifft, so
+    muss man sich mit den dürftigen Nachrichten bei Poll. X,
+    51 begnügen, der ohnehin zunächst von Spazierfahrten spricht, _
+    wie sie in der Morgenfrühe üblich waren: ἀλλ᾽ εἰ μὲν αἰωρήσει:
+    τῇ δι᾽ ὀχημάτων χρῷτό τις περὶ τὴν ἕω θέρους ὄντος, πρὶν
+    ἢ τὸν ἥλιον περιφλέγειν, τὰ εἰδὴ τῶν ὀχημάτων ἰστέον, εἴτε
+    ἅρματα εἴτε ὄχους εἴτε ἁμάξας εἴτε λαμπήνας αὐτὰ προσήκει
+    xaleiv, ἔστε δὲ τοὔνομα ἢ λαμπήνη ἐν τῇ Σοφοκλέους Ναυσικάᾳ
+    καὶ ἐν τοῖς Mevavöpov Ἁλιεῦσιν: vgl. Posidipp. bei Poll.
+    X, 189. Nur so viel erfahren wir, dass sie theils zum Sitzen
+    theils zum Liegen eingerichtet waren, zum Theil bedeckt und
+    bald auf zwei, bald auf vier Rädern ruhend: τὰ δὲ ἐνθρόνια,
+    τὰ δὲ εἰς τὸ κατακλῖναι ἐνεύναια, τὰ δὲ κατάστεγα καὶ στεγαστὰ
+    καὶ καμάραι· οὕτω γὰρ ὠνόμασεν Ἡρόδοτος (1, 199),
+    Ξενοφῶν δὲ ἐν τῇ Παιδείᾳ (VI, 4, 11) τὸ ἐστεγασμένον μέρος
+    τῆς ἁμάξης ὑποσημαίνων ἔφη, καὶ κατέκλιναν καὶ κατεκάλυψαν
+    τὴν σκηνήν· καὶ τὰ μὲν τετράκυκλα, τὰ δὲ δίκυκλα: was aber
+    die einzelnen Unterarten betrifft, so mögen darunter manche
+    
+    <pb n="14"/>
+    
+    gar nicht zum Gebrauche im gemeinen Leben gedient haben,
+    selbst das lakedämonische κάνναθρον: vgl. Müller Dorier
+    B. II, S. 282 und Preller ad Polemon. p. 133 — 136.
+    [Der Reisewagen für mehrere Personen kann nur die vierräderige
+    ἅμαξα gewesen sein. Auf Bildwerken erscheint ein
+    zweiräderiges Kabriolet; vgl. Panofka Bild. antik. Lebens
+    Taf. III, 8 und ebenso Gerhard Auserles. antike Vasenb.
+    Taf. CCXVII, wo der Lenker zu Füssen einer weiblichen
+    Gestalt mit seitwärts herabhängenden Beinen sitzt. Ueber
+    die Bespannung 8. Guhl und Koner Κ. 806. Uebrigens sind
+    noch häufiger, als die theuren Pferde, die in Attika nicht
+    unter drei Minen zu stehen kamen, die Maulthiere beim Fahren
+    benutzt worden. Vgl. Xenoph. Anab. VII, 5, 2; Isaeus
+    de Dicaeogr. hered. ὁ 43; Aeschin. de fals. legat.
+    8 111. Ueber das Reiten von Frauen auf Pferden vgl. Stephani
+    in Compte rendu pour 1866, p. 123. 184ff. Noch
+    häufiger bedienten sich sie, aberauch Kranke und Weichlinge, der
+    mit bequemen Lehnsätteln versehenen Maulthiere. Schol. zu
+    Demosth. in Mid.  133: ἀστράβη εἶδος καθέδρας, παρὰ
+    τὸ μὴ στρέφεσθαι· ἔστι δὲ ἐπὶ πλεῖστον εἰς ὕφος, ὥστε τῶν
+    καθεζομένων ἀνέχειν τὰ νῶτα χρῶνται δὲ αὐτῷ μάλιστα αἱ
+    γυναῖκες. Der Name ἀστράβη wurde nun aber auch auf das
+    Thier übertragen: Harpocrat. s. v. Hellad. bei Phot.
+    Bibl. 279, p. 533 a 31: ὅτι τὴν ἡμίονον, ἐφ᾽ ἧς ὀχούμεθα,
+    φησίν, ἀζύγου οὔσης, Ἀθηναῖοι καλοῦσιν ἀστράβην, ἔνθεν λέγεται
+    ὁ ἀστραβηλάτης. Vgl. Etymol. Magn.. 5. 169 (Sylburg),
+    Lys. pro inval. ὁ 11, Machon bei Athen. XIII, p. 582
+    und Stephani Compte rendu pour 1853, p. 228, nebst
+    pl. V. Ueber den Gebrauch der Sänften s. Scen. VII, Anmerk.
+    23 und über das Schiff als Reisevehikel die Anmerkungen
+    zu derselben Scene überhaupt.</p>
+    
+    <p>Was die Sicherheit der Reisenden unterwegs anlangt, 80
+    möchte ich nicht aus den Worten Xenophon’s Memor.
+    Socr. I, 1, 15: σὺ δὲ ἐν ταῖς ὁδοῖς, ἔνθα πλεῖστοι ἀδικοῦνται
+    
+    <pb n="15"/>
+    
+    πολὺν χρόνον διατρίβων, εἰς ὁποίαν δ᾽ ἂν πόλιν ἀφίκῃ, τῶν
+    πολιτῶν πάντων ἥττων ὧν καὶ τοιοῦτος οἵοις μάλιστα ἐπιτίθενται
+    οἱ βουλόμενοι ἀδικεῖν, ὅμως διὰ τὸ ξένος εἶναι οὐχ ἂν οἴει
+    ἀδικηθῆναι κ. τ. λ. auf besondere Gefahren einen Schluss ziehen;
+    denn dort ist überhaupt von Unbilden die Rede, welche
+    den Fremden in Folge des geringeren Rechtsschutzes, den sie
+    fanden, widerfahren konnten. Wenn dagegen Diog. Laërt.
+    II, 136 vom Philosopben Menedemos schreibt: ὅμως αὐτὸν
+    (Ἀλεξῖνον) εὖ ἐποίησε τὴν γυναῖκα παραπέμψας ἐκ Δελφῶν ἕως
+    Χαλκίδος εὐλαβουμένην κλωπείας τε καὶ τὰς καθ' ὁδὸν λῃστείας,
+    so denkt man unwillkürlich an die im 4. Jahrhundert so oft
+    herrenlos herumschweifenden Söldner: Isocr. ad Phil. 40
+    und über die gleichzeitige Seeräuberei Panegyr. $ 115 und
+    Demosth. in Aristocr. ὁ 166. Sonst zog der Wanderer
+    im Vertrauen auf den Schutz der θεοὶ ἐνόδιοι, Hermes und
+    Hekate, deren Bilder und Malzeichen besonders auf den Kreuzwegen
+    standen (Hermann Gottesd. Alterth. $15, n. 14ff.)
+    rubig seine Strasse. Es war ihm unverwehrt, von den Früchten
+    der am Wege stehenden Obstbäume zu geniessen und Jedermann
+    zeigte ihm willig die rechte Strasse, wenn er sich
+    verirrtte: Theocr. Idyll. XXV, 3. An den Hermenpfeilern
+    konnte er ausser allerhand Sprüchen auch Wegebestimmungen
+    lesen und später fehlte es nicht an wirklichen Wegweisern
+    und Meilensteinen; vgl. Curtius Wegebau der Gr. S. 43
+    und Eustath. zu Odyss. p. 1809. 31. Am meisten geschützt
+    vor Feindseligkeiten waren die zu den grossen Nationalfesten
+    reisenden Gäste; denn die ἐκεχειρία gewährte allen Theilnehmern
+    internationales sicheres Geleite, weshalb auch der von
+    den erwähnten ἁμαξοκυλισταί verübte Frevel von den Amphiktyonen
+    streng gestraft wurde.</p>
+    
+    <p>Es erübrigt noch zu fragen, ob den Reisenden in Hellas
+    auch Pässe nöthig gewesen sind oder nicht.] Eine Andeutung
+    findet sich bei Aristoph. Av. 1212, wo Peisthetäros die den
+    neuen Staat betretende Iris fragt:
+    
+    <pb n="16"/>
+    
+    σφραγῖδ᾽ ἔχεις παρὰ τῶν πελαργῶν; ἸΡ. τί τὸ xaxöv ;
+    Π. οὐχ ἔλαβες; ἸΡ. ὑγιαίνεις μέν; Π. οὐδὲ σύμβολον
+    ἐπέβαλεν ὀρνίθαρχος οὐδείς σοι παρών ;
+    Dazu bemerkt der Scholiast: οἷον σύμβολον ἐπὶ τῷ συγχωρηθῆναι
+    θῆναι παρελθεῖν. Man vergleiche damit Plaut. Capt. II, 8,90:
+    Eadem opera ἃ praetore sumam syngraphum,. — Quem
+    syngraphum? —
+    Quem hic ferat secum ad legionem, hinc ire huic ut liceat
+    domum.
+    Man hat keineswegs nöthig an römischen Gebrauch zu denken.
+    Eine andere merkwürdige Stelle, welche die Andeutung
+    einer polizeilichen Anstalt zur Controle der Ankommenden zu
+    enthalten scheint, findet sich bei demselben Dichter Trin. III,
+    3, 65, wo von einem untergeschobenen Briefe die Rede ist:
+    Jam si obsignatas non feret (literas), dici hoc potest:
+    Apud portitorem eas resignatas sibi
+    | Inspectasque esse,
+    und v. 80: |
+    Lepida est illa causa, ut commemoravi, dicere
+    Apud portitores esse inspectas.
+    Was Aristophanes σφραγίς nennt, ist nichts anderes als der
+    mit dem Staatssiegel beglaubigte Pass oder dieses selbst. Es
+    ist sehr interessant durch Strabo etwas Näheres von einem
+    solchen Staatssiegel zu erfahren. Er sagt IX, 3, 1: καλοῦνται
+    δ᾽ οἱ μὲν ἑσπέριοι Λοκροὶ καὶ Ὀζόλαι, ἔχουσί τε ἐπὶ τῇ
+    δημοσίᾳ σφραγῖδι τὸν ἕσπερον ἀστέρα ἐγκεχαραγμένον. Nicht
+    ganz dasselbe bedeuten die σύμβολα, indem darunter jedweder
+    Gegenstand, der jemandem zur Legitimation oder Empfehlung
+    mitgegeben wird, verstanden werden kann. So wird es von
+    Euripides in dem von Eustath. ad Iliad. VI, 169 angeführten
+    Verse der Medea 613 gebraucht:
+    ξένοις τε πέμπειν σύμβολ᾽, οἳ δράσουσί σ᾽ εὖ.
+    Deutlicher erhellt die Beschaffenheit und der Zweck solcher
+    σύμβολα aus Lysias de bonis Aristoph. ὁ 25: ὅτε ἔλαβε
+    
+    <pb n="17"/>
+    
+    σύμβολον παρὰ βασιλέως τοῦ μεγάλου φιάλην ... πολλῶν γὰρ
+    ἀγαθῶν καὶ ἄλλων χρημάτων εὐπορήσειν διὰ τὸ σύμβολον ἐν
+    πάσῃ τῇ ἠπείρῳ. — Dieselbe Art von Beglaubigung war auch
+    im Privatverkehre üblich und hier findet sich als symbolus
+    oder symbolum eben auch ein blosser Abdruck des Siegelrings.
+    Plaut. Pseud. I, 1, 53: u
+    Ea causa miles hic reliquit symbolum,
+    Expressam in cera ex anulo suam imaginem, _
+    Ut qui huc afferret eius similem symbolum
+    Cum eo simul me mitteret.
+    Ebend. II, 2, 52:
+    — tu epistolam hanc a me accipe atque illi dato;
+    Nam istic symbolum est inter herum meum et tuum de
+    muliere.
+    Ps. Scio equidem, ut qui argentum afferret atque expressam
+    imaginem
+    Suam huc ad nos, cum eo aiebat velle mitti mulierem.
+    und Bacchid. II, 3, 29:
+    Eo praesente homini extemplo ostendit symbolum,
+    Quem tute dederas, ad eum ut ferret, filio.
+    Vergl. Plutarch. Artax. 18. — Hierher gehören auch die
+    von Poll. IX, 71 angeführten σύμβολα, welche Aehnlichkeit
+    mit den iesseris hospitalibus haben, und endlich eine athenische
+    Inschrift, ein Decret zu Ehren des Straton von Sidon,
+    Marmor. Oxon. 11,24. Böckh C. Inscr. 1, p. 126. Darin
+    heisst es unter Anderem: nomoaodw δὲ καὶ σύμβολα ἢ βουλὴ
+    πρὸς τὸν βασιλέα τὸν Σιδωνίων, ὅπως ἂν ὁ δῆμος ὁ Adyvaluv
+    εἰδῇ ἐάν τι πέμπῃ ὁ Σιδωνίων βασιλεὺς δεόμενος τῆς πόλεως,
+    καὶ ὁ βασιλεὺς 6 Σιδωνίων εἰδῇ ὅταν πέμπῃ τινὰ ὡς αὐτὸν ὁ
+    δῆμος ὁ Ἀθηναίων. Wie schon von Böckh p. 127 bemerkt
+    worden ist, haben diese σύμβολα nichts mit den sonst auch
+    so genannten Staatsverträgen gemein, sondern es sind Legitimationszeichen
+    für die jedesmaligen Gesandten, also gewissermassen
+    auch tesserae hospitales. |Die Becker’sche Ansicht
+    
+    
+    <pb n="18"/>
+    
+    bedarf einer doppelten Berichtigung. Die an erster Stelle
+    von ihm citirten Stellen beweisen nur, dass der Reisende eine
+    Legimation brauchte, wenn die Stadt, wohin er sich begab,
+    sich im Kriegszustande befand. Die zwei letzten plautinischen
+    Citate ferner beziehen sich gar nicht auf eine polizeiliche
+    Massregel, sondern auf das Zollwesen. Denn da die
+    Zölle verpachtet wurden, übten die Unterbeamten der Pächter
+    eine rücksichtslose, mit Visitationen der Reisenden und, wenn
+    Verdacht der Defraudation vorlag, selbst mit Eröffnen der
+    Briefe verbundene Controle Vgl. Büchsenschütz, Bes. u.
+    Erw. 5. 558. Glaubt man doch sogar eine Spur von Plombirung
+    der Waarenballen gefundeu zu haben: Haase in den
+    Annali dell’ inst. di corresp. arch. XI, 2, p. 279.]
+    </p>
+    </div>
+</div>
+</body>
+</text>
+</TEI>
+    
