@@ -15,7 +15,6 @@
 </respStmt>
 <funder>National Endowment for the Humanities</funder>
 </titleStmt>
-
 <publicationStmt>
 <publisher>Trustees of Tufts University</publisher>
 <pubPlace>Medford, MA</pubPlace>
@@ -23,10 +22,9 @@
 <date type="release" when="2023-08-27">Perseus 5.0</date>
 <idno type="filename">TBA</idno>
 <availability>
-<licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence> 
+<licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
 </availability>
 </publicationStmt>
-
 <sourceDesc>
 <biblStruct>
 <monogr>
@@ -44,27 +42,21 @@
 </biblStruct>
 </sourceDesc>
 </fileDesc>
-
 <encodingDesc>
 <editorialDecl>
 <correction><p>keyboarding</p>
 <p>Lace v. 0.6.22 copyright 2013-2021, Bruce Robertson, Dept. of Classics, Mount Allison University.</p></correction>
 </editorialDecl>
-
-
 <refsDecl n="CTS">
 <cRefPattern n="line" matchPattern="(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div//tei:l[@n='$1'])">
 <p>This pointer pattern extracts line</p>
 </cRefPattern>
-</refsDecl> 
-
-
+</refsDecl>
 <!--<refsDecl doctype="TEI.2">
 <state unit="chapter" n="chunk"/>
 <state unit="altsection"/>
 </refsDecl>-->
 </encodingDesc>
-
 <profileDesc>
 <langUsage>
 <language ident="grc">Greek</language>
@@ -74,1217 +66,773 @@
 <change who="Gregory Crane" when="2023-05-06">File created from tesseract OCR</change>
 </revisionDesc>
 </teiHeader>
-
-<text>
-<body>
-<div type="commentary" n="urn:cts:greekLit:TBA" xml:lang="grc">
-<pb n="1"/>
-<div type="textpart" subtype="appendix" n="1">
-
-    <pb n="1"/>
-
-    <head>ERSTER EXCURS ZUR ERSTEN SCENE: DAS REISEN.</head>
-    <p>
-    [Bereits in dem von Homer geschilderten heroischen Zeitalter
-    hatte gute Sitte und religiöse Rücksicht (namentlich auf Ζεὺς
-    ξένιος) das Gastrecht ‘so weit ausgebildet, dass nur ganz rohe
-    und ungesittete Männer, wie Lastrygonen und Kyklopen sich
-    an Fremden vergreifen (Odyss. VIII, 575), wie denn noch
-    viel später Plato sagt:
-    
-    <cit><bibl>   Plat. Legg. V, p. 729 </bibl>
-        <quote xml:lang="grc">πρὸς δ᾽ αὖ τοὺς
-            ξένους διανοητέον ὡς ἁγιώτατα ξυμβόλαια ὄντα: σχεδὸν γὰρ
-            πάντ᾽ ἐστὶ τὰ τῶν ξένων καὶ εἰς τοὺς ξένους ἁμαρτήματα παρὰ
-            τὰ τῶν πολιτῶν εἰς θεὸν ἀνηρτημένα τιμωρὸν μᾶλλον: ἔρημος
-            γὰρ ὢν ὁ ξένος ἑταίρων τε καὶ ξυγγενῶν ἐλεεινότερος ἀνθρώποις
-            καὶ θεοῖς· ὁ δυνάμενος οὖν τιμωρεῖν μᾶλλον βοηθεῖ 
-            προθυμότερον· δύναται δὲ διαφερόντως ὁ ξένιος ἑκάστων δαίμων
-            καὶ θεὸς τῷ ξενίῳ ξυνεπόμενοι Διί.</quote>
-        </cit>
- 
-     
-    
-    Demgemäss hatte sich
-    schon in der homerischen Zeit eine conventionelle Rücksichtsnahme
-    und Artigkeit in der Gastfreundschaft entwickelt, die
-    der Edle sowohl, als der Hörige zu beobachten nie vergass.
-    Vergl. Il. VI, 15. 174. Odyss. 1, 120; XIV, 55; XV, 68;
-    XIX, 314 u. a. St. Auch waren die Reisen damals, keineswegs
-    selten. Ausser dem Handelsmanne und Schiffer wanderten
-    die Demiurgen, gerufen und ungerufen, hin und her (vgl.
-    A. Riedenauer Handwerk und Handwerker in den
-    homer. Zeiten, 1873. 5. 30 ff.); aber auch Fürsten und
-    
-    
-    <pb n="2"/>
-    
-    Vornehme reisten nicht bloss, um Schulden einzutreiben, Metalle
-    oder irgend eins besondere Waare einzutauschen, um
-    Beute zu machen, sondern auch, um einander zu besuchen.
-    So sagt Telemach in Bezug auf seinen Vater 
-    
-    
-    <cit><bibl>Odyss. I, 176:</bibl>
-    <quote xml:lang="grc"><l>ἐπεὶ πολλοὶ ἔσαν ἀνέρες ἡμέτερον δῶ</l>
-        <l>ἄλλοι, ἐπεὶ καὶ κεῖνος ἐπίστροφος ἦν ἀνθρώπων.</l></quote>
-    </cit>
-    
-    
-    
-    
+<text> <body>
 
 
-Vgl.
-V, 209 und IV, 178. Der gemeine Mann zog mit einem
-    tüchtigen Stocke oder mit der Lanze in der Hand seine Strasse,
-    während Edelgeborene im Wagen reisten, die mit Pferden oder
-    Maulthieren bespannt waren. Telemach und Peisistratos fahren,
-    im alten Streitwagen, δίφρος, stehend, von Rossen gezogen,
-    von Pylos nach Lakedämon: III, 478 ff. Ebenso entsendet
-    Menelaos seine Tochter Hermione mit Rossen und Wagen nach
-    Thessalien: IV, 8. Es lässt dies schliessen, dass das Pferd,
-    wie im Kriege, so auch auf der Reise nicht zum Reiten benutzt
-    wurde; andererseits aber auch, dass die Wege schon in
-    so früher Zeit in guter Verfassung waren. Auf Letzteres deuten
-    auch Stellen hin, wie 
-    
-    <cit><bibl>   Il. XV, 682:</bibl>
-        <quote xml:lang="grc">λαοφόρον ὁδόν,</quote>
-        </cit>
-   
-    <cit><bibl>Il. XXI, 146:</bibl>
-        <quote xml:lang="grc">κατ᾽ ἀμαξιτὸν ἐσσεύοντο,</quote>
-        </cit>
-      
-    <cit><bibl>Odyss. X, 104:</bibl>
-        <quote xml:lang="grc">
-            <l part="F">λείην ὁδὸν, ᾗ περ ἄμαξαι</l>
-
-            <l>ἄστυδʼ ἀφ᾽ ὑψηλῶν ὀρέων καταγίνεον ὕλην,</l>
-
-        </quote>
-        </cit>
-      
-    vergl.
-    <cit><bibl>Od. III, 323-326:</bibl>
-        <quote xml:lang="grc">
-            <l>ἀλλʼ ἴθι νῦν σὺν νηί τε σῇ καὶ σοῖς ἑτάροισιν·</l>
-            <l>εἰ δʼ ἐθέλεις πεζός, πάρα τοι δίφρος τε καὶ ἵπποι,</l>
-            <l>πὰρ δέ τοι υἷες ἐμοί, οἵ τοι πομπῆες ἔσονται</l>
-            <l>ἐς Λακεδαίμονα δῖαν, ὅθι ξανθὸς Μενέλαος.</l>
-
-        </quote>
-        </cit>
-    
+<div type="commentary" n="urn:cts:greekLit:TBA" xml:lang="grc"> <pb n="1"/>
 
 
-
- 
-    
-    Was freilich speciell die historische Wahrheit der
-    erwähnten Reise von Pylos über Pherä nach Sparta betrifft,
-    so steht ihr entgegen, dass der einzige Pass über das Taygeton,
-    die Langada, nie eine Fahrstrasse gewesen sein kann
-    (Bursian Geographie von Griechenland II, 8. 105).
-    Ueber die Konstruktion der Wagen im heroischen Zeitalter
+<div type="textpart" subtype="appendix" n="1"> <pb n="1"/> <head>ERSTER EXCURS ZUR ERSTEN SCENE: DAS REISEN.</head>
 
 
-vgl.
-Guhl und Koner S. 304ff.] Die schöne Sitte der Gastfreundschaft
-    reicht auch bis in die historische Zeit herüber;
+<p> [Bereits in dem von Homer geschilderten heroischen Zeitalter hatte gute Sitte und religiöse Rücksicht (namentlich auf Ζεὺς ξένιος) das Gastrecht ‘so weit ausgebildet, dass nur ganz rohe und ungesittete Männer, wie Lastrygonen und Kyklopen sich an Fremden vergreifen (<bibl n="tlg0012.tlg002">Odyss.</bibl> <ref n="romarab">VIII, 575</ref>), wie denn noch viel später Plato sagt:
 
 
-vgl.
-
-<cit><bibl>Herodot. VI, 35:</bibl>
-    <quote xml:lang="grc">οὗτος ὁ Μιλτιάδης (ὁ Κυψέλου, Ἀθηναῖος)
-        κατήμενος ἐν τοῖσι προθύροισι τοῖσι ἑωυτοῦ, ὁρέων τοὺς
-        Δολόγκους παριόντας, ἐσθῆτα ἔχοντας οὐκ ἐγχωρίην καὶ αἰχμάς,,
-        προσεβώσατο καὶ σφι προςελθοῦσι ἐπηγγείλατο καταγωγὴν
-        καὶ ξείνια.</quote>
-    </cit>
-     
-     
-    
-    Ein Gesetz des Charondas schrieb sogar vor:
-    <cit><bibl>Charondas bei Stob. Serm. XLIV, 40</bibl>
-        <quote xml:lang="grc">ξένον πάντα τὸν ἐν τῇ ἑαυτοῦ   <pb n="3"/>
-    
-            πατρίδι σεβόμενον καὶ κατὰ τοὺς οἰκείους νόμους εὐφήμως καὶ
-            οἰκείως προσδέχεσθαι καὶ ἀποστέλλειν, μεμνημένους Διὸς Ξενίου,
-            ὡς παρὰ πᾶσιν ἱδρυμένου κοινοῦ θεοῦ καὶ ὄντος ἐπισκόπου φιλοξενίας
-            τε καὶ κακοξενίας, </quote>
-        </cit>
-    
-     
-    
-  
-    
-    und auch bei nicht griechischen
-    Völkern findet sich dieselbe Gesinnung. 
-    
-    <cit><bibl>Aelian. V. Hist. IV, 1:</bibl>
-        <quote xml:lang="grc">λέγει τις νόμος Λευκανῶν, ἐὰν ἡλίου δύσαντος ἀφίκηται
-            ξένος καὶ παρελθεῖν ἐθελήσῃ εἰς στέγην τινός, εἶτα μὴ δέξηται
-            τὸν ἄνδρα, ζημιοῦσθαι αὐτὸν καὶ ὑπέχειν δίκας τῆς 
-            κακοξενίας. </quote>
-        </cit>
-     
-    
+<cit>
 
 
-Vgl.
-die Φασιανοί bei 
-   
-<cit><bibl>Heracl. Pon. 18:</bibl>
-    <quote xml:lang="grc">φιλόξενοι
-        δ᾽ εἰσὶν ὥστε τοὺς ναυαγοὺς ἐφοδιάζειν καὶ τρεῖς μνᾶς διδόντας
-        ἀποπλεῖν</quote>
-    </cit>
-     
-     
-    
-    oder wie wahrscheinlich gelesen werden muss
-    ἀποπέμπειν, Plat. Meno p. 91. 
-    
-    
-    [Auch Dichter priesen die
-    Tugend der Gastfreundschaft, wie Pindar. Isthm. II, 51 und
-    Theocr. XVI, 27.] Allein es ist natürlich, dass von der
-    Zeit an, wo der Verkehr mit dem Auslande bedeutender und
-    die Reisen im Inlande häufiger wurden, wo Städte wie Athen
-    und Korinth oft überfüllt mit Fremden waren, das Bedürfniss
-    öffentlicher Gasthäuser fühlbar werden musste. Man bedenke
-    nur, welche Menge Schaulustiger nicht nur zu den in bestimmten
-    Zwischenräumen wiederkehrenden allgemein griechischen
-    Festen, sondern auch den besonderen einzelner Städte strömte,
-    welche Zahl fremder Kaufleute und Schiffer der Handel den
-    Seestädten zuführte, und man wird es natürlich finden, dass
-    ein grosser Theil derselben keinen Anspruch auf das Gastrecht
-    in einem Privathause machen konnte, sondern auf eine
-    öffentliche Herberge verwiesen war. Gilt es auch fortwährend
-    als eine Pflicht (Aristot. Eth. Nic. IV, 5, p. 1123) und
-    ein Vorzug des wohlhabenden Mannes, gastfrei gegen Fremde
-    zu sein, ξενοδοκεῖν, wie es Plato Republ. IV, p. 419 unter
-    die Zeichen des Glückes und Reichthums, Sokrates bei Xenoph.
-    Oec. 2, 5 geradezu ‚unter die stehenden Ausgaben
-    rechnet 
-    
-    (ἔπειτα ξένους προσήκει σοι πολλοὺς δέχεσθαι, καὶ
-    τούτους μεγαλοπρεπῶς) 
-    
-    — so sind das doch theils Freunde, 
-    theils erbetene Gäste, theils ausgezeichnete Persönlichkeiten,
-    
-    <pb n="4"/>
-    
-    deren Anwesenheit dem Hause zur Ehre und zum Glanze gereicht;
-    und selbst wenn wir z. B. das Haus des Kallias (Plat.
-    Protag. p. 315) so überfüllt mit Gästen finden, dass die gewöhnlichen
-    Räume sie zu beherbergen nicht hinreichen, so
-    liegt darin nichts, was nicht auch auf unsere Zeit und Verhältnisse
-    anwendbar wäre. [Prahlerische Menschen suchten
-    einen Ruhm darin, für gastfrei zu gelten.
-
-Vgl.
-<cit><bibl>Theophr. Char. 20:</bibl>
-    <quote xml:lang="grc">καὶ ξενίζων δὲ φῆσαι, ὅτι ἣ οἰκία αὐτοῦ πανδοκεῖόν
-        ἐστι· μεστὴ γάρ ἐστιν ἀεὶ ξένων,</quote>
-    </cit>
-     
-     und 
-    
-     <cit><bibl>Theophr. Char. 28:</bibl>
-        <quote xml:lang="grc">καὶ ἐν μισθωτῇ
-            οἰκίᾳ οἰκῶν φῆσαι, ταύτην εἶναι τὴν πατρῴαν, πρὸς τὸν μὴ
-            εἰδότα, καὶ ὅτι μέλλει πωλεῖν αὐτὴν διὰ τὸ ἐλάττω εἶναι αὐτῷ
-            πρὸς τὰς ξενοδοκίας. </quote>
-        </cit>
-  
-    Ein Beispiel von einem Jedermann
-    offenstehenden Hause erzählt 
-    Aelian,
-    wo es am Schlusse heisst: 
-    <cit><bibl>Aelian. Var. Hist. XIV, 24:</bibl>
-        <quote xml:lang="grc">ἐοίκαμεν γὰρ ἀντὶ περιστερᾶς ἔχειν
-            φάτταν, ὑπὲρ οἰκίας εὑρόντες πανδοκεῖον.</quote>
-        </cit>
-    
-     
-    
-    Ausnahmen dagegen
-    ganz besonderer Art sind es gewesen, wenn Lichas in Sparta
-    an den Gymnopädien die anwesenden Fremden speiste: Xenoph.
-    Memor. Socr. I, 2, 61 und Plut. Cim. 10, oder
-    wenn der kolossal reiche Agrigentiner Gellias in seinem Hause
-    umfassende Einrichtungen zur Beherbergung von Fremden
-    getroffen hatte und sogar seine Diener an die Stadtthore stellt,
-    um die Reisenden einzuladen: Diodor. XIII, 83 und Valer.
-    Max. IV, 8, ext.2. Die am gastlichen Herde geschlossenen
-    Freundschaftsbündnisse erbten auch jetzt noch auf die Nachkommen
-    fort und anstatt der Gastgeschenke tauschte man
-    förmliche Erkennungszeichen, σύμβολα, in zerschnittenen Ringen,
-    Knöcheln oder Siegelmarken bestehend, aus, um sich legitimiren
-    zu können: Plat. Symp. p. 191 und 193. Schol.
-    zu Eurip. Med. 116. Plaut. Cistell. II, 1, 27 und Poenul.
-    V, 25; Hermann Privatalt. 52, No. 15 mit den
-    Zusätzen von Stark. Etwas lauer gestaltete sich das gastfreundliche
-    Verhältniss schon dadurch, dass der Fremde nicht
-    nothwendig täglicher Tischgenosse war. Schon Miltiades hatte
-    den Dolonkern bloss καταγωγὴν καὶ ξείνια anbieten lassen:
-    
-    <pb n="5"/>
-    Herod. VI, 35,
-
-vgl.
-
-    
-    Anacreon bei 
-    
-    <cit><bibl>Plut. adv. Stoic. 20:</bibl>
-        <quote xml:lang="grc">ἔστε ξένοισι μειλίχοις ἐοικότες στέγης τε μοῦνον καὶ πυρὸς
-            κεχρημένοι.</quote>
-        </cit>
-        
-     
-          
-    Bei Appul. Metam. II, 11 und Lucian.
-    Asin. 3 giebt der Reisende nach seiner Ankunft in Hypata
-    dem Dieustmädchen Geld, um Futter für das Pferd zu kaufen,
-    und später schickt ihm eine befreundete Matrone in das Haus
-    seines Gastfreundes porcum opimum et quinque gallinulas et
-    vini cadum, als xeniola. Dieselbe Sitte bezeugt auch 
-    
-    <cit><bibl>Vitruv. VI. 7 (10), 4:</bibl>
-        <quote xml:lang="lat">nam cum fuerunt Graeci delicatiores et fortuna
-            opulentiores, hospitibus advenientibus instruebant triclinia,
-            cubicula, cum penu cellas, primoque die ad coenam invitabant,
-            postero mittebant pullos, ova, olera, poma reliquasque res
-            agrestes; ideo pictores ea, quae mittebantur hospitibus, picturis
-            imitantes xenia appellaverunt.</quote>
-        </cit>  </p>
-    
-    <p>In grossen Städten, die oft von Fremden wimmelten, und
-    an besuchten Wallfahrtsorten, sahen sich natürlich die Reisenden
-    genöthigt, auf andere Weise ein Unterkommen zu suchen.
-    Sie mietheten sich daher irgendwo ein, wie z, B. Dio
-    Chrysostom von Diogenes von Sinope
-    sagt: 
-
-    <cit><bibl>Chrysost. Or. VIII, 4, p. 276</bibl>
-        <quote xml:lang="grc">μετέβη εἰς Κόρινθον κἀκεῖ διῆγεν, οὔτε οἰκίαν μισθωσάμενος
-            οὔτε παρὰ ξένῳ τινὶ καταγόμενος.</quote>
-        </cit>
-    
-     
-    
+<bibl> <bibl n="tlg0059.tlg034">Plat. Legg.</bibl> <ref n="bookpage">V, <ref n="pageref">p. 729</ref></ref> </bibl>
 
 
-Vgl.
-Lucian. Toxar.
-    61 und besonders
-    
-    <cit><bibl>Aelian. Var. Hist. III, 14:</bibl>
-        <quote xml:lang="grc">Βυζαντίους
-            δὲ δεινῶς οἰνόφλυγας ὄντας ἐνοικεῖν τοῖς καπηλείοις ὁ
-            λόγος ἔχει, τῶν οἰκιῶν τῶν ἰδίων καὶ τῶν δωματίων ἐξοικισθέντας
-            καὶ τοῖς ξένοις τοῖς ἐπιδημοῦσι τῇ πόλει ἐπιμισθώσαντας
-            αὐτά,</quote>
-        </cit>      
-    
-    wozu Theopomp. bei Athen. XII, p. 526 stimmt.] —
-    Andere mussten dagegen jedenfalls in einem Wirthshause (πανδοκεῖον,
-    καταγώγιον, κατάλυσις) unterzukommen suchen, und
-    im Grunde liegt eine solche Distinction auch in den wiewohl
-    ganz eigenthümlichen Bestimmungen Plato’s Leges,
-    dessen Verlangen: 
-    <cit><bibl>Plato’s Leg. XII, p. 952</bibl>
-        <quote xml:lang="grc">τῷ δὴ τοιούτῳ (θεωρῷ) παντὶ χρὴ καταλύσεις
-            πρὸς ἱεροῖς εἶναι φιλοξενίαις ἀνθρώπων παρεσκευασμένας,</quote>
-        </cit>
-    
-    
-    sich zum Theile in der Wirklichkeit dadurch erfüllt findet,
-    dass an jenen Orten öffentlicher Feste oder in der Nähe berühmter
-    
-    <pb n="6"/>
-    
-    
-    und vielbesuchter Tempel allerdings schon auf Öffentliche
-    Kosten dafür gesorgt war, den Ankömmlingen ein Obdach
-    zu gewähren. So waren in der olympischen Altis zahlreiche
-    σκηναί oder καταγώγια, deren Ursprung der Scholiast
-    zu Pindar. Ol. XI, 55 auf Herakles zurückführt;
-
-vgl.
-Aelian. V. Hist. IV, 9. Eine ganz ähnliche Einrichtung fand sich
-    bei dem Tempel der Aphrodite zu Knidos, 
-    
-    <cit><bibl>Lucian. Amor. 12:</bibl>
-        <quote xml:lang="grc">ἦν δ᾽ ὑπὸ ταῖς ἄγαν παλινσκίοις ὕλαις ἱλαραὶ κλισίαι τοῖς ἐνεστιᾶσθαι
-            θέλουσιν, εἰς ἃ τῶν μὲν ἀστικῶν σπανίως ἐπεφοίτων
-            τινές· ἀθρόος δ᾽ ὁ πολιτικὸς ὄχλος ἐπανηγύριζεν, ὄντως ἀφροδισιάζοντες.</quote>
-        </cit>  
-    
-    
-    [Für den Isthmos
-
-vgl.
-
-<cit><bibl>Corp. Inscr. No. 1104:</bibl>
-    <quote xml:lang="grc">καταλύσεις τοῖς ἀπὸ τῆς οἰκουμένης ἐπὶ τὰ Ἴσθμια παραγενομένοις
-        ἀθληταῖς.</quote>
-    </cit>   
-    
-    
-    ] Das bedeutendste Gebäude dieser Art aber
-    war nach der Zerstörung von Platää von den Spartanern an
-    der Stelle der verwüsteten Stadt neben dem Heräon erbaut
-    worden. 
-
-    <cit><bibl>Thucyd. II, 68:</bibl>
-        <quote xml:lang="grc">ᾠκοδόμησαν πρὸς τῷ Ἡραίῳ καταγώγιον
-            διακοσίων ποδῶν, πανταχῇ κύκλῳ οἰκήματα ἔχον κάτωθεν
-            καὶ ἄνωθεν.</quote>
-        </cit>
-     
-     
-    
-    [Wenn es dann weiter heisst, dass man
-    das vorhandene Eisen und Kupfer zu Bettstellen benutzt und
-    dieselben der Hera geweiht habe, so kann man nur daran denken,
-    dass sie eben in dem καταγώγιον aufgestellt wurden.
-    Dass man überhaupt in diesen Karawansereien nichts anderes
-    vorfand, ja dass man auch in den Privatherbergen für das
-    Bettzeug selbst sorgte, (wenn der Redner Aristides drei
-    Meilen vor Pergamos im Wirthshause ausser dem Feldbette
-    noch einen reinen Teppich findet, so ist dies auch eine spätere
-    Zeit), ergiebt sich aus der allgemeinen Sitte, mindestens
-    einen Sklaven mit auf die Reise zu nehmen, welcher ausser
-    dem nöthigen anderen Geschirr die στρώματα trug.] So sagt
-    Peisthetäros 
-    <cit><bibl>Aristoph. Av. 615:</bibl>
-    <quote xml:lang="grc">
-    <l>οὕτω μὲν εἰσίωμεν. ἄγε δὴ, Ξανθία</l>
-    <l>καὶ Μανόδωρε, λαμβάνετε τὰ στρώματα.</l>
-    </quote>
-    </cit>
-    
-    
-    
-    </p>
-    
-    <p>Vergl. Ran. 12 u. ö. Am deutlichsten erhellt die Sitte aus
-        <cit><bibl>Xenoph. Memor. III, 13, 6:</bibl>
-            <quote xml:lang="grc">
-                ἄλλου δὲ λέγοντος, ὡς παρετάθη
-    
-    <pb n="7"/>
-    
-     μακρὰν ὁδὸν πορευθείς, ἤρετο αὐτὸν, εἰ καὶ φορτίον ἔφερε.
-    Μὰ Δί᾽, οὐκ ἔγωγ᾽, ἔφη, ἀλλὰ τὸ ἱμάτιον. Μόνος δ᾽ ἐπορεύου,
-    ἔφη, ἢ καὶ ἀκόλουθός σοι ἠκολούθει; Ἠκολούθει, ἔφη. Πότερον,
-    ἔφη, κενὸς ἢ φέρων τι; φέρων νὴ Δί´, ἔφη, τά τε στρώματα
-    καὶ τὰ ἄλλα σκεύη. 
-            </quote>
-            </cit>
-     
-    
-    
-    Der Sack oder überhaupt der Behälter
-    für dieses Reisegepäck hiess στρωματόδεσμον. 
-    
-    <cit><bibl>Plato Theaet. p. 175:</bibl>
-        <quote xml:lang="grc">ὅταν εἰς δουλικὰ ἐμπέσῃ διακονήματα, οἷον στρωματόδεσμον
-            μὴ ἐπιστάμενος συσκευάσασθαι.</quote>
-        </cit>
-     
-     
-        <cit><bibl>Aeschin. de falsa leg.  99:</bibl>
-            <quote xml:lang="grc">συνηκολούθουν δ᾽ αὐτῷ ἄνθρωποι δύο στρωματόδεσμα
-                φέροντες, ἐν δὲ τῷ ἑτέρῳ τούτων, ὡς αὐτὸς ἔφη, τάλαντον
-                ἐνῆν ἀργυρέου:</quote>
-            </cit>    
-     
-     
-    
-    in späterer Zeit auch στρωματεύς nach
-    <cit><bibl>Poll. VII, 79:</bibl>
-        <quote xml:lang="grc">ἃ δὲ οἱ παλαιοὶ στρωματόδεσμα, ταῦθ᾽ ol νεώτεροι
-            στρωματεῖς ἔλεγον, ἐν οἷς, ὡς μὲν τοὔνομα δηλοῖ, τὰ
-            στρώματα ἀπετίθεντο· δῆλον δὲ ὅτι καὶ τὰς ἄλλας ἐσθῆτας.</quote>
-        </cit>
-     
-    
+<quote xml:lang="grc">πρὸς δ᾽ αὖ τοὺς ξένους διανοητέον ὡς ἁγιώτατα ξυμβόλαια ὄντα: σχεδὸν γὰρ πάντ᾽ ἐστὶ τὰ τῶν ξένων καὶ εἰς τοὺς ξένους ἁμαρτήματα παρὰ τὰ τῶν πολιτῶν εἰς θεὸν ἀνηρτημένα τιμωρὸν μᾶλλον: ἔρημος γὰρ ὢν ὁ ξένος ἑταίρων τε καὶ ξυγγενῶν ἐλεεινότερος ἀνθρώποις καὶ θεοῖς· ὁ δυνάμενος οὖν τιμωρεῖν μᾶλλον βοηθεῖ προθυμότερον· δύναται δὲ διαφερόντως ὁ ξένιος ἑκάστων δαίμων καὶ θεὸς τῷ ξενίῳ ξυνεπόμενοι Διί.</quote> </cit>    Demgemäss hatte sich schon in der homerischen Zeit eine conventionelle Rücksichtsnahme und Artigkeit in der Gastfreundschaft entwickelt, die der Edle sowohl, als der Hörige zu beobachten nie vergass. Vergl. <bibl n="tlg0012.tlg001">Il.</bibl> <ref n="romarab">VI, 15</ref>. 174. <bibl n="tlg0012.tlg002">Odyss.</bibl> 1, 120; <ref n="romarab">XIV, 55</ref>; <ref n="romarab">XV, 68</ref>; <ref n="romarab">XIX, 314</ref> u. a. St. Auch waren die Reisen damals, keineswegs selten. Ausser dem Handelsmanne und Schiffer wanderten die Demiurgen, gerufen und ungerufen, hin und her (vgl. A. Riedenauer Handwerk und Handwerker in den homer. Zeiten, 1873. 5. 30 ff.); aber auch Fürsten und   <pb n="2"/>  Vornehme reisten nicht bloss, um Schulden einzutreiben, Metalle oder irgend eins besondere Waare einzutauschen, um Beute zu machen, sondern auch, um einander zu besuchen. So sagt Telemach in Bezug auf seinen Vater
 
 
-Vgl.
-
-<cit><bibl>Poll. X, 137:</bibl>
-    <quote xml:lang="grc">θύλακοι, στρωματόδεσμα.</quote>
-    </cit>
-     
-     
-    
-    Lobeck ad Phryn. p. 401. Pollux scheint sie nicht auf den Gebrauch der Reise
-    zu beschränken. — Die Last, welche der Sklave zu tragen
-    hatte, mochte bisweilen bedeutend genug sein. Bei Aeschines
-    ist zwar gewiss nicht an Silbergeld zu denken; doch spricht
-    von solcher Unbilligkeit 
- 
-    <cit><bibl>Theophr. Char. 30:</bibl>
-        <quote xml:lang="grc">τῷ ἀκολούθῳ
-            ἐπιθεῖναι μεῖζον φορτίον ἢ δύναται φέρειν.</quote>
-        </cit>    
-     
-    
-    Machte übrigens
-    der Herr die Reise zu Pferde, so folgte demungeachtet der
-    Sklave zu Fusse nach; dann trug aber auch wohl das Pferd
-    einen Theil des Gepäcks. 
-    
-    <cit><bibl>Lucian. Asin. 1:</bibl>
-        <quote xml:lang="grc">ἕπος δέ με
-            κατῆγε καὶ τὰ σκεύη, καὶ θεράπων ἠκολούθει εἷς.</quote>
-        </cit>      
-    
-    [Darum
-    wird es von Theophrast hervorgehoben,
-    dass die nach Magnesia zum Tempel der Artemis Wallfahrenden
-    bekommen hätten 
-    
-    <cit><bibl>Theophrast bei Athen. IV, p. 173</bibl>
-        <quote xml:lang="grc">στέγην, ἅλας, ἔλαιον, ὄξος, ἐπέ
-            λύχνον, κλίνας, στρώματα, τραπέζας.</quote>
-        </cit>    
-    
-     
-    
-    Oeffentliche Anstalten,
-    wie die genannten καταγώγια schlägt Xenoph. de vectigal.
-    III, 12 vor, auch für die Kaufleute in Hafenorten zu erbauen.]
-    Allein solche einzelne öffentliche Anstalten an besonders besuchten
-    Orten schliessen das Bestehen von zahlreichen Privatunternehmungen
-    derselben Art nicht aus; manche schlugen
-    
-    <pb n="8"/>
-    
-    auch ihre eigenen Zelte auf, wie man aus dem Beispiele des
-    Alkibiades sieht, Plutarch. Alcib. 12, oder errichteten ähnliche
-    zur Aufnahme der Fremden, worauf z. B. die oxnvire:
-    in einer ein böotisches Fest betreffenden Inschrift bezogen
-    werden mögen, Böckh C. Inscr. n. 1625, p. 793; und dass
-    es an allen belebteren Landstrassen Herbergen gab, von welchen
-    nicht nur die niedere Klasse, sondern Leute jedes Standes
-    Gebrauch machten, liegt in der Natur der Sache und
-    könnte nicht bezweifelt werden, wenn sich auch nicht Beispiele
-    nachweisen liessen. Selbst die Gesandten Athens an
-    Philipp, von denen sich am ersten erwarten liesse, dass sie
-    allenthalben gastliche Aufnahme finden würden, kehren, wie
-    es scheint überall, in Wirtbshäusern, πανδοκείοις, ein. 
-    
-    <cit><bibl>Aeschin. de falsa leg. 97:</bibl>
-        <quote xml:lang="grc">οὐδεὶς αὐτῷ συσσιτεῖν, ὅτ᾽ ἐξῄειμεν ἐπὶ
-            τὴν ὑστέραν πρεσβείαν, ἤθελεν οὐδὲ ἐν ταῖς ὁδοῖς, ὅπου δυνατὸν
-            ἦν, εἰς ταὐτὸ πανδοκεῖον καταλύειν.</quote>
-        </cit>      
-    
+<cit>
 
 
-Vgl.
-
-    
-    Demosth. de falsa leg. 158. 
-    
-    [von Epidauros
-    
-    <cit><bibl>Plaut. Menaechm. II, 3, 81 :</bibl>
-        <quote xml:lang="lat">abduce istos in tabernam actutum deversoriam. </quote>
-        </cit>   
-    
-    
-    <cit><bibl>Appul. Met. I, 15:</bibl>
-        <quote xml:lang="lat">sumo sarcinulam et pretio mansionis stabulario
-            persoluto capessimus viam.</quote>
-        </cit>     
-     
-
-    <cit><bibl>Cic. Divin. I, 27:</bibl>
-        <quote xml:lang="lat">cum duo
-            quidem Arcades familiares iter una facerent et Megaram venissent,
-            alterum ad cauponem devertisse, ad hospitem alterum.</quote>
-        </cit>
-     
-    
-    Auch die Geschichte von der Ermordung eines Reisenden durch
-    den Wirth 
-    <bibl n="latinLit:phi0474.phi036.perseus-lat1:2.14">de Invent. II, 4, 14</bibl> spielt jedenfalls in einem
-    griechischen Gasthause. 
-    
-    <cit><bibl>Diog. Laërt. II, 132 von Menedemos:</bibl>
-        <quote xml:lang="grc">σὺν γοῦν Ἀσκληπίαδῃ κατ’ ἄγνοιαν ἐν πανδοκείῳ ποτὶ
-            κρεάτων ῥιπτουμένων φαγών. </quote>
-        </cit>    
-        <cit><bibl>Plut. Cat. Min. 12:</bibl>
-            <quote xml:lang="grc">εἰ μηδεὶς
-                τύχοι φίλος ὧν adrödı πατρῷος ἢ γνώριμος, ἐν πανδοκείῳ
-                τὴν ὑποδοχὴν αὐτοῦ παρεσκεύαζον,</quote>
-            </cit>
-         
+<bibl><bibl n="tlg0012.tlg002">Odyss.</bibl> <ref n="romarab">I, 176</ref>:</bibl>
 
 
-Vgl.
-Amator. narr. 3;
-    Defect. Orac. 5. Daher will denn auch Dionysos Kenntniss
-    von den Wirthshäusern auf dem Wege zum Hades haben;
-    s. Aristoph. Ran. 112ff., eine Stelle, in der so ziemlich
-    alles genannt wird, was dem Reisenden, der nur materielle
-    Zwecke verfolgt, zu wissen wünschenswerth sein kann:
-    
-    <pb n="9"/>
-    
-    <cit><bibl>Aristoph. Ran. 112ff.</bibl>
-        <quote xml:lang="grc">
-            <l>τούτους (ξένους) φράσον μοι, λιμένας, ἀρτοπώλια,</l>
+<quote xml:lang="grc">
+
+<l>ἐπεὶ πολλοὶ ἔσαν ἀνέρες ἡμέτερον δῶ</l>
+
+<l>ἄλλοι, ἐπεὶ καὶ κεῖνος ἐπίστροφος ἦν ἀνθρώπων.</l></quote> </cit>     Vgl. <ref n="romarab">V, 209</ref> und <ref n="romarab">IV, 178</ref>. Der gemeine Mann zog mit einem tüchtigen Stocke oder mit der Lanze in der Hand seine Strasse, während Edelgeborene im Wagen reisten, die mit Pferden oder Maulthieren bespannt waren. Telemach und Peisistratos fahren, im alten Streitwagen, δίφρος, stehend, von Rossen gezogen, von Pylos nach Lakedämon: <ref n="romarab">III, 478</ref> ff. Ebenso entsendet Menelaos seine Tochter Hermione mit Rossen und Wagen nach Thessalien: <ref n="romarab">IV, 8</ref>. Es lässt dies schliessen, dass das Pferd, wie im Kriege, so auch auf der Reise nicht zum Reiten benutzt wurde; andererseits aber auch, dass die Wege schon in so früher Zeit in guter Verfassung waren. Auf Letzteres deuten auch Stellen hin, wie
+
+
+<cit>
+
+
+<bibl> <bibl n="tlg0012.tlg001">Il.</bibl> <ref n="romarab">XV, 682</ref>:</bibl>
+
+
+<quote xml:lang="grc">λαοφόρον ὁδόν,</quote> </cit>
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0012.tlg001">Il.</bibl> <ref n="romarab">XXI, 146</ref>:</bibl>
+
+
+<quote xml:lang="grc">κατ᾽ ἀμαξιτὸν ἐσσεύοντο,</quote> </cit>
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0012.tlg002">Odyss.</bibl> <ref n="romarab">X, 104</ref>:</bibl>
+
+
+<quote xml:lang="grc">
+
+<l part="F">λείην ὁδὸν, ᾗ περ ἄμαξαι</l>
+
+<l>ἄστυδʼ ἀφ᾽ ὑψηλῶν ὀρέων καταγίνεον ὕλην,</l> </quote> </cit>  vergl.
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0012.tlg002">Od.</bibl> <ref n="romarab">III, 323</ref>-326:</bibl>
+
+
+<quote xml:lang="grc">
+
+<l>ἀλλʼ ἴθι νῦν σὺν νηί τε σῇ καὶ σοῖς ἑτάροισιν·</l>
+
+<l>εἰ δʼ ἐθέλεις πεζός, πάρα τοι δίφρος τε καὶ ἵπποι,</l>
+
+<l>πὰρ δέ τοι υἷες ἐμοί, οἵ τοι πομπῆες ἔσονται</l>
+
+<l>ἐς Λακεδαίμονα δῖαν, ὅθι ξανθὸς Μενέλαος.</l> </quote> </cit>    Was freilich speciell die historische Wahrheit der erwähnten Reise von Pylos über Pherä nach Sparta betrifft, so steht ihr entgegen, dass der einzige Pass über das Taygeton, die Langada, nie eine Fahrstrasse gewesen sein kann (Bursian Geographie von Griechenland <ref n="romarab">II, 8</ref>. 105). Ueber die Konstruktion der Wagen im heroischen Zeitalter vgl. Guhl und Koner S. 304ff.] Die schöne Sitte der Gastfreundschaft reicht auch bis in die historische Zeit herüber; vgl.
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0016.tlg001">Herodot.</bibl> <ref n="romarab">VI, 35</ref>:</bibl>
+
+
+<quote xml:lang="grc">οὗτος ὁ Μιλτιάδης (ὁ Κυψέλου, Ἀθηναῖος) κατήμενος ἐν τοῖσι προθύροισι τοῖσι ἑωυτοῦ, ὁρέων τοὺς Δολόγκους παριόντας, ἐσθῆτα ἔχοντας οὐκ ἐγχωρίην καὶ αἰχμάς,, προσεβώσατο καὶ σφι προςελθοῦσι ἐπηγγείλατο καταγωγὴν καὶ ξείνια.</quote> </cit>    Ein Gesetz des Charondas schrieb sogar vor:
+
+
+<cit>
+
+
+<bibl>Charondas bei <bibl n="tlg2037.tlg001">Stob. Serm.</bibl> <ref n="romarab">XLIV, 40</ref></bibl>
+
+
+<quote xml:lang="grc">ξένον πάντα τὸν ἐν τῇ ἑαυτοῦ <pb n="3"/>  πατρίδι σεβόμενον καὶ κατὰ τοὺς οἰκείους νόμους εὐφήμως καὶ οἰκείως προσδέχεσθαι καὶ ἀποστέλλειν, μεμνημένους Διὸς Ξενίου, ὡς παρὰ πᾶσιν ἱδρυμένου κοινοῦ θεοῦ καὶ ὄντος ἐπισκόπου φιλοξενίας τε καὶ κακοξενίας, </quote> </cit>      und auch bei nicht griechischen Völkern findet sich dieselbe Gesinnung.
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0545.tlg001">Aelian. V. Hist.</bibl> <ref n="romarab">IV, 1</ref>:</bibl>
+
+
+<quote xml:lang="grc">λέγει τις νόμος Λευκανῶν, ἐὰν ἡλίου δύσαντος ἀφίκηται ξένος καὶ παρελθεῖν ἐθελήσῃ εἰς στέγην τινός, εἶτα μὴ δέξηται τὸν ἄνδρα, ζημιοῦσθαι αὐτὸν καὶ ὑπέχειν δίκας τῆς κακοξενίας. </quote> </cit>   Vgl. die Φασιανοί bei
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0283.tlg001">Heracl. Pon.</bibl> 18:</bibl>
+
+
+<quote xml:lang="grc">φιλόξενοι δ᾽ εἰσὶν ὥστε τοὺς ναυαγοὺς ἐφοδιάζειν καὶ τρεῖς μνᾶς διδόντας ἀποπλεῖν</quote> </cit>    oder wie wahrscheinlich gelesen werden muss ἀποπέμπειν, <bibl n="tlg0059.tlg024">Plat. Meno</bibl> <ref n="pageref">p. 91</ref>.   [Auch Dichter priesen die Tugend der Gastfreundschaft, wie <bibl n="tlg0033.tlg004">Pindar. Isthm.</bibl> <ref n="romarab">II, 51</ref> und <bibl n="tlg1714.tlg001">Theocr.</bibl> <ref n="romarab">XVI, 27</ref>.] Allein es ist natürlich, dass von der Zeit an, wo der Verkehr mit dem Auslande bedeutender und die Reisen im Inlande häufiger wurden, wo Städte wie Athen und Korinth oft überfüllt mit Fremden waren, das Bedürfniss öffentlicher Gasthäuser fühlbar werden musste. Man bedenke nur, welche Menge Schaulustiger nicht nur zu den in bestimmten Zwischenräumen wiederkehrenden allgemein griechischen Festen, sondern auch den besonderen einzelner Städte strömte, welche Zahl fremder Kaufleute und Schiffer der Handel den Seestädten zuführte, und man wird es natürlich finden, dass ein grosser Theil derselben keinen Anspruch auf das Gastrecht in einem Privathause machen konnte, sondern auf eine öffentliche Herberge verwiesen war. Gilt es auch fortwährend als eine Pflicht (<bibl n="tlg0086.tlg010">Aristot. Eth. Nic.</bibl> <ref n="romarab">IV, 5</ref>, <ref n="pageref">p. 1123</ref>) und ein Vorzug des wohlhabenden Mannes, gastfrei gegen Fremde zu sein, ξενοδοκεῖν, wie es <bibl n="tlg0059.tlg030">Plato Republ.</bibl> <ref n="bookpage">IV, <ref n="pageref">p. 419</ref></ref> unter die Zeichen des Glückes und Reichthums, Sokrates bei <bibl n="tlg0032.tlg003">Xenoph. Oec.</bibl> 2, 5 geradezu ‚unter die stehenden Ausgaben rechnet  (ἔπειτα ξένους προσήκει σοι πολλοὺς δέχεσθαι, καὶ τούτους μεγαλοπρεπῶς)  — so sind das doch theils Freunde, theils erbetene Gäste, theils ausgezeichnete Persönlichkeiten,  <pb n="4"/>  deren Anwesenheit dem Hause zur Ehre und zum Glanze gereicht; und selbst wenn wir z. B. das Haus des Kallias (<bibl n="tlg0059.tlg022">Plat. Protag.</bibl> <ref n="pageref">p. 315</ref>) so überfüllt mit Gästen finden, dass die gewöhnlichen Räume sie zu beherbergen nicht hinreichen, so liegt darin nichts, was nicht auch auf unsere Zeit und Verhältnisse anwendbar wäre. [Prahlerische Menschen suchten einen Ruhm darin, für gastfrei zu gelten. Vgl.
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0093.tlg009">Theophr. Char.</bibl> 20:</bibl>
+
+
+<quote xml:lang="grc">καὶ ξενίζων δὲ φῆσαι, ὅτι ἣ οἰκία αὐτοῦ πανδοκεῖόν ἐστι· μεστὴ γάρ ἐστιν ἀεὶ ξένων,</quote> </cit>  und
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0093.tlg009">Theophr. Char.</bibl> 28:</bibl>
+
+
+<quote xml:lang="grc">καὶ ἐν μισθωτῇ οἰκίᾳ οἰκῶν φῆσαι, ταύτην εἶναι τὴν πατρῴαν, πρὸς τὸν μὴ εἰδότα, καὶ ὅτι μέλλει πωλεῖν αὐτὴν διὰ τὸ ἐλάττω εἶναι αὐτῷ πρὸς τὰς ξενοδοκίας. </quote> </cit>  Ein Beispiel von einem Jedermann offenstehenden Hause erzählt Aelian, wo es am Schlusse heisst:
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0545.tlg001">Aelian. Var. Hist.</bibl> <ref n="romarab">XIV, 24</ref>:</bibl>
+
+
+<quote xml:lang="grc">ἐοίκαμεν γὰρ ἀντὶ περιστερᾶς ἔχειν φάτταν, ὑπὲρ οἰκίας εὑρόντες πανδοκεῖον.</quote> </cit>    Ausnahmen dagegen ganz besonderer Art sind es gewesen, wenn Lichas in Sparta an den Gymnopädien die anwesenden Fremden speiste: <bibl n="tlg0032.tlg003">Xenoph. Memor. Socr.</bibl> <ref n="romarab">I, 2, 61</ref> und <bibl n="tlg0007.tlg035">Plut. Cim.</bibl> 10, oder wenn der kolossal reiche Agrigentiner Gellias in seinem Hause umfassende Einrichtungen zur Beherbergung von Fremden getroffen hatte und sogar seine Diener an die Stadtthore stellt, um die Reisenden einzuladen: <bibl n="tlg0060.tlg001">Diodor.</bibl> <ref n="romarab">XIII, 83</ref> und <bibl n="phi1035.phi001">Valer. Max.</bibl> <ref n="romarab">IV, 8</ref>, ext.2. Die am gastlichen Herde geschlossenen Freundschaftsbündnisse erbten auch jetzt noch auf die Nachkommen fort und anstatt der Gastgeschenke tauschte man förmliche Erkennungszeichen, σύμβολα, in zerschnittenen Ringen, Knöcheln oder Siegelmarken bestehend, aus, um sich legitimiren zu können: Plat. Symp. <ref n="pageref">p. 191</ref> und 193. Schol. zu <bibl n="tlg0006.tlg003">Eurip. Med.</bibl> 116. <bibl n="phi0119.phi007">Plaut. Cistell.</bibl> <ref n="romarab">II, 1, 27</ref> und Poenul. <ref n="romarab">V, 25</ref>; Hermann Privatalt. 52, No. 15 mit den Zusätzen von Stark. Etwas lauer gestaltete sich das gastfreundliche Verhältniss schon dadurch, dass der Fremde nicht nothwendig täglicher Tischgenosse war. Schon Miltiades hatte den Dolonkern bloss καταγωγὴν καὶ ξείνια anbieten lassen:  <pb n="5"/> <bibl n="tlg0016.tlg001">Herod.</bibl> <ref n="romarab">VI, 35</ref>, vgl.  <bibl n="tlg0237">Anacreon</bibl> bei
+
+
+<cit>
+
+
+<bibl>Plut. adv. Stoic. 20:</bibl>
+
+
+<quote xml:lang="grc">ἔστε ξένοισι μειλίχοις ἐοικότες στέγης τε μοῦνον καὶ πυρὸς κεχρημένοι.</quote> </cit>    Bei <bibl n="phi1212.phi002">Appul. Metam.</bibl> <ref n="romarab">II, 11</ref> und <bibl n="tlg0061.tlg001">Lucian. Asin.</bibl> 3 giebt der Reisende nach seiner Ankunft in Hypata dem Dieustmädchen Geld, um Futter für das Pferd zu kaufen, und später schickt ihm eine befreundete Matrone in das Haus seines Gastfreundes porcum opimum et quinque gallinulas et vini cadum, als xeniola. Dieselbe Sitte bezeugt auch
+
+
+<cit>
+
+
+<bibl><bibl n="phi1056.phi001">Vitruv.</bibl> VI. 7 (10), 4:</bibl>
+
+
+<quote xml:lang="lat">nam cum fuerunt Graeci delicatiores et fortuna opulentiores, hospitibus advenientibus instruebant triclinia, cubicula, cum penu cellas, primoque die ad coenam invitabant, postero mittebant pullos, ova, olera, poma reliquasque res agrestes; ideo pictores ea, quae mittebantur hospitibus, picturis imitantes xenia appellaverunt.</quote> </cit> </p>
+
+
+<p>In grossen Städten, die oft von Fremden wimmelten, und an besuchten Wallfahrtsorten, sahen sich natürlich die Reisenden genöthigt, auf andere Weise ein Unterkommen zu suchen. Sie mietheten sich daher irgendwo ein, wie z, B. <bibl n="tlg0612.tlg001">Dio Chrysostom</bibl> von Diogenes von Sinope sagt:
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0612.tlg001">Chrysost. Or.</bibl> <ref n="romarab">VIII, 4</ref>, <ref n="pageref">p. 276</ref></bibl>
+
+
+<quote xml:lang="grc">μετέβη εἰς Κόρινθον κἀκεῖ διῆγεν, οὔτε οἰκίαν μισθωσάμενος οὔτε παρὰ ξένῳ τινὶ καταγόμενος.</quote> </cit>    Vgl. <bibl n="tlg0062.tlg044">Lucian. Toxar.</bibl> 61 und besonders
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0545.tlg001">Aelian. Var. Hist.</bibl> <ref n="romarab">III, 14</ref>:</bibl>
+
+
+<quote xml:lang="grc">Βυζαντίους δὲ δεινῶς οἰνόφλυγας ὄντας ἐνοικεῖν τοῖς καπηλείοις ὁ λόγος ἔχει, τῶν οἰκιῶν τῶν ἰδίων καὶ τῶν δωματίων ἐξοικισθέντας καὶ τοῖς ξένοις τοῖς ἐπιδημοῦσι τῇ πόλει ἐπιμισθώσαντας αὐτά,</quote> </cit>  wozu Theopomp. bei <bibl n="tlg0008.tlg001">Athen.</bibl> <ref n="bookpage">XII, <ref n="pageref">p. 526</ref></ref> stimmt.] — Andere mussten dagegen jedenfalls in einem Wirthshause (πανδοκεῖον, καταγώγιον, κατάλυσις) unterzukommen suchen, und im Grunde liegt eine solche Distinction auch in den wiewohl ganz eigenthümlichen Bestimmungen <bibl n="tlg0059.tlg034">Plato’s Leges</bibl>, dessen Verlangen:
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0059.tlg034">Plato’s Leg.</bibl> <ref n="bookpage">XII, <ref n="pageref">p. 952</ref></ref></bibl>
+
+
+<quote xml:lang="grc">τῷ δὴ τοιούτῳ (θεωρῷ) παντὶ χρὴ καταλύσεις πρὸς ἱεροῖς εἶναι φιλοξενίαις ἀνθρώπων παρεσκευασμένας,</quote> </cit>   sich zum Theile in der Wirklichkeit dadurch erfüllt findet, dass an jenen Orten öffentlicher Feste oder in der Nähe berühmter  <pb n="6"/>   und vielbesuchter Tempel allerdings schon auf Öffentliche Kosten dafür gesorgt war, den Ankömmlingen ein Obdach zu gewähren. So waren in der olympischen Altis zahlreiche σκηναί oder καταγώγια, deren Ursprung der Scholiast zu <bibl n="tlg0033.tlg001">Pindar. Ol.</bibl> <ref n="romarab">XI, 55</ref> auf Herakles zurückführt; vgl. <bibl n="tlg0545.tlg001">Aelian. V. Hist.</bibl> <ref n="romarab">IV, 9</ref>. Eine ganz ähnliche Einrichtung fand sich bei dem Tempel der Aphrodite zu Knidos,
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0061.tlg002">Lucian. Amor.</bibl> 12:</bibl>
+
+
+<quote xml:lang="grc">ἦν δ᾽ ὑπὸ ταῖς ἄγαν παλινσκίοις ὕλαις ἱλαραὶ κλισίαι τοῖς ἐνεστιᾶσθαι θέλουσιν, εἰς ἃ τῶν μὲν ἀστικῶν σπανίως ἐπεφοίτων τινές· ἀθρόος δ᾽ ὁ πολιτικὸς ὄχλος ἐπανηγύριζεν, ὄντως ἀφροδισιάζοντες.</quote> </cit>   [Für den Isthmos vgl.
+
+
+<cit>
+
+
+<bibl><bibl n="EPIG">Corp. Inscr.</bibl> No. 1104:</bibl>
+
+
+<quote xml:lang="grc">καταλύσεις τοῖς ἀπὸ τῆς οἰκουμένης ἐπὶ τὰ Ἴσθμια παραγενομένοις ἀθληταῖς.</quote> </cit>   ] Das bedeutendste Gebäude dieser Art aber war nach der Zerstörung von Platää von den Spartanern an der Stelle der verwüsteten Stadt neben dem Heräon erbaut worden.
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0003.tlg001">Thucyd.</bibl> <ref n="romarab">II, 68</ref>:</bibl>
+
+
+<quote xml:lang="grc">ᾠκοδόμησαν πρὸς τῷ Ἡραίῳ καταγώγιον διακοσίων ποδῶν, πανταχῇ κύκλῳ οἰκήματα ἔχον κάτωθεν καὶ ἄνωθεν.</quote> </cit>    [Wenn es dann weiter heisst, dass man das vorhandene Eisen und Kupfer zu Bettstellen benutzt und dieselben der Hera geweiht habe, so kann man nur daran denken, dass sie eben in dem καταγώγιον aufgestellt wurden. Dass man überhaupt in diesen Karawansereien nichts anderes vorfand, ja dass man auch in den Privatherbergen für das Bettzeug selbst sorgte, (wenn der Redner Aristides drei Meilen vor Pergamos im Wirthshause ausser dem Feldbette noch einen reinen Teppich findet, so ist dies auch eine spätere Zeit), ergiebt sich aus der allgemeinen Sitte, mindestens einen Sklaven mit auf die Reise zu nehmen, welcher ausser dem nöthigen anderen Geschirr die στρώματα trug.] So sagt Peisthetäros
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0019.tlg006">Aristoph. Av.</bibl> 615:</bibl>
+
+
+<quote xml:lang="grc">
+
+<l>οὕτω μὲν εἰσίωμεν. ἄγε δὴ, Ξανθία</l>
+
+<l>καὶ Μανόδωρε, λαμβάνετε τὰ στρώματα.</l> </quote> </cit>    </p>
+
+
+<p>Vergl. <bibl n="tlg0019.tlg009">Ran.</bibl> 12 u. ö. Am deutlichsten erhellt die Sitte aus
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0032.tlg003">Xenoph. Memor.</bibl> <ref n="romarab">III, 13, 6</ref>:</bibl>
+
+
+<quote xml:lang="grc"> ἄλλου δὲ λέγοντος, ὡς παρετάθη  <pb n="7"/>  μακρὰν ὁδὸν πορευθείς, ἤρετο αὐτὸν, εἰ καὶ φορτίον ἔφερε. Μὰ Δί᾽, οὐκ ἔγωγ᾽, ἔφη, ἀλλὰ τὸ ἱμάτιον. Μόνος δ᾽ ἐπορεύου, ἔφη, ἢ καὶ ἀκόλουθός σοι ἠκολούθει; Ἠκολούθει, ἔφη. Πότερον, ἔφη, κενὸς ἢ φέρων τι; φέρων νὴ Δί´, ἔφη, τά τε στρώματα καὶ τὰ ἄλλα σκεύη. </quote> </cit>    Der Sack oder überhaupt der Behälter für dieses Reisegepäck hiess στρωματόδεσμον.
+
+
+<cit>
+
+
+<bibl>Plato Theaet. <ref n="pageref">p. 175</ref>:</bibl>
+
+
+<quote xml:lang="grc">ὅταν εἰς δουλικὰ ἐμπέσῃ διακονήματα, οἷον στρωματόδεσμον μὴ ἐπιστάμενος συσκευάσασθαι.</quote> </cit>
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0026.tlg002">Aeschin. de falsa leg.</bibl> 99:</bibl>
+
+
+<quote xml:lang="grc">συνηκολούθουν δ᾽ αὐτῷ ἄνθρωποι δύο στρωματόδεσμα φέροντες, ἐν δὲ τῷ ἑτέρῳ τούτων, ὡς αὐτὸς ἔφη, τάλαντον ἐνῆν ἀργυρέου:</quote> </cit>    in späterer Zeit auch στρωματεύς nach
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0542.tlg001">Poll.</bibl> <ref n="romarab">VII, 79</ref>:</bibl>
+
+
+<quote xml:lang="grc">ἃ δὲ οἱ παλαιοὶ στρωματόδεσμα, ταῦθ᾽ ol νεώτεροι στρωματεῖς ἔλεγον, ἐν οἷς, ὡς μὲν τοὔνομα δηλοῖ, τὰ στρώματα ἀπετίθεντο· δῆλον δὲ ὅτι καὶ τὰς ἄλλας ἐσθῆτας.</quote> </cit>   Vgl.
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0542.tlg001">Poll.</bibl> <ref n="romarab">X, 137</ref>:</bibl>
+
+
+<quote xml:lang="grc">θύλακοι, στρωματόδεσμα.</quote> </cit>    Lobeck ad Phryn. <ref n="pageref">p. 401</ref>. Pollux scheint sie nicht auf den Gebrauch der Reise zu beschränken. — Die Last, welche der Sklave zu tragen hatte, mochte bisweilen bedeutend genug sein. Bei Aeschines ist zwar gewiss nicht an Silbergeld zu denken; doch spricht von solcher Unbilligkeit
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0093.tlg009">Theophr. Char.</bibl> 30:</bibl>
+
+
+<quote xml:lang="grc">τῷ ἀκολούθῳ ἐπιθεῖναι μεῖζον φορτίον ἢ δύναται φέρειν.</quote> </cit>   Machte übrigens der Herr die Reise zu Pferde, so folgte demungeachtet der Sklave zu Fusse nach; dann trug aber auch wohl das Pferd einen Theil des Gepäcks.
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0061.tlg001">Lucian. Asin.</bibl> 1:</bibl>
+
+
+<quote xml:lang="grc">ἕπος δέ με κατῆγε καὶ τὰ σκεύη, καὶ θεράπων ἠκολούθει εἷς.</quote> </cit>  [Darum wird es von Theophrast hervorgehoben, dass die nach Magnesia zum Tempel der Artemis Wallfahrenden bekommen hätten
+
+
+<cit>
+
+
+<bibl>Theophrast bei <bibl n="tlg0008.tlg001">Athen.</bibl> <ref n="bookpage">IV, <ref n="pageref">p. 173</ref></ref></bibl>
+
+
+<quote xml:lang="grc">στέγην, ἅλας, ἔλαιον, ὄξος, ἐπέ λύχνον, κλίνας, στρώματα, τραπέζας.</quote> </cit>    Oeffentliche Anstalten, wie die genannten καταγώγια schlägt Xenoph. de vectigal. <ref n="romarab">III, 12</ref> vor, auch für die Kaufleute in Hafenorten zu erbauen.] Allein solche einzelne öffentliche Anstalten an besonders besuchten Orten schliessen das Bestehen von zahlreichen Privatunternehmungen derselben Art nicht aus; manche schlugen  <pb n="8"/>  auch ihre eigenen Zelte auf, wie man aus dem Beispiele des Alkibiades sieht, <bibl n="tlg0007.tlg015">Plutarch. Alcib.</bibl> 12, oder errichteten ähnliche zur Aufnahme der Fremden, worauf z. B. die oxnvire: in einer ein böotisches Fest betreffenden Inschrift bezogen werden mögen, Böckh C. Inscr. n. 1625, <ref n="pageref">p. 793</ref>; und dass es an allen belebteren Landstrassen Herbergen gab, von welchen nicht nur die niedere Klasse, sondern Leute jedes Standes Gebrauch machten, liegt in der Natur der Sache und könnte nicht bezweifelt werden, wenn sich auch nicht Beispiele nachweisen liessen. Selbst die Gesandten Athens an Philipp, von denen sich am ersten erwarten liesse, dass sie allenthalben gastliche Aufnahme finden würden, kehren, wie es scheint überall, in Wirtbshäusern, πανδοκείοις, ein.
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0026.tlg002">Aeschin. de falsa leg.</bibl> 97:</bibl>
+
+
+<quote xml:lang="grc">οὐδεὶς αὐτῷ συσσιτεῖν, ὅτ᾽ ἐξῄειμεν ἐπὶ τὴν ὑστέραν πρεσβείαν, ἤθελεν οὐδὲ ἐν ταῖς ὁδοῖς, ὅπου δυνατὸν ἦν, εἰς ταὐτὸ πανδοκεῖον καταλύειν.</quote> </cit>  Vgl.  <bibl n="tlg0014.tlg019">Demosth. de falsa leg.</bibl> 158.  [von Epidauros
+
+
+<cit>
+
+
+<bibl>Plaut. Menaechm. <ref n="romarab">II, 3, 81</ref> :</bibl>
+
+
+<quote xml:lang="lat">abduce istos in tabernam actutum deversoriam. </quote> </cit>
+
+
+<cit>
+
+
+<bibl><bibl n="phi1212.phi002">Appul. Met.</bibl> <ref n="romarab">I, 15</ref>:</bibl>
+
+
+<quote xml:lang="lat">sumo sarcinulam et pretio mansionis stabulario persoluto capessimus viam.</quote> </cit>
+
+
+<cit>
+
+
+<bibl><bibl n="phi0474.phi053">Cic. Divin.</bibl> <ref n="romarab">I, 27</ref>:</bibl>
+
+
+<quote xml:lang="lat">cum duo quidem Arcades familiares iter una facerent et Megaram venissent, alterum ad cauponem devertisse, ad hospitem alterum.</quote> </cit>   Auch die Geschichte von der Ermordung eines Reisenden durch den Wirth
+
+
+<bibl n="latinLit:phi0474.phi036.perseus-lat1:2.14">de Invent. <ref n="romarab">II, 4, 14</ref></bibl> spielt jedenfalls in einem griechischen Gasthause.
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0004.tlg001">Diog. Laërt.</bibl> <ref n="romarab">II, 132</ref> von Menedemos:</bibl>
+
+
+<quote xml:lang="grc">σὺν γοῦν Ἀσκληπίαδῃ κατ’ ἄγνοιαν ἐν πανδοκείῳ ποτὶ κρεάτων ῥιπτουμένων φαγών. </quote> </cit>
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0007.tlg025">Plut. Cat. Min.</bibl> 12:</bibl>
+
+
+<quote xml:lang="grc">εἰ μηδεὶς τύχοι φίλος ὧν adrödı πατρῷος ἢ γνώριμος, ἐν πανδοκείῳ τὴν ὑποδοχὴν αὐτοῦ παρεσκεύαζον,</quote> </cit>  Vgl. <bibl n="tlg0007.tlg114">Amator. narr.</bibl> 3; <bibl n="tlg0007.tlg092">Defect. Orac.</bibl> 5. Daher will denn auch Dionysos Kenntniss von den Wirthshäusern auf dem Wege zum Hades haben; s. <bibl n="tlg0019.tlg009">Aristoph. Ran.</bibl> 112ff., eine Stelle, in der so ziemlich alles genannt wird, was dem Reisenden, der nur materielle Zwecke verfolgt, zu wissen wünschenswerth sein kann:  <pb n="9"/>
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0019.tlg009">Aristoph. Ran.</bibl> 112ff.</bibl>
+
+
+<quote xml:lang="grc">
+
+<l>τούτους (ξένους) φράσον μοι, λιμένας, ἀρτοπώλια,</l>
+
 <l>πορνεῖ’, ἀναπαύλας, ἐκτροπάς, κρήνας, ὁδούς,</l>
+
 <l>πόλεις, διαίτας, πανδοκευτρίας, ὅπου</l>
-<l>κόρεις ὀλίγιστοι.</l>
-        </quote>
-        </cit>
-   
 
-    
-    </p>
-    
-    <p>Dass man oft die Auswahl unter den Herbergen hatte, lehrt
-    
-        <cit><bibl>Plut. de vitios. pud. 8:</bibl>
-            <quote xml:lang="grc">φέρε δὲ καὶ πρὸς ταῦτα — γυμνάζωμεν
-                ἑαυτούς — μήτε καταλύειν ἐν φαύλῳ πανδοκείῳ, βελτίονος
-                παρόντος, ὅτι πολλάκις ὁ πανδοκεὺς ἠσπάσατο ἡμᾶς,
-                ἀλλ᾽ ἔθους ἕνεκα, κἂν γ παρὰ μικρόν, αἱρεῖσθαι τὸ βελτίον.</quote>
-            </cit>     
-    
-    
-    Selbst in dem am arabischen Meerbusen liegenden Handelsorte
-    Berenike gab es nach 
-    
-    <cit><bibl>Strab. XVII, p. 815:</bibl>
-        <quote xml:lang="grc">καταγωγὰς 
-            ἐπιτηδείους </quote>
-        </cit>     
-    
-    
-    und wenn Aristides  in Bezug
-    auf Thrakien über 
-    
-    <cit><bibl>Aristides Or. XXVII, p. 304</bibl>
-        <quote xml:lang="grc">καταγωγίων ἀπορία</quote>
-        </cit>    
-     
-    
-    klagt, so ist dies eben
-    ein wenig civilisirtes Land gewesen. Es gab in späterer Zeit
-    so comfortabel eingerichtete Gasthäuser, dass man sich versucht
-    fühlen konnte, länger darin zu verweilen, als man gerade
-    nöthig hatte;
-
-vgl.
-
-    
-<cit><bibl>Epictet. Diss. II, 23, 36:</bibl>
-    <quote xml:lang="grc">
-        οἷον εἴ
-    τίς ἀπιὼν εἰς τὴν πατρίδα τὴν ἑαυτοῦ καὶ διοδεύων πανδοκεῖον
-    καλὸν, ἀρέσαντος αὐτῷ τοῦ πανδοκείου, καταμένοι ἐν τῷ πανδοκείῳ,
-    </quote>
-    </cit>     
-    
-    
-    und Strab. XVIII, p. 801 über das ägyptische Kanobos.
-    Allein im Allgemeinen werden sicher die griechischen
-    Gasthöfe nicht verlockender gewesen sein als die uns besser
-    bekannten italischen, und zwar nicht etwa deshalb, weil bloss
-    Leute niederen Standes in ihnen einkehrten, sondern weil, wie
-    heute noch im Süden überall, wo die nördlichere Sitte noch
-    nicht Fuss gefasst hat, die Reisenden überaus genügsam und
-    anspruchslos waren. Da wie in Italien (Sueton. Vitell. 7)
-    die letzteren sich mit den Kutschern, Matrosen und Maulthiertreibern
-    in einem Raume befanden, so war natürlich die Gesellschaft
-    sehr gemischt. Belehrend dafür ist 
-    
-    <cit><bibl>Plut. De san. praecept. 15: </bibl>
-        <quote xml:lang="grc">ὅθεν οὐδὲ πλοῦν ποιητέον οὔτε καταγωγὴν ἐν
-            πανδοκείῳ σιγῆς πρόφασιν, οὐδ᾽ ἐὰν πάντες καταγελῶσιν. Ὅπου
-            γὰρ οὐκ αἰσχρὸν τὸ φαγεῖν, οὐδὲ τὸ γυμνάζεσθαι δήπουθεν
-            αἰσχρόν: ἀλλ᾽ αἰσχίον τὸ δεδοικέναι καὶ δυσωπεῖσθαι ναύτας
-            
-            <pb n="10"/>
-            
-            καὶ ὀρεωκόμους καὶ πανδοκεῖς καταγελῶντας, οὐ τοῦ σφαιρίζοντος
-             καὶ σκιαμαχοῦντος, ἀλλὰ τοῦ λέγοντος. </quote>
-        </cit>    
-    
-     
-     Dazu kam noch
-    die Anwesenheit gefälliger Dirnen: 
-    
-    Plut. Demetr. 26 und
-    Strab. XII, p. 578;
-
-vgl.
-die Inschrift von Aesernia im Gall.
-    III, S. 23 und bei Marquardt Privatalterth. II, S. 83.
-    Ueberhaupt standen die πανδοκεῖς, sowie die kreischenden
-    (Aristoph. Plut. 427) πανδοκεύτριαι in üblem Rufe, was
-    seinen] Grund darin hat, dass eine Bewirthung um des Gewinns
-    willen dem ursprünglichen Begriffe der ξενία gänzlich zuwider
-    ist, und zweitens durch die Schlechtigkeit und betrügerische
-    Handlungsweise der meisten πανδοκεῖς gerechtfertigt wurde,
-    so dass es 
-    
-    Theophr. Charact. 6 geradezu als ein Merkmal
-    der ἀπόνοια d. h. 
-    ὑπομονὴ αἰσχρῶν ἔργων καὶ λόγων angiebt:
-    δεινὸς πανδοκεῦσαι καὶ πορνοβοσκῆσαι καὶ τελωνῆσαι: vergl.
-    
-    <cit><bibl>Plato Leg. XI, p. 918:</bibl>
-        <quote xml:lang="grc">πάντα τὰ περὶ τὴν καπηλείαν καὶ ἐμπορίαν
-            καὶ πανδοκείαν γένη διαβέβληταί τε καὶ ἐν αἰσχροῖς γέγονεν
-            ὀνείδεσιν· ἐπεὶ εἴ τίς (ὁ μή ποτε γένοιτο οὐδ᾽ εἰρήσεται) προσαναγκάσειε
-            (γέλοιον μὲν εἰπεῖν, ὅμως δὲ εἰρήσεται) πανδοκεῦσαι
-            τοὺς πανταχῇ ἀρίστους ἄνδρας ἐπέ τινα χρόνον --- γνοίημεν
-            ἄν, ὡς φίλον καὶ ἀγαπητόν ἐστιν ἕκαστον τούτων, </quote>
-        </cit>   
-     
-    
-    
-    und was im
-    Exc. zu Sc. IV über die καπηλεῖα gesagt ist. [Und wenn, wie
-    in den oben aus Cicero erwähnten Fällen, zuweilen selbst das
-    Leben der Reisenden in solchen Herbergen von Seiten der
-    Wirthe gefährdet war, so wird es wohl auch nicht selten vorgekommen
-    sein, dass sie, wie z.B. bei Alciphr. Epist. 46
-    und 53 sich zu Hehlern für Diebe hergaben. Bei Artemid.
-    Onirocr. I, 23 und IV, 57 bedeuten eherne und eiserne
-    Stirnen, sowie scharfe Dornen im Traume den Gastwirthen
-    Gutes! Uebrigens scheint es, als haben die griechischen Gasthäuser,
-    wie die römischen, ihre besonderen Namen und Schilder
-    geführt. Wenigstens erwähnt Artemidorus
-    
-    
-    ein 
-    <cit><bibl>Artemid. Onirocr. 1, 4</bibl>
-        <quote xml:lang="grc">ξενοδοκεῖν, ᾧ ἐπώνυμον κάμηλος </quote>
-        </cit>
-    
-    
-    und auf einen πανδοκεύς
-    wird auch das 
-    <cit>
-        <quote xml:lang="grc">κέρας Ἀμαλθείας</quote>
-        <bibl>bei Palaeph. Incredib.
-            46</bibl>
-        </cit>
-           gedeutet.</p>
-    
-    <pb n="11"/>
-    
-    <p>Ueber das Verhältniss des Reisenden zum Wirthe hinsichtlich
-    der Bedürfnisse und deren Preise sind wir gar nicht
-    unterrichtet. Wenn aber Polybios  vom gesegneten
-    cisalpinischen Gallien sagt: 
-    
-    <cit><bibl>Polybios II, 15</bibl>
-        <quote xml:lang="grc">ποιοῦνται γὰρ τὰς καταλύσεις οἱ
-            διοδεύοντες τὴν χώραν ἐν τοῖς πανδοκείοις, οὐ συμφωνοῦντες
-            περὶ τῶν κατὰ μέρος ἐπιτηδείων, ἀλλ᾽ ἐρωτῶντες. πόσου τὸν
-            ἄνδρα δέχεται. ὡς μὲν οὖν ἐπὶ τὸ πολὺ παρίενται τοὺς καταλύτας
-            οἱ πανδοκεῖς, ὡς ἱκανὰ πάντ᾽ ἔχειν τὰ πρὸς τὴν χρείαν
-            ἡμιασσαρίου· τοῦτο δ᾽ ἔστε τέταρτον μέρος ὀβολοῦ. σπανίως
-            δὲ τοῦθ’ ὑπερβαίνουσι,</quote>
-        </cit> 
-        
-        so erkennt man deutlich, dass er den
-    Contrast dieser Sitte zur sonstigen italischen (vgl. die Tafel
-    von Aesernia) und zur heimischen hervorheben will, dass man
-    also in Griechenland die Bedürfnisse einzeln bezahlte und mit
-    dem Wirthe darüber bei der Einkehr einen Akkord schloss.
-    Auf bestimmte Preise deuten auch die 
-    
-    <cit>
-        <quote xml:lang="grc">χρέα ἀνάβραστα ἡμιωβολιαῖα
-            der πανδοκεύτρια</quote>
-        <bibl>bei Aristoph. Ran. 553</bibl>
-        </cit>
-        
-          hin. Doch
-    kam es auch vor, dass man Lebensmittel mitbrachte und sie
-    dem Wirthe zur Zubereitung übergab;
-
-vgl.
-
-<cit><bibl>Plut. Apophth. Lacon. 44:</bibl>
-    <quote xml:lang="grc">εἰς πανδοκεῖον τις καταλύσας καὶ δοὺς ὄψον τῷ
-        πανδοκεῖ σκευάσαι, ὡς ἕτερος τυρὸν ᾔτει καὶ ἔλαιον, τί, ἔφη,
-        εἰ τυρὸν εἶχον, ἔτι ἂν ἐδεόμην ὄψου; </quote>
-    </cit>
- 
-
-    
-    der zu Polybios Zeit in
-    Griechenland übliche Preis der Tageszehrung kann wohl getrost
-    auf das Achtfache der von ihm angegebenen Kleinigkeit
-    veranschlagt werden.</p>
-    
-    <p>Strabo’s ungünstiges Urtheil in Bezug auf die Strassen
-    (Strab. V, p. 330) gilt den Griechen bloss in Vergleich mit den Römern.
-    E. Curtius Ueber den Wegebau bei den Griechen
-    in den Abhandl. der Berl. Acad. der Wissensch.
-    1854 hat S. 221ff. auf den religiösen Zusammenhang der Wegeanlagen
-    mit den Nationalheiligthümern aufmerksam gemacht
-    und sorgfältig ausgemeiselte, gleichspurige Geleise, Ausweichestellen
-    (ἐκτροπαί und κάμψεις), Ruheplätze (ἀνάπαυλαι, ἀναπαυστήρια)
-    und Treppenwege (κλίμακες) nachgewiesen.</p>
-    
-    <p>Die meisten Reisen scheinen auch in der historischen Zeit
-    
-    <pb n="12"/>
-    
-    zu Fuss gemacht worden zu sein.] 
-    
-    Selbst öffentliche Gesandtschaften
-    reisen nicht anders, wie man deutlich aus Aeschin.
-    de falsa leg. 97ff. sieht (vgl. Anm. 8). Indessen finden
-    sich auch für Reisen zu Pferde Beispiele und Demosthenes
-    selbst begleitet die Gesandten Philipp’s auf diese Weise bis
-    Theben. 
-    
-    <cit><bibl>de falsa leg.  111:</bibl>
-        <quote xml:lang="grc">ἐμισθώσατ᾽ αὐτοῖς ὅτ᾽ ἀπῄεσαν ὀρικὰ ζεύγη καὶ συμπαρῄει ἐφ᾽ ἵππου:</quote>
-        </cit>    
-    
-    
-    
+<l>κόρεις ὀλίγιστοι.</l> </quote> </cit>   </p>
 
 
-vgl.
-
-    
-    in Ctesiph.
-    76. Bei Xenoph. Symp. 9, 7 sind selbst einige der Gäste zu
-    Pferde in Kallias Haus gekommen, oder haben (wie Schneider
-    zu 1, 7 annimmt) sie für die Heimkehr nachkommen lassen. Wenn
-    daher bei Lysias de inval. 11 der Gebrauch der Pferde
-    zu solchem Zwecke für ὕβρις erklärt wird, so gilt dies bloss
-    den dürftigen Umständen des Beschuldigten.
-
-Vgl.
-
-Lucian.
-    Asin. 1 oder Appul. Metam. I, 2. Der Gebrauch der Wagen
-    war sehr beschränkt, und wenn namentlich Männer sich
-    ihrer in der Stadt und ihren Umgebungen bedienten, so wird
-    dieses immer als Zeichen der Weichlichkeit oder des Hochmuths
-    getadelt. So sagt 
-    <cit><bibl> Demosth. adv. Phaenipp. 24:</bibl>
-        <quote xml:lang="grc">δόμενος τὸν πολεμιστήριον ἵππον καταβέβηκεν ἀπὸ τῶν ἕππων
-            καὶ ἀντ᾽ ἐκείνου ὄχημα αὑτῷ τηλικοῦτος ὧν ἐώνηται, ἵνα μὴ
-            πεζῇ πορεύηται τοσαύτης τρυφῆς μεστὸς οὗτός ἐστι. </quote>
-        </cit>    
-    
-    
-    
-    Daraus
-    erklärt sich die Anekdote von Speusippos und Diogenes bei
-
-    <cit><bibl>Diog. Laërt. IV, 3:</bibl>
-        <quote xml:lang="grc">φασὶ δὲ ἐφ᾽ ἁμαξίου αὐτὸν φερόμενον
-            εἰς τὴν Ἀκαδημίαν συναντῆσαι Διογένει καὶ, χαῖρε, εἰπεῖν· τὸν
-            δὲ φάναι, ἀλλὰ μὴ σύ γε, ὅστις ὑπομένεις ζῆν τοιοῦτος ὤν.</quote>
-        </cit>
-           
-    
+<p>Dass man oft die Auswahl unter den Herbergen hatte, lehrt
 
 
-
-Vgl.
-
-Aristoph. Thesm. 811. Selbst bei Frauen wird es als
-    Zeichen des Hochmuths betrachtet, wie bei 
-    
-    <cit><bibl>Demosth. in
-        Mid. 158:</bibl>
-        <quote xml:lang="grc">καὶ εἰς μυστήρια τὴν γυναῖκα ἄγει κἂν ἄλλοσέ
-            ποι βούληται ἐπὶ τοῦ λευκοῦ ζεύγους τοῦ ἐκ Σικυῶνος.</quote>
-        </cit>  Daher
-    veranlasste auch der Redner Lykurg ein Gesetz, dass die Weiber
-    nicht nach Eleusis fahren sollten, damit nicht die Aermeren
-    durch die Reichen beschämt würden. Plutarch. X Orat.
-    vit. p. 842. Seine eigene Gemahlin indessen übertrat das
-    Gesetz und er musste die Sykophanten mit einem Talente zum
-    
-    <pb n="13"/>
-    
-    Schweigen bringen. Wenn Timoleon sich in die Versammlung
-    fahren liess und auf dem Wagen bleibend der Berathung beiwohnte
-    (Plutarch. Timol. 38), so geschah dieses, weil er
-    blind war; aber als Auszeichnung gilt es bei 
-    <cit><bibl>Andoc. de myst.  45:</bibl>
-        <quote xml:lang="grc">τὸν δὲ τῶν κακῶν τούτων αἴτιον Διοκλείδην ὡς
-            σωτῆρα ὄντα τῆς πόλεως ἐπὶ ζεύγους ἦγον εἰς τὸ πρυτανεῖον
-            στεφανώσαντες.</quote>
-        </cit>  
-     
-     
-    
-    — [Zu weiteren Reisen wird sich das weibliche
-    Geschlecht stets der Wagen bedient haben. Schon Solon
-    hatte ja befohlen 
-    
-    <cit><bibl>(Plut. Sol. 21):</bibl>
-        <quote xml:lang="grc">μὴ νύκτωρ πορεύεσθαι
-            πλὴν ἁμάξῃ κομιζομένην, λύχνου προφαίνοντος. </quote>
-        </cit> 
-    
-    
-    So reiste auch
-    die peloponnesische Festgesandtschaft, welche nach Plut.
-    Quaest. Graec. 59 in Megara arg beleidigt wurde, mit Weibern
-    und Kindern in Wagen, die ihnen zugleich zum Uebernachten
-    dienten. Aber auch von Empedokles erzählt 
-
-    <cit><bibl>Diog. Laërt. VIII, 73:</bibl>
-        <quote xml:lang="grc">διά τινα πανήγυριν πορευόμενον ἐφ᾽ ἁμάξης
-            ὡς εἰς Μεσσήνην πεσεῖν καὶ τὸν μηρὸν κλᾶσαι.</quote>
-        </cit>     
-    
-
-</p>
-    
-    <p>Was nun die verschiedenen Arten von Wagen betrifft, so
-    muss man sich mit den dürftigen Nachrichten bei 
-    
-    Pollux begnügen, der ohnehin zunächst von Spazierfahrten spricht, _
-    wie sie in der Morgenfrühe üblich waren: 
-    
-    <cit><bibl>Poll. X, 51</bibl>
-        <quote xml:lang="grc">ἀλλ᾽ εἰ μὲν αἰωρήσει:
-            τῇ δι᾽ ὀχημάτων χρῷτό τις περὶ τὴν ἕω θέρους ὄντος, πρὶν
-            ἢ τὸν ἥλιον περιφλέγειν, τὰ εἰδὴ τῶν ὀχημάτων ἰστέον, εἴτε
-            ἅρματα εἴτε ὄχους εἴτε ἁμάξας εἴτε λαμπήνας αὐτὰ προσήκει
-            καλεἲν, ἔστε δὲ τοὔνομα ἢ λαμπήνη ἐν τῇ Σοφοκλέους Ναυσικάᾳ
-            καὶ ἐν τοῖς Μενάνδρου Ἁλιεῦσιν:</quote>
-        </cit>     
-    
+<cit>
 
 
-vgl.
-
-    
-    Posidipp. bei Poll. X, 189. Nur so viel erfahren wir, dass sie theils zum Sitzen
-    theils zum Liegen eingerichtet waren, zum Theil bedeckt und
-    bald auf zwei, bald auf vier Rädern ruhend: 
-    
-    <cit><bibl>τὰ δὲ ἐνθρόνια,
-        τὰ δὲ εἰς τὸ κατακλῖναι ἐνεύναια, τὰ δὲ κατάστεγα καὶ στεγαστὰ
-        καὶ καμάραι· οὕτω γὰρ ὠνόμασεν Ἡρόδοτος (1, 199),
-        Ξενοφῶν δὲ ἐν τῇ Παιδείᾳ (VI, 4, 11) τὸ ἐστεγασμένον μέρος
-        τῆς ἁμάξης ὑποσημαίνων ἔφη, καὶ κατέκλιναν καὶ κατεκάλυψαν
-        τὴν σκηνήν· καὶ τὰ μὲν τετράκυκλα, τὰ δὲ δίκυκλα:</bibl>
-        <quote xml:lang="grc"></quote>
-        </cit>
-             
-    
-    was aber
-    die einzelnen Unterarten betrifft, so mögen darunter manche
-    
-    <pb n="14"/>
-    
-    gar nicht zum Gebrauche im gemeinen Leben gedient haben,
-    selbst das lakedämonische κάνναθρον:
-
-vgl.
-Müller Dorier
-    B. II, S. 282 und Preller ad Polemon. p. 133 — 136.
-    [Der Reisewagen für mehrere Personen kann nur die vierräderige
-    ἅμαξα gewesen sein. Auf Bildwerken erscheint ein
-    zweiräderiges Kabriolet;
-
-vgl.
-Panofka Bild. antik. Lebens
-    Taf. III, 8 und ebenso Gerhard Auserles. antike Vasenb.
-    Taf. CCXVII, wo der Lenker zu Füssen einer weiblichen
-    Gestalt mit seitwärts herabhängenden Beinen sitzt. Ueber
-    die Bespannung 8. Guhl und Koner Κ. 806. Uebrigens sind
-    noch häufiger, als die theuren Pferde, die in Attika nicht
-    unter drei Minen zu stehen kamen, die Maulthiere beim Fahren
-    benutzt worden.
-
-Vgl.
-Xenoph. Anab. VII, 5, 2; Isaeus
-    de Dicaeogr. hered. 43; Aeschin. de fals. legat.
-    111. Ueber das Reiten von Frauen auf Pferden
-
-vgl.
-Stephani
-    in Compte rendu pour 1866, p. 123. 184ff. Noch
-    häufiger bedienten sich sie, aberauch Kranke und Weichlinge, der
-    mit bequemen Lehnsätteln versehenen Maulthiere. 
-    
-    <cit><bibl>Schol. zu Demosth. in Mid. 133:</bibl>
-        <quote xml:lang="grc">ἀστράβη εἶδος καθέδρας, παρὰ
-            τὸ μὴ στρέφεσθαι· ἔστι δὲ ἐπὶ πλεῖστον εἰς ὕφος, ὥστε τῶν
-            καθεζομένων ἀνέχειν τὰ νῶτα. χρῶνται δὲ αὐτῷ μάλιστα αἱ
-            γυναῖκες.</quote>
-        </cit>
-             
-     
-    
-    
-    Der Name ἀστράβη wurde nun aber auch auf das
-    Thier übertragen: 
-    
-    <cit><bibl>Harpocrat. s. v. Hellad. bei Phot. Bibl. 279, p. 533 a 31:</bibl>
-        <quote xml:lang="grc">ὅτι τὴν ἡμίονον, ἐφ᾽ ἧς ὀχούμεθα,
-            φησίν, ἀζύγου οὔσης, Ἀθηναῖοι καλοῦσιν ἀστράβην, ἔνθεν λέγεται
-            ὁ ἀστραβηλάτης.</quote>
-        </cit>
-             
-     
+<bibl><bibl n="tlg0007.tlg104">Plut. de vitios. pud.</bibl> 8:</bibl>
 
 
-Vgl.
-
-    Etymol. Magn. 5. 169 (Sylburg),
-    Lys. pro inval. 11, Machon bei Athen. XIII, p. 582
-    und Stephani Compte rendu pour 1853, p. 228, nebst
-    pl. V. Ueber den Gebrauch der Sänften s. Scen. VII, Anmerk.
-    23 und über das Schiff als Reisevehikel die Anmerkungen
-    zu derselben Scene überhaupt.</p>
-    
-    <p>Was die Sicherheit der Reisenden unterwegs anlangt, 80
-    möchte ich nicht aus den Worten 
-    
-    <cit><bibl>Xenophon’s Memor. Socr. I, 1, 15:</bibl>
-        <quote xml:lang="grc">σὺ δὲ ἐν ταῖς ὁδοῖς, ἔνθα πλεῖστοι ἀδικοῦνται
-    
-            <pb n="15"/>
-            
-            πολὺν χρόνον διατρίβων, εἰς ὁποίαν δ᾽ ἂν πόλιν ἀφίκῃ, τῶν
-            πολιτῶν πάντων ἥττων ὢν καὶ τοιοῦτος οἵοις μάλιστα ἐπιτίθενται
-            οἱ βουλόμενοι ἀδικεῖν, ὅμως διὰ τὸ ξένος εἶναι οὐχ ἂν οἴει
-            ἀδικηθῆναι κ. τ. λ.</quote>
-        </cit>
-             auf besondere Gefahren einen Schluss ziehen;
-    denn dort ist überhaupt von Unbilden die Rede, welche
-    den Fremden in Folge des geringeren Rechtsschutzes, den sie
-    fanden, widerfahren konnten. Wenn dagegen Diogenes Laërtius
-    vom Philosopben Menedemos schreibt: 
-    
-    <cit><bibl>Diog. Laërt.
-        II, 136</bibl>
-        <quote xml:lang="grc"> ὅμως αὐτὸν
-            (Ἀλεξῖνον) εὖ ἐποίησε τὴν γυναῖκα παραπέμψας ἐκ Δελφῶν ἕως
-            Χαλκίδος εὐλαβουμένην κλωπείας τε καὶ τὰς καθ' ὁδὸν λῃστείας,</quote>
-        </cit>
-   
-    so denkt man unwillkürlich an die im 4. Jahrhundert so oft
-    herrenlos herumschweifenden Söldner: Isocr. ad Phil. 40
-    und über die gleichzeitige Seeräuberei Panegyr. $ 115 und
-    Demosth. in Aristocr. 166. Sonst zog der Wanderer
-    im Vertrauen auf den Schutz der θεοὶ ἐνόδιοι, Hermes und
-    Hekate, deren Bilder und Malzeichen besonders auf den Kreuzwegen
-    standen (Hermann Gottesd. Alterth. $15, n. 14ff.)
-    rubig seine Strasse. Es war ihm unverwehrt, von den Früchten
-    der am Wege stehenden Obstbäume zu geniessen und Jedermann
-    zeigte ihm willig die rechte Strasse, wenn er sich
-    verirrtte: Theocr. Idyll. XXV, 3. An den Hermenpfeilern
-    konnte er ausser allerhand Sprüchen auch Wegebestimmungen
-    lesen und später fehlte es nicht an wirklichen Wegweisern
-    und Meilensteinen;
-
-vgl.
-Curtius Wegebau der Gr. S. 43
-    und Eustath. zu Odyss. p. 1809. 31. Am meisten geschützt
-    vor Feindseligkeiten waren die zu den grossen Nationalfesten
-    reisenden Gäste; denn die ἐκεχειρία gewährte allen Theilnehmern
-    internationales sicheres Geleite, weshalb auch der von
-    den erwähnten ἁμαξοκυλισταί verübte Frevel von den Amphiktyonen
-    streng gestraft wurde.</p>
-    
-    <p>Es erübrigt noch zu fragen, ob den Reisenden in Hellas
-    auch Pässe nöthig gewesen sind oder nicht.] Eine Andeutung
-    findet sich bei Aristophanes, wo Peisthetäros die den
-    neuen Staat betretende Iris fragt:
-    
-    <pb n="16"/>
-    <cit><bibl>Aristoph. Av. 1212,</bibl>
-        <quote xml:lang="grc"><l>σφραγῖδ᾽ ἔχεις παρὰ τῶν πελαργῶν; ἸΡ. τί τὸ xaxöv ;</l>
-            <l>Π. οὐχ ἔλαβες; ἸΡ. ὑγιαίνεις μέν; Π. οὐδὲ σύμβολον</l>
-            <l>ἐπέβαλεν ὀρνίθαρχος οὐδείς σοι παρών ;</l></quote>
-        </cit>  
-
-    Dazu bemerkt der Scholiast: 
-    
-    <cit><bibl>Schol. zu Aristoph. Av. 1212</bibl>
-        <quote xml:lang="grc">οἷον σύμβολον ἐπὶ τῷ συγχωρηθῆναι
-            παρελθεῖν.</quote>
-        </cit>
-     
-    
-    Man vergleiche damit 
-    <cit><bibl>Plaut. Capt. II, 8,90:</bibl>
-        <quote xml:lang="grc">
-            <l>Eadem opera a praetore sumam syngraphum. — Quem syngraphum? —</l>
-<l>Quem hic ferat secum ad legionem, hinc ire huic ut liceat domum.</l>
-        </quote>
-        </cit>    
-    
+<quote xml:lang="grc">φέρε δὲ καὶ πρὸς ταῦτα — γυμνάζωμεν ἑαυτούς — μήτε καταλύειν ἐν φαύλῳ πανδοκείῳ, βελτίονος παρόντος, ὅτι πολλάκις ὁ πανδοκεὺς ἠσπάσατο ἡμᾶς, ἀλλ᾽ ἔθους ἕνεκα, κἂν γ παρὰ μικρόν, αἱρεῖσθαι τὸ βελτίον.</quote> </cit>   Selbst in dem am arabischen Meerbusen liegenden Handelsorte Berenike gab es nach
 
 
-    Man hat keineswegs nöthig an römischen Gebrauch zu denken.
-    Eine andere merkwürdige Stelle, welche die Andeutung
-    einer polizeilichen Anstalt zur Controle der Ankommenden zu
-    enthalten scheint, findet sich bei demselben Dichter, wo von einem untergeschobenen Briefe die Rede ist:
-    <cit><bibl>Plaut. Trin. III, 3, 65</bibl>
-        <quote xml:lang="grc">
-            <l>Jam si obsignatas non feret (literas), dici hoc potest:</l>
+<cit>
+
+
+<bibl><bibl n="tlg0099.tlg001">Strab.</bibl> <ref n="bookpage">XVII, <ref n="pageref">p. 815</ref></ref>:</bibl>
+
+
+<quote xml:lang="grc">καταγωγὰς ἐπιτηδείους </quote> </cit>   und wenn Aristides in Bezug auf Thrakien über
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0284.tlg001">Aristides Or.</bibl> <ref n="bookpage">XXVII, <ref n="pageref">p. 304</ref></ref></bibl>
+
+
+<quote xml:lang="grc">καταγωγίων ἀπορία</quote> </cit>   klagt, so ist dies eben ein wenig civilisirtes Land gewesen. Es gab in späterer Zeit so comfortabel eingerichtete Gasthäuser, dass man sich versucht fühlen konnte, länger darin zu verweilen, als man gerade nöthig hatte; vgl.
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0557.tlg001">Epictet. Diss.</bibl> <ref n="romarab">II, 23, 36</ref>:</bibl>
+
+
+<quote xml:lang="grc"> οἷον εἴ τίς ἀπιὼν εἰς τὴν πατρίδα τὴν ἑαυτοῦ καὶ διοδεύων πανδοκεῖον καλὸν, ἀρέσαντος αὐτῷ τοῦ πανδοκείου, καταμένοι ἐν τῷ πανδοκείῳ, </quote> </cit>   und <bibl n="tlg0099.tlg001">Strab.</bibl> <ref n="bookpage">XVIII, <ref n="pageref">p. 801</ref></ref> über das ägyptische Kanobos. Allein im Allgemeinen werden sicher die griechischen Gasthöfe nicht verlockender gewesen sein als die uns besser bekannten italischen, und zwar nicht etwa deshalb, weil bloss Leute niederen Standes in ihnen einkehrten, sondern weil, wie heute noch im Süden überall, wo die nördlichere Sitte noch nicht Fuss gefasst hat, die Reisenden überaus genügsam und anspruchslos waren. Da wie in Italien (<bibl n="phi1348.abo019">Sueton. Vitell.</bibl> 7) die letzteren sich mit den Kutschern, Matrosen und Maulthiertreibern in einem Raume befanden, so war natürlich die Gesellschaft sehr gemischt. Belehrend dafür ist
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0007.tlg077">Plut. De san. praecept.</bibl> 15: </bibl>
+
+
+<quote xml:lang="grc">ὅθεν οὐδὲ πλοῦν ποιητέον οὔτε καταγωγὴν ἐν πανδοκείῳ σιγῆς πρόφασιν, οὐδ᾽ ἐὰν πάντες καταγελῶσιν. Ὅπου γὰρ οὐκ αἰσχρὸν τὸ φαγεῖν, οὐδὲ τὸ γυμνάζεσθαι δήπουθεν αἰσχρόν: ἀλλ᾽ αἰσχίον τὸ δεδοικέναι καὶ δυσωπεῖσθαι ναύτας  <pb n="10"/>  καὶ ὀρεωκόμους καὶ πανδοκεῖς καταγελῶντας, οὐ τοῦ σφαιρίζοντος καὶ σκιαμαχοῦντος, ἀλλὰ τοῦ λέγοντος. </quote> </cit>   Dazu kam noch die Anwesenheit gefälliger Dirnen:  <bibl n="tlg0007.tlg057">Plut. Demetr.</bibl> 26 und <bibl n="tlg0099.tlg001">Strab.</bibl> <ref n="bookpage">XII, <ref n="pageref">p. 578</ref></ref>; vgl. die Inschrift von Aesernia im Gall. III, S. 23 und bei Marquardt Privatalterth. II, S. 83. Ueberhaupt standen die πανδοκεῖς, sowie die kreischenden (<bibl n="tlg0019.tlg011">Aristoph. Plut.</bibl> 427) πανδοκεύτριαι in üblem Rufe, was seinen] Grund darin hat, dass eine Bewirthung um des Gewinns willen dem ursprünglichen Begriffe der ξενία gänzlich zuwider ist, und zweitens durch die Schlechtigkeit und betrügerische Handlungsweise der meisten πανδοκεῖς gerechtfertigt wurde, so dass es  <bibl n="tlg0093.tlg009">Theophr. Charact.</bibl> 6 geradezu als ein Merkmal der ἀπόνοια d. h. ὑπομονὴ αἰσχρῶν ἔργων καὶ λόγων angiebt: δεινὸς πανδοκεῦσαι καὶ πορνοβοσκῆσαι καὶ τελωνῆσαι: vergl.
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0059.tlg034">Plato Leg.</bibl> <ref n="bookpage">XI, <ref n="pageref">p. 918</ref></ref>:</bibl>
+
+
+<quote xml:lang="grc">πάντα τὰ περὶ τὴν καπηλείαν καὶ ἐμπορίαν καὶ πανδοκείαν γένη διαβέβληταί τε καὶ ἐν αἰσχροῖς γέγονεν ὀνείδεσιν· ἐπεὶ εἴ τίς (ὁ μή ποτε γένοιτο οὐδ᾽ εἰρήσεται) προσαναγκάσειε (γέλοιον μὲν εἰπεῖν, ὅμως δὲ εἰρήσεται) πανδοκεῦσαι τοὺς πανταχῇ ἀρίστους ἄνδρας ἐπέ τινα χρόνον --- γνοίημεν ἄν, ὡς φίλον καὶ ἀγαπητόν ἐστιν ἕκαστον τούτων, </quote> </cit>    und was im Exc. zu Sc. IV über die καπηλεῖα gesagt ist. [Und wenn, wie in den oben aus Cicero erwähnten Fällen, zuweilen selbst das Leben der Reisenden in solchen Herbergen von Seiten der Wirthe gefährdet war, so wird es wohl auch nicht selten vorgekommen sein, dass sie, wie z.B. bei <bibl n="tlg0640.tlg001">Alciphr. Epist.</bibl> 46 und 53 sich zu Hehlern für Diebe hergaben. Bei <bibl n="tlg0553.tlg010">Artemid. Onirocr.</bibl> <ref n="romarab">I, 23</ref> und <ref n="romarab">IV, 57</ref> bedeuten eherne und eiserne Stirnen, sowie scharfe Dornen im Traume den Gastwirthen Gutes! Uebrigens scheint es, als haben die griechischen Gasthäuser, wie die römischen, ihre besonderen Namen und Schilder geführt. Wenigstens erwähnt Artemidorus   ein
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0553.tlg010">Artemid. Onirocr.</bibl> 1, 4</bibl>
+
+
+<quote xml:lang="grc">ξενοδοκεῖν, ᾧ ἐπώνυμον κάμηλος </quote> </cit>   und auf einen πανδοκεύς wird auch das
+
+
+<cit>
+
+
+<quote xml:lang="grc">κέρας Ἀμαλθείας</quote>
+
+
+<bibl>bei <bibl n="tlg1553.tlg001">Palaeph. Incredib.</bibl> 46</bibl> </cit> gedeutet.</p>  <pb n="11"/>
+
+
+<p>Ueber das Verhältniss des Reisenden zum Wirthe hinsichtlich der Bedürfnisse und deren Preise sind wir gar nicht unterrichtet. Wenn aber Polybios vom gesegneten cisalpinischen Gallien sagt:
+
+
+<cit>
+
+
+<bibl>Polybios <ref n="romarab">II, 15</ref></bibl>
+
+
+<quote xml:lang="grc">ποιοῦνται γὰρ τὰς καταλύσεις οἱ διοδεύοντες τὴν χώραν ἐν τοῖς πανδοκείοις, οὐ συμφωνοῦντες περὶ τῶν κατὰ μέρος ἐπιτηδείων, ἀλλ᾽ ἐρωτῶντες. πόσου τὸν ἄνδρα δέχεται. ὡς μὲν οὖν ἐπὶ τὸ πολὺ παρίενται τοὺς καταλύτας οἱ πανδοκεῖς, ὡς ἱκανὰ πάντ᾽ ἔχειν τὰ πρὸς τὴν χρείαν ἡμιασσαρίου· τοῦτο δ᾽ ἔστε τέταρτον μέρος ὀβολοῦ. σπανίως δὲ τοῦθ’ ὑπερβαίνουσι,</quote> </cit>  so erkennt man deutlich, dass er den Contrast dieser Sitte zur sonstigen italischen (vgl. die Tafel von Aesernia) und zur heimischen hervorheben will, dass man also in Griechenland die Bedürfnisse einzeln bezahlte und mit dem Wirthe darüber bei der Einkehr einen Akkord schloss. Auf bestimmte Preise deuten auch die
+
+
+<cit>
+
+
+<quote xml:lang="grc">χρέα ἀνάβραστα ἡμιωβολιαῖα der πανδοκεύτρια</quote>
+
+
+<bibl>bei <bibl n="tlg0019.tlg009">Aristoph. Ran.</bibl> 553</bibl> </cit>  hin. Doch kam es auch vor, dass man Lebensmittel mitbrachte und sie dem Wirthe zur Zubereitung übergab; vgl.
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0007.tlg082">Plut. Apophth. Lacon.</bibl> 44:</bibl>
+
+
+<quote xml:lang="grc">εἰς πανδοκεῖον τις καταλύσας καὶ δοὺς ὄψον τῷ πανδοκεῖ σκευάσαι, ὡς ἕτερος τυρὸν ᾔτει καὶ ἔλαιον, τί, ἔφη, εἰ τυρὸν εἶχον, ἔτι ἂν ἐδεόμην ὄψου; </quote> </cit>   der zu Polybios Zeit in Griechenland übliche Preis der Tageszehrung kann wohl getrost auf das Achtfache der von ihm angegebenen Kleinigkeit veranschlagt werden.</p>
+
+
+<p><bibl n="tlg0099.tlg001">Strabo</bibl>’s ungünstiges Urtheil in Bezug auf die Strassen (<bibl n="tlg0099.tlg001">Strab.</bibl> <ref n="bookpage">V, <ref n="pageref">p. 330</ref></ref>) gilt den Griechen bloss in Vergleich mit den Römern. E. Curtius Ueber den Wegebau bei den Griechen in den Abhandl. der Berl. Acad. der Wissensch. 1854 hat S. 221ff. auf den religiösen Zusammenhang der Wegeanlagen mit den Nationalheiligthümern aufmerksam gemacht und sorgfältig ausgemeiselte, gleichspurige Geleise, Ausweichestellen (ἐκτροπαί und κάμψεις), Ruheplätze (ἀνάπαυλαι, ἀναπαυστήρια) und Treppenwege (κλίμακες) nachgewiesen.</p>
+
+
+<p>Die meisten Reisen scheinen auch in der historischen Zeit  <pb n="12"/>  zu Fuss gemacht worden zu sein.]  Selbst öffentliche Gesandtschaften reisen nicht anders, wie man deutlich aus <bibl n="tlg0026.tlg002">Aeschin. de falsa leg.</bibl> 97ff. sieht (vgl. Anm. 8). Indessen finden sich auch für Reisen zu Pferde Beispiele und Demosthenes selbst begleitet die Gesandten Philipp’s auf diese Weise bis Theben.
+
+
+<cit>
+
+
+<bibl>de falsa leg. 111:</bibl>
+
+
+<quote xml:lang="grc">ἐμισθώσατ᾽ αὐτοῖς ὅτ᾽ ἀπῄεσαν ὀρικὰ ζεύγη καὶ συμπαρῄει ἐφ᾽ ἵππου:</quote> </cit>    vgl.  <bibl n="tlg0026.tlg002">in Ctesiph.</bibl> 76. Bei <bibl n="tlg0032.tlg004">Xenoph. Symp.</bibl> 9, 7 sind selbst einige der Gäste zu Pferde in Kallias Haus gekommen, oder haben (wie Schneider zu 1, 7 annimmt) sie für die Heimkehr nachkommen lassen. Wenn daher bei <bibl n="tlg0540.tlg024">Lysias de inval.</bibl> 11 der Gebrauch der Pferde zu solchem Zwecke für ὕβρις erklärt wird, so gilt dies bloss den dürftigen Umständen des Beschuldigten. Vgl. <bibl n="tlg0061.tlg001">Lucian. Asin.</bibl> 1 oder <bibl n="phi1212.phi002">Appul. Metam.</bibl> <ref n="romarab">I, 2</ref>. Der Gebrauch der Wagen war sehr beschränkt, und wenn namentlich Männer sich ihrer in der Stadt und ihren Umgebungen bedienten, so wird dieses immer als Zeichen der Weichlichkeit oder des Hochmuths getadelt. So sagt
+
+
+<cit>
+
+
+<bibl> Demosth. adv. Phaenipp. 24:</bibl>
+
+
+<quote xml:lang="grc">δόμενος τὸν πολεμιστήριον ἵππον καταβέβηκεν ἀπὸ τῶν ἕππων καὶ ἀντ᾽ ἐκείνου ὄχημα αὑτῷ τηλικοῦτος ὧν ἐώνηται, ἵνα μὴ πεζῇ πορεύηται τοσαύτης τρυφῆς μεστὸς οὗτός ἐστι. </quote> </cit>    Daraus erklärt sich die Anekdote von Speusippos und Diogenes bei
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0004.tlg001">Diog. Laërt.</bibl> <ref n="romarab">IV, 3</ref>:</bibl>
+
+
+<quote xml:lang="grc">φασὶ δὲ ἐφ᾽ ἁμαξίου αὐτὸν φερόμενον εἰς τὴν Ἀκαδημίαν συναντῆσαι Διογένει καὶ, χαῖρε, εἰπεῖν· τὸν δὲ φάναι, ἀλλὰ μὴ σύ γε, ὅστις ὑπομένεις ζῆν τοιοῦτος ὤν.</quote> </cit>   Vgl. <bibl n="tlg0019.tlg008">Aristoph. Thesm.</bibl> 811. Selbst bei Frauen wird es als Zeichen des Hochmuths betrachtet, wie bei
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0014.tlg021">Demosth. in Mid.</bibl> 158:</bibl>
+
+
+<quote xml:lang="grc">καὶ εἰς μυστήρια τὴν γυναῖκα ἄγει κἂν ἄλλοσέ ποι βούληται ἐπὶ τοῦ λευκοῦ ζεύγους τοῦ ἐκ Σικυῶνος.</quote> </cit> Daher veranlasste auch der Redner Lykurg ein Gesetz, dass die Weiber nicht nach Eleusis fahren sollten, damit nicht die Aermeren durch die Reichen beschämt würden. <bibl n="tlg0007.tlg121">Plutarch. X Orat. vit.</bibl> <ref n="pageref">p. 842</ref>. Seine eigene Gemahlin indessen übertrat das Gesetz und er musste die Sykophanten mit einem Talente zum  <pb n="13"/>  Schweigen bringen. Wenn Timoleon sich in die Versammlung fahren liess und auf dem Wagen bleibend der Berathung beiwohnte (<bibl n="tlg0007.tlg018">Plutarch. Timol.</bibl> 38), so geschah dieses, weil er blind war; aber als Auszeichnung gilt es bei
+
+
+<cit>
+
+
+<bibl>Andoc. de myst. 45:</bibl>
+
+
+<quote xml:lang="grc">τὸν δὲ τῶν κακῶν τούτων αἴτιον Διοκλείδην ὡς σωτῆρα ὄντα τῆς πόλεως ἐπὶ ζεύγους ἦγον εἰς τὸ πρυτανεῖον στεφανώσαντες.</quote> </cit>    — [Zu weiteren Reisen wird sich das weibliche Geschlecht stets der Wagen bedient haben. Schon Solon hatte ja befohlen
+
+
+<cit>
+
+
+<bibl>(<bibl n="tlg0007.tlg007">Plut. Sol.</bibl> 21):</bibl>
+
+
+<quote xml:lang="grc">μὴ νύκτωρ πορεύεσθαι πλὴν ἁμάξῃ κομιζομένην, λύχνου προφαίνοντος. </quote> </cit>   So reiste auch die peloponnesische Festgesandtschaft, welche nach <bibl n="tlg0007.tlg084b">Plut. Quaest. Graec.</bibl> 59 in Megara arg beleidigt wurde, mit Weibern und Kindern in Wagen, die ihnen zugleich zum Uebernachten dienten. Aber auch von Empedokles erzählt
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0004.tlg001">Diog. Laërt.</bibl> <ref n="romarab">VIII, 73</ref>:</bibl>
+
+
+<quote xml:lang="grc">διά τινα πανήγυριν πορευόμενον ἐφ᾽ ἁμάξης ὡς εἰς Μεσσήνην πεσεῖν καὶ τὸν μηρὸν κλᾶσαι.</quote> </cit>  </p>
+
+
+<p>Was nun die verschiedenen Arten von Wagen betrifft, so muss man sich mit den dürftigen Nachrichten bei  Pollux begnügen, der ohnehin zunächst von Spazierfahrten spricht, _ wie sie in der Morgenfrühe üblich waren:
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0542.tlg001">Poll.</bibl> <ref n="romarab">X, 51</ref></bibl>
+
+
+<quote xml:lang="grc">ἀλλ᾽ εἰ μὲν αἰωρήσει: τῇ δι᾽ ὀχημάτων χρῷτό τις περὶ τὴν ἕω θέρους ὄντος, πρὶν ἢ τὸν ἥλιον περιφλέγειν, τὰ εἰδὴ τῶν ὀχημάτων ἰστέον, εἴτε ἅρματα εἴτε ὄχους εἴτε ἁμάξας εἴτε λαμπήνας αὐτὰ προσήκει καλεἲν, ἔστε δὲ τοὔνομα ἢ λαμπήνη ἐν τῇ Σοφοκλέους Ναυσικάᾳ καὶ ἐν τοῖς Μενάνδρου Ἁλιεῦσιν:</quote> </cit>  vgl.  Posidipp. bei <bibl n="tlg0542.tlg001">Poll.</bibl> <ref n="romarab">X, 189</ref>. Nur so viel erfahren wir, dass sie theils zum Sitzen theils zum Liegen eingerichtet waren, zum Theil bedeckt und bald auf zwei, bald auf vier Rädern ruhend:
+
+
+<cit>
+
+
+<bibl>τὰ δὲ ἐνθρόνια, τὰ δὲ εἰς τὸ κατακλῖναι ἐνεύναια, τὰ δὲ κατάστεγα καὶ στεγαστὰ καὶ καμάραι· οὕτω γὰρ ὠνόμασεν Ἡρόδοτος (1, 199), Ξενοφῶν δὲ ἐν τῇ Παιδείᾳ (<ref n="romarab">VI, 4, 11</ref>) τὸ ἐστεγασμένον μέρος τῆς ἁμάξης ὑποσημαίνων ἔφη, καὶ κατέκλιναν καὶ κατεκάλυψαν τὴν σκηνήν· καὶ τὰ μὲν τετράκυκλα, τὰ δὲ δίκυκλα:</bibl>
+
+
+<quote xml:lang="grc"></quote> </cit>   was aber die einzelnen Unterarten betrifft, so mögen darunter manche  <pb n="14"/>  gar nicht zum Gebrauche im gemeinen Leben gedient haben, selbst das lakedämonische κάνναθρον: vgl. Müller Dorier B. II, S. 282 und Preller ad Polemon. <ref n="pageref">p. 133</ref> — 136. [Der Reisewagen für mehrere Personen kann nur die vierräderige ἅμαξα gewesen sein. Auf Bildwerken erscheint ein zweiräderiges Kabriolet; vgl. Panofka Bild. antik. Lebens Taf. <ref n="romarab">III, 8</ref> und ebenso Gerhard Auserles. antike Vasenb. Taf. CCXVII, wo der Lenker zu Füssen einer weiblichen Gestalt mit seitwärts herabhängenden Beinen sitzt. Ueber die Bespannung 8. Guhl und Koner Κ. 806. Uebrigens sind noch häufiger, als die theuren Pferde, die in Attika nicht unter drei Minen zu stehen kamen, die Maulthiere beim Fahren benutzt worden. Vgl. <bibl n="tlg0032.tlg006">Xenoph. Anab.</bibl> <ref n="romarab">VII, 5, 2</ref>; <bibl n="tlg0017.tlg005">Isaeus de Dicaeogr. hered.</bibl> 43; <bibl n="tlg0026.tlg002">Aeschin. de fals. legat.</bibl> 111. Ueber das Reiten von Frauen auf Pferden vgl. Stephani in Compte rendu pour 1866, <ref n="pageref">p. 123</ref>. 184ff. Noch häufiger bedienten sich sie, aberauch Kranke und Weichlinge, der mit bequemen Lehnsätteln versehenen Maulthiere.
+
+
+<cit>
+
+
+<bibl>Schol. zu <bibl n="tlg0014.tlg021">Demosth. in Mid.</bibl> 133:</bibl>
+
+
+<quote xml:lang="grc">ἀστράβη εἶδος καθέδρας, παρὰ τὸ μὴ στρέφεσθαι· ἔστι δὲ ἐπὶ πλεῖστον εἰς ὕφος, ὥστε τῶν καθεζομένων ἀνέχειν τὰ νῶτα. χρῶνται δὲ αὐτῷ μάλιστα αἱ γυναῖκες.</quote> </cit>     Der Name ἀστράβη wurde nun aber auch auf das Thier übertragen:
+
+
+<cit>
+
+
+<bibl>Harpocrat. s. v. Hellad. bei <bibl n="tlg4040.tlg001">Phot. Bibl.</bibl> 279, <ref n="pageref">p. 533</ref> a 31:</bibl>
+
+
+<quote xml:lang="grc">ὅτι τὴν ἡμίονον, ἐφ᾽ ἧς ὀχούμεθα, φησίν, ἀζύγου οὔσης, Ἀθηναῖοι καλοῦσιν ἀστράβην, ἔνθεν λέγεται ὁ ἀστραβηλάτης.</quote> </cit>   Vgl. <bibl n="tlg4099.tlg001">Etymol. Magn.</bibl> 5. 169 (Sylburg), Lys. pro inval. 11, Machon bei <bibl n="tlg0008.tlg001">Athen.</bibl> <ref n="bookpage">XIII, <ref n="pageref">p. 582</ref></ref> und Stephani Compte rendu pour 1853, <ref n="pageref">p. 228</ref>, nebst pl. V. Ueber den Gebrauch der Sänften s. Scen. VII, Anmerk. 23 und über das Schiff als Reisevehikel die Anmerkungen zu derselben Scene überhaupt.</p>
+
+
+<p>Was die Sicherheit der Reisenden unterwegs anlangt, 80 möchte ich nicht aus den Worten
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0032.tlg003">Xenophon’s Memor. Socr.</bibl> <ref n="romarab">I, 1, 15</ref>:</bibl>
+
+
+<quote xml:lang="grc">σὺ δὲ ἐν ταῖς ὁδοῖς, ἔνθα πλεῖστοι ἀδικοῦνται  <pb n="15"/>  πολὺν χρόνον διατρίβων, εἰς ὁποίαν δ᾽ ἂν πόλιν ἀφίκῃ, τῶν πολιτῶν πάντων ἥττων ὢν καὶ τοιοῦτος οἵοις μάλιστα ἐπιτίθενται οἱ βουλόμενοι ἀδικεῖν, ὅμως διὰ τὸ ξένος εἶναι οὐχ ἂν οἴει ἀδικηθῆναι κ. τ. λ.</quote> </cit> auf besondere Gefahren einen Schluss ziehen; denn dort ist überhaupt von Unbilden die Rede, welche den Fremden in Folge des geringeren Rechtsschutzes, den sie fanden, widerfahren konnten. Wenn dagegen Diogenes Laërtius vom Philosopben Menedemos schreibt:
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0004.tlg001">Diog. Laërt.</bibl> <ref n="romarab">II, 136</ref></bibl>
+
+
+<quote xml:lang="grc"> ὅμως αὐτὸν (Ἀλεξῖνον) εὖ ἐποίησε τὴν γυναῖκα παραπέμψας ἐκ Δελφῶν ἕως Χαλκίδος εὐλαβουμένην κλωπείας τε καὶ τὰς καθ' ὁδὸν λῃστείας,</quote> </cit>  so denkt man unwillkürlich an die im 4. Jahrhundert so oft herrenlos herumschweifenden Söldner: Isocr. ad Phil. 40 und über die gleichzeitige Seeräuberei Panegyr. $ 115 und Demosth. in Aristocr. 166. Sonst zog der Wanderer im Vertrauen auf den Schutz der θεοὶ ἐνόδιοι, Hermes und Hekate, deren Bilder und Malzeichen besonders auf den Kreuzwegen standen (Hermann Gottesd. Alterth. $15, n. 14ff.) rubig seine Strasse. Es war ihm unverwehrt, von den Früchten der am Wege stehenden Obstbäume zu geniessen und Jedermann zeigte ihm willig die rechte Strasse, wenn er sich verirrtte: <bibl n="tlg1714.tlg001">Theocr. Idyll.</bibl> <ref n="romarab">XXV, 3</ref>. An den Hermenpfeilern konnte er ausser allerhand Sprüchen auch Wegebestimmungen lesen und später fehlte es nicht an wirklichen Wegweisern und Meilensteinen; vgl. Curtius Wegebau der Gr. S. 43 und Eustath. zu <bibl n="tlg0012.tlg002">Odyss.</bibl> <ref n="pageref">p. 1809</ref>. 31. Am meisten geschützt vor Feindseligkeiten waren die zu den grossen Nationalfesten reisenden Gäste; denn die ἐκεχειρία gewährte allen Theilnehmern internationales sicheres Geleite, weshalb auch der von den erwähnten ἁμαξοκυλισταί verübte Frevel von den Amphiktyonen streng gestraft wurde.</p>
+
+
+<p>Es erübrigt noch zu fragen, ob den Reisenden in Hellas auch Pässe nöthig gewesen sind oder nicht.] Eine Andeutung findet sich bei Aristophanes, wo Peisthetäros die den neuen Staat betretende Iris fragt:  <pb n="16"/>
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0019.tlg006">Aristoph. Av.</bibl> 1212,</bibl>
+
+
+<quote xml:lang="grc">
+
+<l>σφραγῖδ᾽ ἔχεις παρὰ τῶν πελαργῶν; ἸΡ. τί τὸ xaxöv ;</l>
+
+<l>Π. οὐχ ἔλαβες; ἸΡ. ὑγιαίνεις μέν; Π. οὐδὲ σύμβολον</l>
+
+<l>ἐπέβαλεν ὀρνίθαρχος οὐδείς σοι παρών ;</l></quote> </cit> Dazu bemerkt der Scholiast:
+
+
+<cit>
+
+
+<bibl>Schol. zu <bibl n="tlg0019.tlg006">Aristoph. Av.</bibl> 1212</bibl>
+
+
+<quote xml:lang="grc">οἷον σύμβολον ἐπὶ τῷ συγχωρηθῆναι παρελθεῖν.</quote> </cit>   Man vergleiche damit
+
+
+<cit>
+
+
+<bibl><bibl n="phi0119.phi005">Plaut. Capt.</bibl> <ref n="romarab">II, 8</ref>,90:</bibl>
+
+
+<quote xml:lang="grc">
+
+<l>Eadem opera a praetore sumam syngraphum. — Quem syngraphum? —</l>
+
+<l>Quem hic ferat secum ad legionem, hinc ire huic ut liceat domum.</l> </quote> </cit>  Man hat keineswegs nöthig an römischen Gebrauch zu denken. Eine andere merkwürdige Stelle, welche die Andeutung einer polizeilichen Anstalt zur Controle der Ankommenden zu enthalten scheint, findet sich bei demselben Dichter, wo von einem untergeschobenen Briefe die Rede ist:
+
+
+<cit>
+
+
+<bibl><bibl n="phi0119.phi019">Plaut. Trin.</bibl> <ref n="romarab">III, 3, 65</ref></bibl>
+
+
+<quote xml:lang="grc">
+
+<l>Jam si obsignatas non feret (literas), dici hoc potest:</l>
+
 <l>Apud portitorem eas resignatas sibi</l>
-<l>Inspectasque esse,</l>
-        </quote>
-        </cit>    
+
+<l>Inspectasque esse,</l> </quote> </cit> und
 
 
-
-    und 
-    <cit><bibl>Plaut. Trin. III, 3, 80: </bibl>
-        <quote xml:lang="grc"><l>Lepida est illa causa, ut commemoravi, dicere</l>
-            <l>Apud portitores esse inspectas.</l></quote>
-        </cit>
+<cit>
 
 
-    Was Aristophanes σφραγίς nennt, ist nichts anderes als der
-    mit dem Staatssiegel beglaubigte Pass oder dieses selbst. Es
-    ist sehr interessant durch Strabo etwas Näheres von einem
-    solchen Staatssiegel zu erfahren. Er sagt 
-    
-    <cit><bibl>Strabo IX, 3, 1: </bibl>
-        <quote xml:lang="grc"> καλοῦνται
-            δ᾽ οἱ μὲν ἑσπέριοι Λοκροὶ καὶ Ὀζόλαι, ἔχουσί τε ἐπὶ τῇ
-            δημοσίᾳ σφραγῖδι τὸν ἕσπερον ἀστέρα ἐγκεχαραγμένον.</quote>
-        </cit>  
-    Nicht
-    ganz dasselbe bedeuten die σύμβολα, 
-    
-    indem darunter jedweder
-    Gegenstand, der jemandem zur Legitimation oder Empfehlung
-    mitgegeben wird, verstanden werden kann. So wird es von
-    Euripides in dem von Eustath. ad Iliad. VI, 169 angeführten
-    Verse der Medea  gebraucht:
-    
-    <cit><bibl>Eur. Medea 613</bibl>
-        <quote xml:lang="grc"><l>ξένοις τε πέμπειν σύμβολ᾽, οἳ δράσουσί σ᾽ εὖ.</l></quote>
-        </cit>    
-
-    Deutlicher erhellt die Beschaffenheit und der Zweck solcher
-    σύμβολα aus 
-    
-    <cit><bibl>Lysias de bonis Aristoph. 25:</bibl>
-        <quote xml:lang="grc"> ὅτε ἔλαβε
-    
-            <pb n="17"/>
-            
-            σύμβολον παρὰ βασιλέως τοῦ μεγάλου φιάλην ... πολλῶν γὰρ
-            ἀγαθῶν καὶ ἄλλων χρημάτων εὐπορήσειν διὰ τὸ σύμβολον ἐν
-            πάσῃ τῇ ἠπείρῳ.</quote>
-        </cit>
-             
-    
-    
-    
-    — Dieselbe Art von Beglaubigung war auch
-    im Privatverkehre üblich und hier findet sich als symbolus
-    oder symbolum eben auch ein blosser Abdruck des Siegelrings.
+<bibl><bibl n="phi0119.phi019">Plaut. Trin.</bibl> <ref n="romarab">III, 3, 80</ref>: </bibl>
 
 
-    <cit><bibl>Plaut. Pseud. I, 1, 53:</bibl>
-        <quote xml:lang="lat">
-            <l>Ea causa miles hic reliquit symbolum,</l>
+<quote xml:lang="grc">
+
+<l>Lepida est illa causa, ut commemoravi, dicere</l>
+
+<l>Apud portitores esse inspectas.</l></quote> </cit> Was Aristophanes σφραγίς nennt, ist nichts anderes als der mit dem Staatssiegel beglaubigte Pass oder dieses selbst. Es ist sehr interessant durch <bibl n="tlg0099.tlg001">Strabo</bibl> etwas Näheres von einem solchen Staatssiegel zu erfahren. Er sagt
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0099.tlg001">Strabo</bibl> <ref n="romarab">IX, 3, 1</ref>: </bibl>
+
+
+<quote xml:lang="grc"> καλοῦνται δ᾽ οἱ μὲν ἑσπέριοι Λοκροὶ καὶ Ὀζόλαι, ἔχουσί τε ἐπὶ τῇ δημοσίᾳ σφραγῖδι τὸν ἕσπερον ἀστέρα ἐγκεχαραγμένον.</quote> </cit> Nicht ganz dasselbe bedeuten die σύμβολα,  indem darunter jedweder Gegenstand, der jemandem zur Legitimation oder Empfehlung mitgegeben wird, verstanden werden kann. So wird es von <bibl n="tlg0006">Euripides</bibl> in dem von <bibl n="tlg4083.tlg001">Eustath. ad Iliad.</bibl> <ref n="romarab">VI, 169</ref> angeführten Verse der Medea gebraucht:
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0006.tlg003">Eur. Medea</bibl> 613</bibl>
+
+
+<quote xml:lang="grc">
+
+<l>ξένοις τε πέμπειν σύμβολ᾽, οἳ δράσουσί σ᾽ εὖ.</l></quote> </cit> Deutlicher erhellt die Beschaffenheit und der Zweck solcher σύμβολα aus
+
+
+<cit>
+
+
+<bibl><bibl n="tlg0540.tlg019">Lysias de bonis Aristoph.</bibl> 25:</bibl>
+
+
+<quote xml:lang="grc"> ὅτε ἔλαβε  <pb n="17"/>  σύμβολον παρὰ βασιλέως τοῦ μεγάλου φιάλην ... πολλῶν γὰρ ἀγαθῶν καὶ ἄλλων χρημάτων εὐπορήσειν διὰ τὸ σύμβολον ἐν πάσῃ τῇ ἠπείρῳ.</quote> </cit>     — Dieselbe Art von Beglaubigung war auch im Privatverkehre üblich und hier findet sich als symbolus oder symbolum eben auch ein blosser Abdruck des Siegelrings.
+
+
+<cit>
+
+
+<bibl><bibl n="phi0119.phi016">Plaut. Pseud.</bibl> <ref n="romarab">I, 1, 53</ref>:</bibl>
+
+
+<quote xml:lang="lat">
+
+<l>Ea causa miles hic reliquit symbolum,</l>
+
 <l>Expressam in cera ex anulo suam imaginem, _</l>
+
 <l>Ut qui huc afferret eius similem symbolum</l>
-<l>Cum eo simul me mitteret.</l>
-        </quote>
-        </cit>
-     
+
+<l>Cum eo simul me mitteret.</l> </quote> </cit>  Ebend.
 
 
-    Ebend. 
-    
-
-    <cit><bibl>Plaut. Pseud. II, 2, 52:</bibl>
-        <quote xml:lang="lat"><l>— tu epistolam hanc a me accipe atque illi dato;</l>
-            <l>Nam istic symbolum est inter herum meum et tuum de muliere.</l>
-            <l>Ps. Scio equidem, ut qui argentum afferret atque expressam imaginem</l>
-            <l>Suam huc ad nos, cum eo aiebat velle mitti mulierem.</l></quote>
-        </cit>
-        
+<cit>
 
 
+<bibl><bibl n="phi0119.phi016">Plaut. Pseud.</bibl> <ref n="romarab">II, 2, 52</ref>:</bibl>
 
-    und 
-    
-    <cit><bibl>Plaut. Bacchid. II, 3, 29:</bibl>
-        <quote xml:lang="lat"><l>Eo praesente homini extemplo ostendit symbolum,</l>
-            <l>Quem tute dederas, ad eum ut ferret, filio.</l></quote>
-        </cit>
-        
 
-    Vergl. Plutarch. Artax. 18. — Hierher gehören auch die
-    von Poll. IX, 71 angeführten σύμβολα, welche Aehnlichkeit
-    mit den iesseris hospitalibus haben, und endlich eine athenische
-    Inschrift, ein Decret zu Ehren des Straton von Sidon. Darin
-    heisst es unter Anderem: 
-    
-    <cit><bibl>Marmor. Oxon. 11,24. Böckh C. Inscr. 1, p. 126</bibl>
-        <quote xml:lang="grc">ποιησάσθω δὲ καὶ σύμβολα ἢ βουλὴ
-            πρὸς τὸν βασιλέα τὸν Σιδωνίων, ὅπως ἂν ὁ δῆμος ὁ Adyvaluv
-            εἰδῇ ἐάν τι πέμπῃ ὁ Σιδωνίων βασιλεὺς δεόμενος τῆς πόλεως,
-            καὶ ὁ βασιλεὺς ὁ Σιδωνίων εἰδῇ ὅταν πέμπῃ τινὰ ὡς αὐτὸν ὁ
-            δῆμος ὁ Ἀθηναίων.</quote>
-        </cit>   
-    
-     
-    
-    Wie schon von Böckh p. 127 bemerkt
-    worden ist, haben diese σύμβολα nichts mit den sonst auch
-    so genannten Staatsverträgen gemein, sondern es sind Legitimationszeichen
-    für die jedesmaligen Gesandten, also gewissermassen
-    auch tesserae hospitales. |Die Becker’sche Ansicht
-    
-    
-    <pb n="18"/>
-    
-    bedarf einer doppelten Berichtigung. Die an erster Stelle
-    von ihm citirten Stellen beweisen nur, dass der Reisende eine
-    Legimation brauchte, wenn die Stadt, wohin er sich begab,
-    sich im Kriegszustande befand. Die zwei letzten plautinischen
-    Citate ferner beziehen sich gar nicht auf eine polizeiliche
-    Massregel, sondern auf das Zollwesen. Denn da die
-    Zölle verpachtet wurden, übten die Unterbeamten der Pächter
-    eine rücksichtslose, mit Visitationen der Reisenden und, wenn
-    Verdacht der Defraudation vorlag, selbst mit Eröffnen der
-    Briefe verbundene Controle
+<quote xml:lang="lat">
 
-Vgl.
-Büchsenschütz, Bes. u.
-    Erw. 5. 558. Glaubt man doch sogar eine Spur von Plombirung
-    der Waarenballen gefundeu zu haben: Haase in den
-    Annali dell’ inst. di corresp. arch. XI, 2, p. 279.]
-    </p>
-    </div>
-</div>
+<l>— tu epistolam hanc a me accipe atque illi dato;</l>
+
+<l>Nam istic symbolum est inter herum meum et tuum de muliere.</l>
+
+<l>Ps. Scio equidem, ut qui argentum afferret atque expressam imaginem</l>
+
+<l>Suam huc ad nos, cum eo aiebat velle mitti mulierem.</l></quote> </cit>  und
+
+
+<cit>
+
+
+<bibl><bibl n="phi0119.phi004">Plaut. Bacchid.</bibl> <ref n="romarab">II, 3, 29</ref>:</bibl>
+
+
+<quote xml:lang="lat">
+
+<l>Eo praesente homini extemplo ostendit symbolum,</l>
+
+<l>Quem tute dederas, ad eum ut ferret, filio.</l></quote> </cit>  Vergl. <bibl n="tlg0007.tlg064">Plutarch. Artax.</bibl> 18. — Hierher gehören auch die von <bibl n="tlg0542.tlg001">Poll.</bibl> <ref n="romarab">IX, 71</ref> angeführten σύμβολα, welche Aehnlichkeit mit den iesseris hospitalibus haben, und endlich eine athenische Inschrift, ein Decret zu Ehren des Straton von Sidon. Darin heisst es unter Anderem:
+
+
+<cit>
+
+
+<bibl>Marmor. Oxon. 11,24. Böckh C. Inscr. 1, <ref n="pageref">p. 126</ref></bibl>
+
+
+<quote xml:lang="grc">ποιησάσθω δὲ καὶ σύμβολα ἢ βουλὴ πρὸς τὸν βασιλέα τὸν Σιδωνίων, ὅπως ἂν ὁ δῆμος ὁ Adyvaluv εἰδῇ ἐάν τι πέμπῃ ὁ Σιδωνίων βασιλεὺς δεόμενος τῆς πόλεως, καὶ ὁ βασιλεὺς ὁ Σιδωνίων εἰδῇ ὅταν πέμπῃ τινὰ ὡς αὐτὸν ὁ δῆμος ὁ Ἀθηναίων.</quote> </cit>    Wie schon von Böckh <ref n="pageref">p. 127</ref> bemerkt worden ist, haben diese σύμβολα nichts mit den sonst auch so genannten Staatsverträgen gemein, sondern es sind Legitimationszeichen für die jedesmaligen Gesandten, also gewissermassen auch tesserae hospitales. [Die Becker’sche Ansicht   <pb n="18"/>  bedarf einer doppelten Berichtigung. Die an erster Stelle von ihm citirten Stellen beweisen nur, dass der Reisende eine Legimation brauchte, wenn die Stadt, wohin er sich begab, sich im Kriegszustande befand. Die zwei letzten plautinischen Citate ferner beziehen sich gar nicht auf eine polizeiliche Massregel, sondern auf das Zollwesen. Denn da die Zölle verpachtet wurden, übten die Unterbeamten der Pächter eine rücksichtslose, mit Visitationen der Reisenden und, wenn Verdacht der Defraudation vorlag, selbst mit Eröffnen der Briefe verbundene Controle Vgl. Büchsenschütz, Bes. u. Erw. 5. 558. Glaubt man doch sogar eine Spur von Plombirung der Waarenballen gefundeu zu haben: Haase in den Annali dell’ inst. di corresp. arch. <ref n="romarab">XI, 2</ref>, <ref n="pageref">p. 279</ref>.] </p> </div>
 
 <div type="textpart" subtype="appendix" n="2"> 
     <pb n="19"/>
@@ -2436,7 +1984,8 @@ Büchsenschütz, Bes. u.
     trage ich kein Bedenken, auch auf das aus Sueton. de
     gramm. 23 bekannte Beispiel des Remmius Palaemon hinzuweisen,
     der in der Schule mehr lernte, als sein Zögling. Die
-    Stelle bei Plat. Lys. p. 223: <foreign xml:lang="grc">ὥσπερ δαίμονές τινες προσελθόντες  οἱ παιδαγωγοί, ὅ τε <foreign xml:lang="grc">τοῦ</foreign> <choice><sic>Ἡενεξένου</sic><corr n="89">Μενεξένου</corr></choice> καὶ ὁ <foreign xml:lang="grc">τοῦ</foreign></foreign> Abatöog,
+    Stelle bei Plat. Lys. p. 223: <foreign xml:lang="grc">ὥσπερ δαίμονές τινες <choice><sic>προσελ-</sic><corr n="83">προσ-</corr></choice></foreign>
+    <foreign xml:lang="grc"><choice><sic>θόν<foreign xml:lang="grc">τε</foreign>ς</sic><corr n="91">όν<foreign xml:lang="grc">τε</foreign>ς</corr></choice> οἱ παιδαγωγοί, ὅ τε <foreign xml:lang="grc">τοῦ</foreign> <choice><sic>Ἡενεξένου</sic><corr n="89">Μενεξένου</corr></choice> καὶ ὁ <foreign xml:lang="grc">τοῦ</foreign></foreign> Abatöog,
     <foreign xml:lang="grc">ἔχοντες αὐτῶν τοῦς ἀδελφούς, παρεκάλουν καὶ ἐκέλευον αὐτοὺς</foreign>
     olxade <foreign xml:lang="grc">ἀπιέναι</foreign> kann weder mit Cramer a. a. Ο. so verstanden
     werden, als seien die Pädagogen zum Abholen der Knaben
@@ -2448,17 +1997,19 @@ Büchsenschütz, Bes. u.
     Jünglinge versammelt, aber auch die Pädagogen zur Aufsicht
     vorhanden waren (p. 200 C fragt Sokrates: <foreign xml:lang="grc">ἀλλ᾽ ἄρχει τίς</foreign>
     <foreign xml:lang="grc">σου; und Lysis antwortet: öde, παιδαγωγός</foreign>), welche sich bei
-    dieser Gelegenheit recht gütlich thaten, p. 223 B: <foreign xml:lang="grc">ἀλλ᾽ <choice><sic>ἐδόχοὺν</sic><corr n="80">ἐδόκουν</corr></choice></foreign>
-    <foreign xml:lang="grc">ἡμῖν <choice><sic>ὑποπεπωκχότες</sic><corr n="96">ὑποπεπωκότες</corr></choice> ἐν τοῖς <choice><sic>Ἑρμαώοις</sic><corr n="88">Ἑρμαίοις</corr></choice> ἄποροι εἶναι <choice><sic>προσφέpeoda</sic><corr n="63">προσφέρεσθαι</corr></choice></foreign>.]
+    dieser Gelegenheit recht gütlich thaten, p. 223 B: <foreign xml:lang="grc">ἀλλ᾽ <choice><sic>ἐδόχοὺν</sic><corr n="80">ἐκδόχιον</corr></choice></foreign>
+    <foreign xml:lang="grc">ἡμῖν <choice><sic>ὑποπεπωκχότες</sic><corr n="96">ὑποπεπωκότες</corr></choice> ἐν τοῖς <choice><sic>Ἑρμαώοις</sic><corr n="88">Ἑρμαίοις</corr></choice> ἄποροι εἶναι <choice><sic>προσφέpeoda</sic><corr n="63">προσφέρῃ</corr></choice></foreign>:.]
     Sonstigen Personen, mit Ausnahme naher Verwandter
     des Lehrers, war es nach dem Gesetze bei Aeschines
     8 12 und zwar bei Todesstrafe verboten, die Schule während
-    des Unterrichts zu betreten: <foreign xml:lang="grc">καὶ μὴ ἐξέστω τοῖς ὑπὲρ τὴν</foreign>
+    des Unterrichts zu betreten: xa) <foreign xml:lang="grc">μὴ ἐξέστω τοῖς ὑπὲρ τὴν</foreign>
+    Charikles II. 4
+    Goo gle
     
     <pb n="50"/>
     
     <foreign xml:lang="grc"><foreign xml:lang="grc">τῶν</foreign> <foreign xml:lang="grc">παίδων</foreign> ἡλικίαν οὖσιν εἰσιέναι <foreign xml:lang="grc">τῶν</foreign> <foreign xml:lang="grc">παίδων</foreign> ἔνδον ὄντων, ἐὰν</foreign>
-    <foreign xml:lang="grc">μὴ υἱὸς <choice><sic>διδασχάλου</sic><corr n="90">διδασκάλου</corr></choice> ἢ ἀδελφὸς ἢ θυγατρὸς <choice><sic>ἀνήρ’</sic><corr n="91">ἀνήρ·</corr></choice> ἐὰν δέ τις</foreign>
+    <foreign xml:lang="grc">μὴ υἱὸς <choice><sic>διδασχάλου</sic><corr n="90">διδασκάλου</corr></choice> ἢ ἀδελφὸς ἢ θυγατρὸς <choice><sic>ἀνήρ’</sic><corr n="91">ἀνήρ.’</corr></choice> ἐὰν δέ τις</foreign>
     <foreign xml:lang="grc">παρὰ ταῦτ᾽ εἰσ, θανάτῳ ζημιούσθω</foreign>: doch scheint darauf später
     nicht streng gehalten worden zu sein; denn Theophr.
     Char. 7 führt in der Charakteristik eines <foreign xml:lang="grc">λάλος</foreign> auch an,
@@ -2467,7 +2018,7 @@ Büchsenschütz, Bes. u.
     IV, 27: <foreign xml:lang="grc">αὑ<foreign xml:lang="grc">τὸν</foreign> δέ σε, ἔφη, ἐγὼ εἶδον ναὶ μὰ τὸν Ἀπόλλω, ὅτε</foreign>
     <foreign xml:lang="grc">παρὰ <foreign xml:lang="grc">τῷ</foreign> ypapparıory, ἐν <foreign xml:lang="grc">τῷ</foreign> αὐ<foreign xml:lang="grc">τῷ</foreign> βιβλίῳ ἀμφότεροι ἐμαστεύετέ</foreign>
     <foreign xml:lang="grc">τί, τὴν <choice><sic>χεφαλὴν</sic><corr n="86">κεφαλὴν</corr></choice> <foreign xml:lang="grc">πρὸς</foreign> τῇ <choice><sic>χεφαλῇ</sic><corr n="83">κεφαλῇ</corr></choice> καὶ τὸν ὦμον γυμνὸν <foreign xml:lang="grc">πρὸς</foreign></foreign>
-    <foreign xml:lang="grc"><choice><sic>γύμνῳ</sic><corr n="83">σιγύμνῳ</corr></choice> τοῦ Κριτοβούλου <choice><sic>ὥμῳ</sic><corr n="80">ὥμῳ</corr></choice> ἔχοντα</foreign>.] --- Unter der Aufsicht
+    <foreign xml:lang="grc"><choice><sic>γύμνῳ</sic><corr n="83">σιγύμνῳ</corr></choice> τοῦ Κριτοβούλου <choice><sic>ὥμῳ</sic><corr n="80">μῳ</corr></choice> ἔχοντα</foreign>.] --- Unter der Aufsicht
     jener Pädagogen blieben die jungen Leute bis zu dem Ephebenalter,
     wie aus Terent. Andr. I. 1. 24ff. Plutarch. de
     aud. 1 u. s. w. sich ergiebt. Ein Beispiel eines Pädagogen
@@ -2479,7 +2030,7 @@ Büchsenschütz, Bes. u.
     werden. Auch in Plato’s Worten Protag. p. 320:
     <foreign xml:lang="grc">Κλεινίαν τὸν Alxıßıadov τουτουὶ νεώτερον ἀδελφὸν ἐπιτροπεύων</foreign>
     ὁ <foreign xml:lang="grc">αὐτὸς ἀνὴρ Περικλῆς, δεδιὼς περὶ αὐτοῦ μὴ <choice><sic>διαρθαρῇ</sic><corr n="88">διαφθαρῇ</corr></choice> δὴ</foreign>
-    <foreign xml:lang="grc">ὑπὸ <choice><sic>᾿ἀλχιβιάδου</sic><corr n="86">Ἀλκιβιάδου</corr></choice>, ἀποσπάσας ἀπὸ τούτου, καταθέμενος ἐν <choice><sic>Apiφρονος</sic><corr n="75">Ἀρίφρονος</corr></choice></foreign>
+    <foreign xml:lang="grc">ὑπὸ <choice><sic>᾿ἀλχιβιάδου</sic><corr n="86">ἀλκιβιάδου</corr></choice>, ἀποσπάσας ἀπὸ τούτου, καταθέμενος ἐν <choice><sic>Apiφρονος</sic><corr n="75">ἄφρονος</corr></choice></foreign>
     <foreign xml:lang="grc">ἐπαίδευε, καὶ πρὶν ἕξ μῆνας γεγονέναι <choice><sic>ἀπέδωχε</sic><corr n="86">ἀπέδωκε</corr></choice> τούτῳ</foreign>
     <foreign xml:lang="grc">οὐκ ἔχων ὅ, τι χρήσαιτο αὐτῷ</foreign>, liegt nicht die mindeste Andeutung
     eines Privatunterrichts im Hause, wie Cramer Geschichte
@@ -2502,14 +2053,14 @@ Büchsenschütz, Bes. u.
     fieret corium tam maculosum quamst nutricis pallium.]
     Als Anfang der Schulzeit bestimmt der pseudoplatonische
     Axiochos p. 366 das siebente Lebensjahr: <foreign xml:lang="grc">ὁπόταν δὲ εἰς</foreign>
-    <foreign xml:lang="grc">τὴν ἑπταετίαν dyplxmtai <choice><sic>πολλοὸς</sic><corr n="92">πολλοὺς</corr></choice> πόνους <choice><sic>διαντλῇσαν</sic><corr n="80">διαντλῆσαν</corr></choice>, ἐπέστησαν</foreign>
+    <foreign xml:lang="grc">τὴν ἑπταετίαν dyplxmtai <choice><sic>πολλοὸς</sic><corr n="92">πολλὸς</corr></choice> πόνους <choice><sic>διαντλῇσαν</sic><corr n="80">διαντλήσας</corr></choice>, ἐπέστησαν</foreign>
     <foreign xml:lang="grc">παιδαγωγοὶ <foreign xml:lang="grc">καὶ</foreign> γραμματισταὶ <foreign xml:lang="grc">καὶ</foreign> παιδοτρίβαι τυραννοῦντες</foreign>
     x. <foreign xml:lang="grc">τ</foreign> A. Der ächte Plato zwar scheint die Knaben bis zu
     dem zehnten Jahre bloss in die Palästra oder überhaupt
     zu körperlichen Uebungen zu verweisen; denn er sagt Leg.
-    VD, p. 794: <foreign xml:lang="grc">μετὰ δὲ τὸν <choice><sic>ἐξέτη</sic><corr n="91">ἐξέτη</corr></choice> καὶ τὴν ἑξέτιν <choice><sic>διαχρινέσθω</sic><corr n="91">διακρινέσθω</corr></choice></foreign>
-    <foreign xml:lang="grc">μὲν ἤδη τὸ γένος <choice><sic>ἑχατέρων</sic><corr n="88">ἑκατέρων</corr></choice>.... πρὸς δὲ τὰ μαθήματα <choice><sic>τρέπε-</sic><corr n="91">τρέπεσθαι</corr></choice></foreign>
-   <foreign xml:lang="grc">χρεὼν ἑκατέρους· τοὺς μὲν <choice><sic>ἄῤῥενας</sic><corr n="71">ἄρρενας</corr></choice> ἐφ᾽ ἕππων <choice><sic>διδασχάλους</sic><corr n="91">διδασκάλους</corr></choice></foreign>
+    VD, p. 794: <foreign xml:lang="grc">μετὰ δὲ τὸν <choice><sic>ἐξέτη</sic><corr n="91">ἐξέστη</corr></choice> καὶ τὴν ἑξέτιν <choice><sic>διαχρινέσθω</sic><corr n="91">διακρινέσθω</corr></choice></foreign>
+    <foreign xml:lang="grc">μὲν ἤδη τὸ γένος <choice><sic>ἑχατέρων</sic><corr n="88">ἑκατέρων</corr></choice>.... πρὸς δὲ τὰ μαθήματα <choice><sic>τρέπε-</sic><corr n="91">τρέπε</corr></choice></foreign>
+    . oda: <foreign xml:lang="grc">χρεὼν ἑκατέρους· τοὺς μὲν <choice><sic>ἄῤῥενας</sic><corr n="71">ἄρρενας</corr></choice> ἐφ᾽ ἕππων <choice><sic>διδασχάλους</sic><corr n="91">διδασκάλους</corr></choice></foreign>
     <foreign xml:lang="grc"><foreign xml:lang="grc">καὶ</foreign> τόξων <foreign xml:lang="grc">καὶ</foreign> σφενδονήσεως</foreign>, und bestimmt für den Anfang
     <foreign xml:lang="grc">ἐν γράμμασι das zehnte Jahr, p. 809: εἰς μὲν γράμματα</foreign>
     <foreign xml:lang="grc">παιδὶ <choice><sic>δεχέτει</sic><corr n="86">δεκέτει</corr></choice> σχεδὸν ἐνιαυτοὶ τρεῖς</foreign>: allein das fand in der
@@ -2521,17 +2072,17 @@ Büchsenschütz, Bes. u.
     <foreign xml:lang="grc">αὐτοῖς ἐς <choice><sic>διδασχάλου·</sic><corr n="86">διδασκάλου</corr></choice> καὶ γὰρ ἂν μηδέπω μαθεῖν ἀγαθόν</foreign>
     <foreign xml:lang="grc">τι δύνωνται, ἀλλ᾽ οὖν φαῦλον οὐδὲν ποιήσουσιν ἐκεῖ μένοντες</foreign>,
     und von den Söhnen reicherer Aeltern schreibt Plato Protag.
-    p. 326 selbst: <foreign xml:lang="grc">οὗ τούτων υἱεῖς <choice><sic>πρωϊαίτατα</sic><corr n="90">πρωϊαίτατα</corr></choice> εἰς <choice><sic>διδασχάλων</sic><corr n="90">διδασκάλων</corr></choice> τῆς</foreign>
+    p. 326 selbst: <foreign xml:lang="grc">οὗ τούτων υἱεῖς <choice><sic>πρωϊαίτατα</sic><corr n="90">πρωιαίτατα</corr></choice> εἰς <choice><sic>διδασχάλων</sic><corr n="90">διδασκάλων</corr></choice> τῆς</foreign>
     <foreign xml:lang="grc">ἡλικίας ἀρξάμενοι φοιτᾶν <choice><sic>ὀφιαίτατα</sic><corr n="89">ὀψιαίτατα</corr></choice> ἀπαλλάττονται</foreign>. Nicht viel
     anders als Plato erklärt sich auch Aristoteles. Er bezeichnet
     de republ. VI. 17 das Alter <foreign xml:lang="grc">μέχρι πέντε ἐτῶν</foreign> als
     die <foreign xml:lang="grc">ἡλικία, ἣν οὔτε πω πρὸς μάθησιν καλῶς ἔχει προσάγειν</foreign>
-    <foreign xml:lang="grc">οὐδεμίαν οὔτε πρὸς ἀναγκαίους πόνους: dann sagt er: <choice><sic>διαελθόν-</sic><corr n="78">διελθόντων</corr></choice>
-    
+    <foreign xml:lang="grc">οὐδεμίαν οὔτε πρὸς ἀναγκαίους πόνους: dann sagt er: <choice><sic>διαελθόν-</sic><corr n="78">διελθόντα</corr></choice></foreign>
+    ᾿ 4
     
     <pb n="52"/>
     
- δὲ <foreign xml:lang="grc"><foreign xml:lang="grc">τῶν</foreign></foreign> πέντε ἐ<foreign xml:lang="grc"><foreign xml:lang="grc">τῶν</foreign></foreign> τὰ δύο μέχρι <foreign xml:lang="grc"><foreign xml:lang="grc">τῶν</foreign></foreign> ἑπτὰ δεῖ θεωροὺς</foreign>
+    <foreign xml:lang="grc"><foreign xml:lang="grc"><foreign xml:lang="grc">τῶν</foreign></foreign> δὲ <foreign xml:lang="grc"><foreign xml:lang="grc">τῶν</foreign></foreign> πέντε ἐ<foreign xml:lang="grc"><foreign xml:lang="grc">τῶν</foreign></foreign> τὰ δύο μέχρι <foreign xml:lang="grc"><foreign xml:lang="grc">τῶν</foreign></foreign> ἑπτὰ δεῖ θεωροὺς</foreign>
     <foreign xml:lang="grc">ἤδη γίγνεσθαι τῶν μαθήσεων, ἃς δεήσει μανθάνειν αὐτούς</foreign>.
     Darunter versteht er ohne Zweifel Gymnastik, die nach ihm
     ebenfalls dem wissenschaftlichen Unterrichte vorangehen soll.
@@ -2540,28 +2091,28 @@ Büchsenschütz, Bes. u.
     <foreign xml:lang="grc">τὴν διάνοιαν, δῆλον ἐκ τούτων, ὅτι παραδοτέον τοὺς παῖδας</foreign>
     <foreign xml:lang="grc">γυμναστικῇ καὶ παιδοτριβικῇ. Wann aber der Anfang ἐν γράμμασι</foreign>
     gemacht werden solle, darüber folgt keine Erklärung.
-    [Auch in den angeblichen <foreign xml:lang="grc"><choice><sic>ὑποθῆχαι</sic><corr n="88">ὑποθῆκαι</corr></choice></foreign> Hesiod’s soll sich der
+    [Auch in den angeblichen <foreign xml:lang="grc"><choice><sic>ὑποθῆχαι</sic><corr n="88">ὑποθῆται</corr></choice></foreign> Hesiod’s soll sich der
     Rath befunden haben, vor dem siebenten Lebensjahre den
     Unterricht nicht zu beginnen. Vgl. Wyttenbach Animadvers.
     in Plutarch. I, p. 51.]
     Was nun die Schulen anlangt, so war freilich der Antheil,
     den der Staat daran nahm, im Grunde gering, und was
-    . Sokrates bei Plato Alcib. I, p. 122 sagt: <foreign xml:lang="grc">τῆς δὲ σῆς <choice><sic>yeveσεως</sic><corr n="67">γενέσεως</corr></choice></foreign>,
-    ὦ Ἀλκιβιάδη, <foreign xml:lang="grc"><foreign xml:lang="grc">καὶ</foreign> τροφῆς <foreign xml:lang="grc">καὶ</foreign> παιδείας ἢ ἄλλου</foreign>
-    <foreign xml:lang="grc">ὁτουοῦν Ἀθηναίων, ὡς ἔπος εἰπεῖν, οὐδενὶ μέλει, εἰ μή τις
-    ἐραστής σου τυγχάνει ὤν</foreign>, das kann ganz eigentlich hieher
+    . Sokrates bei Plato Alcib. I, p. 122 sagt: <foreign xml:lang="grc">τῆς δὲ σῆς <choice><sic>yeveσεως</sic><corr n="67">σεως</corr></choice></foreign>,
+    ὦ AlxıBıaön, <foreign xml:lang="grc"><foreign xml:lang="grc">καὶ</foreign> τροφῆς <foreign xml:lang="grc">καὶ</foreign> παιδείας ἢ ἄλλου</foreign>
+    <foreign xml:lang="grc">ὁτουοῦν Ἀθηναίων, ὡς ἔπος <foreign xml:lang="grc">εἰ</foreign>πεῖν, οὐδενὶ μέλει, εἰ μή τις</foreign>
+    <foreign xml:lang="grc">ἐραστής σου τυγχάνει</foreign> av, das kann ganz eigentlich hieher
     bezogen werden. Zwar gab es Gesetze, welche den Schulbesuch
     betrafen. Bei Plato Crito p. 50 heisst es: <foreign xml:lang="grc">ἀλλὰ τοῖς</foreign>
     <foreign xml:lang="grc">περὶ τὴν τοῦ γενομένου τροφήν τε καὶ παιδείαν (νόμοις</foreign> neuem),
     <foreign xml:lang="grc">ἐν ἡ καὶ σὺ ἐπαιδεύθης; ἢ οὐ καλῶς προσέταττον ἡμῶν οἱ ἐπὶ</foreign>
-    <foreign xml:lang="grc">τούτοις τεταγμένοι νόμοι παραγγέλλοντες <foreign xml:lang="grc">τῷ</foreign> πατρὶ <foreign xml:lang="grc">τῷ</foreign> σῷ <choice><sic>σὶ</sic><corr n="80">σὲ</corr></choice></foreign>
+    <foreign xml:lang="grc">τούτοις τεταγμένοι νόμοι παραγγέλλοντες <foreign xml:lang="grc">τῷ</foreign> πατρὶ <foreign xml:lang="grc">τῷ</foreign> σῷ <choice><sic>σὶ</sic><corr n="80">σοὶ</corr></choice></foreign>
     <foreign xml:lang="grc">ἐν μουσικῇ καὶ γυμναστικῇ παιδεύειν</foreign>; allein in wie weit ein
     Zwang dabei ausgeübt worden sei, lässt sich daraus, zumal
     bei der Milde des Ausdrucks <foreign xml:lang="grc">παραγγέλλειν</foreign>, nicht abnehmen,
     und die solonischen Gesetze, welche wir aus Aoschines
     a. a. Ο. kennen lernen, sind sämmtlich nur prohibitiver Art,
     um sittliche Missbräuche zu verhüten. Wenn aber wirklich
-    in Athen ein ausdrückliches Gesetz bestand, <foreign xml:lang="grc">τοὺς παῖδας <choice><sic>δεδάσχεσθαι</sic><corr n="91">διδάσκεσθαι</corr></choice></foreign>
+    in Athen ein ausdrückliches Gesetz bestand, <foreign xml:lang="grc">τοὺς παῖδας <choice><sic>δεδάσχεσθαι</sic><corr n="91">διδάσχεσθαι</corr></choice></foreign>
     <foreign xml:lang="grc">πρῶτον νεῖν τε καὶ γράμματα</foreign> (Petit. Leg. Att.
     p. 289), so fand wenigstens keine Controle Statt; [nur waren
     Kinder, die ihre Aeltern nichts hatten lernen lassen, nach
@@ -2594,9 +2145,9 @@ Büchsenschütz, Bes. u.
     der Pflicht waren alle Aelternrechte verwirkte.] Am wenigsten
     dachte früher der Staat daran, Öffentliche, etwa auf
     allgemeine Kosten zu erhaltende Anstalten zu errichten. Selbst
-    was aus Demosth. in Boeot. <foreign xml:lang="grc"><choice><sic>ὀνόμ</sic><corr n="86">ὀνόμ</corr></choice>. 23: ἀλλὰ καὶ πρὶν</foreign>
-    <foreign xml:lang="grc">ἡμέτερος <choice><sic>φάσχειν</sic><corr n="86">φάσκειν</corr></choice> συγγενὴς εἶναι εἰς Ἱπποθοωντίδα ἐφοίτα φυλὴν</foreign>
-    <foreign xml:lang="grc">εἰς παῖδας χορεύσων</foreign>, Böckh Staatshaush. d. Ath.
+    was aus Demosth. in Boeot. <foreign xml:lang="grc"><choice><sic>ὀνόμ</sic><corr n="86">νόμ</corr></choice>. ὁ 23: ἀλλὰ καὶ πρὶν</foreign>
+    <foreign xml:lang="grc">ἡμέτερος <choice><sic>φάσχειν</sic><corr n="86">πάσχειν</corr></choice> συγγενὴς εἶναι εἰς Innodowvrida ἐφοίτα φυλὴν</foreign>
+    <foreign xml:lang="grc">εἰς παῖδας χορεύσων</foreign>, Böckh Staatshaush. ἃ. Ath.
     Th. I, S. 170 folgert, dass die Stämme für einen Theil des
     Unterrichts in der Tonkunst und den Leibesübungen zu sorgen
     gehabt hätten, durch Anstellung von Lehrern, zu denen
@@ -2609,14 +2160,14 @@ Büchsenschütz, Bes. u.
     der Chorege die Tänzer aus den Knaben der Phyle ausheben
     . und einüben lassen musste, vgl. Antipho de Choreut.$ 11
     und die <foreign xml:lang="grc">χοροὺς <choice><sic>ἐγχυχλίους</sic><corr n="80">ἐγκυκλίους</corr></choice></foreign> bei Aeschin. c. Timarch. $ 10
-    [Vgl. Grasborger a. a. o. S. 395]; und wenn Plato öffentlich
+    [Vgl. Grasborger ἃ. ἃ. Ὁ. S. 395]; und wenn Plato öffentlich
     anzustellende und zu besoldende Lehrer verlangt, Leg.
     VII, p. 804: <foreign xml:lang="grc">ἐν δὲ τούτοις πᾶσι (<choice><sic>διδασχαλείοις</sic><corr n="92">διδασκαλείοις</corr></choice> καὶ γυμνασίοις</foreign>)
     <foreign xml:lang="grc"><choice><sic>διδασχάλους</sic><corr n="91">διδασκάλους</corr></choice> <choice><sic>ἑχάστων</sic><corr n="86">ἑκάστων</corr></choice> πεπεισμένους μισθοῖς, οἰκοῦντας ξένους</foreign>,
     <foreign xml:lang="grc">διδάσκειν τε πάντα ὅσα. πρὸς τὸν πόλεμόν ἐστι μαθήματα τοὺς</foreign>
     <foreign xml:lang="grc">φοιτῶντας ὅσα τε πρὸς μουσικήν, οὐκ ὃν ἂν ὁ πατὴρ βούληται</foreign>,
     <foreign xml:lang="grc">ὃν δ᾽ ἂν μή, ἐῶντα τῆς παιδείας</foreign>, so ist das eben nur seine
-    eigene, noch nicht verwirklichte Idee. [Auch die <foreign xml:lang="grc"><choice><sic>συμφοέτησις</sic><corr n="82">συμφοίτησις</corr></choice></foreign>
+    eigene, noch nicht verwirklichte Idee. [Auch die <foreign xml:lang="grc"><choice><sic>συμφοέτησις</sic><corr n="82">συμφοίτησιν</corr></choice></foreign>
     <foreign xml:lang="grc">τῶν παίδων</foreign> 7. B. bei Aeschin. c. Timarch. ὁ 10, Aristoph.
     Nub. 960ff. Plat. Protag. p. 325ff. beweist nichts
     für eine Art Öffentlicher Elementarschulen, sondern bezieht sich
@@ -2638,11 +2189,11 @@ Büchsenschütz, Bes. u.
     auch über den Öffentlichen Unterricht im jonischen Teos während
     der letzten Jahrhunderte v. Chr. giebt ein neulich gefundenes
     Dekret interessanten Aufschluss. Darnach wurden
-    jährlich <foreign xml:lang="grc">ἐν ἀρχαιρεσίαις drei <choice><sic>γραμματοδιδάσκαλοι</sic><corr n="94">γραμματοδιδάσκαλοι</corr></choice></foreign> für Knaben
+    jährlich <foreign xml:lang="grc">ἐν ἀρχαιρεσίαις drei <choice><sic>γραμματοδιδάσκαλοι</sic><corr n="94">γραμματοδιδάσκαλον</corr></choice></foreign> für Knaben
     
     <pb n="55"/>
     
-    und Mädchen mit 5 — 600, ein <foreign xml:lang="grc"><choice><sic>χιθαριστής</sic><corr n="90">κιθαριστής</corr></choice> und ψάλτης</foreign> mit 700
+    und Mädchen mit 5—600, ein <foreign xml:lang="grc"><choice><sic>χιθαριστής</sic><corr n="90">κιθαριστής</corr></choice> und ψάλτης</foreign> mit 700
     Drachmen Gehalt gewählt, ausserdem ein <foreign xml:lang="grc">ὁπλομάχος</foreign> und ὁ
     <foreign xml:lang="grc">διδάξων τοξεύειν</foreign>. In Schaltjahren sollte Gehaltszulage gewährt
     werden und bei Ueberfüllung der Klassen sich. der betreffonde
@@ -2658,20 +2209,21 @@ Büchsenschütz, Bes. u.
     Unterricht bleiben, wie der Wursthändler bei Aristoph.
     Equit. 1234, [der dennoch v. 188 von sich sagt:
     <foreign xml:lang="grc">ἀλλ᾽ ὦγάθ᾽ οὐδὲ <choice><sic>μουσιχὴν</sic><corr n="88">μουσικὴν</corr></choice> ἐπίσταμαι</foreign>
-    <foreign xml:lang="grc">πλὴν γραμμάτων, καὶ ταῦτα μέντοι <choice><sic>χαχὰ</sic><corr n="75">κατὰ</corr></choice> <choice><sic>χαχῶς</sic><corr n="73">κακῶς</corr></choice></foreign>.
+    <foreign xml:lang="grc">πλὴν γραμμάτων, καὶ ταῦτα μέντοι <choice><sic>χαχὰ</sic><corr n="75">χαρὰ</corr></choice> <choice><sic>χαχῶς</sic><corr n="73">ἰσαχῶς</corr></choice></foreign>.
     Solche Fälle mochten indessen selten. sein (vgl. noch Plut.
     Arist. 7, Cim. 4 und Quintil. 1, 10, 18), und der tägliche
     Schulbesuch erschien so sehr als Sache der Gewohnheit und
     Nothwendigkeit, dass die Bürger von Trözen, als die Weiber
     und Kinder der Athener vor den Persern zu ihnen geflohen
     waren, neben der übrigen Verpflegung auch Lehrer für die
-    Kinder bezahlten. Plut. Themist. 10: <foreign xml:lang="grc">καὶ τρέφειν <choice><sic>ἐψηφησαντο</sic><corr n="67">ἐψηφησαντο</corr></choice> δημοσίᾳ, δύο ὀβολοὺς ἑκάστῳ διδόντες, καὶ τῆς ὀπώρας</foreign>
+    Kinder bezahlten. Plut. Themist. 10: <foreign xml:lang="grc">καὶ τρέφειν <choice><sic>ἐφψηφέ</sic><corr n="67">ἐφη</corr></choice></foreign>:
+    <foreign xml:lang="grc"><choice><sic>σαντο</sic><corr n="91">ὤσαντο</corr></choice> δημοσίᾳ, δύο ὀβολοὺς ἑκάστῳ διδόντες, καὶ τῆς ὀπώρας</foreign>
     <foreign xml:lang="grc">λαμβάνειν τοὺς παῖδας ἐξεῖναι πανταχόθεν, ἔτι δὲ ὑπὲρ αὐτῶν</foreign>
     <foreign xml:lang="grc"><choice><sic>διδασχάλοις</sic><corr n="91">διδασκάλοις</corr></choice> τελεῖν μισθούς</foreign>. Und so war es auch anderwärts.
     Kurz vor der Seeschlacht bei Lade stürzte die Decke eines
     Schulzimmers auf Chios ein und begrub 120 Knaben: Herod.
     VI, 27. Wenige Jahre später führte dieselbe Katastrophe der
-    irrsinnige Kleomedes auf der Insel Astypaläa über 60 Schüler
+    irrsinnige Kleomedes auf der Insel Astypaläa über 60 Schüler .
     herbei: Pausan. VI, 9, 3. Eine sehr gefüllte Schule erwähnt
     Thucyd. VI, 29 im böotischen Mykalessos und von Protagoras
     heisst es bei Athen. VIII, 50 p. 854, Epikur habe
@@ -2679,11 +2231,11 @@ Büchsenschütz, Bes. u.
     <pb n="56"/>
     
     von ihm erzählt: <foreign xml:lang="grc"><choice><sic>διδάσχειν</sic><corr n="89">διδάσκειν</corr></choice> ἐν xwun τοὶ γράμματα, dp’ ὧν</foreign>
-    <foreign xml:lang="grc">ἐπὶ τὸ <choice><sic>σοφιστεύείν</sic><corr n="91">σοφιστεύειν</corr></choice> ὁρμῆσαι</foreign>.] Es ergiebt sich auch schon der
+    <foreign xml:lang="grc">ἐπὶ τὸ <choice><sic>σοφιστεύείν</sic><corr n="91">σοφιστεύειν</corr></choice> ὁρμῆσαι</foreign>.) Es ergiebt sich auch schon der
     Werth, den man auf die <foreign xml:lang="grc">παιδεία</foreign> legte, aus der Nachricht bei
     Aelian. Var. Hist. VII. 15: <foreign xml:lang="grc">ἡνίκα τῆς θαλάσσης ἦρξαν</foreign> ol
     <foreign xml:lang="grc">Μυτιληναῖοι, τοῖς ἀφισταμένοις τῶν συμμάχων τιμωρίαν ἐκείνην</foreign>
-    <foreign xml:lang="grc"><choice><sic>ἐπήρτησαν͵</sic><corr n="95">ἐπήρτησαν</corr></choice> γράμματα μὴ μανθάνειν τοὺς παῖδας αὐτῶν <choice><sic>μηδὶ</sic><corr n="86">μηδὲ</corr></choice></foreign>
+    <foreign xml:lang="grc"><choice><sic>ἐπήρτησαν͵</sic><corr n="95">ἐπήρτησαν</corr></choice> γράμματα μὴ μανθάνειν τοὺς παῖδας αὐτῶν <choice><sic>μηδὶ</sic><corr n="86">μηδ</corr></choice></foreign>
     <foreign xml:lang="grc">μουσικὴν διδάσχεσθαι, πασῶν <choice><sic>χολάσεων</sic><corr n="88">κολάσεων</corr></choice> ἡγησάμενοι βαρυτάτην</foreign>
     <foreign xml:lang="grc">εἶναι ταύτην, ἐν ἀμαθίᾳ καὶ ἀμουσίᾳ καταβιῶναι</foreign>. Demungeachtet
     hing von der Einsicht und Gewissenhaftigkeit der Aeltern
@@ -2692,8 +2244,8 @@ Büchsenschütz, Bes. u.
     grosser Sorglosigkeit geschehen, oder es mochten Empfehlungen
     und andere Rücksichten darauf Einfluss haben. So sagt
     wenigstens von seiner Zeit Plutarch de educ. puer. 7:
-    <foreign xml:lang="grc">νῦν δέ τὶς καὶ <choice><sic>καταπτύσεις</sic><corr n="95">καταπτύσειε</corr></choice> τῶν πατέρων ἐνίων, οἵτινες, πρὶν</foreign>
-    <foreign xml:lang="grc"><choice><sic>δοχιμάσαε</sic><corr n="80">δοκιμάσαι</corr></choice> τοὺς μέλλοντας <choice><sic>διδάσχειν</sic><corr n="89">διδάσκειν</corr></choice>, δι᾽ ἄγνοιαν <choice><sic>ἔσθ᾽</sic><corr n="89">ἔσθ᾽</corr></choice> ὅτε καὶ</foreign>
+    <foreign xml:lang="grc">νῦν δέ τὶς καὶ <choice><sic>καταπτύσεις</sic><corr n="95">καταπτύεις</corr></choice> τῶν πατέρων ἐνίων, οἵτινες, πρὶν</foreign>
+    <foreign xml:lang="grc"><choice><sic>δοχιμάσαε</sic><corr n="80">δοκιμάσαιτε</corr></choice> τοὺς μέλλοντας <choice><sic>διδάσχειν</sic><corr n="89">διδάσκειν</corr></choice>, δι᾽ ἄγνοιαν <choice><sic>ἔσθ᾽</sic><corr n="89">ἔσθι᾽</corr></choice> ὅτε καὶ</foreign>
     <foreign xml:lang="grc">δὲ ἀπειρίαν ἀνθρώποις ἀδοκίμοις καὶ παρασήμοις ἐγχειρίζουσι</foreign>
     <foreign xml:lang="grc">τοὺς παῖδας</foreign>, und gleich darauf: <foreign xml:lang="grc">ἐνίοτε γὰρ εἰδότες, ἢ αἰσθομένων</foreign>
     <foreign xml:lang="grc">ἄλλων αὐτοῖς τοῦτο λεγόντων, τὴν ἐνίων τῶν παιδευτῶν</foreign>
@@ -2718,7 +2270,7 @@ Büchsenschütz, Bes. u.
     Alterth. I, S. 5389]. Um die Tüchtigkeit der Lehrer und
     ihrer Methode hingegen kümmerte sich der Staat schwerlich;
     höchstens dass vielleicht ein gewisses Alter dazu erforderlich
-    war, da auch die <foreign xml:lang="grc"><choice><sic>γορηγοὶ</sic><corr n="92">χορηγοὶ</corr></choice> παίδων</foreign> über vierzig Jahre alt sein
+    war, da auch die <foreign xml:lang="grc"><choice><sic>γορηγοὶ</sic><corr n="92">γοργοὶ</corr></choice> παίδων</foreign> über vierzig Jahre alt sein
     mussten. — Daher gaben sich dann auch manche ohne Rücksicht
     auf Neigung und Befähigung bloss aus Dürftigkeit des
     Erwerbs wegen diesem Berufe hin, namentlich zu Elementarlehrern;
@@ -2727,23 +2279,23 @@ Büchsenschütz, Bes. u.
     <foreign xml:lang="grc">ἐγέλας, el ἐθεάσω τοὺς παρ᾽ ἡμῖν βασιλέας καὶ σατράπας πτωχεύοντας</foreign>
     <foreign xml:lang="grc">παρ᾽ αὐτοῖς καὶ ἤτοι ταριχοπωλοῦντας br’ ἀπορίας</foreign>
     ἢ <foreign xml:lang="grc">τὰ πρῶτα <choice><sic>διδάσχοντας</sic><corr n="91">διδάσκοντας</corr></choice> γράμματα</foreign> und Plat. Eryx. p. 402:
-    <foreign xml:lang="grc"><choice><sic>ἂρ’</sic><corr n="80">ἂρ’</corr></choice> εἰσί τινες <choice><sic>ἄνθρωποίι</sic><corr n="94">ἄνθρωποί</corr></choice>, οἵτινες μουσικὴν παιδεύουσιν ἢ γράμματα</foreign>
+    <foreign xml:lang="grc"><choice><sic>ἂρ’</sic><corr n="80">ἂρ</corr></choice> εἰσί τινες <choice><sic>ἄνθρωποίι</sic><corr n="94">ἄνθρωποι</corr></choice>, οἵτινες μουσικὴν παιδεύουσιν ἢ γράμματα</foreign>
     ἣ <foreign xml:lang="grc">ἑτέραν τινὰ ἐπιστήμην, οἱ ἀντὶ τούτων σφίσιν αὐτοῖς</foreign>
     <foreign xml:lang="grc">τὰ ἐπιτήδεια <choice><sic>ἐχπορίζονται͵</sic><corr n="87">πορίζονται</corr></choice> τούτων μισθὸν πραττόμενοι</foreign> [vergl].
-    Meineke Fragm. Comic. Gr. Vol. IV, p. 698: <foreign xml:lang="grc">ἤτοι <choice><sic>τέθνηxev</sic><corr n="67">τέθνηκεν</corr></choice></foreign>
+    Meineke Fragm. Comic. Gr. Vol. IV, p. 698: <foreign xml:lang="grc">ἤτοι <choice><sic>τέθνηxev</sic><corr n="67">τέθνηκε</corr></choice></foreign>
     ἢ <foreign xml:lang="grc"><choice><sic>διδάσχει</sic><corr n="88">διδάσκει</corr></choice> γράμματα</foreign>]. So sagt, Demosthenes von
     Aeschines Vater de fals. leg. ὁ 249: <foreign xml:lang="grc"><choice><sic>διδάσχων</sic><corr n="88">διδάσκων</corr></choice> γράμματα</foreign>,
     <foreign xml:lang="grc">ὡς ἐγὼ τῶν πρεσβυτέρων ἀκούω, πρὸς τῷ <foreign xml:lang="grc">τοῦ</foreign> How <foreign xml:lang="grc">τοῦ</foreign> ἰατροῦ</foreign>,
     <foreign xml:lang="grc">ὅπως ἠδύνατο, ἀλλ᾽ οὖν ἐν ταύτῃ γε ἔζη</foreign>, und von ihm selbst
     an einer andern Stelle, die auch sonst manche Specialitäten
     liefert, um sich eine Vorstellung von einer attischen Schulstube
-    zu machen, de cor. 258: <foreign xml:lang="grc"><choice><sic>δύ</sic><corr n="80">δύ᾽</corr></choice> ἣν (τύχην) παῖς μὲν ὧν</foreign>
+    zu machen, de cor. ὁ 258: <foreign xml:lang="grc"><choice><sic>δύ</sic><corr n="80">δύο</corr></choice> ἣν (τύχην) παῖς μὲν ὧν</foreign>
     <foreign xml:lang="grc">μετὰ πολλῆς ἐνδείας <choice><sic>ἐτρᾶφης</sic><corr n="86">ἐτράφης</corr></choice>, ἅμα <foreign xml:lang="grc">τῷ</foreign> πατρὶ πρὸς <foreign xml:lang="grc">τῷ</foreign> <choice><sic>διδασχαλείῳ</sic><corr n="91">διδασκαλείῳ</corr></choice></foreign>
     <foreign xml:lang="grc">προσεδρεύων, τὸ μέλαν τρίβων καὶ τὰ βάθρα <choice><sic>σπογγίξζων</sic><corr n="95">σπογγίζων</corr></choice></foreign>
     <foreign xml:lang="grc">καὶ τὸ παιδαγωγεῖον χορῶν, οἰκέτου τάξιν, οὐχ ἐλευθέρου παιδὸς</foreign>
     <foreign xml:lang="grc">ἔχων</foreign>. Aehnliches wurde von Epikur und seinem Vater
     erzählt. Diog. Laërt. X. 4: <foreign xml:lang="grc">καὶ σὺν τῷ πατρὶ γράμματα <choice><sic>διδάσχειν</sic><corr n="89">διδάσκειν</corr></choice></foreign>
-    <foreign xml:lang="grc">λυπροῦ τινος <choice><sic>μισθαρέουικι</sic><corr n="76">μισθαρίου</corr></choice></foreign>. An manchen Orten sassen
+    <foreign xml:lang="grc">λυπροῦ τινος <choice><sic>μισθαρέουικι</sic><corr n="76">μισθαρίου</corr></choice></foreign> An manchen Orten sassen
     sie sogar mit ihren Schülern auf offener Strasse, wie Justin.
     XXI. 5 selbst vom jüngeren Dionysios erzählt: novissime ludimagistrum
     professus pueros in trivio docebat, und so verkehrt
@@ -2752,8 +2304,9 @@ Büchsenschütz, Bes. u.
     
     <pb n="58"/>
     
+    “
     <foreign xml:lang="grc">γὰρ <foreign xml:lang="grc">τῶν</foreign> γραμμάτων διδάσκαλοι μετὰ <foreign xml:lang="grc">τῶν</foreign> παίδων ἐν ταῖς ὁδοῖς</foreign>
-    <foreign xml:lang="grc"><choice><sic>χάθηνται</sic><corr n="88">κάθηνται</corr></choice>, καὶ οὐδὲν αὐτοῖς <choice><sic>ἐμπιδών</sic><corr n="92">ἐμπιδών</corr></choice> ἐστιν ἐν τοσούτῳ πλήθει</foreign>
+    <foreign xml:lang="grc"><choice><sic>χάθηνται</sic><corr n="88">κάθηνται</corr></choice>, καὶ οὐδὲν αὐτοῖς <choice><sic>ἐμπιδών</sic><corr n="92">ἐπιδών</corr></choice> ἐστιν ἐν τοσούτῳ πλήθει</foreign>
     <foreign xml:lang="grc">τοῦ <choice><sic>διδάσχειν</sic><corr n="89">διδάσκειν</corr></choice> τε καὶ μανθάνειν</foreign> [und Arat. in Anthol. Gr.
     XI, 437 Jacobs:
     <foreign xml:lang="grc"><choice><sic>αἰάξω</sic><corr n="80">αἰάζω</corr></choice> Διότιμον, ὃς ἐν πέτρῃσι <choice><sic>χάθηται</sic><corr n="86">κάθηται</corr></choice></foreign>,
@@ -2762,11 +2315,11 @@ Büchsenschütz, Bes. u.
     die Zudringlichkeit des Publikums geschützten Schule zeigt
     das Wandgemälde bei Ο. Jahn, Abhandl. der sächs. Ges.
     ἃ, Wissensch. 1870, S. 290.] Man sieht aus allem, dass
-    der Beruf dieser Autodidakten, <foreign xml:lang="grc">τῶν τὰ πρῶτα γράμματα <choice><sic>διδασχόντων</sic><corr n="95">διδασκόντων</corr></choice></foreign>,
+    der Beruf dieser Autodidakten, <foreign xml:lang="grc">τῶν τὰ πρῶτα γράμματα <choice><sic>διδασχόντων</sic><corr n="95">διασχόντων</corr></choice></foreign>,
     in keinem besonderen Ansehen stand, und daraus
     erklärt sich auch die Aeusserung des Alkibiades bei Plutarch.
-    Alcib. 7: <foreign xml:lang="grc">ἑτέρου δὲ φήσαντος, ἔχειν Ὅμηρον <choice><sic>αὐτοῦ</sic><corr n="75">αὐτοῦ</corr></choice></foreign>
-    <foreign xml:lang="grc">διωρθωμένον εἶτ᾽, ἔφη, γράμματα <choice><sic>διδάσχεις</sic><corr n="89">διδάσκεις</corr></choice> Ὅμηρον <choice><sic>Enaγορθοῦν</sic><corr n="67">ἐπανορθοῦν</corr></choice></foreign>
+    Alcib. 7: <foreign xml:lang="grc">ἑτέρου δὲ φήσαντος, ἔχειν Ὅμηρον bp’ <choice><sic>abτοῦ</sic><corr n="75">τοῦ</corr></choice></foreign>
+    <foreign xml:lang="grc">διωρθωμένον εἶτ᾽, ἔφη, γράμματα <choice><sic>διδάσχεις</sic><corr n="89">διδάσκεις</corr></choice> Ὅμηρον <choice><sic>Enaγορθοῦν</sic><corr n="67">διορθοῦν</corr></choice></foreign>
     <foreign xml:lang="grc">ἱκανὸς ὧν καὶ οὐχὶ τοὺς νέους παιδεύεις</foreign>; Kinder
     wohlhabender Aeltern gingen nun wohl nicht zu solchen Lehrern
     aus Noth, wie denn Demosthenes mit Selbstgefühl
@@ -2784,25 +2337,25 @@ Büchsenschütz, Bes. u.
     was Xenoph. Anab. II, 6, 12 in Bezug auf die Strenge des
     Klearch sagt: <foreign xml:lang="grc">τὸ γὰρ <choice><sic>ἐπέχγαρι</sic><corr n="80">ἐπίχαρι</corr></choice> obx εἶχεν, ἀλλ᾽ del χαλεπὸς ἦν</foreign>
     <foreign xml:lang="grc">καὶ ὠμός· ὥστε διέκειντο πρὸς αὐτὸν οἱ στρατιῶται ὥσπερ</foreign>
-    <foreign xml:lang="grc">παῖδες πρὸς <choice><sic>διδάσχαλον</sic><corr n="90">διδάσκαλον</corr></choice>. <foreign xml:lang="grc">καὶ</foreign> γὰρ οὖν φιλίᾳ μὲν <foreign xml:lang="grc">καὶ</foreign> εὐνοίᾳ <choice><sic>Enoμένους</sic><corr n="80">ἑπομένους</corr></choice></foreign>
-    <foreign xml:lang="grc">οὐδέποτε εἶχεν</foreign>. Ebenso heisst es aber auch bei 
+    <foreign xml:lang="grc">παῖδες πρὸς <choice><sic>διδάσχαλον</sic><corr n="90">διδάσκαλον</corr></choice>. <foreign xml:lang="grc">καὶ</foreign> γὰρ οὖν φιλίᾳ μὲν <foreign xml:lang="grc">καὶ</foreign> εὐνοίᾳ <choice><sic>Enoμένους</sic><corr n="80">μένους</corr></choice></foreign>
+    <foreign xml:lang="grc">οὐδέποτε εἶχεν</foreign>. Ebenso heisst es aber auch bei Lu-
     
     <pb n="59"/>
     
-    Lucian. Paras. 13: <foreign xml:lang="grc">τίς γὰρ ἀπὸ δείπνου ποτὶ ἀπῆλθε <choice><sic>χλάίων</sic><corr n="83">κλαίων</corr></choice></foreign>,
+    cian. Paras. 13: <foreign xml:lang="grc">τίς γὰρ ἀπὸ δείπνου ποτὶ ἀπῆλθε <choice><sic>χλάίων</sic><corr n="83">χιλίων</corr></choice></foreign>,
     <foreign xml:lang="grc">ὥσπερ τινὰς ἀπὸ τῶν <choice><sic>διδασχάλων</sic><corr n="90">διδασκάλων</corr></choice> ὁρῶμεν; τίς 6' ἐπὶ δεῖπνον</foreign>
     <foreign xml:lang="grc">ἀπιὼν <choice><sic>ὥφθη</sic><corr n="75">ὤφθη</corr></choice> <choice><sic>σχυθρωπός</sic><corr n="89">σκυθρωπός</corr></choice>, ὥσπερ οἱ εἰς <choice><sic>διδασχαλεῖα</sic><corr n="91">διδασκαλεῖα</corr></choice> φοιτῶντες</foreign>;
     und noch Libanios tom. II, p. 894 R. erzählt von Jemand:
     <foreign xml:lang="grc">ἡνίκα μὲν ἐμάνθανε γράμματα, μίσει τῷ τούτων ἀποδρὰς εἴς</foreign>
-    <foreign xml:lang="grc">τίνα καταφυγὼν <choice><sic>αἱμασίαν</sic><corr n="88">αἱμασίαν</corr></choice> <choice><sic>ἔκειτο</sic><corr n="91">ἔκειτο</corr></choice> καὶ οὐκ <choice><sic>ἐξητεῖτο</sic><corr n="89">ἐζητεῖτο</corr></choice></foreign>. Liess sich
-    doch sogar nach Philostr. Vit. Soph. I, 8 der Rhetor Philagros
+    <foreign xml:lang="grc">τίνα καταφυγὼν <choice><sic>αἱμασίαν</sic><corr n="88">Δαμασίαν</corr></choice> <choice><sic>ἔχειτο</sic><corr n="91">ἔχετο</corr></choice> καὶ οὐκ <choice><sic>ἐξητεῖτο</sic><corr n="89">ἐξηντλεῖτο</corr></choice></foreign>. Liess sich
+    doch sogar nach Philostr. Υ 10. Soph. I, 8 der Rhetor Philagros
     aus Kilikien vom Zorne soweit fortreissen, dass er
     einen eingenickten Zuhörer durch eine Ohrfeige weckte! Ueber
     die gewöhnliche Procedur der Züchtigung vgl. Grasberger
     Erziehung u. Unterricht U, S. 101 u. Jahn a. a. Ὁ.
     auch Helbig Wandgem. n. 1492. Die hier beliebte Manier
-    des Schlagens (vergl. Liban. I, p. 112 R: xa! <foreign xml:lang="grc">τὼ μὲν νέω</foreign> 
-    <foreign xml:lang="grc"><choice><sic>γυμνώ</sic><corr n="89">γυμνώ</corr></choice> τε ἤστην καὶ <choice><sic>μετεώρω</sic><corr n="93">μετεώρω</corr></choice> πρὸς πληγάς</foreign>) kehrt öfter auf
+    des Schlagens (vergl. Liban. I, p. 112 R: xa! <foreign xml:lang="grc">τὼ μὲν</foreign> vew
+    <foreign xml:lang="grc"><choice><sic>γυμνώ</sic><corr n="89">γυμν</corr></choice> Te ἤστην καὶ <choice><sic>μετεώρω</sic><corr n="93">μετεώρων</corr></choice> πρὸς πληγάς</foreign>) kehrt öfter auf
     Darstellungen aus römischer Zeit wieder: Winckelmann
     Pierr. gr. du feu Stosch p. 461 ἢ. 28 und 29; Cades
     Grosse Abdrucksamml. XIV, 217. Stephani Compte
@@ -2813,7 +2366,7 @@ Büchsenschütz, Bes. u.
     nicht rückwärts schliessen. [Eine Andeutung, freilich aus
     sehr später Zeit, findet sich bei Palladas in Anthol. Gr.
     von Jacobs II, 46: <foreign xml:lang="grc">ἣν δέ τις εἰς ἐνιαυτὸν ἄγοι χρυσοῖο νόμισμα</foreign>,
-    <foreign xml:lang="grc">ἑνδεκάτῳ μηνὶ πρὶν προφέρειν</foreign> μετέβη.] Eine andere
+    <foreign xml:lang="grc">ἑνδεκάτῳ μηνὶ πρὶν προφέρειν</foreign> μετέβη.}] Eine andere
     Einnahme aber hatten sie, wie schon gesagt worden, von
     ihrem Berufe nicht, und von der Frequenz der Schule hing
     ihr Wohlstand ab, weshalb Aeschin. in Timarch. $ 9
@@ -2821,13 +2374,13 @@ Büchsenschütz, Bes. u.
     <foreign xml:lang="grc">τῶν <choice><sic>«ἐναντίων</sic><corr n="94">ἐναντίων</corr></choice></foreign>. Auch in welchen Terminen es erlegt worden
     sei, ersieht man nicht deutlich. Nach Theophr. Char. 22
     kann es scheinen, als sei 68 monatlich geschehen [und dazu
-    stimmt Palladas a. ἃ. Ο.: <foreign xml:lang="grc">ἐνθάδε παιδεύουσι ὅσοις <choice><sic>χεχώλοτο</sic><corr n="67">κεχώλοτο</corr></choice></foreign>
-    <foreign xml:lang="grc">Σάραπις τοῖσιν ἀπ’ οὐλομένης μήνιδος ἀρχομένοις, ἔνθα <choice><sic>τροφὸς</sic><corr n="86">τρο</corr></choice></foreign>
+    stimmt Palladas a. ἃ. Ο.: <foreign xml:lang="grc">ἐνθάδε παιδεύουσι ὅσοις <choice><sic>χεχώλοτο</sic><corr n="67">εἵλοντο</corr></choice></foreign>
+    <foreign xml:lang="grc">Σάραπις τοῖσιν ἀπ’ οὐλομένης μήνιδος ἀρχομένοις, ἔνθα <choice><sic>τρο-</sic><corr n="86">τρο</corr></choice></foreign>
     
     <pb n="60"/>
     
-    <foreign xml:lang="grc"> κατὰ μῆνα φέρει μισθὸν μετ᾽ <choice><sic>ἀνάγχης</sic><corr n="86">ἀνάγκης</corr></choice>, βύβλῳ καὶ χάρτῃ</foreign>.
-    <foreign xml:lang="grc">δησαμένη πενίην]; denn er sagt von einem Knauser: <choice><sic>χαὶὶ</sic><corr n="75">καὶ</corr></choice> τὸν</foreign>
+    <foreign xml:lang="grc"><choice><sic>φὸς</sic><corr n="80">ὸς</corr></choice> κατὰ μῆνα φέρει μισθὸν μετ᾽ <choice><sic>ἀνάγχης</sic><corr n="86">ἀνάγκης</corr></choice>, βύβλῳ καὶ χάρτῃ</foreign>.
+    <foreign xml:lang="grc">δησαμένη πενίην]; denn er sagt von einem Knauser: <choice><sic>χαὶὶ</sic><corr n="75">ἠχαὶ</corr></choice> τὸν</foreign>
     <foreign xml:lang="grc"><choice><sic>νθεστηριῶνα</sic><corr n="96">Ἀνθεστηριῶνα</corr></choice> τὸν ὅλον μὴ πέμπειν αὐ<foreign xml:lang="grc">τοὺς</foreign> (τοὺς παῖδας) εἰς τὰ</foreign> .
     <foreign xml:lang="grc">μαθήματα διὰ τὸ θέας εἶναι πολλάς, ἵνα μὴ τὸν μισθὸν ἐκτίνῃ</foreign>.
     Indessen konnte der Monat auch bei dem längeren Termine
@@ -2844,9 +2397,9 @@ Büchsenschütz, Bes. u.
     <p>Uebrigens war für die Zahl, welche ein Lehrer annehmen
     durfte, wie es scheint, in Athen ein Maximum gesetzlich bestimmt.
     So verstehe ich die Worte des Aeschin. in Timarch.
-    9: <foreign xml:lang="grc">πρῶτον μὲν ἣν ὥραν προσήκει ἰέναι τὸν παῖδα</foreign>
-    <foreign xml:lang="grc"><foreign xml:lang="grc">τὸ</foreign>ν ἐλεύθερον εἰς τὸ <choice><sic>διδασχαλεῖον·</sic><corr n="88">διδασκαλεῖον·</corr></choice> ἔπειτα μετὰ πόσων </foreign>
-    <foreign xml:lang="grc"><choice><sic>παίδςν</sic><corr n="86">δων</corr></choice></foreign> εἰςιέναι. Das Gesetz wird weiter nicht erklärt. Mitunter
+    ὁ 9: <foreign xml:lang="grc">πρῶτον μὲν ἣν ὥραν προσήκει ἰέναι τὸν παῖδα</foreign>
+    <foreign xml:lang="grc"><foreign xml:lang="grc">τὸ</foreign>ν ἐλεύθερον εἰς τὸ <choice><sic>διδασχαλεῖον·</sic><corr n="88">διδασκαλεῖον</corr></choice> ἔπειτα μετὰ πόσων <choice><sic>παΐξ</sic><corr n="75">ἅπαξ</corr></choice></foreign>
+    <foreign xml:lang="grc"><choice><sic>δὼων</sic><corr n="86">δων</corr></choice></foreign> εἰςιέναι. Das Gesetz wird weiter nicht erklärt. Mitunter
     mochte aber auch die Zahl sehr gering sein, wie sich das
     aus der trefflichen Anekdote vom Stratonikos (freilich keinem
     Grammatiker, sondern einem Kitharisten) ergiebt: Athen.
@@ -3738,7 +3291,4 @@ Büchsenschütz, Bes. u.
    
     
 </div>
-</body>
-</text>
-</TEI>
-    
+</div> </body> </text> </TEI>

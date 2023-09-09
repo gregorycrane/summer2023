@@ -1,0 +1,4043 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader xml:lang="eng">
+<fileDesc>
+<titleStmt>
+<title xml:lang="deu">Charikles</title>
+<author>Wilhelm Adolf Becker</author>
+<sponsor>Perseus Project, Tufts University</sponsor>
+<principal>Gregory Crane</principal>
+<respStmt>
+<resp>Prepared under the supervision of</resp>
+<name>Lisa Cerrato</name>
+<name>Gregory Crane</name>
+</respStmt>
+<funder>National Endowment for the Humanities</funder>
+</titleStmt>
+<publicationStmt>
+<publisher>Trustees of Tufts University</publisher>
+<pubPlace>Medford, MA</pubPlace>
+<authority>Perseus Project</authority>
+<date type="release" when="2023-08-27">Perseus 5.0</date>
+<idno type="filename">TBA</idno>
+<availability>
+<licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<biblStruct>
+<monogr>
+<title xml:lang="deu">Charikles: Bilder Altgriechischer Sitte</title>
+<author>Wilhelm Adolf Becker</author>
+<author>Hermann Göll</author>
+<imprint>
+<publisher>S. Calvary and Comp</publisher>
+<pubPlace>Berlin</pubPlace>
+<date>1877</date>
+</imprint>
+<biblScope unit="volume">1</biblScope>
+</monogr>
+<ref target="https://archive.org/details/operaexrecogniti03luciuoft/page/442/mode/2up">Internet Archive</ref>
+</biblStruct>
+</sourceDesc>
+</fileDesc>
+<encodingDesc>
+<editorialDecl>
+<correction><p>keyboarding</p>
+<p>Lace v. 0.6.22 copyright 2013-2021, Bruce Robertson, Dept. of Classics, Mount Allison University.</p></correction>
+</editorialDecl>
+<refsDecl n="CTS">
+<cRefPattern n="line" matchPattern="(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div//tei:l[@n='$1'])">
+<p>This pointer pattern extracts line</p>
+</cRefPattern>
+</refsDecl>
+<!--<refsDecl doctype="TEI.2">
+<state unit="chapter" n="chunk"/>
+<state unit="altsection"/>
+</refsDecl>-->
+</encodingDesc>
+<profileDesc>
+<langUsage>
+<language ident="grc">Greek</language>
+</langUsage>
+</profileDesc>
+<revisionDesc>
+<change who="Gregory Crane" when="2023-05-06">File created from tesseract OCR</change>
+</revisionDesc>
+</teiHeader>
+<text> <body> 
+
+
+<div type="commentary" n="urn:cts:greekLit:TBA" xml:lang="grc"> <pb n="47"/> 
+
+
+<div type="textpart" subtype="notes" n="1"> <pb n="15"/> <head>Anmerkungen zur ersten Scene.</head> <note n="1" xml:lang="deu"> 
+
+
+<p><seg xml:lang="deu">Bei den topographischen Bestimmungen, die hier, wenn auch dem Hauptzwecke des Buches fremd, doch unentbehrlich waren, um eine Oertlichkeit zu erlangen, innerhalb deren sich die Erzählung bewegen könne, habe ich wohl gefühlt, wie misslich für den, welcher der eigenen Anschauung entbehrend nur fremden Berichten folgen kann, besonders eine in’s Einzelne gehende Beschreibung ist. Ich glaube indessen die wichtigsten Werke, welche von der Topographie dieses Theils von Griechenland handeln, so sorgfältig und zugleich so behutsam benutzt zu haben, dass ich nicht fürchten darf, es habe sich eine bedeutende Unrichtigkeit eingeschlichen, die zwar für die Hauptsache immer unwesentlich sein würde, deren Entfernung doch aber wünschenswerth bleibt. Für diesen Zweck habe ich ausser den Nachrichten von Strabo und Pausanias besonders gebraucht: Gell Itinerary of the Morea, Lond. 1817; Dodwell A classical and topographical tour through Greece, Lond. 1819, t. II; Leake, Travels in the Morea, Lond. 1830, t. III; Pouqueville Voyage dans la Grèce, Par. 1820, t. IV; und die Angaben der Expédition de Morée, Par. 1832 ff. t. II u. III. — Von Kleonä sagt </seg> <seg xml:lang="eng">In the topographical determinations, which, although alien to the main purpose of the book, were nevertheless indispensable in order to obtain a place within which the narrative could move, I have well felt how unfortunate it is for the one who, lacking his own view, can only follow foreign reports, especially a detailed description. I believe, however, to have used the most important works dealing with the topography of this part of Greece so carefully and at the same time so carefully that I cannot fear that a significant inaccuracy has crept in, which would always be irrelevant for the main thing, but whose removal nevertheless remains desirable. For this purpose, in addition to the reports of Strabo and Pausanias, I have used in particular:</seg> 
+
+
+<cit>
+
+
+<bibl>Strabo <ref n="romarab">VIII, 6, 19</ref>:</bibl> 
+
+
+<quote xml:lang="grc">Κλεωναὶ δ᾽ εἰσὶ πόλισμα ἐπὶ τῇ ὁδῷ κείμενον τῇ ἐξ Ἄργους εἰς Κόρινθον. ἐπὶ λόφου περιοιχουμένου πανταχόϑεν καὶ τετειχισμένου καλῶς· ὥστ᾽ οἰκείως εἰρῆσϑαί μοι δοκεῖ τὸ ἐῠκτιμένας Κλεωνάς (Iliad. <ref n="romarab">II, 570</ref>). </quote>
+ 
+
+
+<quote xml:lang="eng">Cleonae is a small town located on the road from Argos to Corinth. It is built on a hill surrounded on all sides by a wall and is well fortified; so I think the phrase "well-built Cleonae" was aptly used. </quote>
+ </cit>
+ <seg xml:lang="deu"> Nach Leake t. <ref n="bookpage">III, <ref n="pageref">p. 325</ref></ref> führt noch jetzt ein Weiler von vier oder fünf Häusern den Namen Klenäs (<foreign xml:lang="grc">Κλέναις</foreign>), während gewöhnlich Kurtési, ein grösseres Dorf, als an die Stelle der alten Stadt getreten genannt wird; vgl. Dodwell t. <ref n="bookpage">II, <ref n="pageref">p. 206</ref></ref>. [Nach E. Curtius Peloponnesos B. II, S. 511 hätten sich die Einwohner während des Mittelalters in das östliche Nebenthal gezogen und hierher den Stadtnamen in der Form Klenais übertragen. Bei C. Bursian, Geographie von <pb n="16"/> Griechenland, B. <ref n="romarab">II, 8</ref>. 37 heisst es: „Die Stelle der Stadt auf einem an der Westseite des Thales gelegenen Hügel ist noch durch ihre Ruinen kenntlich,“ und 8. 38: „Noch heut zu Tage steht 1/4 Stunde südöstlich von ihrer Stelle ein Khan (der Khan von Kurtesa genannt) und eine Caserne daneben zur Erleichterung und Sicherung des Verkehrs, während im Uebrigen das Thal selbst verödet ist“].</seg> <seg xml:lang="eng">According to Leake, vol. <ref n="bookpage">III, <ref n="pageref">p. 325</ref></ref>, a hamlet of four or five houses still bears the name Klenäs (<foreign xml:lang="grc">Κλέναις</foreign>), while Kurtési, a larger village, is generally referred to as the successor of the ancient city; see Dodwell, vol. <ref n="bookpage">II, <ref n="pageref">p. 206</ref></ref>. [According to E. Curtius, Peloponnesos, vol. <ref n="bookpage">II, <ref n="pageref">p. 511</ref></ref>, the inhabitants moved to the eastern tributary valley during the Middle Ages and transferred the city name to this place in the form of Klenais. In C. Bursian, Geographie von Griechenland, vol. <ref n="bookpage">II, <ref n="pageref">p. 37</ref></ref>, it says: "The site of the city on a hill on the west side of the valley is still recognizable by its ruins," and <ref n="pageref">p. 38</ref>: "Even today, 1/4 hour southeast of its site, there is a khan (called the Khan of Kurtesa) and a barracks next to it to facilitate and secure traffic, while the valley itself has otherwise become deserted".]</seg></p></note> <note n="1" xml:lang="eng"> 
+
+
+<p>In the topographical determinations, which, although alien to the main purpose of the book, were nevertheless indispensable in order to obtain a place within which the narrative could move, I have well felt how unfortunate it is for the one who, lacking his own view, can only follow foreign reports, especially a detailed description. I believe, however, to have used the most important works dealing with the topography of this part of Greece so carefully and at the same time so carefully that I cannot fear that a significant inaccuracy has crept in, which would always be irrelevant for the main thing, but whose removal nevertheless remains desirable. For this purpose, in addition to the reports of Strabo and Pausanias, I have used in particular: 
+
+
+<cit>
+
+
+<bibl>Strabo <ref n="romarab">VIII, 6, 19</ref>:</bibl> 
+
+
+<quote xml:lang="grc">Κλεωναὶ δ᾽ εἰσὶ πόλισμα ἐπὶ τῇ ὁδῷ κείμενον τῇ ἐξ Ἄργους εἰς Κόρινθον. ἐπὶ λόφου περιοιχουμένου πανταχόϑεν καὶ τετειχισμένου καλῶς· ὥστ᾽ οἰκείως εἰρῆσϑαί μοι δοκεῖ τὸ ἐῠκτιμένας Κλεωνάς (Iliad. II,570). </quote>
+ 
+
+
+<quote xml:lang="eng">Cleonae is a small town located on the road from Argos to Corinth. It is built on a hill surrounded on all sides by a wall and is well fortified; so I think the phrase "well-built Cleonae" was aptly used. </quote>
+ </cit>
+ According to Leake, vol. <ref n="bookpage">III, <ref n="pageref">p. 325</ref></ref>, a hamlet of four or five houses still bears the name Klenäs (<foreign xml:lang="grc">Κλέναις</foreign>), while Kurtési, a larger village, is generally referred to as the successor of the ancient city; see Dodwell, vol. <ref n="bookpage">II, <ref n="pageref">p. 206</ref></ref>. [According to E. Curtius, Peloponnesos, vol. <ref n="bookpage">II, <ref n="pageref">p. 511</ref></ref>, the inhabitants moved to the eastern tributary valley during the Middle Ages and transferred the city name to this place in the form of Klenais. <pb n="16"/> In C. Bursian, Geographie von Griechenland, vol. <ref n="bookpage">II, <ref n="pageref">p. 37</ref></ref>, it says: "The site of the city on a hill on the west side of the valley is still recognizable by its ruins," and <ref n="pageref">p. 38</ref>: "Even today, 1/4 hour southeast of its site, there is a khan (called the Khan of Kurtesa) and a barracks next to it to facilitate and secure traffic, while the valley itself has otherwise become deserted".]</p></note> <note n="2" xml:lang="eng">
+
+
+<p>In ancient times, there were two roads from Cleonae to Argos: 
+
+
+<cit>
+
+
+<bibl>Pausan. <ref n="romarab">II, 15, 1</ref>:</bibl> 
+
+
+<quote xml:lang="grc">ἐκ Κλεωνῶν δέ εἴσιν ἐς Ἄργος ὁδοὶ δύο. ἡ μὲν ἀνδράσιν εὐζώνοις, καὶ ἐστὶν ἐπίτομος. ἡ δὲ ἐπὶ τοῦ καλουμένου Τρητοῦ στενὴ μὲν καὶ αὐτὴ περιεχόντων ὁρῶν, ὀχήμασι δέ ἐστιν ὅμως ἐπιτηδειοτέρα: </quote>
+ 
+
+
+<quote xml:lang="eng">There are two roads from Cleonae to Argos. One is suitable for lightly-armed men and is a shortcut. The other passes through the so-called Tretus and is itself narrow since it is bounded by mountains, yet is somehow more suitable for vehicles. </quote>
+ </cit>
+ </p> 
+
+
+<p>However, it is not possible to determine with certainty which of these roads, or both, is the Kontoporia mentioned by Polybius <ref n="romarab">XVI, 16</ref> and Athenaeus as leading from Corinth to Mycenae. Ottfried Müller takes it to be the former (Dorier Th. I, S. 71; cf. G. 6. A. 1832, S. 130). On the other hand, Leake t. <ref n="bookpage">III, <ref n="pageref">p. 328</ref></ref> finds it more likely that the shorter path over Aion Oros (<foreign xml:lang="grc">ἅγιον ὄρος</foreign>) is meant. One of the three reasons he gives for this is that the cold spring mentioned by Athenaeus, for which the Kontoporia is named, was located on a hilltop, which is difficult to understand from the former carriage road. [Bursian B. II, S. 38 remarks about the carriage road: "The carriage road ran from the valley out southwestwards to the western part of Tretus and crossed it, gradually ascending, in a narrow pass, in which one can still recognize in some places the ruts cut into the rock floor." The footpath mentioned by Pausanias leads him from the valley to the plain of Argos past the village of Hagios Basilios on the northern slope of Tretus. Neither Curtius a. a. O. S. 513 nor Bursian S. 9 identifies the Kontoporia with these roads, but both describe it as the shortest, straight line connection between Corinth and Argos. Cf. Ross Reisen und Reiserouten in Griechenland I, S. 25].</p> </note> <note n="2" xml:lang="deu"> 
+
+
+<p> Von Kleonä führten im Alterthume zwei Wege nach Argos: 
+
+
+<cit>
+
+
+<bibl>Pausan. <ref n="romarab">II, 15, 1</ref>:</bibl> 
+
+
+<quote xml:lang="grc">ἐκ Κλεωνῶν δέ εἴσιν ἐς Ἄργος ὁδοὶ δύο. ἡ μὲν ἀνδράσιν εὐζώνοις, καὶ ἐστὶν ἐπίτομος. ἡ δὲ ἐπὶ τοῦ καλουμένου Τρητοῦ στενὴ μὲν καὶ αὐτὴ περιεχόντων ὁρῶν, ὀχήμασι δέ ἐστιν ὅμως ἐπιτηδειοτέρα: </quote>
+ 
+
+
+<quote xml:lang="eng">There are two roads from Cleonae to Argos. One is suitable for lightly-armed men and is a shortcut. The other passes through the so-called Tretus and is itself narrow since it is bounded by mountains, yet is somehow more suitable for vehicles. </quote>
+ </cit>
+ ob aber einer von diesen und welcher die von Polybius <ref n="romarab">XVI, 16</ref> und Athenaeus erwähnte von Korinth 
+
+
+<cit>
+
+
+<bibl>Athen. ΙΙ, 19</bibl> 
+
+
+<quote xml:lang="grc">ἔγγιστα πρὸς δύσεις χειμερινάς </quote>
+ 
+
+
+<quote xml:lang="eng">closest to the winter setting [of the sun] </quote>
+ </cit>
+ nach Mykenä führende <foreign xml:lang="grc">Κοντοπορία</foreign> war, darüber sind die Meinungen getheilt. Ottfr. Müller nimmt sie für ersteren (Dorier Th. I, S. 71; vgl. G. 6. A. 1832, S. 130); dagegen findet es Leake t. <ref n="bookpage">III, <ref n="pageref">p. 328</ref></ref> wahrscheinlicher, dass damit der heutige kürzere Weg über Aion Oros (<foreign xml:lang="grc">ἅγιον ὄρος</foreign>) gemeint sei; und von den drei Gründen, die er dafür anführt, ist allerdings der von Bedeutung, dass die kalte Quelle, um derenwillen Ath. l. c. der <foreign xml:lang="grc">Κοντοπορία</foreign> gedenkt, auf der Höhe ( 
+
+
+<quote xml:lang="grc">κατὰ τὴν ἀκρώρειαν </quote>
+ 
+
+
+<quote xml:lang="eng">on the hilltop</quote>
+) lag, was sich von jenem Fahrwege kaum verstehen lässt. [Ueber den Fahrweg bemerkt Bursian B. II, S. 38: „Die Fahrstrasse zog sich vom Thale aus südwestwürts nach dem westlichen Theile des Tretos und durchschnitt denselben, allmälig aufsteigend, in einem Engpasse, in welchem man noch an einigen Stellen die in den Felsenboden eingeschnittenen Fahrgeleise erkennt.“ Den von Pausanius erwähnten Fusspfad lässt er am nördlichen Abhange des Tretos beim Dorfe Hagios Basilios vorüber vom Thale nach der Ebene von Argos führen. Die Kontoporia dagegen identificirt weder Curtius a. a. O. S. 513, noch Bursian S. 9 mit diesen Wegen, sondern beide bezeichnen sie als den kürzesten, geradlinigen Verbindungspfad zwischen Korinth und Argos. Vergl. Ross Reisen und Reiserouten in Griechenland I, S. 25].</p></note> <note n="3" xml:lang="deu"> 
+
+
+<p> 
+
+
+<cit>
+
+
+<bibl>Pouquev. t. <ref n="bookpage">IV, <ref n="pageref">p. 148</ref></ref>:</bibl> 
+
+
+<quote xml:lang="fra">elle est actuellement dans un tel état de dégradation, qu'on a quelque difficulté à y voyager à cheval. </quote>
+ 
+
+
+<quote xml:lang="eng">It is currently in such a state of disrepair that it's somewhat difficult to travel there on horseback.</quote>
+ </cit>
+</p> </note> <note n="3" xml:lang="eng"> 
+
+
+<p> 
+
+
+<cit>
+
+
+<bibl>Pouquev. vol. <ref n="bookpage">IV, <ref n="pageref">p. 148</ref></ref>:</bibl> 
+
+
+<quote xml:lang="fra">elle est actuellement dans un tel état de dégradation, qu'on a quelque difficulté à y voyager à cheval. </quote>
+ 
+
+
+<quote xml:lang="eng">It is currently in such a state of disrepair that it's somewhat difficult to travel there on horseback.</quote>
+ </cit>
+</p> </note> <note n="4" xml:lang="deu"> 
+
+
+<p> 
+
+
+<cit>
+
+
+<bibl>Pausan. <ref n="romarab">II, 15, 2</ref>:</bibl> 
+
+
+<quote xml:lang="grc">ἐν τούτοις τοῖς ὄρεσι τὸ σπήλαιον ἔτι <pb n="17"/> δείκνυται τοῦ λέοντος. </quote>
+ 
+
+
+<quote xml:lang="eng">In these mountains the cave of the lion is still pointed out. </quote>
+ </cit>
+Vergl. Dodwell <ref n="pageref">p. 207</ref>, Leake <ref n="pageref">p. 329</ref>, Unger Theb. Parad. <ref n="pageref">p. 193</ref>.</p></note> <note n="5" xml:lang="deu"> 
+
+
+<p> Expédition de Morée tom. <ref n="bookpage">II, <ref n="pageref">p. 147</ref></ref>: distance totale: 2 heures, 5 minutes. Vgl. Curtius S. 414.</p></note> <note n="6" xml:lang="deu"> 
+
+
+<p> S. die Exc. über die Reise.</p></note> <note n="7" xml:lang="eng">
+
+
+<p>For comparison, let the description that Kybele gives of Theagenes be given here, from which the description of Charicles is almost literally taken. 
+
+
+<cit>
+
+
+<bibl>Heliod. Aethiop. <ref n="romarab">VII, 10</ref>:</bibl> 
+
+
+<quote xml:lang="grc">εὑρύς τις ἦν τὰ στέρνα καὶ τοὺς ὥμους, καὶ τὸν αὐχένα ὄρϑιον καὶ ἐλεύϑερον ὑπὲρ τοὺς ἄλλους αἴρων, καὶ εἰς κορυφὴν τοὺς ἅπαντas ὑπερέχων, γλαυκιῶν τὸ βλέμμα καὶ ἑπέραστον ἅμα καὶ γοργὸν προσβλέπων, ἡ καταβόστρυχός που πάντως ἐκεῖνος, τὴν παρειὰν ἄρτι ξανϑῷ τῷ ἰούλῳ περιστέφων : </quote>
+ 
+
+
+<quote xml:lang="eng">He was broad in the chest and shoulders, holding his neck upright and free above the others, and overtopping them all in height, blue-eyed and gazing with a look both loving and fiery, that one surely with clustering locks, just now winding his cheek with the blond down of youth. </quote>
+ </cit>
+ cf. 
+
+
+<cit>
+
+
+<bibl>Heliod. Aethiop. <ref n="romarab">VII, 12</ref>:</bibl> 
+
+
+<quote xml:lang="grc">βλέμμα γὰρ οὕτω λαμπρὸν καὶ εὐσχήμων ὄψις ἅμα καὶ ἐπέραστος εὐγενείας ἔμφασιν παρίστησιν. </quote>
+ 
+
+
+<quote xml:lang="eng">For such a bright and well-ordered glance, loving yet noble, reveals high birth. </quote>
+ </cit>
+</p> </note> <note n="7" xml:lang="eng">
+
+
+<p>For comparison, let the description that Kybele gives of Theagenes be given here, from which the description of Charicles is almost literally taken. 
+
+
+<cit>
+
+
+<bibl>Heliod. Aethiop. <ref n="romarab">VII, 10</ref>:</bibl> 
+
+
+<quote xml:lang="grc">εὐρύς τις ἦν τὰ στέρνα καὶ τοὺς ὥμους, καὶ τὸν αὐχένα ὄρϑιον καὶ ἐλεύϑερον ὑπὲρ τοὺς ἄλλους αἴρων, καὶ εἰς κορυφὴν τοὺς ἅπαντas ὑπερέχων, γλαυκιῶν τὸ βλέμμα καὶ ἑπέραστον ἅμα καὶ γοργὸν προσβλέπων, ἡ καταβόστρυχός που πάντως ἐκεῖνος, τὴν παρειὰν ἄρτι ξανϑῷ τῷ ἰούλῳ περιστέφων : </quote>
+ 
+
+
+<quote xml:lang="eng">He was broad in the chest and shoulders, holding his neck upright and free above the others, and overtopping them all in height, blue-eyed and gazing with a look both loving and fiery, that one surely with clustering locks, just now winding his cheek with the blond down of youth. </quote>
+ </cit>
+ cf. 
+
+
+<cit>
+
+
+<bibl>Heliod. Aethiop. <ref n="romarab">VII, 12</ref>:</bibl> 
+
+
+<quote xml:lang="grc">βλέμμα γὰρ οὕτω λαμπρὸν καὶ εὐσχήμων ὄψις ἅμα καὶ ἐπέραστος εὐγενείας ἔμφασιν παρίστησιν. </quote>
+ 
+
+
+<quote xml:lang="eng">For such a bright and well-ordered glance, loving yet noble, reveals high birth. </quote>
+ </cit>
+</p> </note> <note n="7" xml:lang="eng">
+
+
+<p> For comparison, the description that Kybele gives of Theagenes may stand here, from which almost verbatim the portrayal of Charikles is taken. 
+
+
+<cit>
+
+
+<bibl>Heliod. Aethiop. <ref n="romarab">VII, 10</ref>:</bibl> 
+
+
+<quote xml:lang="grc">εὐρύς τις ἦν τὰ στέρνα καὶ τοὺς ὥμους, καὶ τὸν αὐχένα ὄρϑιον καὶ ἐλεύϑερον ὑπὲρ τοὺς ἄλλους αἴρων, καὶ εἰς κορυφὴν τοὺς ἅπαντas ὑπερέχων, γλαυκιῶν τὸ βλέμμα καὶ ἑπέραστον ἅμα καὶ γοργὸν προσβλέπων, ἡ καταβόστρυχός που πάντως ἐκεῖνος, τὴν παρειὰν ἄρτι ξανϑῷ τῷ ἰούλῳ περιστέφων : </quote>
+ 
+
+
+<quote xml:lang="eng">He was broad in the chest and shoulders, holding his neck upright and free above the others, and overtopping them all in height, blue-eyed and gazing with a look both loving and fiery, that one surely with clustering locks, just now winding his cheek with the blond down of youth. </quote>
+ </cit>
+ cf. 
+
+
+<cit>
+
+
+<bibl>Heliod. Aethiop. <ref n="romarab">VII, 12</ref>:</bibl> 
+
+
+<quote xml:lang="grc">βλέμμα γὰρ οὕτω λαμπρὸν καὶ εὐσχήμων ὄψις ἅμα καὶ ἐπέραστος εὐγενείας ἔμφασιν παρίστησιν. </quote>
+ 
+
+
+<quote xml:lang="eng">For such a bright and well-ordered glance, loving yet noble, reveals high birth. </quote>
+ </cit>
+</p> </note> <note n="7" xml:lang="deu"> 
+
+
+<p> Zur Vergleichung möge die Beschreibung, die Kybele vom Theagenes giebt, hier stehen, aus welcher fast wörtlich die Schilderıng des Charikles entnommen ist. 
+
+
+<cit>
+
+
+<bibl>Heliod. Aethiop. <ref n="romarab">VII, 10</ref>:</bibl> 
+
+
+<quote xml:lang="grc">εὐρύς τις ἦν τὰ στέρνα καὶ τοὺς ὥμους, καὶ τὸν αὐχένα ὄρϑιον καὶ ἐλεύϑερον ὑπὲρ τοὺς ἄλλους αἴρων, καὶ εἰς κορυφὴν τοὺς ἅπαντas ὑπερέχων, γλαυκιῶν τὸ βλέμμα καὶ ἑπέραστον ἅμα καὶ γοργὸν προσβλέπων, ἡ καταβόστρυχός που πάντως ἐκεῖνος, τὴν παρειὰν ἄρτι ξανϑῷ τῷ ἰούλῳ περιστέφων : </quote>
+ 
+
+
+<quote xml:lang="eng">He was broad in the chest and shoulders, holding his neck upright and free above the others, and overtopping them all in height, blue-eyed and gazing with a look both loving and fiery, that one surely with clustering locks, just now winding his cheek with the blond down of youth. </quote>
+ </cit>
+ vgl. 
+
+
+<cit>
+
+
+<bibl>Heliod. Aethiop. <ref n="romarab">VII, 12</ref>:</bibl> 
+
+
+<quote xml:lang="grc">βλέμμα γὰρ οὕτω λαμπρὸν καὶ εὐσχήμων ὄψις ἅμα καὶ ἐπέραστος εὐγενείας ἔμφασιν παρίστησιν. </quote>
+ 
+
+
+<quote xml:lang="eng">For such a bright and well-ordered glance, loving yet noble, reveals high birth. </quote>
+ </cit>
+</p></note> <note n="8" xml:lang="eng">
+
+
+<p> The shrubs and plants mentioned here are indeed the common ones in this area. Of the Tretos, see 
+
+
+<cit>
+
+
+<bibl>Pouqueville <ref n="pageref">p. 148</ref>:</bibl> 
+
+
+<quote xml:lang="eng">the Tretos in which the river flows and the waters from the Rîto spring, amidst a thick thicket of myrtles, oleanders, and shrubs. </quote>
+ </cit>
+The holly, Ilex aquifolia L., Greek <foreign xml:lang="grc">πρῖνος ἀγρία</foreign>, Roman, aquifolium, is likewise frequent in this area: 
+
+
+<cit>
+
+
+<bibl>Expéd. de Morée t. <ref n="bookpage">III, <ref n="pageref">p. 35</ref></ref>:</bibl> 
+
+
+<quote xml:lang="fra">une campagne couverte de petits buissons et de houx, </quote>
+ 
+
+
+<quote xml:lang="eng">a countryside covered with small bushes and holly</quote>
+ </cit>
+between Corinth and Nemea. The strawberry tree, Arbutus unedo, is native to all of Greece. The yellow sage, Salvia pomifera, Greek <foreign xml:lang="grc">σφάκος</foreign>, now <foreign xml:lang="grc">el</foreign>, grows plentifully in the area. 
+
+
+<cit>
+
+
+<bibl>Dodwell <ref n="pageref">p. 298</ref>:</bibl> 
+
+
+<quote xml:lang="eng">this plant is common in the rocky places in Greece. </quote>
+ </cit>
+[Nevertheless, the oleander had to be removed from the text because, according to 
+
+
+<bibl>V. Hehn Culturpflanzen und Hausthiere 2. Aufl. 1874, S. 358</bibl>, it only migrated to Greece in the period between Theophrastus and the end of the Roman Republic.]</p></note> <note n="8" xml:lang="deu"> 
+
+
+<p> Die hier genannten Sträucher und Pflanzen sind in der That die in dieser Gegend gewöhnlichen. Vom Tretos sagt 
+
+
+<cit>
+
+
+<bibl>Pouqueville <ref n="pageref">p. 148</ref>:</bibl> 
+
+
+<quote xml:lang="fra">le Trété, dans lequel coulent la rivière et les eaux de la source de Rîto au milieu d'un fourré épais de myrtes, de lauriers-roses et d'arbustes. </quote>
+ </cit>
+Die Stechpalme, Ilex aquifolia L., griech. <foreign xml:lang="grc">πρῖνος ἀγρία</foreign>, röm. aquifolium, ist ebenfalls in dieser Gegend häufig 
+
+
+<cit>
+
+
+<bibl>Expéd. de Morée t. <ref n="bookpage">III, <ref n="pageref">p. 35</ref></ref>:</bibl> 
+
+
+<quote xml:lang="fra">une campagne couverte de petits buissons et de houx, </quote>
+ </cit>
+zwischen Korinth und Nemea. Der Erdbeerbaum, Arbutus unedo, ist in ganz Griechenland heimisch. Der gelbe Salbey, Salvia pomifera, griech. <foreign xml:lang="grc">σφάκος</foreign>, jetzt <foreign xml:lang="el">ἀλησφακιά</foreign>, wächst in der Umgegend in Menge. 
+
+
+<cit>
+
+
+<bibl>Dodwell <ref n="pageref">p. 298</ref>:</bibl> 
+
+
+<quote xml:lang="eng">this plant is common in the rocky places in Greece. </quote>
+ </cit>
+[Dennoch musste im Texte der Oleander gestrichen werden, weil derselbe nach 
+
+
+<bibl>V. Hehn Culturpflanzen und Hausthiere 2. Aufl. 1874, S. 358</bibl> erst in der Zeit zwischen Theophrast und dem Ende der römischen Republik in Griechenland eingewandert ist.]</p></note> <note n="8" xml:lang="eng">
+
+
+<p>The bushes and plants mentioned here are indeed the common ones in this area. Pouqueville says of Tretos: 
+
+
+<cit>
+
+
+<bibl>Pouqueville <ref n="pageref">p. 148</ref>:</bibl> 
+
+
+<quote xml:lang="fra">le Trété, dans lequel coulent la rivière et les eaux de la source de Rîto au milieu d'un fourré épais de myrtes, de lauriers-roses et d'arbustes. </quote>
+ </cit>
+ The holly, Ilex aquifolia L., Greek <foreign xml:lang="grc">πρῖνος ἀγρία</foreign>, Roman aquifolium, is also common in this area between Corinth and Nemea. The strawberry tree, Arbutus unedo, is native to all of Greece. The yellow sage, Salvia pomifera, Greek <foreign xml:lang="grc">σφάκος</foreign>, now <foreign xml:lang="el">ἀλησφακιά</foreign>, grows in abundance in the vicinity. Dodwell says: 
+
+
+<cit>
+
+
+<bibl>Dodwell <ref n="pageref">p. 298</ref>:</bibl> 
+
+
+<quote xml:lang="eng">this plant is common in the rocky places in Greece. </quote>
+ </cit>
+ However, the oleander had to be deleted from the text because, according to V. Hehn, Culturpflanzen und Hausthiere 2. Aufl. 1874, S. 358, it only migrated to Greece between the time of Theophrastus and the end of the Roman Republic.</p></note> <note n="9" xml:lang="eng"> 
+
+
+<p> [At Becker's own request, K. F. Hermann changed it in place of "the fourth hour" in his edition of Charikles. For the matter, see the Exc. on Market and Trade.]</p></note> <note n="9" xml:lang="deu"> 
+
+
+<p> [Nach Beckers eigenem Wunsche bat K. F. Hermann in seiner Ausgabe des Charikles so anstatt der „vierten Stunde“ geändert. Zur Sache vgl. d. Exc. über Markt und Handel.]</p></note> <note n="10" xml:lang="eng"> 
+
+
+<p> Following: 
+
+
+<cit>
+
+
+<bibl>Appul. Metam. <ref n="romarab">I, 2</ref>:</bibl> 
+
+
+<quote xml:lang="lat">in pedes desilio, equi sudorem fronde curiose exfrico, aures remulceo, frenos detraho ... ac dum <pb n="18"/> is ientaculum ambulatorium prataque praeterit, ore in latus detorto pronus affector <note n="GRC">???</note> etc. </quote>
+ 
+
+
+<quote xml:lang="eng">I leap to the ground, carefully wipe the sweat from the horse with leaves, stroke his ears, remove the bridle...and while he takes his walking snack and passes by the meadows, with mouth twisted to the side I bend over him eagerly, etc. </quote>
+ </cit>
+</p></note> <note n="10" xml:lang="deu"> 
+
+
+<p> Nach 
+
+
+<cit>
+
+
+<bibl>Appul. Metam. <ref n="romarab">I, 2</ref>:</bibl> 
+
+
+<quote xml:lang="lat">in pedes desilio, equi sudorem fronde curiose exfrico, aures remulceo, frenos detraho ... ac dum <pb n="18"/> is ientaculum ambulatorium prataque praeterit, ore in latus detorto pronus affector etc. </quote>
+ 
+
+
+<quote xml:lang="eng">I leap to the ground, carefully wipe the sweat from the horse with leaves, stroke his ears, remove the bridle...and while he takes his walking snack and passes by the meadows, with mouth twisted to the side I bend over him eagerly, etc. </quote>
+ </cit>
+</p></note> <note n="11" xml:lang="deu"> 
+
+
+<p> Dass die griechische Humanität den Reisenden gestattete, im Vorübergehen von den Früchten am Wege zu essen, daran darf man wohl nicht zweifeln. Vgl. das Epigramm der 
+
+
+<cit>
+
+
+<bibl>Anthol. Pal. <ref n="romarab">IX, 249</ref>:</bibl> 
+
+
+<quote xml:lang="grc"> 
+
+<l>εὐπέταλον γλαυκὰν ἀναδενδράδα τάνδε παρ᾽ ἄκραις</l> 
+
+<l>ἱδρυνϑεὶς λοφιαῖς Πὰν δ᾽ ἐπισκοπέω·</l> 
+
+<l>εἰ δέ σε πορφύροντος ἔχει πόϑος, ὦ παροδῖτα,</l> 
+
+<l>βότρυος, οὐ φϑονέω γαστρὶ χαριζομένῳ·</l> 
+
+<l>ἣν δὲ χερὶ ψαύσῃς κλοπίῃ μόνον, αὐτίκα δέξῃ</l> 
+
+<l>ὀζαλέην βάχτρου τήνδε καρηβαρίην.</l> </quote>
+ 
+
+
+<quote xml:lang="eng">Having established myself on this soft-leaved gray-green oak tree on the hilltop edges, I, Pan, keep watch. If you have a craving, traveler, for the dark cluster, I do not begrudge the belly its delight. But if you touch it with thieving hand only, at once you will receive a weighty blow of my staff on your head. </quote>
+ </cit>
+ Plato, der die speciellsten Vorschriften giebt, in wie weit auch ein Einheimischer sich so etwas erlauben dürfe, sagt 
+
+
+<cit>
+
+
+<bibl>Plat. Leg. <ref n="bookpage">VIII, <ref n="pageref">p. 845</ref></ref>:</bibl> 
+
+
+<quote xml:lang="grc">ἐὰν δέ ξένος ἐπιδημήσας ὀπώρας ἐπιϑυμῇ φαγεῖν διαπορευόμενος τὰς ὁδούς, τῆς μὲν γενναίας (ὀπώρας, γενναίων σταφυλῶν ἣ σύκων) ἁπτέσϑω, ἐὰν βούληται, μεθ’ ἑνὸς ἀκολούϑου, χωρὶς τιμῆς, ξένια δεχόμενος· τῆς δὲ ἀγροίκου λεγομένης καὶ τῶν τοιούτων ὁ νόμος εἰργέτω μὴ κοινωνεῖν ἡμῖν τοὺς ξένους. </quote>
+ 
+
+
+<quote xml:lang="eng">If a stranger visiting during the fruit season desires to eat some as he travels the roads, let him partake, if he wishes, of the choice fruits (of grapes or figs) without payment, accepting hospitality, together with one attendant. But the law should forbid strangers from sharing with us the common and such sorts of fruits. </quote>
+ </cit>
+ Was er unter <foreign xml:lang="grc">ὀπώρα γενναία</foreign> und <foreign xml:lang="grc">ὀπώρα ἀγροῖκος</foreign> versteht, das lehren die folgenden Worte, wo er verordnet, wenn ein Fremder unwissentlich gegen dieses Gesetz gehandelt habe, 
+
+
+<cit>
+
+
+<bibl>Plat. Leg. <ref n="bookpage">VIII, <ref n="pageref">p. 845</ref></ref>:</bibl> 
+
+
+<quote xml:lang="grc">τὸν μὲν δοῦλον πληγαῖς κολάζειν, τὸν δὲ ἐλεύϑερον ἀποπέμπειν, νουϑετήσαντα καὶ διδάξαντα τῆς ἄλλης ὀπώρας ἅπτεσϑαι τῆς εἰς ἀπόϑεσιν ὀσταφίδος οἴνου τε καὶ ξηρῶν σύκων ἀνεπιτηδείου κεκτῆσϑαι. </quote>
+ 
+
+
+<quote xml:lang="eng">The slave should be beaten as punishment, but the free man should be sent away after admonishing him and teaching that he should partake of the other harvest destined for drying into raisins and inferior figs. </quote>
+ </cit>
+ Es werden also jedenfalls gewisse Sorten, z. B. Weintrauben, die nicht zum Moste benutzt werden, Tafeltrauben, gemeint, und darum heisst es vorher: 
+
+
+<cit>
+
+
+<bibl>urn:cts:greekLit:tlg0059.tlg034.perseus-grc2:8.845</bibl> 
+
+
+<quote xml:lang="grc">τὴν γενναίαν νῦν λεγομένην σταφυλὴν ἢ τὰ γενναῖα σῦκα ἐπονομαζόμενα.</quote>
+ 
+
+
+<quote xml:lang="eng">what is now called the noble grape or the figs named as noble.</quote>
+ </cit>
+ Nachdem er darauf von den Birnen, Aepfeln, Granatäpfeln u. s. w. gesprochen, sagt er: ξένῳ δὲ, καϑάπερ ὀπώρας, ἐξέστω καὶ τῶν τοιούτων μέτοχον εἶναι. [Die ausserordentliche Freigebigkeit Kimons Theopom p. bei 
+
+
+<cit>
+
+
+<bibl>Ath. <ref n="romarab">XII, 44</ref>: </bibl> 
+
+
+<quote xml:lang="grc">Κίμων ὁ Ἀθηναῖος ἐν τοῖς ἀγροῖς καὶ τοῖς κήποις οὐδένα τοῦ καρποῦ καϑίστα φύλακα, ὅπως οἱ βουλόμενοι τῶν πολιτῶν εἰσιόντες ὁπωρίζωνται καὶ λαμβάνωσιν εἴ τινος δέοιντο τῶν ἐν τοῖς χωρίοις </quote>
+ 
+
+
+<quote xml:lang="eng">Cimon the Athenian placed no guard over the produce in his fields and gardens, so that any citizens who wished could enter and gather fruit and take whatever they needed from the estates. </quote>
+ </cit>
+ und 
+
+
+<cit>
+
+
+<bibl>Plut. Cim. 10:</bibl> 
+
+
+<quote xml:lang="grc">τῶν γὰρ ἀγρῶν τοὺς φραγμοὺς ἀφεῖλεν, ἵνα καὶ τοῖς ξένοις καὶ τῶν πολιτῶν τοῖς δεομένοις ἀδεῶς ὑπάρχῃ λαμβάνειν τῆς ὀπώρας </quote>
+ 
+
+
+<quote xml:lang="eng">For he removed the fences from his fields so that both strangers and needy citizens could freely take of the harvest. </quote>
+ </cit>
+ wird von Theophrast <pb n="19"/> bei Cic. Offic. <ref n="romarab">II, 18</ref> auf seine Demosgenossen, die Lakiaden, beschränkt. Ueber Ephialtes [Heracl. Pol. 15 vgl. Sintenis zu Plut. Pericl. 9.] — Lauch und Zwiebeln waren, besonders für die niedere Klasse, eine sehr beliebte Zukost. 
+
+
+<cit>
+
+
+<bibl>Plutarch. Symp. <ref n="romarab">IV, 4, 8</ref>:</bibl> 
+
+
+<quote xml:lang="grc">τὸ μὲν yàp Ὁμηρικὸν ἐκεῖνο, κρόμυον ποτοῦ ὄψον, ναύταἰς καὶ κωπηλάταις μᾶλλον ἢ βασιλεῦσιν ἐπιτήδειον ἦν </quote>
+ 
+
+
+<quote xml:lang="eng">For that Homeric phrase, "onions as a relish for drink," was more suitable for sailors and oarsmen than for kings. </quote>
+ </cit>
+ vgl d. Erkl. zu Homer. Iliad. <ref n="romarab">XI, 629</ref>. und Aristoph. Equ. 600; [besonders Arist. Acharn.. 163 ff. Wie schon aus der genannten Stelle Plutarchs hervorgeht, schlug später die Vorliebe für Zwiebeln und Lauch bei den höheren Ständen in das Gegentheil um [vgl. Plaut. Mostell. <ref n="romarab">I, 1, 38</ref> und Horat. Epod, 3] und es bedeutete nichts Gutes, wenn man Einem wünschte, dass er Zwiebeln essen möchte: Diog. Laert. Bias 2 und Plut. conv. sept. sap. 10. Hehn Culturpfl. S. 174.] </p></note> <note n="11" xml:lang="eng"> 
+
+
+<p> There is no good reason to doubt that Greek humanity allowed travelers to eat the fruits by the wayside as they passed by. Cf. the epigram of th 
+
+
+<cit>
+
+
+<bibl>Anthol. Pal. <ref n="romarab">IX, 249</ref>:</bibl> 
+
+
+<quote xml:lang="grc"> 
+
+<l>εὐπέταλον γλαυκὰν ἀναδενδράδα τάνδε παρ᾽ ἄκραις</l> 
+
+<l>ἱδρυνϑεὶς λοφιαῖς Πὰν δ᾽ ἐπισκοπέω·</l> 
+
+<l>εἰ δέ σε πορφύροντος ἔχει πόϑος, ὦ παροδῖτα,</l> 
+
+<l>βότρυος, οὐ φϑονέω γαστρὶ χαριζομένῳ·</l> 
+
+<l>ἣν δὲ χερὶ ψαύσῃς κλοπίῃ μόνον, αὐτίκα δέξῃ</l> 
+
+<l>ὀζαλέην βάχτρου τήνδε καρηβαρίην.</l> </quote>
+ 
+
+
+<quote xml:lang="eng">Having established myself on this soft-leaved gray-green oak tree on the hilltop edges, I, Pan, keep watch. If you have a craving, traveler, for the dark cluster, I do not begrudge the belly its delight. But if you touch it with thieving hand only, at once you will receive a weighty blow of my staff on your head. </quote>
+ </cit>
+ Plato, who provides the most specific regulations about to what extent even a local might allow themselves such a thing, says: 
+
+
+<cit>
+
+
+<bibl>Plat. Leg. <ref n="bookpage">VIII, <ref n="pageref">p. 845</ref></ref>:</bibl> 
+
+
+<quote xml:lang="grc">ἐὰν δέ ξένος ἐπιδημήσας ὀπώρας ἐπιϑυμῇ φαγεῖν διαπορευόμενος τὰς ὁδούς, τῆς μὲν γενναίας (ὀπώρας, γενναίων σταφυλῶν ἣ σύκων) ἁπτέσϑω, ἐὰν βούληται, μεθ’ ἑνὸς ἀκολούϑου, χωρὶς τιμῆς, ξένια δεχόμενος· τῆς δὲ ἀγροίκου λεγομένης καὶ τῶν τοιούτων ὁ νόμος εἰργέτω μὴ κοινωνεῖν ἡμῖν τοὺς ξένους. </quote>
+ 
+
+
+<quote xml:lang="eng">If a stranger visiting during the fruit season desires to eat some as he travels the roads, let him partake, if he wishes, of the choice fruits (of grapes or figs) without payment, accepting hospitality, together with one attendant. But the law should forbid strangers from sharing with us the common and such sorts of fruits. </quote>
+ </cit>
+ What he means by <foreign xml:lang="grc">ὀπώρα γενναία</foreign> <gloss xml:lang="eng">choice fruit</gloss> and <foreign xml:lang="grc">ὀπώρα ἀγροῖκος</foreign> <gloss xml:lang="eng">common fruit</gloss>, becomes clear from the following section, where he decrees that if a foreigner has unknowingly acted against this law, 
+
+
+<cit>
+
+
+<bibl>Plat. Leg. <ref n="bookpage">VIII, <ref n="pageref">p. 845</ref></ref>:</bibl> 
+
+
+<quote xml:lang="grc">τὸν μὲν δοῦλον πληγαῖς κολάζειν, τὸν δὲ ἐλεύϑερον ἀποπέμπειν, νουϑετήσαντα καὶ διδάξαντα τῆς ἄλλης ὀπώρας ἅπτεσϑαι τῆς εἰς ἀπόϑεσιν ὀσταφίδος οἴνου τε καὶ ξηρῶν σύκων ἀνεπιτηδείου κεκτῆσϑαι. </quote>
+ 
+
+
+<quote xml:lang="eng">The slave should be beaten as punishment, but the free man should be sent away after admonishing him and teaching that he should partake of the other harvest destined for drying into raisins and inferior figs. </quote>
+ </cit>
+ Therefore, in any case, certain types, e.g., wine grapes that are not used for must, table grapes, are meant, and that's why it is previously stated: 
+
+
+<cit>
+
+
+<bibl>urn:cts:greekLit:tlg0059.tlg034.perseus-grc2:8.845</bibl> 
+
+
+<quote xml:lang="grc">τὴν γενναίαν νῦν λεγομένην σταφυλὴν ἢ τὰ γενναῖα σῦκα ἐπονομαζόμενα.</quote>
+ 
+
+
+<quote xml:lang="eng">what is now called the noble grape or the figs named as noble.</quote>
+ </cit>
+ After he has spoken of pears, apples, pomegranates, etc., he says: ξένῳ δὲ, καϑάπερ ὀπώρας, ἐξέστω καὶ τῶν τοιούτων μέτοχον εἶναι. [Kimon's extraordinary generosity: 
+
+
+<cit>
+
+
+<bibl>Theopomp. bei Ath. <ref n="romarab">XII, 44</ref>: </bibl> 
+
+
+<quote xml:lang="grc">Κίμων ὁ Ἀθηναῖος ἐν τοῖς ἀγροῖς καὶ τοῖς κήποις οὐδένα τοῦ καρποῦ καϑίστα φύλακα, ὅπως οἱ βουλόμενοι τῶν πολιτῶν εἰσιόντες ὁπωρίζωνται καὶ λαμβάνωσιν εἴ τινος δέοιντο τῶν ἐν τοῖς χωρίοις </quote>
+ 
+
+
+<quote xml:lang="eng">Cimon the Athenian placed no guard over the produce in his fields and gardens, so that any citizens who wished could enter and gather fruit and take whatever they needed from the estates. </quote>
+ </cit>
+ and 
+
+
+<cit>
+
+
+<bibl>Plut. Cim. 10:</bibl> 
+
+
+<quote xml:lang="grc">τῶν γὰρ ἀγρῶν τοὺς φραγμοὺς ἀφεῖλεν, ἵνα καὶ τοῖς ξένοις καὶ τῶν πολιτῶν τοῖς δεομένοις ἀδεῶς ὑπάρχῃ λαμβάνειν τῆς ὀπώρας </quote>
+ 
+
+
+<quote xml:lang="eng">For he removed the fences from his fields so that both strangers and needy citizens could freely take of the harvest. </quote>
+ </cit>
+ <pb n="19"/> Theophrastus, however, (
+
+
+<bibl>Cic. Offic. <ref n="romarab">II, 18</ref> </bibl>) restricts this to members of his Deme, the Lakiads. With respect to Ephialtes (Heracl. Pol. 1) cf. Sintenis on Plut. Pericl. 9.] — Leeks and onions were, especially for the lower class, a very popular side dish. 
+
+
+<cit>
+
+
+<bibl>Plutarch. Symp. <ref n="romarab">IV, 4, 8</ref>:</bibl> 
+
+
+<quote xml:lang="grc">τὸ μὲν yàp Ὁμηρικὸν ἐκεῖνο, κρόμυον ποτοῦ ὄψον, ναύταἰς καὶ κωπηλάταις μᾶλλον ἢ βασιλεῦσιν ἐπιτήδειον ἦν </quote>
+ 
+
+
+<quote xml:lang="eng">For that Homeric phrase, "onions as a relish for drink," was more suitable for sailors and oarsmen than for kings. </quote>
+ </cit>
+ cf. the commentary on Homer. Iliad. <ref n="romarab">XI, 629</ref>. and Aristoph. Equ. 600; [and especially Arist. Acharn.. 163 ff. As is already evident from the mentioned passage of Plutarch, the preference for onions and leeks among the higher classes later turned into the opposite. [cf. Plaut. Mostell. <ref n="romarab">I, 1, 38</ref> and Horat. Epod, 3] and it was not a good thing to wish someone should eat onions: Diog. Laert. Bias 2 und Plut. conv. sept. sap. 10. Hehn Culturpfl. S. 174.] </p></note> <note n="12" xml:lang="deu"> 
+
+
+<p> Vergl. Demosth. adv. Mid. 133.</p></note> <note n="12" xml:lang="eng"> 
+
+
+<p> Cf. Demosth. adv. Mid. 133.</p></note> <note n="13" xml:lang="deu"> 
+
+
+<p> <foreign xml:lang="grc">Ἁλῶν κοινωνεῖν</foreign> <gloss>To share salt provisions</gloss> ist sprüchwörtliche Redensart für <foreign xml:lang="grc">ὁμοτράπεζον γενέσθαι</foreign>. Lucian. Asin. 1. [Ausser den von Hermann angeführten Archilochos bei Origen. c. Celsum <ref n="bookpage">II, <ref n="pageref">p. 74</ref></ref> mit Huschke in Matthiae Misc. philol. t. <ref n="bookpage">I, <ref n="pageref">p. 15</ref></ref> und Bremi zu Aeschines de falsa legat. c. 7 vergl. noch Aristot, Eth. Nicom. <ref n="romarab">VIII, 3, 8</ref>. Eth, Eudem. <ref n="romarab">VII, 2, 46</ref>. Cic. de amicit. 19, 67. V. v. Hehn das Salz, 1873, 8. 8.]</p></note> <note n="13" xml:lang="eng"> 
+
+
+<p> <foreign xml:lang="grc">Ἁλῶν κοινωνεῖν</foreign> <gloss>To share salt provisions</gloss> is a proverbial expresion for <foreign xml:lang="grc">ὁμοτράπεζον γενέσθαι</foreign> <gloss xml:lang="eng">to share a table</gloss>. Lucian. Asin. 1. [Besides, cited by Hermann: Archilochos at Origen. c. Celsum <ref n="bookpage">II, <ref n="pageref">p. 74</ref></ref> with Huschke in Matthiae Misc. philol. t. <ref n="bookpage">I, <ref n="pageref">p. 15</ref></ref> and Bremi on Aeschines de falsa legat. c. 7 cf. noch Aristot, Eth. Nicom. <ref n="romarab">VIII, 3, 8</ref>. Eth, Eudem. <ref n="romarab">VII, 2, 46</ref>. Cic. de amicit. 19, 67. 
+
+
+<bibl n="https://hdl.handle.net/2027/hvd.32044082147745?urlappend=%3Bseq=16%3Bownerid=27021597765893554-18">V. v. Hehn das Salz, 1873, <ref n="pageref">p. 8</ref>.</bibl>]</p></note> <note n="14" xml:lang="deu"> 
+
+
+<p> <seg xml:lang="deu">Die Sucht, einen langen Stammbaum berühmter Vorfahren aufzustellen und wo möglich die unmittelbare Abstammung seines Geschlechts von einem Gotte oder Heros nachweisen zu wollen, darf bei den Griechen nicht Wunder nehmen. Sie wird immer da am entschiedensten hervortreten, wo man sich dem auf die Gottheit zurückzuführenden Ursprunge des Menschengeschlechts am nächsten glaubt. Ueberdies gaben den späteren Geschlechtern die Genealogien berühmter Namen der frühesten Zeit ein treffliches Mittel in die Hände, bis auf den Urquell des Daseins zurückzugehen, und wo die Grenze zwischen Einheimischen und Fremden so scharf gezogen war, oder einzelne Geschlechter uralte Vorrechte genossen, da konnte Ahnenstolz keine auffallende Erscheinung sein, wenn er auch von dem Verständigen als thöricht bemitleidet und oft genug verspottet wurde. So z. B.</seg> <seg xml:lang="eng">The desire to establish a long family tree of famous ancestors and, if possible, to prove the direct descent of their family from a god or hero, should not surprise us in the Greeks. It will always appear most clearly where one believes that the origin of the human race, which can be traced back to the gods, is closest. Furthermore, the genealogies of famous names from the earliest times gave later generations a valuable means of going back to the source of existence, and where the boundary between natives and foreigners was so clearly drawn, or where individual families enjoyed ancient privileges, ancestral pride could not be a striking phenomenon, even if it was often pitied as foolish by the discerning and often enough mocked. For example,</seg> 
+
+
+<cit>
+
+
+<bibl>Aristoph. Nub. 48:</bibl> 
+
+
+<quote xml:lang="grc">ἔγημα Μεγακλέους τοῦ Μεγακλέους ἀδελφιδῆν, </quote>
+ 
+
+
+<quote xml:lang="eng">I married the niece of Megacles the son of Megacles. </quote>
+ </cit>
+ <seg xml:lang="deu">wo die Worte wohl eine Anspielung auf Alkibiades enthalten, <pb n="20"/> der sein Geschlecht von väterlicher Seite von Aias ableitete, dessen Mutter aber Deinomache, die Tochter des Megakles, zu den Alkmäoniden gehörte. Des Redners Andokides Stammbaum reichte nach Hellanikos bis zu Odysseus und demnach auch bis zu Hermes und Zeus, Plut. Alcib. 21. X Orat. <ref n="pageref">p. 884</ref> C, [der des Historikers Hekatäos nach Herod. <ref n="romarab">II, 143</ref> im sechzehnten Gliede ebenfalls bis zu einem Gott] hinauf. S. Wachsmuth B. I, S. 383. 555. Die belehrendste Stelle über die doppelte Ansicht von dem Werthe solches Erbadels findet sich bei Plato Theaetetus , dessen Urtheil um so grösseren Werth hat, als Plato selbst von väterlicher wie von mütterlicher Seite aus altem edlem Geschlechte abstammte : </seg> <seg xml:lang="eng">Here the words are probably an allusion to Alkibiades, who traced his lineage from his father's side to Aias, while his mother, Deinomache, the daughter of Megakles, belonged to the Alcmaeonids. The orator Andokides' family tree, according to Hellanicus, goes back to Odysseus and thus also to Hermes and Zeus, Plutarch, Alkibiades 21. X Orat. <ref n="pageref">p. 884</ref> C, [the family tree of the historian Hekataios, according to Herodotus <ref n="romarab">II, 143</ref>, goes back to a god in the sixteenth generation] likewise. See Wachsmuth B. <ref n="bookpage">I, <ref n="pageref">p. 383</ref></ref>. 555.</seg> 
+
+
+<cit>
+
+
+<bibl>Plato Theaet. <ref n="pageref">p. 175</ref>:</bibl> 
+
+
+<quote xml:lang="grc">τὰ δὲ δὴ γένη ὑμνούντων, ὡς γενναῖός τις ἑπτὰ πάππους πλουσίους ἔχων ἀποφῆναι, παντάπασιν ἀμβλὺ καὶ ἐπὶ σμικρὸν δρώντων ἡγεῖται (ὁ φιλόσοφος) τὸν ἔπαινον, ἀπὸ ἀπαιδευσίας οὐ δυναμένων εἰς τὸ πᾶν ἀεὶ βλέπειν οὐδὲ λογίζεσθαι, ὅτε πάππων καὶ προγόνων μυριάδες ἑκάστῳ γεγόνασιν ἀναρίϑμητοι, ἐν αἷς πλούσιοι καὶ πτωχοἰ, καὶ βασιλεῖς καὶ δοῦλοι, βάρβαροί τε καὶ Ἕλληνες πολλάκις μυρίοι γεγόνασιν ὁτῳοῦν· ἀλλ᾽ ἐπὶ πέντε καὶ εἴκοσι καταλόγῳ npoγόνων σεμνυνομένων καὶ ἀναφερόντων εἰς Ἠρακλέα τὸν Ἀμφιτρύωvos ἄτοπα αὐτῷ καταφαίνεται τῆς σμικρολογίας. </quote>
+ 
+
+
+<quote xml:lang="eng" n="claude">And when people extol lineages, as though one were proving himself noble by displaying seven wealthy ancestors, the philosopher regards their praise as utterly dull-witted and shortsighted, since out of lack of education they cannot look to the whole and recognize that each person has had myriads upon myriads of ancestors, among whom have been countless times ten thousand rich and poor, kings and slaves, barbarians and Greeks - anyone you please. But when people pride themselves on a pedigree of twenty-five ancestors and trace their lineage back to Heracles son of Amphitryon, their petty preciseness seems absurd to him. </quote>
+ </cit>
+ [Vgl. Menander bei Stob. Serm. <ref n="romarab">LXXXVII, 4</ref>, Lobeck Aglaoph. <ref n="pageref">p. 764</ref>, K. Keil Zwei Inschr. aus Sparta und Gythion, 8.26. Böckh Corp. Inscr. <ref n="romarab">I, 2</ref>, <ref n="pageref">p. 421</ref>, n. 2568. Auch in der römischen Zeit blieb den Griechen diese Eitelkeit. Der berühmte Herodes Atticus leitete sein Geschlecht bis auf die Aeakiden zurück: Philostr. vitt. sophist. II. 1 und von dem prahlenden Eukleides sagt Martial Epigr. <ref n="romarab">V, 35</ref>: longumque pulchra stemma repetit a Leda.]</p></note> <note n="14" xml:lang="eng"> 
+
+
+<p> The desire to establish a long family tree of famous ancestors and, if possible, to prove the direct descent of their family from a god or hero, should not surprise us in the Greeks. It will always appear most clearly where one believes that the origin of the human race, which can be traced back to the gods, is closest.</p> 
+
+
+<p>Furthermore, the genealogies of famous names from the earliest times gave later generations a valuable means of going back to the source of existence, and where the boundary between natives and foreigners was so clearly drawn, or where individual families enjoyed ancient privileges, ancestral pride could not be a striking phenomenon, even if it was often pitied as foolish by the discerning and often enough mocked. For example, 
+
+
+<cit>
+
+
+<bibl>Aristoph. Nub. 48:</bibl> 
+
+
+<quote xml:lang="grc">ἔγημα Μεγακλέους τοῦ Μεγακλέους ἀδελφιδῆν, </quote>
+ 
+
+
+<quote xml:lang="eng">I married the niece of Megacles the son of Megacles. </quote>
+ </cit>
+ Here the words are probably an allusion to Alkibiades, who traced his lineage from his father's side to Aias, while his mother, Deinomache, the daughter of Megakles, belonged to the Alcmaeonids. The orator Andokides' family tree, according to Hellanicus, goes back to Odysseus and thus also to Hermes and Zeus, Plutarch, Alkibiades 21. X Orat. <ref n="pageref">p. 884</ref> C, [the family tree of the historian Hekataios, according to Herodotus <ref n="romarab">II, 143</ref>, goes back to a god in the sixteenth generation] likewise. See Wachsmuth B. <ref n="bookpage">I, <ref n="pageref">p. 383</ref></ref>. 555. 
+
+
+<cit>
+
+
+<bibl>Plato Theaet. <ref n="pageref">p. 175</ref>:</bibl> 
+
+
+<quote xml:lang="grc">τὰ δὲ δὴ γένη ὑμνούντων, ὡς γενναῖός τις ἑπτὰ πάππους πλουσίους ἔχων ἀποφῆναι, παντάπασιν ἀμβλὺ καὶ ἐπὶ σμικρὸν δρώντων ἡγεῖται (ὁ φιλόσοφος) τὸν ἔπαινον, ἀπὸ ἀπαιδευσίας οὐ δυναμένων εἰς τὸ πᾶν ἀεὶ βλέπειν οὐδὲ λογίζεσθαι, ὅτε πάππων καὶ προγόνων μυριάδες ἑκάστῳ γεγόνασιν ἀναρίϑμητοι, ἐν αἷς πλούσιοι καὶ πτωχοἰ, καὶ βασιλεῖς καὶ δοῦλοι, βάρβαροί τε καὶ Ἕλληνες πολλάκις μυρίοι γεγόνασιν ὁτῳοῦν· ἀλλ᾽ ἐπὶ πέντε καὶ εἴκοσι καταλόγῳ npoγόνων σεμνυνομένων καὶ ἀναφερόντων εἰς Ἠρακλέα τὸν Ἀμφιτρύωvos ἄτοπα αὐτῷ καταφαίνεται τῆς σμικρολογίας. </quote>
+ 
+
+
+<quote xml:lang="eng" n="claude">And when people extol lineages, as though one were proving himself noble by displaying seven wealthy ancestors, the philosopher regards their praise as utterly dull-witted and shortsighted, since out of lack of education they cannot look to the whole and recognize that each person has had myriads upon myriads of ancestors, among whom have been countless times ten thousand rich and poor, kings and slaves, barbarians and Greeks - anyone you please. But when people pride themselves on a pedigree of twenty-five ancestors and trace their lineage back to Heracles son of Amphitryon, their petty preciseness seems absurd to him. </quote>
+ </cit>
+ [See Menander in Stob. Serm. <ref n="romarab">LXXXVII, 4</ref>, Lobeck Aglaoph. <ref n="pageref">p. 764</ref>, K. Keil Two inscriptions from Sparta and Gythion, 8.26. Böckh Corp. Inscr. <ref n="romarab">I, 2</ref>, <ref n="pageref">p. 421</ref>, no. 2568. Even in Roman times, this vanity remained with the Greeks. The famous Herodes Atticus traced his lineage back to the Aeacidae: Philostr. Lives of Sophists. II. 1 and Martial says about the boastful Eukleides: 
+
+
+<cit>
+
+
+<bibl>Mart. Epigr. <ref n="romarab">V, 35</ref>:</bibl>
+
+
+<quote xml:lang="lat">longumque pulchra stemma repetit a Leda.</quote>
+ 
+
+
+<quote xml:lang="eng">and traces a long and beautiful lineage from Leda.</quote>
+</cit>
+ ]</p></note> <note n="15" xml:lang="deu"> 
+
+
+<p> Es geschah dies schon früher. So entschuldigt Helos seinen Vater bei 
+
+
+<cit>
+
+
+<bibl>Antiph. de caede Herod. 78:</bibl> 
+
+
+<quote xml:lang="grc">εἰ δ᾽ ἐν Αἴνῳ χωροφιλεῖ, τοῦτο οὐκ ἀποστερῶν γε τῶν εἰς τὴν πόλιν ἑαυτὸν οὐδενὸς οὐδ᾽ ἑτέρας πόλεως πολίτης γεγενημένος, ὥσπερ ἑτέρους ὁρῶ τοὺς μὲν εἰς τὴν ἤπειρον ἰόντας καὶ οἰκοῦντας ἐν τοῖς πολεμίοις τοῖς ὐμετέροις καὶ δίκας ἀπὸ ξυμβόλων ὁμῖν δικαζομένους. </quote>
+ 
+
+
+<quote xml:lang="eng">But if he is fond of living in Aenos, in doing this he does not deprive himself of any service to the state, nor has he become a citizen of any other state, as I see some men do - some going to live on the continent and dwelling among your enemies and prosecuting legal disputes with you arising from commercial agreements. </quote>
+ </cit>
+ Vgl. Lys.in Philon. 8. 9. Es wurde dies zwar Niemandem verwehrt, wie Plato. im Crito p.51 ausdrücklich sagt; allein gern konnte der Staat es natürlich nicht sehen, und insofern mochte es immer einen Vorwurf begründen. In Sparta stand Todesstrafe auf dem μετοικισμός: Plut. Agid. 11. </p></note> <note n="15" xml:lang="eng"> 
+
+
+<p> This happened before. Thus, Helos apologizes for his father at 
+
+
+<cit>
+
+
+<bibl>Antiph. de caede Herod. 78:</bibl> 
+
+
+<quote xml:lang="grc">εἰ δ᾽ ἐν Αἴνῳ χωροφιλεῖ, τοῦτο οὐκ ἀποστερῶν γε τῶν εἰς τὴν πόλιν ἑαυτὸν οὐδενὸς οὐδ᾽ ἑτέρας πόλεως πολίτης γεγενημένος, ὥσπερ ἑτέρους ὁρῶ τοὺς μὲν εἰς τὴν ἤπειρον ἰόντας καὶ οἰκοῦντας ἐν τοῖς πολεμίοις τοῖς ὐμετέροις καὶ δίκας ἀπὸ ξυμβόλων ὑμῖν δικαζομένους. </quote>
+ 
+
+
+<quote xml:lang="eng">But if he is fond of living in Aenos, in doing this he does not deprive himself of any service to the state, nor has he become a citizen of any other state, as I see some men do - some going to live on the continent and dwelling among your enemies and prosecuting legal disputes with you arising from commercial agreements. </quote>
+ </cit>
+ Cf. Lys.in Philon. 8. 9. This was not forbidden to anyone, as Plato explicitly states in Crito p.51. However, the state naturally did not like it, and in this sense, it could always be a cause for reproach. In Sparta, there was a death penalty for μετοικισμός: Plut. Agid. 11. </p></note> <pb n="21"/> <note n="16" xml:lang="deu"> 
+
+
+<p> Der Grundsatz: ubi bene, ibi patria, ist nicht neu. Wie er das Motiv zu den Vögeln des Aristophanes ist, so lässt derselbe Dichter Plut. 1151 ihn unumwunden durch Hermes aussprechen: 
+
+
+<cit>
+
+
+<bibl>Aristoph. Plut. 1151 </bibl> 
+
+
+<quote xml:lang="grc">
+
+<l>πατρὶς γάρ ἐστι πᾶσ᾽, ἵν᾽ ἂν πράττῃ τις εὖ.</l> </quote>
+ 
+
+
+<quote xml:lang="eng">For everything is a fatherland wherever one can live well. </quote>
+ </cit>
+ [Der römische Dichter Pacuvius gab diesen Satz in seinem Teucer so wieder: 
+
+
+<cit>
+
+
+<bibl>Pacuvius, Teucer</bibl> 
+
+
+<quote xml:lang="lat">patria est, ubicunque est bene </quote>
+ 
+
+
+<quote xml:lang="eng">One's homeland is wherever one is well </quote>
+ </cit>
+, vgl. Cic. Tusc. <ref n="romarab">V, 37</ref> mit der Anm. von Davis. Dass die kosmopolitisch gesinnten Sophisten demselben Grundsatze huldigten [Plat. Tim. p. <ref n="23"/> kann nicht befremden.]</p></note> <note n="16" xml:lang="eng"> 
+
+
+<p> The principle: <foreign xml:lang="lat">ubi bene, ibi patria</foreign> <gloss xml:lang="lat">where it is well, there is my fatherland.</gloss> is not new. Just as it is the motif for Aristophanes' 'The Birds', the same poet unreservedly has Hermes express it in: 
+
+
+<cit>
+
+
+<bibl>Aristoph. Plut. 1151 </bibl> 
+
+
+<quote xml:lang="grc">
+
+<l>πατρὶς γάρ ἐστι πᾶσ᾽, ἵν᾽ ἂν πράττῃ τις εὖ.</l> </quote>
+ 
+
+
+<quote xml:lang="eng">For everything is a homeland wherever one can live well. </quote>
+ </cit>
+ [The Roman poet Pacuvius repeated this sentence in his Teucer in this way: 
+
+
+<cit>
+
+
+<bibl>Pacuvius, Teucer</bibl> 
+
+
+<quote xml:lang="lat">patria est, ubicunque est bene </quote>
+ 
+
+
+<quote xml:lang="eng">One's homeland is wherever one is well </quote>
+ </cit>
+. Compare Cicero, Tusculan Disputations, <ref n="romarab">V, 37</ref> with the note of Davis. It is not surprising that the cosmopolitan-minded Sophists adhered to the same principle (Plato, Timaeus, <ref n="pageref">p. 19</ref>).]</p></note> <note n="17" xml:lang="deu"> 
+
+
+<p> See the appendix on travel.</p></note> <note n="18" xml:lang="deu"> 
+
+
+<p> All the details related to education mentioned here are documented in the appendix.</p></note> <note n="19" xml:lang="deu"> 
+
+
+<p> The Greek, it seems, looked forward to the first appearance of birds, whose return heralds the spring, even more eagerly than we do. Hence the proverbial cry of joy <foreign xml:lang="grc">ὥρα νέα, χελιδών</foreign> <gloss xml:lang="eng"></gloss>. 
+
+
+<cit>
+
+
+<bibl>Aristoph. Equit. 419:</bibl> 
+
+
+<quote xml:lang="grc">Σκέφψασϑε, παῖδες, οὐχ ὁρᾶϑ'; ὥρα νέα, χελιδών. </quote>
+ 
+
+
+<quote xml:lang="eng">look, children, don't you see? A new season -- the swallow. </quote>
+ </cit>
+ and the comic lament of Mnesilochos 
+
+
+<cit>
+
+
+<bibl>Thesmoph. 1:</bibl> 
+
+
+<quote xml:lang="grc">ὦ Ζεῦ, χελιδὼν ἆρα πότε φανήσεται; </quote>
+ 
+
+
+<quote xml:lang="eng">O Zeus, when will the swallow appear? </quote>
+ </cit>
+ [Especially relevant here is the Rhodian lullaby 
+
+
+<cit>
+
+
+<bibl>Athen. <ref n="romarab">VII, 60</ref> <ref n="pageref">p. 360</ref>:</bibl> 
+
+
+<quote xml:lang="grc"> 
+
+<l>ἦλθ᾽, ἦλϑε χελιδών,</l> 
+
+<l>καλὰς ὥρας ἄγουσα,</l> 
+
+<l>καλοὺς ἐνιαυτούς,</l> 
+
+<l>ἐπὶ γαστέρα λευκά,</l> 
+
+<l>ἐπὶ νῶτα μέλαινα. κ. τ. λ.</l> </quote>
+ 
+
+
+<quote xml:lang="eng"> 
+
+<l>The swallow has come, the swallow has come,</l> 
+
+<l>bringing the fair seasons,</l> 
+
+<l>bringing the good years,</l> 
+
+<l>upon her white belly,</l> 
+
+<l>upon her black back, etc.</l> </quote>
+ </cit>
+ Even today, children in Greece sing a similar song on March 1st, by turning a wooden swallow on a cylinder: G. Wolff im Philol. Anz. 1872, <ref n="romarab">IV, 8</ref>. 144. Vase paintings: Monum. ined. dell’ Instit. arch. <ref n="romarab">II, 24</ref> mit Panofka in den Annali 1835, t. <ref n="bookpage">VII, <ref n="pageref">p. 233-242</ref></ref>.] — Even the proverb "One swallow does not make a summer" is literally the same in Greek. 
+
+
+<cit>
+
+
+<bibl>Aristot. Ethic. Nicom. <ref n="romarab">I, 6</ref>, <ref n="pageref">p. 1098</ref>:</bibl> 
+
+
+<quote xml:lang="grc">
+
+<l>μία γὰρ χελιδὼν ἔαρ οὐ ποιεῖ.</l> </quote>
+ 
+
+
+<quote xml:lang="eng">A single swallow does not make it spring. </quote>
+ </cit>
+ The kite, <foreign>ἴκτινος</foreign>, which appears even earlier, was greeted with joy in the same way.. 
+
+
+<cit>
+
+
+<bibl>Aristoph. Av. 712:</bibl> 
+
+
+<quote xml:lang="grc">
+
+<l>ἴκτινος δ᾽ αὖ μετὰ ταῦτα φανεὶς ἑτέραν ὥραν ἀποφαίνει,</l> 
+
+<l>ἡνίκα πεκτεῖν ὥρα προβάτων πόκον ἠρινόν· εἶτα χελιδών,</l> 
+
+<l>ὅτε χρὴ χλαῖναν πωλεῖν ἤδη καὶ ληδάριόν τι πρίασϑαι.</l> </quote>
+ 
+
+
+<quote xml:lang="eng">
+
+<l>And then the kite appears, announcing another season,</l> 
+
+<l>when it is time to pluck the spring fleece of the sheep; then the swallow, </l> 
+
+<l>when one must now sell one's cloak and buy a light coat.</l> </quote>
+ </cit>
+ <pb n="22"/> The exuberant joy over their arrival is expressed by the idiom 
+
+
+<cit>
+
+
+<bibl>v. 500</bibl> 
+
+
+<quote xml:lang="grc">προκυλίνδεσθαι τοῖς ἰκτίνοις </quote>
+ 
+
+
+<quote xml:lang="eng">to tumble forward at the hoopoes</quote>
+ </cit>
+, on which the Scholiast remarks: 
+
+
+<cit>
+
+
+<bibl>Scholiast</bibl> 
+
+
+<quote xml:lang="grc">ἔαρος ἀρχομένου ἴκτινος φαίνεται εἰς τὴν Ἑλλάδα, ἐφ᾽ ᾧ ἡδόμενοι κυλίνδονται. </quote>
+ 
+
+
+<quote xml:lang="eng">At the beginning of spring the hoopoe appears in Greece, at which they [?] roll about in delight. </quote>
+ </cit>
+</p></note> <note n="20" xml:lang="deu"> 
+
+
+<p> Die von Demosth. de cor. 129 u. 258 erwähnte Schule, wo Aeschines und sein Vater niedere Dienste verrichteten.</p></note> <note n="20" xml:lang="eng"> 
+
+
+<p> The school mentioned by Demosthenes in de cor. 129 and 258, where Aeschines and his father did menial work.</p></note> <note n="21" xml:lang="deu"> 
+
+
+<p> 
+
+
+<cit>
+
+
+<bibl>Lykurg. in Leocr. 40:</bibl> 
+
+
+<quote xml:lang="grc">ὁρᾶν δ᾽ ἦν ἐπὶ μὲν τῶν ϑυρῶν γυναῖκας ἐλευϑέρας, περιφόβους, κατεπτηκυίας καὶ πυνϑανομένας, εἰ ζῶσι, τὰς μὲν ὑπὲρ ἀνδρός, τὰς δ' ὑπὲρ πατρός, τὰς δ᾽ ὑπὲρ ἀδελφῶν, ἀναξίως αὑτῶν καὶ τῆς πόλεως ὁρωμένας. τῶν δὲ ἀνδρῶν τοὺς τοῖς σώμασιν ἀπειρηκότας καὶ τὰς ἡλικίας πρεσβυτέρους καὶ ὑπὸ τῶν νόμων τοῦ στρατεύεσθαι ἀφειμένους ἰδεῖν ἦν καθ᾽ ὅλην τὴν πόλιν ἐπὶ γήρως ὁδῷ περιφϑειρομένους, διπλᾶ τὰ ἱμάτια ἐμπεπορπημένους. πολλῶν δὲ καὶ δεινῶν κατὰ τήν πόλιν γιγνομένων καὶ πάντων τῶν πολιτῶν τὰ μέγιστα ἠτυκηκότων, μάλιστ᾽ ἄν τις ἤλγησε καὶ ἐδάκρυεν ἐπὶ ταῖς τῆς πόλεως συμφοραῖς, ἡνίχ᾽ ὁρᾶν ἦν τὸν δῆμον φηφισάμενον τοὺς μὲν δούλους ἐλευϑέρους, τοὺς δὲ ξένους Ἀθηναίους, τοὺς δ᾽ ἀτίμους ἐπιτίμους. </quote>
+ 
+
+
+<quote xml:lang="eng">One could see at the doors freeborn women, frightened and crouching, asking if their loved ones were alive - some for a husband, some for a father, some for brothers - a sight unworthy of them and of the city. Of the men, one could see those exhausted in body and advanced in years, exempt by law from military service, making their way with staffs throughout the whole city, wrapped in double cloaks. And though many terrible things were happening in the city and all the citizens had suffered greatly, one would have felt the most pain and wept for the misfortunes of the city, when one saw the people voting to free the slaves, make foreigners citizens, and restore civil rights to the disenfranchised. </quote>
+ </cit>
+</p></note> <note n="21" xml:lang="eng"> 
+
+
+<p> 
+
+
+<cit>
+
+
+<bibl>Lykurg. in Leocr. 40:</bibl> 
+
+
+<quote xml:lang="grc">ὁρᾶν δ᾽ ἦν ἐπὶ μὲν τῶν ϑυρῶν γυναῖκας ἐλευϑέρας, περιφόβους, κατεπτηκυίας καὶ πυνϑανομένας, εἰ ζῶσι, τὰς μὲν ὑπὲρ ἀνδρός, τὰς δ' ὑπὲρ πατρός, τὰς δ᾽ ὑπὲρ ἀδελφῶν, ἀναξίως αὑτῶν καὶ τῆς πόλεως ὁρωμένας. τῶν δὲ ἀνδρῶν τοὺς τοῖς σώμασιν ἀπειρηκότας καὶ τὰς ἡλικίας πρεσβυτέρους καὶ ὑπὸ τῶν νόμων τοῦ στρατεύεσθαι ἀφειμένους ἰδεῖν ἦν καθ᾽ ὅλην τὴν πόλιν ἐπὶ γήρως ὁδῷ περιφϑειρομένους, διπλᾶ τὰ ἱμάτια ἐμπεπορπημένους. πολλῶν δὲ καὶ δεινῶν κατὰ τήν πόλιν γιγνομένων καὶ πάντων τῶν πολιτῶν τὰ μέγιστα ἠτυκηκότων, μάλιστ᾽ ἄν τις ἤλγησε καὶ ἐδάκρυεν ἐπὶ ταῖς τῆς πόλεως συμφοραῖς, ἡνίχ᾽ ὁρᾶν ἦν τὸν δῆμον φηφισάμενον τοὺς μὲν δούλους ἐλευϑέρους, τοὺς δὲ ξένους Ἀθηναίους, τοὺς δ᾽ ἀτίμους ἐπιτίμους. </quote>
+ 
+
+
+<quote xml:lang="eng">One could see at the doors freeborn women, frightened and crouching, asking if their loved ones were alive - some for a husband, some for a father, some for brothers - a sight unworthy of them and of the city. Of the men, one could see those exhausted in body and advanced in years, exempt by law from military service, making their way with staffs throughout the whole city, wrapped in double cloaks. And though many terrible things were happening in the city and all the citizens had suffered greatly, one would have felt the most pain and wept for the misfortunes of the city, when one saw the people voting to free the slaves, make foreigners citizens, and restore civil rights to the disenfranchised. </quote>
+ </cit>
+</p></note> <note n="22" xml:lang="deu"> 
+
+
+<p> 
+
+
+<cit>
+
+
+<bibl>Lykurg. in Leocr. 39: </bibl> 
+
+
+<quote xml:lang="grc">ἡνίκα ἡ μὲν ἧττα καὶ τὸ γεγονὸς πάϑος προςηγγέλλετο. </quote>
+ 
+
+
+<quote xml:lang="eng">When the defeat and the suffered misfortune were being announced. </quote>
+ </cit>
+ Wem? fehlt in den Hdschr.; vergleicht man aber den Geschäftsgang bei einem ähnlichen Ereignisse, der Einnahme von Elateia ( 
+
+
+<cit>
+
+
+<bibl>Demosth. de cor. 169:</bibl> 
+
+
+<quote xml:lang="grc">ἑσπέρα γὰρ ἦν, ἧκε δ᾽ ἀγγέλλων τις ὧς τοὺς πρυτάνεις, ὡς Ἐλάτεια κατείληπται ---· τῇ δ' ὑστεραίᾳ ἅμα τῇ ἡμέρᾳ οἱ μὲν πρυτάνεις τὴν βουλὴν ἐκάλουν εἰς τὸ βουλευτήριον, ὑμεῖς δ᾽ εἰς τὴν ἐκκλησίαν ἐπορεύεσϑε —· καὶ μετὰ ταῦτα ὡς εἰςῆλθεν ἣ βουλὴ καὶ ἀπήγγειλαν τὰ προςηγγελμένα ἑαυτοῖς καὶ τὸν ἥκοντα παρήγαγον κ. τ. λ. </quote>
+ 
+
+
+<quote xml:lang="eng">For it was evening when a messenger came to the prytanes with news that Elatea had been seized. On the next day at dawn, the prytanes summoned the council to the council house while you made your way to the assembly. After this, when the council entered and reported to themselves the news that had been announced and brought forward the messenger, etc. </quote>
+ </cit>
+), so wird es wahrscheinlich, dass auch die Nachricht von der Niederlage zuerst in das Prytaneion gelangt war und von da aus dem Volke bekannt gemacht wurde.</p></note> <note n="22" xml:lang="eng"> 
+
+
+<p> 
+
+
+<cit>
+
+
+<bibl>Lykurg. in Leocr. 39: </bibl> 
+
+
+<quote xml:lang="grc">ἡνίκα ἡ μὲν ἧττα καὶ τὸ γεγονὸς πάϑος προςηγγέλλετο. </quote>
+ 
+
+
+<quote xml:lang="eng">When the defeat and the suffered misfortune were being announced. </quote>
+ </cit>
+ Whom? is missing in the manuscripts; however, if we compare the course of events in a similar case, the capture of Elateia. (
+
+
+<cit>
+
+
+<bibl>Demosth. de cor. 169:</bibl> 
+
+
+<quote xml:lang="grc">ἑσπέρα γὰρ ἦν, ἧκε δ᾽ ἀγγέλλων τις ὧς τοὺς πρυτάνεις, ὡς Ἐλάτεια κατείληπται ---· τῇ δ' ὑστεραίᾳ ἅμα τῇ ἡμέρᾳ οἱ μὲν πρυτάνεις τὴν βουλὴν ἐκάλουν εἰς τὸ βουλευτήριον, ὑμεῖς δ᾽ εἰς τὴν ἐκκλησίαν ἐπορεύεσϑε —· καὶ μετὰ ταῦτα ὡς εἰςῆλθεν ἣ βουλὴ καὶ ἀπήγγειλαν τὰ προςηγγελμένα ἑαυτοῖς καὶ τὸν ἥκοντα παρήγαγον κ. τ. λ. </quote>
+ 
+
+
+<quote xml:lang="eng">For it was evening when a messenger came to the prytanes with news that Elatea had been seized. On the next day at dawn, the prytanes summoned the council to the council house while you made your way to the assembly. After this, when the council entered and reported to themselves the news that had been announced and brought forward the messenger, etc. </quote>
+ </cit>
+). Thus, it is likely that the news of the defeat also first reached the Prytaneion and was announced to the people from there.</p></note> <note n="23" xml:lang="deu"> 
+
+
+<p> Die Weise, in der solche Geschäfte betrieben wurden, ersieht man am besten aus den Reden des Demosthenes gegen Lakritos und Dionysodoros. S. Böckh Staatsh. d. Ath. Β.1, 8. 185 ff. [und Büchsenschütz Besitz und Erwerb im griech. Alterthum. Halle 1869. S. 487.]</p></note> <note n="23" xml:lang="eng"> 
+
+
+<p> The best way to understand how these businesses were conducted is by examining the speeches of Demosthenes against Lakritos and Dionysodoros. See Böckh, Staatsh. d. Ath. Β.1, 8. 185 ff. [and Büchsenschütz Besitz und Erwerb im griech. Alterthum. Halle 1869. <ref n="pageref">p. 487</ref>.]</p></note> <note n="24" xml:lang="deu"> 
+
+
+<p> Nämlich gegen das Gesetz, nach welchem kein Athener Geld zu Getraidehandel nach fremden Hüfen leihen durfte. Demosth. in Laer. 8.50. S. Bóckh 8.79ff. [u. Büchsenschütza. a. O. 8. 547.]</p> </note> <note n="24" xml:lang="eng"> 
+
+
+<p> Specifically, against the law that no Athenian was allowed to lend money for grain trade to foreign ports. Demosth. in Laer. 8.50. See Böckh 8.79ff. [and Büchsenschütza. a. O. 8. 547.] <pb n="23"/></p></note> <note n="25" xml:lang="deu"> 
+
+
+<p> Lykurg. in Leocr. 16.</p></note> <note n="25" xml:lang="eng"> 
+
+
+<p> Lykurg. in Leocr. 16.</p></note> <note n="26" xml:lang="deu"> 
+
+
+<p> Er wurde auf Lykurgs Anklage zum Tode verurtheilt. S. Diodor. Sic. XVI. 88, wo eine schöne Stelle aus Lykurgs Rede aufbewahrt ist. </p></note> <note n="26" xml:lang="eng"> 
+
+
+<p> He was sentenced to death on the accusation of Lykurgus. See Diodor. Sic. XVI. 88, where a fine passage fro Lycurgus' speech is preserved. </p></note> <note n="27" xml:lang="deu"> 
+
+
+<p> Auch hier ist mit wenigen Abänderungen die Erzählung von der Flucht des Leokrates zu Grunde gelegt. 
+
+
+<cit>
+
+
+<bibl>Lykurg. in Leocr. 17:</bibl> 
+
+
+<quote xml:lang="grc">συσκευασάμενος ἃ εἶχε χρήματα μετὰ τῶν οἰκετῶν ἐπὶ τὸν λέμβον κατεκόμισε, τῆς νεὼς ἤδη περὶ τὴν ἀκτὴν ἐξορμώσης· καὶ περὶ δείλην ὀψίαν αὐτὸς μετὰ τῆς ἑταίρας Εἰρηνίδος κατὰ μέσην τὴν ἀκτὴν διὰ τῆς Πυλίδος ἐξελθὼν πρὸς τὴν ναῦν προςέπλευσε καὶ ᾤχετο φεύγων. </quote>
+ 
+
+
+<quote xml:lang="eng">Having packed up the money he had along with his servants, he brought it down to the boat, as the ship was already putting out from the shore. And in the late afternoon, around sunset, he himself with his companion the courtesan Eirenides came out through the Pylid gateway midway along the shore and sailed out to the ship and fled away. </quote>
+ </cit>
+ Vgl. 55, wo ein Bild der Abreise aus dem Hafen (
+
+
+<cit>
+
+
+<bibl>Lykurg. in Leocr. 55:</bibl> 
+
+
+<quote xml:lang="grc">ἀπὸ πάντων τῶν φίλων ὁρώμενοι καὶ ἀποστελλόμενοι, </quote>
+ 
+
+
+<quote xml:lang="eng">Seen off by all his friends, . </quote>
+ </cit>
+vgl. Antiph. de venef. S. 16. Lucian. Amor. 6) dagegen gehalten wird.</p></note> <note n="27" xml:lang="eng"> 
+
+
+<p> Here, too, the story of the flight of Leocrates is the basis, with a few changes. 
+
+
+<cit>
+
+
+<bibl>Lykurg. in Leocr. 17:</bibl> 
+
+
+<quote xml:lang="grc">συσκευασάμενος ἃ εἶχε χρήματα μετὰ τῶν οἰκετῶν ἐπὶ τὸν λέμβον κατεκόμισε, τῆς νεὼς ἤδη περὶ τὴν ἀκτὴν ἐξορμώσης· καὶ περὶ δείλην ὀψίαν αὐτὸς μετὰ τῆς ἑταίρας Εἰρηνίδος κατὰ μέσην τὴν ἀκτὴν διὰ τῆς Πυλίδος ἐξελθὼν πρὸς τὴν ναῦν προςέπλευσε καὶ ᾤχετο φεύγων. </quote>
+ 
+
+
+<quote xml:lang="eng">Having packed up the money he had along with his servants, he brought it down to the boat, as the ship was already putting out from the shore. And in the late afternoon, around sunset, he himself with his companion the courtesan Eirenides came out through the Pylid gateway midway along the shore and sailed out to the ship and fled away. </quote>
+ </cit>
+ Cf. 55, where an image of the departure from the harbor (
+
+
+<cit>
+
+
+<bibl>Lykurg. in Leocr. 55:</bibl> 
+
+
+<quote xml:lang="grc">ἀπὸ πάντων τῶν φίλων ὁρώμενοι καὶ ἀποστελλόμενοι, </quote>
+ 
+
+
+<quote xml:lang="eng">Seen off by all his friends, . </quote>
+ </cit>
+cf. Antiph. de venef. <ref n="pageref">p. 16</ref>. Lucian. Amor. 6) by contrast is preserved.</p></note> <note n="28" xml:lang="deu"> 
+
+
+<p> Nach 
+
+
+<cit>
+
+
+<bibl>Isocr. Aegin. 22:</bibl> 
+
+
+<quote xml:lang="grc">ὅτι τὸ χωρίον (Τροιζῆνα) ἐπυνθάνετο νοσῶδες εἶναι. </quote>
+ 
+
+
+<quote xml:lang="eng">because he had heard that the place (Troezen) was unhealthy </quote>
+ </cit>
+ [Besonders das Trinkwasser in Trözen war verrufen (Athen. <ref n="romarab">II, 16</ref>) und erzeugte nach Vitruv. VIII. 3 und Plin. N. H. <ref n="romarab">XXXI, 2, 11</ref>. das Podagra. Curtius Peloponn. B. II, S. 438 schreibt die heutige Ungesundheit des dortigen Klimas der niedrigen Küste, Bursian Geogr. <ref n="romarab">II, 8</ref>. 83 den Ausdünstungen der baumartigen Wolfsmilch (Euphorbia dendroides) zu.]</p></note> <note n="28" xml:lang="eng"> 
+
+
+<p> According to 
+
+
+<cit>
+
+
+<bibl>Isocr. Aegin. 22:</bibl> 
+
+
+<quote xml:lang="grc">ὅτι τὸ χωρίον (Τροιζῆνα) ἐπυνθάνετο νοσῶδες εἶναι. </quote>
+ 
+
+
+<quote xml:lang="eng">because he had heard that the place (Troezen) was unhealthy </quote>
+ </cit>
+ [Especially the drinking water in Troezen was infamous (Athen. <ref n="romarab">II, 16</ref>) and, according to Vitruvius VIII. 3 and Pliny N. H. <ref n="romarab">XXXI, 2, 11</ref>, caused gout. Curtius Peloponn. B. <ref n="bookpage">II, <ref n="pageref">p. 438</ref></ref> attributes the current unhealthiness of the climate there to the low coast, Bursian Geogr. <ref n="romarab">II, 8</ref>. 83 to the emanations of the tree-like milkweed (Euphorbia dendroides).]</p></note> <note n="29" xml:lang="deu"> 
+
+
+<p> Wie Aelian. Var. Hist. <ref n="romarab">XII, 52</ref> erzählt, verglich Isokrates Athen mit einer Hetäre, an deren Reizen man wohl flüchtiges Gefallen finde, die aber niemand zur Frau haben möge: 
+
+
+<cit>
+
+
+<bibl>Aelian. Var. Hist. <ref n="romarab">XII, 52</ref></bibl> 
+
+
+<quote xml:lang="grc">καὶ οὖν καὶ τὴν Ἀϑηναίων πόλιν ἐνεπιδημῆσαι μὲν εἶναι ἡδίστην καὶ κατά γε τοῦτο πασῶν τῶν κατὰ τὴν Ἑλλάδα διαφέρειν, ἐνοικῆσαι δὲ ἀσφαλῇ μηκέτι εἶναι: und ähnlich soll Aristoteles, um sein Urtheil über Athen befragt (τίς ἐστιν ἡ τῶν Ἀϑηναίων πόλις), geantwortet haben: παγκάλη, ἀλλ᾽ ἐν αὐτῇ ὄγχνη ἐπ᾽ ὄγχνῃ γηράσκει, σῦκον δ᾽ ἐπὶ σύκῳ· τοὺς συκοφάντας λέγων, </quote>
+ 
+
+
+<quote xml:lang="eng">And so they say that the city of the Athenians is most pleasant to visit and in this respect surpasses all cities in Greece, but is no longer safe to dwell in. And similarly when Aristotle was asked about his opinion of Athens (What is the city of the Athenians like?), he is said to have answered: "Very beautiful, but in it pear is grafted on pear, fig on fig; I speak of the slanderers." </quote>
+ </cit>
+ setzt Aelian. V. Hist. <ref n="romarab">III, 36</ref> hinzu; vgl. K. F. Hermann ad Lucian. Hist. conscr. <ref n="pageref">p. 249</ref> - und mehr unten Sc. IV, Anm. 13.</p></note> <note n="29" xml:lang="eng"> 
+
+
+<p>As Aelian tells us in Varia Historia <ref n="romarab">XII, 52</ref>, Isocrates compared Athens to a courtesan, whose charms might be enjoyed briefly, but whom no one would want as a wife.: 
+
+
+<cit>
+
+
+<bibl>Aelian. Var. Hist. <ref n="romarab">XII, 52</ref></bibl> 
+
+
+<quote xml:lang="grc">καὶ οὖν καὶ τὴν Ἀϑηναίων πόλιν ἐνεπιδημῆσαι μὲν εἶναι ἡδίστην καὶ κατά γε τοῦτο πασῶν τῶν κατὰ τὴν Ἑλλάδα διαφέρειν, ἐνοικῆσαι δὲ ἀσφαλῇ μηκέτι εἶναι: und ähnlich soll Aristoteles, um sein Urtheil über Athen befragt (τίς ἐστιν ἡ τῶν Ἀϑηναίων πόλις), geantwortet haben: παγκάλη, ἀλλ᾽ ἐν αὐτῇ ὄγχνη ἐπ᾽ ὄγχνῃ γηράσκει, σῦκον δ᾽ ἐπὶ σύκῳ· τοὺς συκοφάντας λέγων, </quote>
+ 
+
+
+<quote xml:lang="eng">And so they say that the city of the Athenians is most pleasant to visit and in this respect surpasses all cities in Greece, but is no longer safe to dwell in. And similarly when Aristotle was asked about his opinion of Athens (What is the city of the Athenians like?), he is said to have answered: "Very beautiful, but in it 
+
+<l>pear is grafted on pear, fig on fig;</l> I speak of the slanderers," </quote>
+ </cit>
+ Aelian adds in V. Hist. <ref n="romarab">III, 36</ref>.; cf. K. F. Hermann ib Lucian. Hist. conscr. <ref n="pageref">p. 249</ref> - and more in Sc. IV, note. 13.</p></note> <note n="30" xml:lang="deu"> 
+
+
+<p> 
+
+
+<cit>
+
+
+<bibl>Philo t. <ref n="bookpage">II, <ref n="pageref">p. 467</ref></ref> Mangey:</bibl> 
+
+
+<quote xml:lang="grc">ὅπερ ἐν ὀφϑαλμῷ κόρη ἣ ἐν ψυχῇ λογισμός, τοῦτ᾽ ἐν Ἑλλάδι Ἀϑῆναι, </quote>
+ 
+
+
+<quote xml:lang="eng">Just as the pupil is in the eye, and reason/logic is in the soul, so is Athens in Greece </quote>
+ </cit>
+ vgl. 
+
+
+<cit>
+
+
+<bibl>Dicaearch. <ref n="pageref">p. 141</ref> Fuhr:</bibl> 
+
+
+<quote xml:lang="grc">ὅσον αἱ λοιπαὶ πόλεις πρός τε ἡδονὴν καὶ βίου διόρϑωσιν τῶν ἀγρῶν διαφέρουσι, τοσοῦτον τῶν λοιπῶν πόλεων ἡ τῶν Ἀϑηναίων παραλλάττει, </quote>
+ 
+
+
+<quote xml:lang="eng">As much as the other cities differ in terms of pleasure and way of life from the countryside, by that much the city of the Athenians differs from the other cities. </quote>
+ </cit>
+eine Huldigung, welche Athen gebührt, man mag <pb n="24"/> auf den äusseren Glanz Rücksicht nehmen, den der Verein aller Künste in hober Vollkommenheit der Stadt verliehen hatte, oder auf Bildung und feine Sitte, oder den lebhaften Verkehr, der es gleichsam zum Marktplatze der Welt machte. Auf den ersten Vorzug mag es zu beziehen sein, wenn bei Athen. <ref n="romarab">I, 36</ref> im Vergleiche anderer Städte gesagt wird: 
+
+
+<cit>
+
+
+<bibl>Athen. <ref n="romarab">I, 36</ref></bibl> 
+
+
+<quote xml:lang="grc">Ἀλεξανδρέων μὲν τὴν χρυσῆν, Ἀντιοχέων δὲ τὴν καλήν, Νικομηδέων δὲ τὴν περικαλλῆ, προσέτι δὲ 
+
+<l>τὴν λαμπροτάτην πόλεων πασῶν, ὁπόσας ὁ Ζεὺς ἀναφαίνει,</l> τὰς Ἀθήνας λέγω: </quote>
+ 
+
+
+<quote xml:lang="eng">Of the Alexandrians the golden city, of the Antiocheans the fair city, of the Nicomedians the very beautiful city, and in addition 
+
+<l>"the most brilliant of all cities, as many as Zeus brings to light,"</l> I speak of Athens. The passage refers poetically to various famous cities - Alexandria, Antioch, Nicomedia - before quoting a line from the Iliad about Athens being the most brilliant city. </quote>
+ </cit>
+ in Bezug auf den letzten sagt noch 
+
+
+<cit>
+
+
+<bibl>Charit. I, 11:</bibl> 
+
+
+<quote xml:lang="grc">ὥσπερ γὰρ ἐν ἀγορᾷ τοὺς ἄνδρας, οὕτως ἐν Ἀϑήναις τὰς πόλεις ἔστιν ἰδεῖν. </quote>
+ 
+
+
+<quote xml:lang="eng">For just as in the marketplace one can see the men, so in Athens one can see the cities. </quote>
+ </cit>
+ 
+
+
+<cit>
+
+
+<bibl>Alciphr. <ref n="romarab">II, 8</ref>:</bibl> 
+
+
+<quote xml:lang="grc">(ὄψομαι) ὅλην ἐν ταῖς Ἀϑήναις τὴν Ἑλλάδα, ὅλην τὴν Ἰωνίαν, τὰς Κυκλάδας πάσας: </quote>
+ 
+
+
+<quote xml:lang="eng">(I will see) all Greece in Athens, all Ionia, all the Cyclades. </quote>
+ </cit>
+ [Creuzer Oratio de civitate Athenarum omnis humanitatis parente, Frankf. a. M. 1826, 8, namentlich <ref n="pageref">p. 51</ref> ff. Bergk Griech. Literatur in Hall. Encyklop. LXXXI, S. 286.] Aber mehr als auf diesen äusseren Glanz durfte Athen darauf stolz sein, vor allen anderen Städten sich einen Tempel der Musen, eine ächte Pflegerin für Wissenschaft und Kunst, eine Schule für ganz Griechenland, ja 
+
+
+<cit> 
+
+
+<quote xml:lang="grc">κοινὸν παιδευτήριον πᾶσιν ἀνϑρώποις </quote>
+ 
+
+
+<quote xml:lang="eng">the common school for all human beings. </quote>
+ 
+
+
+<bibl>(Diodor. Sic. <ref n="romarab">XIII, 27</ref>)</bibl> </cit>
+ nennen zu dürfen; und dieses Bewusstsein spricht sich nicht nur in der bekannten Leichenrede des Perikles bei Thucyd. <ref n="romarab">II, 41</ref>, sondern auch in zahlreichen anderen Stellen seiner Redner und Dichter aus, worunter besonders Isokrates den Mund sehr voll zu nehmen pflegt; vgl. de bigis S. 27, de permut. δ. 299, and am stolzesten 
+
+
+<cit>
+
+
+<bibl>Paneg. 50: </bibl> 
+
+
+<quote xml:lang="grc">τοσοῦτον ἀπολέλοιπεν ἡ πόλις ἡμῶν περὶ τὸ φρονεῖν καὶ λέγειν τοὺς ἄλλους ἀνθρώπους, ὥσϑ' οἱ ταύτης μαϑηταὶ τῶν ἄλλων διδάσκαλοι γεγόνασι, καὶ τὸ τῶν Ἑλλήνων ὄνομα πεποίηκε μηκέτι τοῦ γένους ἀλλὰ τῆς διανοίας δοκεὶν εἶναι, καὶ μᾶλλον Ἕλληνας καλεῖσϑαι τοὺς τῆς παιδεύσεως τῆς ἡμετέρας ἢ τοὺς τῆς κοινῆς φύσεως μετέχοντας. </quote>
+ 
+
+
+<quote xml:lang="eng">Our city has left behind for all mankind a common school of thought and speech, so that her disciples have become the teachers of others. And she has made the title of Greek indicate culture rather than race, and men are called Greeks because they share in our education rather than in our common nature. </quote>
+ </cit>
+ [Auch Plato nannte ja Athen 
+
+
+<cit>
+
+
+<bibl>Plato Protag. <ref n="pageref">p. 337</ref></bibl> 
+
+
+<quote xml:lang="grc">αὐτὸ τὸ πρυτανεῖον τῆς σοφίας </quote>
+ 
+
+
+<quote xml:lang="eng">The very town hall of wisdom </quote>
+ </cit>
+ und sagte ebendaselbst 
+
+
+<cit>
+
+
+<bibl>Plato Protag. <ref n="pageref">p. 319</ref>:</bibl> 
+
+
+<quote xml:lang="grc">ἐγὼ γὰρ Ἀθηναίους ὥσπερ καὶ οἱ ἄλλοι Ἕλληνες φημὶ σοφοὺς εἶναι </quote>
+ 
+
+
+<quote xml:lang="eng">For I, just like the other Greeks, say that the Athenians are wise. </quote>
+ </cit>
+und Herodotus bezeugt den Athenern als Ausländer: 
+
+
+<cit>
+
+
+<bibl>Herodot. <ref n="romarab">I, 60</ref> </bibl> 
+
+
+<quote xml:lang="grc">ἐν Ἀθηναίοισι τοῖσι πρώτοισι λεγομένοισι εἶναι Ἑλλήνων σοφίην. </quote>
+ 
+
+
+<quote xml:lang="eng">among the Athenians who are said to be the first of the Greeks in wisdom</quote>
+ </cit>
+ Ja, am Ende des peloponnesischen Krieges soll das delphische Orakel die Stadt τὴν <foreign xml:lang="grc">κοινὴν ἑστίαν τῆς Ἑλλάδος</foreign> genannt haben: Athen. <ref n="romarab">V, 12</ref>; Aelian. V. Hist. <ref n="romarab">IV, 6</ref>. Vgl. 
+
+
+<cit>
+
+
+<bibl>Cic. ad fam. <ref n="romarab">VI, 1, 6</ref>:</bibl> 
+
+
+<quote xml:lang="lat">urbs, in qua nata et alta est ratio et moderatio vitae, </quote>
+ 
+
+
+<quote xml:lang="eng">The city, in which [one] is born and [where] there is a high standard and moderation of life. </quote>
+ </cit>
+Wenn K. F. Hermann zu 8. 30 <pb n="25"/> des Charikles Becker deshalb getadelt hat, weil er solche Lobsprüche bloss als Schmeicheleien behandle, welche der Eitelkeit des Volkes von seinen Rednern und Demagogen dargebracht und wodurch ein Dünkel erzeugt worden sei, der leicht zur Verachtung Anderer führte, so kann man Becker in Bezug auf die Zeit, in welcher der Roman spielt, sicher nicht Unrecht geben. Gefehlt hat er eben — und dies sagen wir besonders auch in Bezug auf die zweite Hälfte dieser Anmerkung — darin, dass er den Unterschied der Perioden vor und nach Perikles zu wenig hervorgehoben hat. Von den Athenern der sittenstrengen, patriotischen Zeit konnte noch Plato rühmen: 
+
+
+<cit>
+
+
+<bibl>Plato Legg. I. <ref n="pageref">p. 642</ref> C.</bibl> 
+
+
+<quote xml:lang="grc">τό δὲ ὑπὸ πολλῶν λεγόμενον, ὡς ὅσοι Ἀθηναίων εἰσὶν ἀγαϑοὶ διαφερόντως εἰσὶ τοιοῦτοι, δοκεῖ ἀληϑέστατα λέγεσϑαι· μόνοι γὰρ ἄνευ ἀνάγκης, αὐτοφυῶς, ϑείᾳ μοίρᾳ ἀληϑῶς καὶ οὔτι πλαστῶς εἰσιν ἀγαϑοί. </quote>
+ 
+
+
+<quote xml:lang="eng">But what is said by many, that those Athenians who are good are outstandingly so, seems to me to be most true; for alone without compulsion, naturally, by divine fortune truly and not pretentiously they are good.</quote>
+ </cit>
+ Vgl. Bernhardy Grundriss der griech. Literatur. Dritte Bearb. 1861. B. I. S. 436.] Ausserdem wurde dem Volke beständig wiederholt, wie grosse Thaten in früherer Zeit von Athen ausgegangen seien, welche Verdienste es um ganz Griechenland habe. Darin gleichen sich alle Lob- und Begräbnisereden, die in der Regel ganz denselben Gang nehmen und zunächst den ziemlich zweideutigen Ruhm hervorheben, dass die Athener die einzigen Autochthonen in Griechenland seien, ein Ruhm, auf den man sich in der That nicht wenig eingebildet zu haben und der auch nicht bloss von den Rednern als Effectphrase benutzt worden zu sein scheint. Mehr als alle schϑοn klingenden Tiraden sprechen dafür die ernsten Worte Lykurgs, wo es in Bezug auf den angeführten Beschluss nach der Schlacht bei Chäroneia: 
+
+
+<cit>
+
+
+<bibl>in Leocr. 41</bibl> 
+
+
+<quote xml:lang="grc">τοὺς δούλους ἐλευϑέρους, τοὺς ξένους Ἀϑηναίους εἶναι,</quote>
+ 
+
+
+<quote xml:lang="eng">The slaves to be free, the foreigners to be Athenians -</quote>
+ </cit>
+heisst: 
+
+
+<cit>
+
+
+<bibl>in Leocr. 41</bibl> 
+
+
+<quote xml:lang="grc">[ὁ δῆμος] ὃς πρότερον ἐπὶ τῷ αὐτόχϑων εἶναι καὶ ἐλεύϑερος ἐσεμνύνετο, </quote>
+ 
+
+
+<quote xml:lang="eng"> [the common people] who previously prided themselves on being earthborn and free,</quote>
+ </cit>
+ und eben so ernst sagt von sich der Chor bei 
+
+
+<cit>
+
+
+<bibl>Aristoph. Vesp. 1076:</bibl> 
+
+
+<quote xml:lang="grc">
+
+<l>Ἀττικοὶ μόνοι δικαίως εὐγενεῖς αὐτόχϑονες.</l> </quote>
+ 
+
+
+<quote xml:lang="eng">Only the Attic people [are] rightly noble native born. </quote>
+ </cit>
+ Der Begriff des <foreign xml:lang="grc">αὐτόχϑων εἶναι</foreign> <gloss xml:lang="eng">to be born from the soil</gloss> ist verschieden gefasst worden, und es ist nicht uninteressant aus einer Zusammenstellung sämmtlicher Hauptstellen zu seben, welchen Sinn man damit verband. Ursprünglieh wollte man nichts anderes damit sagen, als dass die Bewohner Attikas von jeher diese Landschaft bewohnt hätten, ohne weder irgendwo verdrängt worden noch selbst eingewandert zu sein. So mit einfach 
+
+
+<cit>
+
+
+<bibl>Thucyd. <ref n="romarab">II, 36</ref>:</bibl> 
+
+
+<quote xml:lang="grc">τὴν χώραν ἀεὶ οἱ αὐτοὶ οἰκοῦντες, </quote>
+ 
+
+
+<quote xml:lang="eng">Always inhabiting the same land,</quote>
+ </cit>
+ <pb n="26"/> und deutlicher noch 
+
+
+<cit>
+
+
+<bibl>Lesbonax Protrept. <ref n="pageref">p. 22</ref>:</bibl> 
+
+
+<quote xml:lang="grc">οἱ μὲν ἄλλοι πάντες Ἕλληνες ἐκ τῆς σφετέρας αὐτῶν μεταστάντες οἰκοῦσιν ἕκαστοι αὐτῶν, ἐξελάσαντες ἑτέρους καὶ αὐτοὶ ἐξελαϑέντες ὑφ᾽ ἐτέρων, καὶ κατὰ τοῦτο δύο φέρεσϑε καυχήματα ἀρετῆς· οὔτε γὰρ ἐξηλάϑητε τῆς σφετέρας αὐτῶν ὑπὸ οὐδαμῶν ἀνθρώπων οὔτε ἐξελάσαντες ἑτέρους αὐτοὶ οἰκεῖτε. </quote>
+ 
+
+
+<quote xml:lang="eng">While all other Greeks have moved from their own lands and dwell each in their places, having driven out others and themselves having been driven out by others, you have two grounds for boasting of valor: for you were driven out by no men from your own land nor after driving out others do you yourselves inhabit it.</quote>
+ </cit>
+ Während aber hier die Frage über den ersten Ursprung ganz unberücksichtigt bleibt, mischt sich zu ihrer Lösung anderwärts die Vorstellung des <foreign xml:lang="grc">γηγενεῖς εἶναι</foreign>, d. h. Erdgeborene im eigentlichen Sinne zu sein, bei. So bei 
+
+
+<cit>
+
+
+<bibl>Demosth. Epitaph. 4:</bibl> 
+
+
+<quote xml:lang="grc">οὐ γὰρ μόνον εἰς πατέρ᾽ αὐτοῖς καὶ τῶν ἄνω προγόνων καθ' ἄνδρα ἀνενεγκεῖν ἑκάστῳ τὴν φύσιν ἔστιν, ἀλλ᾽ εἰς ὅλην κοινῇ τὴν ὑπάρχουσαν πατρίδα, ἧς αὐτόχϑονες ὁμολογοῦνται εἶναι· μόνοι γὰρ πάντων ἀνθρώπων, ἐξ ἧσπερ ἔφυσαν, ταύτην ᾧκησαν καὶ τοῖς ἐξ αὐτῶν παρέδωκαν, </quote>
+ 
+
+
+<quote xml:lang="eng">For it is possible to trace back for each man not only to his father and earlier ancestors the nature of each, but for the whole native land collectively, of which they are acknowledged to be native born; for alone of all men, from the very land from which they sprang, they inhabited this land and handed it down to their descendants.</quote>
+ </cit>
+ und denselben Sinn haben auch die Worte bei 
+
+
+<cit>
+
+
+<bibl>Plato Menex. <ref n="pageref">p. 287</ref>:</bibl> 
+
+
+<quote xml:lang="grc">τῆς δ᾽ εὐγενείας πρῶτον ὑπῆρξε τοῖσδε ἡ τῶν προγόνων γένεσις, οὐκ ἔπηλυς οὖσα οὐδὲ τοὺς ἐγκόνους τούτους ἀποφηναμένη μετοικοῦντας ἐν τῇ χώρᾳ ἄλλοϑεν σφῶν ἠχόντων, ἀλλ' αὐτόχϑονας καὶ τῷ ὄντι ἐν πατρίδι οἰκοῦντας καὶ ζῶντας, καὶ τρεφομένους oby ὑπὸ μητρυιᾶς ὡς ἄλλοι, ἀλλ ὁπὸ μητρὸς τῆς χώρας ἐν ἡ ᾧκουν. </quote>
+ 
+
+
+<quote xml:lang="eng">For it was the genesis first of their ancestors that established the nobility of these men, not having come in from outside nor revealing that the descendants were immigrants in the land, having come from elsewhere, but being native born and truly dwelling in their fatherland and living and being nourished not by a stepmother land like others but by their mother country in which they dwelt. </quote>
+ </cit>
+ Dazu kommt nun noch bei Anderen die ausdrückliche Verwahrung gegen den Gedanken, als könnte in Attika das reine hellenische Blut sich mit fremdem vermischt haben. 
+
+
+<cit>
+
+
+<bibl>Isocr. Paneg. 24:</bibl> 
+
+
+<quote xml:lang="grc">ταύτην γὰρ οἰκοῦμεν οὐχ ἑτέρους ἐκβαλόντες οὐδ᾽ ἐρήμην καταλαβόντες οὐδ' ἐκ πολλῶν ἐθνῶν μιγάδες συλλεγέντες, ἀλλ᾽ οὕτω καλῶς καὶ γνησίως γεγόναμεν, ὥστ᾽ ἐξ ἧσπερ ἔφυμεν, ταύτην ἔχοντες ἅπαντα τὸν χρόνον διατελοῦμεν, αὐτόχϑονες ὄντες καὶ τῶν ὀνομάτων τοῖς αὑτοῖς, οἷσπερ τοὺς οἰκειοτάτους, τὴν πόλιν ἔχοντες προσειπεῖν. </quote>
+ 
+
+
+<quote xml:lang="eng">For we inhabit this land not by driving out others nor by taking possession of it deserted nor, mingled from many peoples, gathered together, but so nobly and genuinely are we come to be that, from the very land from which we sprang, this we continue to possess through all time, being native born and calling our city by the very names as those most akin to us.</quote>
+ </cit>
+ Am entschiedensten wird dieses ausgesprochen und jeder Gedanke an eine Vermischung der Bewohner von Attika mit fremden Colonisten zurückgewiesen von 
+
+
+<cit>
+
+
+<bibl>Plato Menex. <ref n="pageref">p. 245</ref>:</bibl> 
+
+
+<quote xml:lang="grc">οὕτω δή τοι τό γε τῆς πόλεως γενναῖον καὶ ἐλεύϑερον βέβαιόν τε καὶ ὕγιές ἐστι καὶ φύσει μισοβάρβαρον διὰ τὸ εἰλιχρεvos εἶναι Ἕλληνες καὶ ἀμιγεῖς βαρβάρων. οὐ γὰρ Πέλοπες οὐδὲ Κάδμοι οὐδὲ Αἴγυπτοί τε καὶ Δαναοὶ οὐδὶ ἄλλοι πολλοί, φύσει μὲν βάρβαροι ὄντες νόμῳ δὲ Ἕλληνες, συνοικοῦσιν ἡμῖν, ἀλλ᾽ αὐτοὶ “Ἕλληνες, οὐ μιξοβάρβαροι οἰκοῦμεν. </quote>
+ 
+
+
+<quote xml:lang="eng">Thus indeed the noble spirit and freedom of the city remains secure and healthy and by nature hostile to barbarians, because it is purely Greek and unmixed with barbarians. For not Pelops nor Cadmus nor Egyptians and Danaus nor many others, barbarian by nature but Greek by law, dwell with us, but we ourselves, Greeks, not half-barbarians, inhabit the city.</quote>
+ </cit>
+Dass der hohe Werth, welchen der Athener darauf legte, auch Gelegenheit zu Spöttereien geben mochte, lässt sich denken, und sehr beissend ist der Witz des Antisthenes, <pb n="27"/> der diese <foreign xml:lang="grc">γηγενεῖς</foreign> in eine Reihe mit den Schnecken und Heuschrecken stellte; vgl. 
+
+
+<cit>
+
+
+<bibl>Diog. Laërt. <ref n="romarab">VI, 1</ref>:</bibl> 
+
+
+<quote xml:lang="grc">καὶ αὐτὸς δὲ τοὺς Ἀθηναίους ἐπὶ τῷ γηγενεῖς εἶναι σεμνυνομένους ἐκφαυλίζων ἔλεγε μηδὲν εἶναι κογλιῶν καὶ ἀττελέβων εὐγενεστέρους. </quote>
+ 
+
+
+<quote xml:lang="eng">And he himself, mocking the Athenians prizing themselves on being earthborn, used to say they were no more noble born than snails and locusts.</quote>
+ </cit>
+ [Mit Recht findet Hermann in der Betonung der Autochthonie einen naiven Ausdruck nationalen Heimathsgefühles, dessen tieferen Sinn selbst Plato (Pol. <ref n="bookpage">III, <ref n="pageref">p. 414</ref></ref> C) nicht unterschätzt habe, und schreibt ihr eine politische Bedeutung zu, indem einerseits allen, selbst den geringsten Athenern durch sie Ebenbürtigkeit und gleicher Rechtsanspruch an das gemeinschaftliche Mutterland gewährt worden sei, andererseits aus ihr die Legitimität des Landesbesitzes im Gegensatz zur Usurpation der peloponnesischen Dorier hergeleitet werden konnte. Vgl. Wachsmuth Hellen. Altertbumskunde B. I, S. 386. 810, Preller in Schneidewins Philologus B. <ref n="romarab">VII, 8</ref>. 28 ff. und Schömann Griech. Alterth. I, S. 331.]</p> 
+
+
+<p>So gern sich aber das athenische Volk mit der Erinnerung an solchen aus früherer Zeit ererbten Ruhm schmeicheln liess, so wenig war es gelaunt, Tadel und Zurechtweisungen oder überhaupt Aeusserungen, die nicht nach seinem Sinne und Gefallen waren, anhören zu wollen, und in dem Staate, der sich frei nannte vor allen, war die Freiheit der Rede durch die Laune des Volks gebunden. Es ist ein sehr schätzbares Zeugniss, das uns über diese Intoleranz Isocrates giebt: 
+
+
+<cit>
+
+
+<bibl>Isocrates de pace 14</bibl> 
+
+
+<quote xml:lang="grc">ἐγὼ οἶδα μὲν ὅτι πρόσαντές ἐστιν ἐναντιοῦσθαι ταῖς ὁμετέραις διανοίαις καὶ ὅτι, δημοκρατέας οὔσης, οὐκ ἔστι παῤῥησέα πλὴν ἐνθάδε μὲν τοῖς ἀφρονεστάτοις καὶ μηδὲν ὁμῶν φροντίζουσιν, ἐν δὲ τῷ ϑεάτρῳ τοῖς κωμῳδοδιδασκάλοις, </quote>
+ 
+
+
+<quote xml:lang="eng">I know that it is difficult to oppose our policies and that, since there is a democracy, there is no freedom of speech except here for the most foolish who have no concern for anything, and in the theater for the comic poets...</quote>
+ </cit>
+ und weiterhin: 
+
+
+<quote xml:lang="grc">πρὸς δὲ τοὺς ἐπιπλήττοντας καὶ vouϑετοῦντας ὑμᾶς οὕτω διατέϑεσθε δυσκόλως, ὥσπερ τοὺς κακόν τι τὴν πόλιν ἐργαζομένους. </quote>
+ 
+
+
+<quote xml:lang="eng">But to those who rebuke and admonish you, be as difficult to get along with as those who are doing something bad to the city.</quote>
+ Dies ist hinreichend, um das Gelüste nach solchem wie 
+
+
+<cit> 
+
+
+<quote xml:lang="grc">δημοκρατικὸς ὄχλος οὕτως ἐλευϑεριάζων, </quote>
+ 
+
+
+<quote xml:lang="eng">the mob of common people acting with such freedom</quote>
+<bibl>Alciphr. epist. <ref n="romarab">II, 3</ref></bibl></cit>
+sagt, zu unterdrücken und den Commentar zu den Worten des Aristotles zu liefern: 
+
+
+<cit>
+
+
+<bibl>Aristot. de republ. <ref n="romarab">V, 10</ref>, <ref n="pageref">p. 1312</ref>, 5 Bekk.</bibl> 
+
+
+<quote xml:lang="grc">καὶ γὰρ ἡ δημοκρατία ἡ τελευταία τυραννίς ἔστιν, </quote>
+<quote xml:lang="grc">For democracy is the ultimate tyranny.</quote>
+</cit>
+oder 
+
+
+<cit>
+
+
+<bibl>c. 11, p 1313, 32:</bibl> 
+
+
+<quote xml:lang="grc">καὶ τὰ περὶ τὴν δημοκρατίαν δὲ γιγνόμενα τὴν τελευταίαν τυραννίδα πάντα. </quote>
+ 
+
+
+<quote xml:lang="eng">And all the things happening in a democracy he called the final tyranny.</quote>
+ </cit>
+ Noch besser aber charakterisiren den Geist einer solchen Verfassung die Worte: 
+
+
+<cit>
+
+
+<bibl>Aristotle's Politics, book 4, chapter 12</bibl> 
+
+
+<quote xml:lang="grc">καὶ γὰρ ὁ δῆμος εἶναι βούλεται μόναρχος· διὸ καὶ ὁ κόλαξ παρ᾽ ἀμφοτέροις ἔντιμος, παρὰ μὲν τοῖς δήμοις ὁ δημαγωγός (ἔστι γὰρ ὁ δημαγωγὸς τοῦ δήμου κόλαξ), <pb n="28"/> παρὰ δὲ τοῖς τυράννοις ol ταπεινῶς ὁμιλοῦντες, ὅπερ ἑστὶν ἔργον κολακείας. </quote>
+ 
+
+
+<quote xml:lang="eng"> For the people wants to be a monarch; therefore, the flatterer is honored by both, by the people the demagogue (for the demagogue is a flatterer of the people), by the tyrants those who speak humbly, which is the work of flattery. </quote>
+</cit>
+Vgl. <ref n="romarab">IV, 4</ref>, <ref n="pageref">p. 1292</ref>. Daher ist das Urtheil Gells (Journey of the Morea <ref n="pageref">p. 408</ref> f) über die athenische Freiheit nicht ungegründet (vgl. Hermann gr. Staatsalt. §. 67 ff. Rötscher Aristophanes und sein Zeitalter §. 100 ff) und mit Recht konnte Demosthenes, da er Athen verliess, ausrufen: 
+
+
+<cit> 
+
+
+<quote xml:lang="grc">ὦ δέσποινα Πολιάς, τί δὴ τρισὶ τοῖς χαλεπωτάτοις χαίρεις ϑηρίοις, γλαυκὶ καὶ δράκοντι καὶ δήμῳ; </quote>
+ 
+
+
+<quote xml:lang="eng">Oh mistress Athena, why do you delight in the three most troublesome beasts, the owl, snake, and people?</quote>
+ 
+
+
+<bibl>Plutarch. Demosth. 26.</bibl> </cit>
+ — Und wer war nun eigentlich dieser δῆμος? Eutbydemos antwortet auf die Frage, wen er darunter verstehe: 
+
+
+<cit> 
+
+
+<quote xml:lang="grc">τοὺς πένητας τῶν πολιτῶν, </quote>
+ 
+
+
+<quote xml:lang="eng">the poor citizens</quote>
+ 
+
+
+<bibl> Xenoph. Memor. <ref n="romarab">IV, 3, 37</ref>,</bibl> </cit>
+und diese Aeusserung, die Ansicht des gemeinen Lebens aussprechend, kann für bezeichnender gelten als die Definitionen der Philosophen, die sich eben dahin erklären. 
+
+
+<cit>
+
+
+<bibl>Aristot. de republ. <ref n="romarab">VI, 2</ref>, <ref n="pageref">p. 1317</ref>, 38:</bibl> 
+
+
+<quote xml:lang="grc">ἔτι ἐπειδὴ ὀλιγαρχία καὶ. γένει καὶ πλούτῳ καὶ παιδείᾳ ὁρίζεται, τὰ δημοτικὰ δοκεῖ τἀναντία τούτων εἶναι, ἀγένεια, πενία, βαναυσία. </quote>
+ 
+
+
+<quote xml:lang="eng">Furthermore, since an oligarchy is defined by birth and wealth and education, what belongs to the people seems to be the opposites of these - low birth, poverty, vulgarity. </quote>
+ </cit>
+ Vgl. <ref n="romarab">IV, 4</ref>. Doch eine Würdigung der athenischen Verfassungsformen gehört nicht hierher. [Ich verweise darüber vorzüglich auf Hermanns angeführtes Werk, wo der Charakter der reinen Demokratie mit scharfen und bestimmten Zügen vortrefflich gezeichnet ist. — Zu den besonderen, dem athenischen Volke im Allgemeinen zukommenden Charakterzügen gehört vor Allem der Hang zu beständigen Rechtsstreitigkeiten.] Es ist eine sehr treffende Bemerkung, wenn Lucian Icaromen. 16 den Menippos, der von der Wolkenregion aus die Welt übersehen hat, sagen lässt: 
+
+
+<cit>
+
+
+<bibl>Lucian Icaromen. 16</bibl> 
+
+
+<quote xml:lang="grc">τοὺς Αἰγυπτίους γεωργοῦντας ἐπέβλεπον, καὶ ὁ Φοίνιξ δὲ ἐνεπορεύετο καὶ ὁ Κίλιξ ἐλῄστευε, καὶ ὁ Λάχων ἐμαστιγοῦτο καὶ ὁ Ἀϑηναῖος ἐδικάζετο. </quote>
+ 
+
+
+<quote xml:lang="eng">I used to watch the Egyptians farming, and the Phoenician trading, the Cilician pirating, the Spartan being flogged, and the Athenian going to court. </quote>
+ </cit>
+ So sagt auch 
+
+
+<cit>
+
+
+<bibl>Xenoph. de republ. Athen. 3, 2:</bibl> 
+
+
+<quote xml:lang="grc">δίκας καὶ γραφὰς καὶ εὐϑύνας ἐκδικάζειν, ὅσας οὐδ᾽ οἱ σύμπαντες ἄνϑρωποι ἐκδικάζουσι. </quote>
+ 
+
+
+<quote xml:lang="eng">To adjudicate lawsuits and public charges and audits, as many as all mankind together does not adjudicate.</quote>
+ </cit>
+ Das ist ja auch der Grund, weshalb Euelpides und Peisthetäros die Stadt verlassen. 
+
+
+<cit>
+
+
+<bibl>Aristoph. Av. 40:</bibl> 
+
+
+<quote xml:lang="grc"> 
+
+<l part="F">Ἀϑηναῖοι δ᾽ ἀεὶ</l> 
+
+<l>ἐπὶ τῶν δικῶν ᾄδουσι πάντα τὸν βίον.</l> </quote>
+ </cit>
+ </p> 
+
+
+<p>Ueber andere wird bei Gelegenheit der Schilderung des Lebens auf dem Markte, in den Gymnasien und dem Theater gesprochen werden. Ich glaube übrigens den Charakter des athenischen Volks keinesweges zu streng beurtbeilt zu haben. Wenn man namentlich bei dem Lesen der Redner unbefangen die sittlichen Zustände in’s Auge fasst, wird man bald zu der Ueberzeugung kommen, dass es <pb n="29"/> [wenigstens für die spätere Zeit] vollkommen wahr ist, was Dio Chrysostom sagt: ὅπως dà γνώσησϑε τὰ συμφέροντα 
+
+
+<cit>
+
+
+<bibl>Dio Chrysost. or. <ref n="bookpage">XIII, <ref n="pageref">p. 427</ref></ref> R.</bibl> 
+
+
+<quote xml:lang="grc">ὑμῖν αὐτοῖς καὶ τῇ πατρίδι, καὶ νομίμως καὶ δικαίως μεθ᾽ ὁμονοίας πολιτεύσησϑε καὶ οἰκήσητε μὴ ἀδικῶν ἄλλος ἄλλον μηδὲ ἐτπιβουλεύων, τοῦτο δὲ οὐδέποτε ἐμάϑετε οὐδὲ ἐμέλησεν ὑμῖν πώποτε οὐδὲ νῦν ἔτι φροντίζετε. </quote>
+ 
+
+
+<quote xml:lang="eng">If you yourselves and the fatherland live by the laws and justly with concord, neither wronging one another nor plotting against one another - this you have never learned nor ever cared about nor do you care about it even now. </quote>
+ </cit>
+ Eben so treffend sagt derselbe von den Griechen überhaupt 
+
+
+<cit>
+
+
+<bibl>Dio Chrysost. Or. <ref n="bookpage">XXXI, <ref n="pageref">p. 574</ref></ref>:</bibl> 
+
+
+<quote xml:lang="grc">οἱ μὲν γὰρ ἐν ἀρχῇ τὰ πρὸς τοὺς βαρβάρους εὐτυχήσαντες καὶ λαμπροὶ φανέντες τὰ λοιπὰ ἐξήμαρτον, φϑόνου μᾶλλον καὶ ἀνοίας καὶ φιλονεικίας ἥπερ ἐρετῆς ἐπίδειξιν ποιούμενοει κ. τ. λ. </quote>
+ 
+
+
+<quote xml:lang="eng">For those who were successful against the barbarians at first and appeared illustrious later erred in the rest, displaying rivalry and foolishness and contentiousness rather than virtue...etc.</quote>
+ </cit>
+Die seltsame Distinction, welche Dicaearch a. a. O. macht: 
+
+
+<quote xml:lang="grc">οἱ μὲν Ἡττικοὶ περίεργοι ταῖς λαλιαῖς, ὕπουλοι, συκοφαντώδεις, παρατηρηταὶ τῶν ξενικῶν βίων· οἱ δὲ Ἀϑηναῖοι μεγαλόψυχοι, ἁπλοῖ τοῖς τρόποις, φιλίας γνήσιος φύλακες, </quote>
+ hält auf keine Weise Stich [und ist nur ein Beweis für den stark geprägten Gegensatz zwischen der städtischen und ländlichen Bevölkerung (vgl. auch die Figur des Dikäopolis in den Acharnern les Aristophanes!), weshalb auch Plato sagt: 
+
+
+<cit>
+
+
+<bibl>Plato Legg. <ref n="bookpage">I, <ref n="pageref">p. 626</ref></ref></bibl> 
+
+
+<quote xml:lang="grc">ὦ ξένε Ἀϑηναῖε· οὐ γὰρ Ἀττικὸν ἐϑέλοιμ᾽ ἂν προσαγορεύειν· δοκεῖς γάρ μοι τῆς ϑεοῦ ἐπωνυμίας ἄξιος εἶναι μᾶλλον ἐπονομάζεσϑαι </quote>
+ 
+
+
+<quote xml:lang="eng">O stranger Athenian - for I would not wish to address you as Attic; for you seem to me worthy to be named rather from the goddess than to be named from the land...</quote>
+ </cit>
+ ]. As hundert Beispielen lässt sich nachweisen, dass der Charakter des Atheners eben ein Gemisch aus diesen trefflichen und verwerflichen Eigenschaften war. Daher ist es sehr treffend, was von Parrhasios zählt wird 
+
+
+<cit>
+
+
+<bibl>Plin. N. H. <ref n="romarab">XXXV, 10, 36</ref>:</bibl> 
+
+
+<quote xml:lang="lat">pinxit et Demon Atheniensium, argumento quoque ingenioso: ostendebat namque varium, iracundum, iniustum , inconstantem, eundem exorabilem, clementem, müericordem , gloriosum , excelsum , humilem, ferocem fugacemque et Omnia pariter. </quote>
+ 
+
+
+<quote xml:lang="eng">Demon of Athens also painted Athena, with a similarly clever idea: for he showed her varied, irascible, unjust, inconstant, likewise placable, clement, merciful, glorious, lofty, humble, fierce and fleeing, and all things at once.</quote>
+ </cit>
+ [Ναὶ]. Pseudo-Plat. Axioch. <ref n="pageref">p. 369</ref>. Dass sich der geistige Typus der Athener weit in die Kaiserzeit hinein erhalten kat, bezeugt auch 
+
+
+<cit>
+
+
+<bibl>Plutarch de ser. num. vind. 15. <ref n="pageref">p. 559</ref> B:</bibl> 
+
+
+<quote xml:lang="grc">γνοίη γὰρ ἄν τις ἰδὼν Ἀϑήνας ἔτει τριακοσιοστῷ καὶ τὰ νῦν ἤϑη καὶ χρήματα, παιδιαί τε καὶ σπουδαὶ καὶ χάριτες καὶ ὀργαὶ τοῦ δήμου πάνυ γε τοῖς παλαιοῖς ἐοίχασι. </quote>
+ 
+
+
+<quote xml:lang="eng">For one seeing Athens in this three hundredth year could recognize that the present character and wealth and amusements and serious pursuits and charms and angers of the people are very like those of old.</quote>
+ </cit>
+ ]</p></note> <note n="30" xml:lang="eng"> 
+
+
+<p> 
+
+
+<cit>
+
+
+<bibl>Philo t. <ref n="bookpage">II, <ref n="pageref">p. 467</ref></ref> Mangey:</bibl> 
+
+
+<quote xml:lang="grc">ὅπερ ἐν ὀφϑαλμῷ κόρη ἣ ἐν ψυχῇ λογισμός, τοῦτ᾽ ἐν Ἑλλάδι Ἀϑῆναι, </quote>
+ 
+
+
+<quote xml:lang="eng">Just as the pupil is in the eye, and reason/logic is in the soul, so is Athens in Greece </quote>
+ </cit>
+ vgl. 
+
+
+<cit>
+
+
+<bibl>Dicaearch. <ref n="pageref">p. 141</ref> Fuhr:</bibl> 
+
+
+<quote xml:lang="grc">ὅσον αἱ λοιπαὶ πόλεις πρός τε ἡδονὴν καὶ βίου διόρϑωσιν τῶν ἀγρῶν διαφέρουσι, τοσοῦτον τῶν λοιπῶν πόλεων ἡ τῶν Ἀϑηναίων παραλλάττει, </quote>
+ 
+
+
+<quote xml:lang="eng">As much as the other cities differ in terms of pleasure and way of life from the countryside, by that much the city of the Athenians differs from the other cities, </quote>
+ </cit>
+Athen deserves a tribute, whether one considers the external splendor that the union of all the arts in the highest perfection had bestowed upon the city, or education and fine manners, or the lively traffic that made it, as it were, the marketplace of the world. The following passage from Athenaeus <ref n="romarab">I, 36</ref>, in which other cities are compared, may be referring to the first advantage: 
+
+
+<cit>
+
+
+<bibl>Athen. <ref n="romarab">I, 36</ref></bibl> 
+
+
+<quote xml:lang="grc">Ἀλεξανδρέων μὲν τὴν χρυσῆν, Ἀντιοχέων δὲ τὴν καλήν, Νικομηδέων δὲ τὴν περικαλλῆ, προσέτι δὲ 
+
+<l>τὴν λαμπροτάτην πόλεων πασῶν, ὁπόσας ὁ Ζεὺς ἀναφαίνει,</l> τὰς Ἀθήνας λέγω: </quote>
+ 
+
+
+<quote xml:lang="eng">Of the Alexandrians the golden city, of the Antiocheans the fair city, of the Nicomedians the very beautiful city, and in addition 
+
+
+<quote>
+
+<l>the most brilliant of all cities, as many as Zeus brings to light,</l></quote>
+ I speak of Athens. The passage refers poetically to various famous cities - Alexandria, Antioch, Nicomedia - before quoting a line from the Iliad about Athens being the most brilliant city. </quote>
+ </cit>
+ In respect to thi, see also: 
+
+
+<cit>
+
+
+<bibl>Charit. <ref n="romarab">I, 11</ref>:</bibl> 
+
+
+<quote xml:lang="grc">ὥσπερ γὰρ ἐν ἀγορᾷ τοὺς ἄνδρας, οὕτως ἐν Ἀϑήναις τὰς πόλεις ἔστιν ἰδεῖν. </quote>
+ 
+
+
+<quote xml:lang="eng">For just as in the marketplace one can see the men, so in Athens one can see the cities. </quote>
+ </cit>
+ 
+
+
+<cit>
+
+
+<bibl>Alciphr. <ref n="romarab">II, 8</ref>:</bibl> 
+
+
+<quote xml:lang="grc">(ὄψομαι) ὅλην ἐν ταῖς Ἀϑήναις τὴν Ἑλλάδα, ὅλην τὴν Ἰωνίαν, τὰς Κυκλάδας πάσας: </quote>
+ 
+
+
+<quote xml:lang="eng">(I will see) all Greece in Athens, all Ionia, all the Cyclades. </quote>
+ </cit>
+ [Creuzer Oratio de civitate Athenarum omnis humanitatis parente, Frankf. a. M. 1826, 8, in particular <ref n="pageref">p. 51</ref> ff. Bergk Griech. Literatur in Hall. Encyklop. LXXXI, S. 286.] But more than on this external splendor, Athens could pride itself on being able to call itself a temple of the Muses, a true guardian of science and art, a school for all of Greece, and even 
+
+
+<cit> 
+
+
+<quote xml:lang="grc">κοινὸν παιδευτήριον πᾶσιν ἀνϑρώποις </quote>
+ 
+
+
+<quote xml:lang="eng">the common school for all human beings. </quote>
+ 
+
+
+<bibl>(Diodor. Sic. <ref n="romarab">XIII, 27</ref>);</bibl> </cit>
+ And this consciousness is expressed not only in the famous funeral oration of Pericles in Thucydides <ref n="romarab">II, 41</ref>, but also in numerous other passages of his orators and poets, among whom Isocrates is particularly fond of expressing pride; cf. de bigis S. 27, de permut. δ. 299, and, most proudly: 
+
+
+<cit>
+
+
+<bibl>Isocr. Paneg. 50: </bibl> 
+
+
+<quote xml:lang="grc">τοσοῦτον ἀπολέλοιπεν ἡ πόλις ἡμῶν περὶ τὸ φρονεῖν καὶ λέγειν τοὺς ἄλλους ἀνθρώπους, ὥσϑ' οἱ ταύτης μαϑηταὶ τῶν ἄλλων διδάσκαλοι γεγόνασι, καὶ τὸ τῶν Ἑλλήνων ὄνομα πεποίηκε μηκέτι τοῦ γένους ἀλλὰ τῆς διανοίας δοκεὶν εἶναι, καὶ μᾶλλον Ἕλληνας καλεῖσϑαι τοὺς τῆς παιδεύσεως τῆς ἡμετέρας ἢ τοὺς τῆς κοινῆς φύσεως μετέχοντας. </quote>
+ 
+
+
+<quote xml:lang="eng">Our city has left behind for all mankind a common school of thought and speech, so that her disciples have become the teachers of others. And she has made the title of Greek indicate culture rather than race, and men are called Greeks because they share in our education rather than in our common nature. </quote>
+ </cit>
+ [In fact, even Plato called Athens: 
+
+
+<cit>
+
+
+<bibl>Plato Protag. <ref n="pageref">p. 337</ref></bibl> 
+
+
+<quote xml:lang="grc">αὐτὸ τὸ πρυτανεῖον τῆς σοφίας. </quote>
+ 
+
+
+<quote xml:lang="eng">The very town hall of wisdom. </quote>
+ </cit>
+ Plato also says: 
+
+
+<cit>
+
+
+<bibl>Plato Protag. <ref n="pageref">p. 319</ref>:</bibl> 
+
+
+<quote xml:lang="grc">ἐγὼ γὰρ Ἀθηναίους ὥσπερ καὶ οἱ ἄλλοι Ἕλληνες φημὶ σοφοὺς εἶναι </quote>
+ 
+
+
+<quote xml:lang="eng">For I, just like the other Greeks, say that the Athenians are wise. </quote>
+ </cit>
+. As a foreign, Herodotus bears witness for the Athenians: 
+
+
+<cit>
+
+
+<bibl>Herodot. <ref n="romarab">I, 60</ref> </bibl> 
+
+
+<quote xml:lang="grc">ἐν Ἀθηναίοισι τοῖσι πρώτοισι λεγομένοισι εἶναι Ἑλλήνων σοφίην. </quote>
+ 
+
+
+<quote xml:lang="eng">among the Athenians who are said to be the first of the Greeks in wisdom</quote>
+ </cit>
+ In fact, at the end of the Peloponnesian War the Delphic Oracle is said to have called the city: 
+
+
+<cit> 
+
+
+<bibl>Athen. <ref n="romarab">V, 12</ref>; Aelian. V. Hist. <ref n="romarab">IV, 6</ref>.</bibl> 
+
+
+<quote xml:lang="grc">τὴν κοινὴν ἑστίαν τῆς Ἑλλάδος</quote>
+ 
+
+
+<quote xml:lang="eng">the common hearth of Hellas</quote>
+</cit>
+: cf. 
+
+
+<cit>
+
+
+<bibl>Cic. ad fam. <ref n="romarab">VI, 1, 6</ref>:</bibl> 
+
+
+<quote xml:lang="lat">urbs, in qua nata etmalta est ratio et moderatio vitae, </quote>
+ 
+
+
+<quote xml:lang="eng">The city in which reason and the moderation of life were born and elevated. </quote>
+ </cit>
+ <pb n="25"/> K. F. Hermann criticized Becker on <ref n="https://www.digitale-sammlungen.de/en/view/bsb11232858?page=60"><ref n="pageref">p. 30</ref> of his edition of Charikles</ref>, because he treats such praises merely as flattery, which was presented to the vanity of the people by their orators and demagogues and which generated an arrogance leading easily to contempt for others. We should not, however, necessarily fault Becker in the context of the time in which the novel is set. Where he went wrong — and we especially say this regarding the second half of this note — is that he did not sufficiently emphasize the difference between the periods before and after Pericles. Plato could still praise the Athenians from the morally strict and patriotic era: 
+
+
+<cit>
+
+
+<bibl>Plato Legg. I. <ref n="pageref">p. 642</ref> C.</bibl> 
+
+
+<quote xml:lang="grc">τό δὲ ὑπὸ πολλῶν λεγόμενον, ὡς ὅσοι Ἀθηναίων εἰσὶν ἀγαϑοὶ διαφερόντως εἰσὶ τοιοῦτοι, δοκεῖ ἀληϑέστατα λέγεσϑαι· μόνοι γὰρ ἄνευ ἀνάγκης, αὐτοφυῶς, ϑείᾳ μοίρᾳ ἀληϑῶς καὶ οὔτι πλαστῶς εἰσιν ἀγαϑοί. </quote>
+ 
+
+
+<quote xml:lang="eng">But what is said by many, that those Athenians who are good are outstandingly so, seems to me to be most true; for alone without compulsion, naturally, by divine fortune truly and not pretentiously they are good.</quote>
+ </cit>
+ See Bernhardy's 'Outline of Greek Literature.' Third revised edition, 1861. Vol. <ref n="bookpage">I, <ref n="pageref">p. 436</ref></ref>.] </p> 
+
+
+<p> Furthermore, the people were continually reminded of the great deeds that had originated from Athens in earlier times and its merits for all of Greece. In this, all eulogies and funeral speeches are alike, which usually follow the same pattern and primarily emphasize the somewhat ambiguous fame that the Athenians are the only autochthonous in Greece — a pride that they seem to have genuinely taken to heart and that does not appear to have been used by the speakers merely as a phrase for effect. More than all the beautifully worded tirades, Lycurgus's earnest words seem to affirm this, especially concerning the decision made after the Battle of Chaeronea:: 
+
+
+<cit>
+
+
+<bibl>in Leocr. 41</bibl> 
+
+
+<quote xml:lang="grc">ὁρᾶν ἦν τὸν δῆμον ψηφισάμενον τοὺς μὲν δούλους ἐλευθέρους, τοὺς δὲ ξένους Ἀθηναίους, τοὺς δʼ ἀτίμους ἐπιτίμους· ὃς πρότερον ἐπὶ τῷ αὐτόχθων εἶναι καὶ ἐλεύθερος ἐσεμνύνετο</quote>
+ 
+
+
+<quote xml:lang="eng">It was possible to see the common people [the dêmos] vote to make slaves free, foreigners Athenians, and the disenfranchised enfranchised. [the common people] who previously prided himself on being born from the soil and free.</quote>
+ </cit>
+ Even so speaks the chorus at: 
+
+
+<cit>
+
+
+<bibl>Aristoph. Vesp. 1076:</bibl> 
+
+
+<quote xml:lang="grc">
+
+<l>Ἀττικοὶ μόνοι δικαίως εὐγενεῖς αὐτόχϑονες.</l> </quote>
+ 
+
+
+<quote xml:lang="eng">Only the Attic people [are] rightly noble born from the soil. </quote>
+ </cit>
+ The idea of <foreign xml:lang="grc">αὐτόχϑων εἶναι</foreign> <gloss xml:lang="eng">to be born from the soil</gloss> has been interpreted in different ways. It is not uninteresting to see from a compilation of all the main passages what meaning was associated with it. Originally, one wanted to say nothing more with it than that the inhabitants of Attica had inhabited this landscape from time immemorial, without being displaced anywhere or having immigrated themselves. So simply: 
+
+
+<cit>
+
+
+<bibl>Thucyd. <ref n="romarab">II, 36</ref>:</bibl> 
+
+
+<quote xml:lang="grc">τὴν χώραν ἀεὶ οἱ αὐτοὶ οἰκοῦντες, </quote>
+ 
+
+
+<quote xml:lang="eng">Always inhabiting the same land,</quote>
+ </cit>
+ <pb n="26"/> and even more clearly: 
+
+
+<cit>
+
+
+<bibl>Lesbonax Protrept. <ref n="pageref">p. 22</ref>:</bibl> 
+
+
+<quote xml:lang="grc">οἱ μὲν ἄλλοι πάντες Ἕλληνες ἐκ τῆς σφετέρας αὐτῶν μεταστάντες οἰκοῦσιν ἕκαστοι αὐτῶν, ἐξελάσαντες ἑτέρους καὶ αὐτοὶ ἐξελαϑέντες ὑφ᾽ ἐτέρων, καὶ κατὰ τοῦτο δύο φέρεσϑε καυχήματα ἀρετῆς· οὔτε γὰρ ἐξηλάϑητε τῆς σφετέρας αὐτῶν ὑπὸ οὐδαμῶν ἀνθρώπων οὔτε ἐξελάσαντες ἑτέρους αὐτοὶ οἰκεῖτε. </quote>
+ 
+
+
+<quote xml:lang="eng">While all other Greeks have moved from their own lands and dwell each in their places, having driven out others and themselves having been driven out by others, you have two grounds for boasting of valor: for you were driven out by no men from your own land nor after driving out others do you yourselves inhabit it.</quote>
+ </cit>
+ While, however, here the question about the first origin remains completely disregarded, the idea of <foreign xml:lang="grc">γηγενεῖς εἶναι</foreign>, i.e. to be born of the earth in the literal sense, plays a role in its solution elsewhere. Likewise with: 
+
+
+<cit>
+
+
+<bibl>Demosth. Epitaph. 4:</bibl> 
+
+
+<quote xml:lang="grc">οὐ γὰρ μόνον εἰς πατέρ᾽ αὐτοῖς καὶ τῶν ἄνω προγόνων καθ' ἄνδρα ἀνενεγκεῖν ἑκάστῳ τὴν φύσιν ἔστιν, ἀλλ᾽ εἰς ὅλην κοινῇ τὴν ὑπάρχουσαν πατρίδα, ἧς αὐτόχϑονες ὁμολογοῦνται εἶναι· μόνοι γὰρ πάντων ἀνθρώπων, ἐξ ἧσπερ ἔφυσαν, ταύτην ᾧκησαν καὶ τοῖς ἐξ αὐτῶν παρέδωκαν, </quote>
+ 
+
+
+<quote xml:lang="eng">For it is possible to trace back for each man not only to his father and earlier ancestors the nature of each, but for the whole native land collectively, of which they are acknowledged to be native born; for alone of all men, from the very land from which they sprang, they inhabited this land and handed it down to their descendants.</quote>
+ </cit>
+ The same meaning is also found in the words of Plato: 
+
+
+<cit>
+
+
+<bibl>Plato Menex. <ref n="pageref">p. 287</ref>:</bibl> 
+
+
+<quote xml:lang="grc">τῆς δ᾽ εὐγενείας πρῶτον ὑπῆρξε τοῖσδε ἡ τῶν προγόνων γένεσις, οὐκ ἔπηλυς οὖσα οὐδὲ τοὺς ἐγκόνους τούτους ἀποφηναμένη μετοικοῦντας ἐν τῇ χώρᾳ ἄλλοϑεν σφῶν ἠχόντων, ἀλλ' αὐτόχϑονας καὶ τῷ ὄντι ἐν πατρίδι οἰκοῦντας καὶ ζῶντας, καὶ τρεφομένους oby ὑπὸ μητρυιᾶς ὡς ἄλλοι, ἀλλ ὁπὸ μητρὸς τῆς χώρας ἐν ἡ ᾧκουν. </quote>
+ 
+
+
+<quote xml:lang="eng">For it was the genesis first of their ancestors that established the nobility of these men, not having come in from outside nor revealing that the descendants were immigrants in the land, having come from elsewhere, but being native born and truly dwelling in their fatherland and living and being nourished not by a stepmother land like others but by their mother country in which they dwelt. </quote>
+ </cit>
+ In addition, there is also the explicit reservation against the thought that the pure Hellenic blood could have mixed with foreign blood in Attica. 
+
+
+<cit>
+
+
+<bibl>Isocr. Paneg. 24:</bibl> 
+
+
+<quote xml:lang="grc">ταύτην γὰρ οἰκοῦμεν οὐχ ἑτέρους ἐκβαλόντες οὐδ᾽ ἐρήμην καταλαβόντες οὐδ' ἐκ πολλῶν ἐθνῶν μιγάδες συλλεγέντες, ἀλλ᾽ οὕτω καλῶς καὶ γνησίως γεγόναμεν, ὥστ᾽ ἐξ ἧσπερ ἔφυμεν, ταύτην ἔχοντες ἅπαντα τὸν χρόνον διατελοῦμεν, αὐτόχϑονες ὄντες καὶ τῶν ὀνομάτων τοῖς αὑτοῖς, οἷσπερ τοὺς οἰκειοτάτους, τὴν πόλιν ἔχοντες προσειπεῖν. </quote>
+ 
+
+
+<quote xml:lang="eng">For we inhabit this land not by driving out others nor by taking possession of it deserted nor, mingled from many peoples, gathered together, but so nobly and genuinely are we come to be that, from the very land from which we sprang, this we continue to possess through all time, being native born and calling our city by the very names as those most akin to us.</quote>
+ </cit>
+ The Menexenus expresses this idea most decisively and rejects every thought of a mixing of the inhabitants of Attica with foreign colonists: 
+
+
+<cit>
+
+
+<bibl>Plato Menex. <ref n="pageref">p. 245</ref>:</bibl> 
+
+
+<quote xml:lang="grc">οὕτω δή τοι τό γε τῆς πόλεως γενναῖον καὶ ἐλεύϑερον βέβαιόν τε καὶ ὕγιές ἐστι καὶ φύσει μισοβάρβαρον διὰ τὸ εἰλιχρεvos εἶναι Ἕλληνες καὶ ἀμιγεῖς βαρβάρων. οὐ γὰρ Πέλοπες οὐδὲ Κάδμοι οὐδὲ Αἴγυπτοί τε καὶ Δαναοὶ οὐδὶ ἄλλοι πολλοί, φύσει μὲν βάρβαροι ὄντες νόμῳ δὲ Ἕλληνες, συνοικοῦσιν ἡμῖν, ἀλλ᾽ αὐτοὶ “Ἕλληνες, οὐ μιξοβάρβαροι οἰκοῦμεν. </quote>
+ 
+
+
+<quote xml:lang="eng">Thus indeed the noble spirit and freedom of the city remains secure and healthy and by nature hostile to barbarians, because it is purely Greek and unmixed with barbarians. For not Pelops nor Cadmus nor Egyptians and Danaus nor many others, barbarian by nature but Greek by law, dwell with us, but we ourselves, Greeks, not half-barbarians, inhabit the city.</quote>
+ </cit>
+It is easy to imagine that the high value that the Athenians placed on this [their autochthonous origin] also gave rise to mockery, and the joke of Antisthenes, <pb n="27"/> harshly juxtaposing these <foreign xml:lang="grc">γηγενεῖς</foreign> <gloss xml:lang="eng">earth-born</gloss> with snails and grasshoppers, is very biting. See 
+
+
+<cit>
+
+
+<bibl>Diog. Laërt. <ref n="romarab">VI, 1</ref>:</bibl> 
+
+
+<quote xml:lang="grc">καὶ αὐτὸς δὲ τοὺς Ἀθηναίους ἐπὶ τῷ γηγενεῖς εἶναι σεμνυνομένους ἐκφαυλίζων ἔλεγε μηδὲν εἶναι κογλιῶν καὶ ἀττελέβων εὐγενεστέρους. </quote>
+ 
+
+
+<quote xml:lang="eng">And he himself, mocking the Athenians prizing themselves on being earthborn, used to say they were no more noble born than snails and locusts.</quote>
+ </cit>
+ [Hermann rightly finds in the emphasis on autochthony a naive expression of national patriotism, whose deeper meaning Plato himself (Pol. <ref n="bookpage">III, <ref n="pageref">p. 414</ref></ref> C) did not underestimate, and attributes to it a political significance, in that on the one hand, through it, all Athenians, even the lowest, were granted equality and equal legal claims to the common motherland, on the other hand, the legitimacy of land ownership could be derived from it, in contrast to the usurpation of the Peloponnesian Dorians. See Wachsmuth Hellen. Alterthumskunde B. I, <ref n="https://hdl.handle.net/2027/hvd.hnlasj?urlappend=%3Bseq=406%3Bownerid=27021597767119323-436"><ref n="pageref">p. 386</ref></ref>. <ref n="https://hdl.handle.net/2027/hvd.hnlasj?urlappend=%3Bseq=830%3Bownerid=27021597767119323-866">810</ref>, Preller in Schneidewins Philologus B. <ref n="romarab">VII, 8</ref>. 28 ff. and Schömann Griech. Alterth. I, S. 331.]</p> 
+
+
+<p>Although the Athenian people were happy to flatter themselves with the memory of such inherited glory from earlier times, they were so little inclined to listen to reproaches and rebukes or, in general, expressions that were not to their taste and liking, and in the state that called itself free before all others, the freedom of speech was bound by the mood of the people. It is a very valuable testimony that Isocrates gives us about this intolerance: 
+
+
+<cit>
+
+
+<bibl>Isocrates de pace 14</bibl> 
+
+
+<quote xml:lang="grc">ἐγὼ οἶδα μὲν ὅτι πρόσαντές ἐστιν ἐναντιοῦσθαι ταῖς ὁμετέραις διανοίαις καὶ ὅτι, δημοκρατέας οὔσης, οὐκ ἔστι παῤῥησέα πλὴν ἐνθάδε μὲν τοῖς ἀφρονεστάτοις καὶ μηδὲν ὁμῶν φροντίζουσιν, ἐν δὲ τῷ ϑεάτρῳ τοῖς κωμῳδοδιδασκάλοις, ... πρὸς δὲ τοὺς ἐπιπλήττοντας καὶ vouϑετοῦντας ὑμᾶς οὕτω διατέϑεσθε δυσκόλως, ὥσπερ τοὺς κακόν τι τὴν πόλιν ἐργαζομένους. </quote>
+ 
+
+
+<quote xml:lang="eng">I know that it is difficult to oppose our policies and that, since there is a democracy, there is no freedom of speech except here for the most foolish who have no concern for anything, and in the theater for the comic poets, ... But to those who rebuke and admonish you, be as difficult to get along with as those who are doing something bad to the city.</quote>
+ </cit>
+ This is sufficient to induce the desire to repress, such as we see here: 
+
+
+<cit> 
+
+
+<quote xml:lang="grc">δημοκρατικὸς ὄχλος οὕτως ἐλευϑεριάζων, </quote>
+ 
+
+
+<quote xml:lang="eng">the mob of common people acting with such freedom</quote>
+<bibl>Alciphr. epist. <ref n="romarab">II, 3</ref></bibl></cit>
+. This provides explanatory commentary to the words of Aristotle: 
+
+
+<cit>
+
+
+<bibl>Aristot. de republ. <ref n="romarab">V, 10</ref>, <ref n="pageref">p. 1312</ref>, 5 Bekk.</bibl> 
+
+
+<quote xml:lang="grc">καὶ γὰρ ἡ δημοκρατία ἡ τελευταία τυραννίς ἔστιν, </quote>
+<quote xml:lang="grc">For democracy is the ultimate tyranny.</quote>
+</cit>
+or 
+
+
+<cit>
+
+
+<bibl>c. 11, p 1313, 32:</bibl> 
+
+
+<quote xml:lang="grc">καὶ τὰ περὶ τὴν δημοκρατίαν δὲ γιγνόμενα τὴν τελευταίαν τυραννίδα πάντα. </quote>
+ 
+
+
+<quote xml:lang="eng">And all the things happening in a democracy he called the final tyranny.</quote>
+ </cit>
+ The following quote characterizes the spirit even better: 
+
+
+<cit>
+
+
+<bibl>Aristotle's Politics, book 4, chapter 12</bibl> 
+
+
+<quote xml:lang="grc">καὶ γὰρ ὁ δῆμος εἶναι βούλεται μόναρχος· διὸ καὶ ὁ κόλαξ παρ᾽ ἀμφοτέροις ἔντιμος, παρὰ μὲν τοῖς δήμοις ὁ δημαγωγός (ἔστι γὰρ ὁ δημαγωγὸς τοῦ δήμου κόλαξ), <pb n="28"/> παρὰ δὲ τοῖς τυράννοις οἱ ταπεινῶς ὁμιλοῦντες, ὅπερ ἑστὶν ἔργον κολακείας. </quote>
+ 
+
+
+<quote xml:lang="eng"> For the people wants to be a monarch; therefore, the flatterer is honored by both, by the people the demagogue (for the demagogue is a flatterer of the people), by the tyrants those who speak humbly, which is the work of flattery. </quote>
+</cit>
+Cf. <ref n="romarab">IV, 4</ref>, <ref n="pageref">p. 1292</ref>. Hence Gells' judgment (Journey of the Morea <ref n="pageref">p. 408</ref> f) about Athenian freedom is not without justification (cf. Hermann gr. Staatsalt. §. 67 ff. Rötscher Aristophanes und sein Zeitalter §. 100 ff). Demosthenes could rightfully exclaim, when he left Athens: 
+
+
+<cit> 
+
+
+<quote xml:lang="grc">ὦ δέσποινα Πολιάς, τί δὴ τρισὶ τοῖς χαλεπωτάτοις χαίρεις ϑηρίοις, γλαυκὶ καὶ δράκοντι καὶ δήμῳ; </quote>
+ 
+
+
+<quote xml:lang="eng">Oh mistress Athena, why do you delight in the three most troublesome beasts, the owl, snake, and people?</quote>
+ 
+
+
+<bibl>Plutarch. Demosth. 26.</bibl> </cit>
+ — And who was this dêmos? Euthydemos answers implicitly about the dêmos: 
+
+
+<cit> 
+
+
+<quote xml:lang="grc">τοὺς πένητας τῶν πολιτῶν, </quote>
+ 
+
+
+<quote xml:lang="eng">the poor citizens</quote>
+ 
+
+
+<bibl> Xenoph. Memor. <ref n="romarab">IV, 3, 37</ref>,</bibl> </cit>
+This expression, expressing the view of everyday life, can be considered more characteristic than the definitions of the philosophers, which are simply explained in this way. 
+
+
+<cit>
+
+
+<bibl>Aristot. de republ. <ref n="romarab">VI, 2</ref>, <ref n="pageref">p. 1317</ref>, 38:</bibl> 
+
+
+<quote xml:lang="grc">ἔτι ἐπειδὴ ὀλιγαρχία καὶ. γένει καὶ πλούτῳ καὶ παιδείᾳ ὁρίζεται, τὰ δημοτικὰ δοκεῖ τἀναντία τούτων εἶναι, ἀγένεια, πενία, βαναυσία. </quote>
+ 
+
+
+<quote xml:lang="eng">Furthermore, since an oligarchy is defined by birth and wealth and education, what belongs to the people seems to be the opposites of these - low birth, poverty, vulgarity. </quote>
+ </cit>
+ Cf. <ref n="romarab">IV, 4</ref>. However, an assessment of the Athenian constitutional forms does not belong here. [I refer to Hermann's work mentioned above, where the character of pure democracy is excellently portrayed with sharp and defined features. — Among the special characteristics that belong to the Athenian people in general, the tendency to constant legal disputes is first and foremost.] It is a very apt remark when Lucian Icaromen. 16 lets Menippus, who has overlooked the world from the cloud region, say: 
+
+
+<cit>
+
+
+<bibl>Lucian Icaromen. 16</bibl> 
+
+
+<quote xml:lang="grc">τοὺς Αἰγυπτίους γεωργοῦντας ἐπέβλεπον, καὶ ὁ Φοίνιξ δὲ ἐνεπορεύετο καὶ ὁ Κίλιξ ἐλῄστευε, καὶ ὁ Λάχων ἐμαστιγοῦτο καὶ ὁ Ἀϑηναῖος ἐδικάζετο. </quote>
+ 
+
+
+<quote xml:lang="eng">I used to watch the Egyptians farming, and the Phoenician trading, the Cilician pirating, the Spartan being flogged, and the Athenian going to court. </quote>
+ </cit>
+ Xenophon says the same thing: 
+
+
+<cit>
+
+
+<bibl>Xenoph. de republ. Athen. 3, 2:</bibl> 
+
+
+<quote xml:lang="grc">δίκας καὶ γραφὰς καὶ εὐϑύνας ἐκδικάζειν, ὅσας οὐδ᾽ οἱ σύμπαντες ἄνϑρωποι ἐκδικάζουσι. </quote>
+ 
+
+
+<quote xml:lang="eng">To adjudicate lawsuits and public charges and audits, as many as all mankind together does not adjudicate.</quote>
+ </cit>
+ That is also the reason why Euelpides and Pesthetairos leave the city: 
+
+
+<cit>
+
+
+<bibl>Aristoph. Av. 40:</bibl> 
+
+
+<quote xml:lang="grc"> 
+
+<l part="F">Ἀϑηναῖοι δ᾽ ἀεὶ</l> 
+
+<l>ἐπὶ τῶν δικῶν ᾄδουσι πάντα τὸν βίον.</l> </quote>
+ </cit>
+ </p> 
+
+
+<p>Others will be discussed when describing life in the market, in the gymnasiums and the theater. By the way, I do not believe that I have judged the character of the Athenian people too harshly. If one especially takes the moral state into account without bias when reading the orators, one will soon come to the conviction that it is <pb n="29"/> [at least for later times] completely true what Dio Chrysostom says: 
+
+
+<cit>
+
+
+<bibl>Dio Chrysost. or. <ref n="bookpage">XIII, <ref n="pageref">p. 427</ref></ref> R.</bibl> 
+
+
+<quote xml:lang="grc">ὅπως δὲ γνώσησϑε τὰ συμφέροντα ὑμῖν αὐτοῖς καὶ τῇ πατρίδι, καὶ νομίμως καὶ δικαίως μεθ᾽ ὁμονοίας πολιτεύσησϑε καὶ οἰκήσητε μὴ ἀδικῶν ἄλλος ἄλλον μηδὲ ἐπιβουλεύων, τοῦτο δὲ οὐδέποτε ἐμάϑετε οὐδὲ ἐμέλησεν ὑμῖν πώποτε οὐδὲ νῦν ἔτι φροντίζετε. </quote>
+ 
+
+
+<quote xml:lang="eng">And so that you may know what is in your own best interests and those of your country, and may live and govern yourselves lawfully and justly with harmony, not harming one another or plotting against one another, this you have never learned nor cared about, nor do you care about it even now. </quote>
+ </cit>
+ Just as aptly does the same say of the Greeks in general 
+
+
+<cit>
+
+
+<bibl>Dio Chrysost. Or. <ref n="bookpage">XXXI, <ref n="pageref">p. 574</ref></ref>:</bibl> 
+
+
+<quote xml:lang="grc">οἱ μὲν γὰρ ἐν ἀρχῇ τὰ πρὸς τοὺς βαρβάρους εὐτυχήσαντες καὶ λαμπροὶ φανέντες τὰ λοιπὰ ἐξήμαρτον, φϑόνου μᾶλλον καὶ ἀνοίας καὶ φιλονεικίας ἥπερ ἐρετῆς ἐπίδειξιν ποιούμενοει κ. τ. λ. </quote>
+ 
+
+
+<quote xml:lang="eng">For those who were successful against the barbarians at first and appeared illustrious later erred in the rest, displaying rivalry and foolishness and contentiousness rather than virtue...etc.</quote>
+ </cit>
+The strange distinction that Dicaearch makes in the same place is in no way valid: 
+
+
+<cit>
+
+
+<bibl>a. a. O.</bibl> 
+
+
+<quote xml:lang="grc">οἱ μὲν Ἀττικοὶ περίεργοι ταῖς λαλιαῖς, ὕπουλοι, συκοφαντώδεις, παρατηρηταὶ τῶν ξενικῶν βίων· οἱ δὲ Ἀϑηναῖοι μεγαλόψυχοι, ἁπλοῖ τοῖς τρόποις, φιλίας γνήσιοι φύλακες, </quote>
+ 
+
+
+<quote xml:lang="eng">The people of Attica are talkative, cunning, slanderous, and nosy about the lives of foreigners; the Athenians, on the other hand, are magnanimous, simple in their ways, and true guardians of friendship.</quote>
+ </cit>
+ [And it is only evidence of the strongly marked contrast between the urban and rural population (see also the figure of Dikaiopolis in the Acharnians of Aristophanes!), which is why Plato also says: 
+
+
+<cit>
+
+
+<bibl>Plato Legg. <ref n="bookpage">I, <ref n="pageref">p. 626</ref></ref></bibl> 
+
+
+<quote xml:lang="grc">ὦ ξένε Ἀϑηναῖε· οὐ γὰρ Ἀττικὸν ἐϑέλοιμ᾽ ἂν προσαγορεύειν· δοκεῖς γάρ μοι τῆς ϑεοῦ ἐπωνυμίας ἄξιος εἶναι μᾶλλον ἐπονομάζεσϑαι </quote>
+ 
+
+
+<quote xml:lang="eng">O stranger Athenian - for I would not wish to address you as a person of Attica; for you seem to me worthy to be named rather from the goddess than to be named from the land...</quote>
+ </cit>
+]. It can be demonstrated with a hundred examples that the character of the Athenian was simply a mixture of these admirable and reprehensible qualities. Therefore, it is very fitting what is counted from Parrhasios 
+
+
+<cit>
+
+
+<bibl>Plin. N. H. <ref n="romarab">XXXV, 10, 36</ref>:</bibl> 
+
+
+<quote xml:lang="lat">pinxit et Demon Atheniensium, argumento quoque ingenioso: ostendebat namque varium, iracundum, iniustum , inconstantem, eundem exorabilem, clementem, müericordem , gloriosum , excelsum , humilem, ferocem fugacemque et Omnia pariter. </quote>
+ 
+
+
+<quote xml:lang="eng">He also painted the common people of the Athenians, with a similarly clever idea: for he showed them varied, irascible, unjust, inconstant, likewise placable, clement, merciful, glorious, lofty, humble, fierce and fleeing, and all things at once.</quote>
+ </cit>
+ [Cf. Pseudo-Plat. Arioch. <ref n="pageref">p. 369</ref>. Dass sich der geistige Typus der Athener weit in die Kaiserzeit hinein erhalten kat, bezeugt auch Plutarch also shows that the spiritual type of the Athenians had preserved itself fair into the imperial period. 
+
+
+<cit>
+
+
+<bibl>Plutarch de ser. num. vind. 15. <ref n="pageref">p. 559</ref> B:</bibl> 
+
+
+<quote xml:lang="grc">γνοίη γὰρ ἄν τις ἰδὼν Ἀϑήνας ἔτει τριακοσιοστῷ καὶ τὰ νῦν ἤϑη καὶ χρήματα, παιδιαί τε καὶ σπουδαὶ καὶ χάριτες καὶ ὀργαὶ τοῦ δήμου πάνυ γε τοῖς παλαιοῖς ἐοίχασι. </quote>
+ 
+
+
+<quote xml:lang="eng">For one seeing Athens in this three hundredth year could recognize that the present character and wealth and amusements and serious pursuits and charms and angers of the people are very like those of old.</quote>
+ </cit>
+ ]</p></note> <note n="31" xml:lang="deu"> 
+
+
+<p> Aus Demosth. de cor. 258, der dieses von Aeschines erzählt.</p></note> <note n="31" xml:lang="eng"> 
+
+
+<p> Aus Demosth. de cor. 258, who tells this story about Aeschines.</p></note> <note n="32" xml:lang="deu"> 
+
+
+<p> 
+
+
+<cit>
+
+
+<bibl>Strabo <ref n="romarab">VIII, 6, 19</ref>:</bibl> 
+
+
+<quote xml:lang="grc">διέχουσι δ᾽ αἱ Κλεωναὶ τοῦ μὲν Ἄργους σταδίους εἴκοσι καὶ ἑκατόν, Κορἰνθου δ᾽ ὀγδοήχοντα. </quote>
+ 
+
+
+<quote xml:lang="eng">Now Cleonae is distant from Argos 120 stades and from Corinth 80. </quote>
+ </cit>
+ 
+
+
+<cit>
+
+
+<bibl>Dodwell <ref n="bookpage">II, <ref n="pageref">p. 206</ref></ref>:</bibl> 
+
+
+<quote xml:lang="eng"> which agrees nearly with two hours and a half that it took us to reach it from that place.</quote>
+ </cit>
+ Die Expédition de Morée t. <ref n="bookpage">III, <ref n="pageref">p. 35</ref></ref> giebt die Entfernung auf 3 St. 4 M. an. </p></note> <note n="32" xml:lang="eng"> 
+
+
+<p> 
+
+
+<cit>
+
+
+<bibl>Strabo <ref n="romarab">VIII, 6, 19</ref>:</bibl> 
+
+
+<quote xml:lang="grc">διέχουσι δ᾽ αἱ Κλεωναὶ τοῦ μὲν Ἄργους σταδίους εἴκοσι καὶ ἑκατόν, Κορἰνθου δ᾽ ὀγδοήχοντα. </quote>
+ 
+
+
+<quote xml:lang="eng">Now Cleonae is distant from Argos 120 stades and from Corinth 80. </quote>
+ </cit>
+ 
+
+
+<cit>
+
+
+<bibl>Dodwell <ref n="bookpage">II, <ref n="pageref">p. 206</ref></ref>:</bibl> 
+
+
+<quote xml:lang="eng"> which agrees nearly with two hours and a half that it took us to reach it from that place.</quote>
+ </cit>
+ Die Expédition de Morée t. <ref n="bookpage">III, <ref n="pageref">p. 35</ref></ref> gives the distance as 3 hours 4 minutes </p></note> <pb n="30"/> <note n="33" xml:lang="deu"> 
+
+
+<p> Auch für die Jugendgeschichte Ktesiphons habe ich ein antikes Motiv benutzt. Es findet sich die ganze Erzählung mit wenigen Abänderungen in der Rede des Lysias gegen Diogeiton. So mag gegen Hunderte von Waisen verfahren worden sein, und es schien mir zweckmässiger eine Thatsache zu Grunde zu legen als eine Begebenheit zu fingiren, der man, wenn man sonst Lust hätte, jedenfalls die Wahrheit absprechen könnte.</p></note> <note n="33" xml:lang="eng"> 
+
+
+<p> I also used an ancient motif for the youth story of Ktesiphon. The whole story can be found with a few changes in Lysias' speech against Diogeiton. This is how hundreds of orphans may have been treated, and it seemed to me more expedient to lay down a fact than to invent an event that could, if someone else wanted to, in any case deny the truth</p></note> <note n="34" xml:lang="deu"> 
+
+
+<p> Dass vor dem vierten Jahrhundert unserer Zeitrechnung es nicht üblich gewesen sei, die Hufe der Pferde mit Eisen zu beschlagen, haben Gesner und Schneider im Index ad Script. r. rust. s. v. solea und Beckmann Beitr. zur Gesch. der Erfind. B. III, S. 122 ff. mit Wahrscheinlichkeit dargethan. [Der im fünften Jahrhundert v. Chr. lebende Tryphiodorus bietet nach Hermann in seinem Excid. Troj. v. 86—83 vielleicht die erste Spur. Denn die Werke der bildenden Kunst führen leicht irre. Vgl. Winkelmanns Vorrede zur Wiener Ausgabe der Gesch. d. Kunst S. XI und Jahns Jahrbb. 1828. B. VI, S. 365. Bei Walpole Memoirs pl. 3 stellt z. B. das Vasengemälde nur eine Reinigung des Hufes dar.] Bekannt ist es hingegen, dass den Zugthieren Socken oder Sohlen untergebunden wurden. [Sie waren aus Spartgras geflochten: Colum. <ref n="romarab">VI, 12, 3</ref>. Galen. alim. facult. I, .9. Es gab aber auch eiserne soleae: Catull. <ref n="romarab">XVII, 26</ref>, silberne: Suet Ner. 30, goldene: Dio Cass. <ref n="romarab">XLII, 28</ref> und Plin. Hist. N, <ref n="romarab">XXXIII, 11</ref>. Dass sie je nach der Beschaffenheit des Weges angelegt und abgenommen wurden, ergiebt sich aus Suet. Vespas. 23: Mulionem in itinere quodam suspicatus ad calceandas mulas desiluisse, ut adeunti litigatori spatium moramque praeberet, interrogavit, quanti calceasset.] Das sind also eigentliche ὁποδήματα, Arrian. Dissert. Epictet. <ref n="romarab">IV, 1, 30</ref>, und daher wird auch von Lucian. Asin. 16 der metamorphosirte Esel ἀνυπόδετος genannt. [Eine bildliche Probe giebt Hawkins Descr. of ancient marbles in the British Museum t. <ref n="bookpage">X, <ref n="pageref">p. 95</ref></ref>.]</p></note> <note n="35" xml:lang="deu"> 
+
+
+<p> Dodwell <ref n="bookpage">II, <ref n="pageref">p. 206</ref></ref>: on the side of the hill are six ancient terrace walls of the third style of masonry, rising one above another, on which the houses and streets ware situated. Vgl. Leake Morea <ref n="bookpage">III, <ref n="pageref">p. 325</ref></ref>.</p> </note> <note n="35" xml:lang="eng"> 
+
+
+<p> Dodwell <ref n="bookpage">II, <ref n="pageref">p. 206</ref></ref>: on the side of the hill are six ancient terrace walls of the third style of masonry, rising one above another, on which the houses and streets ware situated. Cf. Leake Morea <ref n="bookpage">III, <ref n="pageref">p. 325</ref></ref>.</p> </note> </div> 
+
+
+<div type="textpart" subtype="notes" n="2"> <head>Anmerkungen zur zweiten Scene.</head> <note n="1" xml:lang="deu"> 
+
+
+<p>Je weniger ich daran denken durfte, aus der Reihe der Bilder, in welchen das griechische Privatleben sich darstellen soll, eine Schilderung des Hetärenlebens, dem griechische Leichtfertigkeit eine so eigenthümliche Farbe verliehen hatte und das so tief in das Leben, der jungen Leute besonders, eingriff, ganz auszulassen, desto schwieriger war es, für ein solches Bild ein Motiv zu wählen, das sich einigermassen mit Decenz behandeln liess. Es hätten aus den Schriften der Alten selbst sich sehr interessante Situationen der Art entnehmen lassen; allein wenn man auch ganz von der gemeineren Klasse solcher Geschöpfe absehen wollte, so würde demungeachtet eine Darstellung dieses wüsten Lebens und Treibens, die Schilderung des Tons, der im Umgange mit ihnen herrschte, wenn man anders wahr und treu darstellen wollte, für unser sittliches Gefühl gar sehr beleidigend sein. Je weniger der Grieche aus dergleichen Liebesverhältnissen ein Geheimniss machte, je milder die allgemeine Stimme darüber urtheilte, und je weniger man daher Ursache hatte, sich im Clairobscur verschämter Sentimentalität zu halten oder den Schleier der Heimlichkeit darüber zu ziehen, desto offener und unverhüllter tritt überall der wollüstige Zweck dieses Umgangs hervor, und es bieten die Symposien, an denen Hetären Theil nehmen, Scenen dar, zu deren Schilderung ich meine Feder nicht leihen möchte. — Ich habe daher einen der gewiss häufigen Fälle gewählt, wo das Gewerbe etwas weniger öffentlich getrieben wurde, und es schien mir nicht nöthig, zur Andeutung des allgemeinen Charakters solcher Häuser mich in das Detail verliebter Scenen einzulassen. Sollte aber jemand meinen, dass eben dadurch die Darstellung zu sehr in den Ton des Romans oder der Novelle verfallen sei, so muss ich zu meiner Rechtfertigung anführen, dass ich im Grunde sehr wenig hinzugethan habe und dass fast allen Zügen des Gemäldes, bis auf <pb n="48"/> Kleinigkeiten herab, klassische Stellen zu Grunde liegen. Hauptsächlich ist der Stoff aus mehreren Stellen der Rede gegen Neära und der des Lysias über den an Eratosthenes verübten Mord genommen; doch haben auch Lucians Toxaris, die Hetärengespräche, der Esel, oder Appulejus in den Metamorphosen, Heliodor, die Komiker u. a, Beiträge geliefert. Ich glaube nicht, dass man sagen könnte, durch diese Zusammensetzung einzelner Fragmente sei ein Bild entstanden, gas als Ganzes sich doch in der Wirklichkeit nicht finde. Im Gegentheile liegt allerdings ein Factum zu Grunde, der verdriessliche Handel des Epänetos, den 
+
+
+<bibl n="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0014.tlg059.perseus-grc2:64-65/">(Pseudo-)Demosthenes in Neaer. S. 64 fg.</bibl> also erzählt: Ἐπαίνετον γὰρ τὸν Ἄνδριον ἐραστὴν ὄντα Νεαίρας ταυτησὶ παλαιὸν xal πολλὰ ἀνηλωκότα εἰς αὐτὴν καὶ καταγόμενον παρὰ τούτοις, ὁπότε ἐπιδημήσειεν Ἀϑήναζε διὰ τὴν φιλίαν τῆς Νεαίρας, ἐπιβουλεύσας ὁ Στέφανος οὗτοσί, μεταπεμψάμενος εἰς ἀγρὸν ὡς ϑύων, λαμβάνει μοιχὸν ἐπὶ τῇ ϑυγατρὶ τῆς Νεαίρας ταυτησὶ καὶ εἰς φόβον καταστήσας πράττεται μνᾶς τριάκοντα· καὶ λαβὼν ἐγγυητὰς τούτων Ἡριστόμαχόν τε τὸν ϑεσμοϑετήσαντα καὶ Ναυσίφιλον τὸν Ναυσινίκου τοῦ ἄρξαντος υἱόν, ἀφέησιν ὡς ἀποδώσοντ᾽ αὐτῷ τὸ ἀργύριον. Mit dieser kurzen Erzählung habe ich die umständlichere des Lysias verbunden und zur weiteren Ausführung andere Stellen benutzt. Ich selbst habe natürlich binzufügen müssen, was zur Verbindung der gegebenen Theile nöthig war; aber ich hoffe nichts eingemischt zu haben, was dem Gemälde die antike Färbung rauben könnte. — Manches wird sich übrigens in dem Excurse, Anderes in den folgenden Anmerkungen gerechtfertigt finden.</p></note> <note n="2" xml:lang="deu"> 
+
+
+<p> Am ausführlichsten spricht über diese glückliche Lage Korinths 
+
+
+<cit>
+
+
+<bibl n="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0099.tlg001.perseus-grc2:8.6.20/">Strabo <ref n="romarab">VIII, 6, 20</ref></bibl> 
+
+
+<quote xml:lang="grc">ὁ δὲ Κόρινθος ἀφνειὸς μὲν λέγεται διὰ τὸ ἐμπόριον, ἐπὶ τῷ ᾿Ισϑμῷ κείμενος καὶ δυοῖν λιμένων κύριος, ὧν ὁ μὲν τῆς Ἀσίας, ὁ δὲ τῆς Ἰταλίας ἐγγύς ἐστι, καὶ ῥᾳδίας ποιεῖ τὰς ἑκατέρωϑεν ἀμοιβὰς τῶν φορτίων πρὸς ἀλλήλους τοῖς τοσοῦτον ἀφεστῶσιν. </quote>
+</cit>
+ Wegen der Gefahren, welche mit der Umschiffung des maleischen Vorgebirges verbunden waren, zog man es vor, die Waaren hier umzuladen: 
+
+
+<cit>
+
+
+<bibl n="https://scaife.perseus.org/reader/urn:cts:greekLit:tlg0099.tlg001.perseus-grc2:8.6.20/">Strabo <ref n="romarab">VIII, 6, 20</ref></bibl> 
+
+
+<quote xml:lang="grc">ἀγαπητὸν οὖν ἐκατέροις ἦν τοῖς τε ἐκ τῆς Ἀσίας καὶ τοῖς ἐκ τῆς Ἰταλίας ἐμπόροις ἀφεῖσι τὸν ἐπὶ Μαλίας πλοῦν εἰς Κόρινϑον κατάγεσϑαι τὸν φόρτον αὐτόϑι· καὶ πεζῇ δὲ τῶν ἐκκομιζομένων ἐκ τῆς Πελοποννήσου καὶ τῶν εἰσαγομένων <pb n="49"/> ἔπιπτε τὰ τέλη τοῖς τὰ κλεῖϑρα ἔχουσι. </quote>
+ 
+
+
+<quote xml:lang="eng">It was pleasing then to merchants both from Asia and Italy, leaving the voyage past Malea, to unload their cargo there in Corinth; and the taxes also accrued to those holding the keys from goods transported overland from Peloponnesus and imported... </quote>
+ </cit>
+ Darum sagt eben Dio Chrysost. Or. <ref n="romarab">VIII, 5</ref>, <ref n="pageref">p. 276</ref>: ὅτε ἡ πόλις ὥσπερ ἐν τριόδῳ τῆς Ἑλλάδος ἔκειτο [und <ref n="romarab">XXXVII, 7</ref>: ἐν Κορίνϑῳ ἐν τῷ περιπάτῳ τῆς Ἑλλάδος, Vgl. Göttling Gesammelte Abhandl. aus dem klass. Alterthum I, S. 38—48.]</p></note> <note n="3" xml:lang="deu"> 
+
+
+<p> In der Nähe von Mistra sieht man jetzt eine so gefasste Quelle. S. Expéd de Morée t. II, pl. 42. Ob das (überhaupt wohl einer späten Zeit angehörende) Relief ursprünglich eine solche Bestimmung gehabt haben oder für den übrigens mittelalterlichen Bau nur benutzt worden sein möge, will ich freilich nicht behaupten.</p></note> <note n="4" xml:lang="deu"> 
+
+
+<p> Vgl. den Ausdruck bei 
+
+
+<cit>
+
+
+<bibl>Lucian. Navig. 11:</bibl> 
+
+
+<quote xml:lang="grc">μῶν ἐρωτικόν τί ἐστιν; οὐδὲ γὰρ τοῦτο ἀμυήτοις ἡμῖν ἐξαγορεύσεις, ἀλλ᾽ ὑπὸ λαμπρᾳ τῇ δᾳδὶ καὶ αὐτοῖς τετελεσμένοις.</quote>
+ 
+
+
+<quote xml:lang="eng">Is it something erotic? For you will not speak of this to us uninitiated either, but only to those who have been fully matured under the bright torch.</quote>
+ </cit>
+</p></note> <note n="5" xml:lang="deu"> 
+
+
+<p> 
+
+
+<cit>
+
+
+<bibl>Strabo <ref n="romarab">VIII, 6, 20</ref>:</bibl> 
+
+
+<quote xml:lang="grc">οὐ παντὸς ἀνδρὸς ἐς Κόρινϑον ἔσϑ᾽ ὃ πλοῦς.</quote>
+ </cit>
+</p></note> <note n="6" xml:lang="deu"> 
+
+
+<p> Die älteste Erwähnung des Κράνειον oder Κράνιον und, so viel ich weiss, die einzige aus der Zeit vor der Zerstörung Korinths, findet sich bei 
+
+
+<cit>
+
+
+<bibl>Xenoph. Hell. <ref n="romarab">IV, 4, 4</ref>:</bibl> 
+
+
+<quote xml:lang="grc">ἀποϑνήσκουσι δὲ οὕτω τῶν μὲν πρεσβυτέρων πολλοί· μᾶλλον γὰρ ἔτυχον ἐν τῇ ἀγορᾷ ὄντες· οἱ δὲ νεώτεροι... ἡσυχίαν ἔσχον ἐν τῷ Κρανίῳ:</quote>
+ 
+
+
+<quote xml:lang="eng">And so many of the older men died; for they happened to be in the marketplace; but the younger men...kept quiet in the Craneion: </quote>
+ </cit>
+ [Es war nach Diogen. L. <ref n="romarab">VI, 77</ref> und Suidas ein Gymnasium und dazu stimmt auch 
+
+
+<cit>
+
+
+<bibl>Themist. Or. <ref n="bookpage">II, <ref n="pageref">p. 45</ref></ref> Dind.:</bibl> 
+
+
+<quote xml:lang="grc">Διονύσιος μετὰ τὴν τυραννίδα περιπατῶν ἐν τῷ Κρανείῳ.</quote>
+ 
+
+
+<quote xml:lang="eng">Dionysius walked in the Craneion after his tyranny.</quote>
+ </cit>
+ Pausanias (Paus. <ref n="romarab">II, 2, 4</ref>) nennt es aber bloss ein κυπαρίσσων ἄλσος, weil bei dem Wiederaufbau der Stadt durch die Römer die Stätte ihre frühere Bestimmung nicht wieder erhielt. Dass das Kraneion nun ein sehr gesuchtes Quartier der Stadt war, erhellt aus 
+
+
+<cit>
+
+
+<bibl>Plut. de exilio 6: </bibl> 
+
+
+<quote xml:lang="grc">τὸ δέ σε μὴ κατοικεῖν Σάρδεις οὐδέν ἐστιν οὐδέ γὰρ Ἀϑηναῖοι πάντες κατοικοῦσι Κολυττὸν, οὐδὲ Κορίνϑιοι Κράνειον, οὐδὲ Πιτάνην Λάκωνες. </quote>
+ 
+
+
+<quote xml:lang="eng">But that you do not live in Sardis is nothing; for not all Athenians dwell in Colytus, nor all Corinthians in Craneion, nor all Spartans in Pitane.</quote>
+ </cit>
+ Denn wenn Plutarch hier auch nur den Gegensatz zwischen Theil und Ganzem hervorheben wollte, so konnte er doch bei den drei Städten nicht unbedeutende und deshalb weniger bekannte Viertel nennen, Für die Stattlichkeit des Kraneion zeugt ausserdem 
+
+
+<cit>
+
+
+<bibl>Dio Chrysost. Or. <ref n="romarab">VI, 4</ref>, <ref n="pageref">p. 199</ref>:</bibl> 
+
+
+<quote xml:lang="grc">πολὺ ἄμεινον κατεσκευάσϑαι τῶν ἐκεὶ βασιλεέων (Ἐκβατάνων καὶ Βαβυλῶνος) τό τε Κράνιον καὶ τὴν Ἀϑήνησιν ἀκρόπολιν καὶ τὰ προπύλαια.</quote>
+ 
+
+
+<quote xml:lang="eng">The Craneion and the acropolis in Athens and the Propylaea are far better constructed than the royal palaces there (of the Persians). </quote>
+ </cit>
+ Einen Hauptanziehungsgrund bildete die dort herrschende Frische und Reinheit der Luft, in Beziehung <pb n="50"/> auf welche schon vor der Zerstörung der Stadt Theophrastus schreibt: 
+
+
+<cit>
+
+
+<bibl>Theophrast. de caus. plant. <ref n="romarab">V, 20</ref> </bibl> 
+
+
+<quote xml:lang="grc">σκληραὶ γὰρ αἱ αἰθρίαι σφόδρα περὶ τὸ Κράνιον, ὥστε καὶ τοῖς φυτοῖς καὶ τῇ αἰσϑήσει δῆλον εἶναι.</quote>
+ 
+
+
+<quote xml:lang="eng">For the open spaces around the Craneion are extremely rocky, so that both the vegetation and the senses make it clear.</quote>
+ </cit>
+ Vgl. Göttling Gesamm. Abhandl. S. 180.]</p></note> <note n="7" xml:lang="deu"> 
+
+
+<p> 
+
+
+<cit>
+
+
+<bibl>Pausan. <ref n="romarab">II, 2, 4</ref>: </bibl> 
+
+
+<quote xml:lang="grc">ἐνταῦϑα Βελλεροφόντου τέ ἔστι τέμενος καὶ Ἀφροδίτης ναὸς Μελαινίδος,</quote>
+ 
+
+
+<quote xml:lang="eng">Here is the precinct of Bellerophon and the temple of Aphrodite Melaenis,</quote>
+ </cit>
+vgl. 
+
+
+<cit>
+
+
+<bibl><ref n="romarab">VIII, 6, 5</ref>:</bibl> 
+
+
+<quote xml:lang="grc">ἐπίκλησιν δὲ ἡ ϑεὸς ταύτην κατ' ἄλλο μὲν ἔσχεν οὐδέν, ὅτε δὲ ἀνθρώπων μὴ τὰ πάντα αἱ μίξεις ὥσπερ τηῖς κτήνεσι μεθ' ἡμέραν, τὰ πλείω δέ εἰσιν ἐν νυκτί,</quote>
+ 
+
+
+<quote xml:lang="eng">The goddess has this title for no other reason than that human matings are not all in daylight like animals, but most occur at night,</quote>
+ </cit>
+ [Weil Becker irrthümlich mit diesem Tempel das Hieroduleninstitut verbindet, habe ich im Texte mit K. F. Hermann „in deren uraltem Burgsitze“ geschrieben.]</p></note> <note n="8" xml:lang="deu"> 
+
+
+<p> 
+
+
+<cit>
+
+
+<bibl>Strabo <ref n="romarab">VIII, 6, 20</ref>:</bibl> 
+
+
+<quote xml:lang="grc">τὸ δὲ τῆς Ἀφροδίτης ἱερὸν οὕτω πλούσιον ὑπῆρξεν, ὥστε πλείους ἢ χιλίας ἱεροδούλους ἐκέκτητο ἑταίρας ... καὶ διὰ ταύτας οὖν πολυωχλεῖτο ἡ πόλις καὶ ἐπλουτίζετο· οὗ γὰρ ναύκληροι ῥᾳδίως ἐξανηλίσκοντο.</quote>
+ 
+
+
+<quote xml:lang="eng">The sanctuary of Aphrodite became so wealthy that it had more than a thousand sacred courtesans...And because of them the city became very crowded and prosperous; for merchant captains spent money easily.</quote>
+ </cit>
+ Die Kaufleute des Alterthums, welche oft Jahre lang von ihrer Heimath entfernt waren, mochten besonders dem Grundsatze „ein andrer Ort, ein andres Mädchen‘ folgen. Ein Bild solchen Lebens giebt uns 
+
+
+<cit>
+
+
+<bibl>Isocr. Aegin. 6:</bibl> 
+
+
+<quote xml:lang="grc">πλάνης δὲ γενόμενος καὶ διαιτηϑεὶς ἐν πολλαῖς πόλεσιν ἄλλαις τε γυναιξὶ συνεγένετο, ὧν ἔνιαι καὶ παιδάρι' ἀπέδειξαν, ἃ ἐκεῖνος οὐδὲ πώποτε γνήσια ἐνόμισε, καὶ δὴ καὶ τὴν ταύτης μητέρα ἐν τούτοις τοῖς γρόνοις ἔλαβεν. </quote>
+ 
+
+
+<quote xml:lang="eng">And wandering and living in many other cities, he had relations with various women, some of whom also produced children that he never considered legitimate. And during this time he also had relations with the mother of this woman. </quote>
+ </cit>
+ Darum waren auch in den Häfen, wie im Peiraeus, die πόρναι und πόρνοι häufig. Vgl. Plaut. Epid. <ref n="romarab">IV, 1, 18</ref>, Terent. Phorm. <ref n="romarab">IV, 1</ref>. [Aristoph. Pac. v. 165: ἐν Πειραιεῖ παρὰ ταῖς πόρναις. Vgl. Böckh Staatsh. B. <ref n="romarab">I, 8</ref>. 84: „Aphrodision, ein jedem Hafen des Alterthums sehr nothwendiges Heiligthum.“ Athen. <ref n="romarab">XIII, 28</ref>.]</p></note> <note n="9" xml:lang="deu"> 
+
+
+<p> Pausan. a. a. O.: τάφος Λαΐδος, ᾧ δὴ λέαινα ἐπίϑημά ἐστι κριὸν ἔχουσα ἐν τοῖς προτέροις ποσίν. [Wenn es dagegen bei Athen. <ref n="romarab">XIII, 55</ref> heisst: 
+
+
+<cit>
+
+
+<bibl>Athen. <ref n="romarab">XIII, 55</ref> heisst:</bibl> 
+
+
+<quote xml:lang="grc">αὐτοσχεδιάζουσιν οὖν οὗ λέγοντες αὐτὴν ἐν Κορίνϑῳ τεϑάφϑαι πρὸς τῷ Κρανείῳ, </quote>
+ 
+
+
+<quote xml:lang="eng">So, fabricating on the spot, when they said she was buried in Corinth near the Craneion,</quote>
+ </cit>
+ so ergiebt der ganze Zusammenhang der Stelle, dass er die ältere Lais mit der jüngeren, deren Grab am Peneios gezeigt wurde, verwechselt hat. Uebrigens war die Löwin mit dem Widder wahrscheinlich nicht ein Symbol des Hetärengewerbes, sondern des erbarmungslosen Todes.]</p></note> <note n="10" xml:lang="deu"> 
+
+
+<p> 
+
+
+<cit>
+
+
+<bibl>Dio Chrysost. Or. <ref n="romarab">VIII, 4</ref>, <ref n="pageref">p. 276</ref> von Diogenes von Sinope:</bibl> 
+
+
+<quote xml:lang="grc">μετέβη εἰς Κόρινθον κἀκεῖ διῆγον, οὔτε οἰκίαν μισϑωσάμενος <pb n="51"/> οὔτε παρὰ ξένῳ τινὶ καταγόμενος, ἀλλ᾽ ἐν τῷ Κρανίῳ ϑυραυλῶν· ἑώρα γὰρ ὅτι πλεῖστοι ἄνϑρωποι ἐκεῖ συνίασι διὰ τοὺς λιμένας καὶ τὰς ἑταίρας.</quote>
+ 
+
+
+<quote xml:lang="eng">he moved to Corinth and lived there, renting no house nor staying as a guest with anyone, but sleeping outdoors in the Craneion. For he saw that most people gathered there because of the harbors and courtesans.</quote>
+ </cit>
+ Vgl. <ref n="romarab">IX, 4</ref>, <ref n="pageref">p. 489</ref>. Plutarch. Alex. 14. Lucian. Hist. conscr. c. 3. Diog. Laërt. <ref n="romarab">VI, 77</ref> u. s. w.</p></note> <note n="11" xml:lang="deu"> 
+
+
+<p> 
+
+
+<cit>
+
+
+<bibl>Alciphr. epist. <ref n="romarab">III, 60</ref>:</bibl> 
+
+
+<quote xml:lang="grc">ὡς γὰρ ἐλούσαντο οἱ πολλοὶ καὶ μεσοῦσα ἡμέρα ἦν, στωμύλους ἐϑεασάμην καὶ εὐφυεῖς νεανισκοὺς οὐ περὶ τὰς οἰκίας, ἀλλὰ περὶ τὸ Κράνειον εἰλουμένους καὶ οὗ μάλιστα ταῖς ἀρτοπώλισι καὶ ὁπωροκαπήλοις ἔϑος ἀναστρέφειν. </quote>
+ 
+
+
+<quote xml:lang="eng">For when most had bathed and it was midday, I saw witty and clever young men not around the houses but gathered in the Craneion, where the breadsellers and fruit hawkers were accustomed to frequent.</quote>
+ </cit>
+ [Vgl. Ruhnken ad Tim. <ref n="pageref">p. 167</ref>.]</p></note> <note n="12" xml:lang="deu"> 
+
+
+<p> Dass mit Werken der Kunst, namentlich Götterbildern, ein bedeutender Handel in's Ausland getrieben wurde und dass sie nicht nur auf Bestellung, sondern auf Speculation verführt wurden, bezeugt noch für die späte Zeit die Erzählung von Apollonios, der im Peiräeus eine ganze Schiffsladung der Art traf. 
+
+
+<cit>
+
+
+<bibl>Philostr. Vit. Apollon. Tyan. <ref n="romarab">V, 20</ref>:</bibl> 
+
+
+<quote xml:lang="grc">ἐρομένου δὲ τοῦ Ἀπολλωνίου, τίς ὁ φόρτος: ϑεῶν, ἔφη, ἀγάλματα ἀπάγω ἐς Ἰωνίαν, τὰ μὲν χρυσοῦ καὶ λίϑου, τὰ δὲ ἐλέφαντος καὶ χρυσοῦ. Ἱδρυσαμένους ἣ τί; Ἡποδωσόμενος, ἔφη, τοῖς βουλομένοις ἱδρύεσϑαι.</quote>
+ 
+
+
+<quote xml:lang="eng">When Apollonius asked what the cargo was, he said: "I'm transporting statues of the gods to Ionia, some gold and stone, others ivory and gold." "To set them up?" "To sell to any who wish to set them up," he said.</quote>
+ </cit>
+ [Vgl. L. Friedländer, Darstell. aus d. Sittengesch. Roms Th. III, S. 187.] Die sicilische Kunstliebe ist aus Cicero's vierter Verrina bekannt.</p></note> <note n="13" xml:lang="deu"> 
+
+
+<p> 
+
+
+<cit>
+
+
+<bibl>Plutarch. Timol. 22:</bibl> 
+
+
+<quote xml:lang="grc">ἡ μὲν ἐν Συρακούσαις ἀγορὰ δι᾽ ἐρημίαν οὕτω πολλὴν καὶ βαϑεῖαν ἐξέφυσεν ὕλην, ὥστε τοὺς ἵππους ἐν αὐτῇ κατανέμεσθαι, τῶν ἱπποκόμων ἐν τῇ χλόῃ κατακειμένων· αὶ δ᾽ ἄλλαι πόλεις πλὴν παντελῶς ὀλίογων ἐλάφων ἐγένοντο μεσταὶ καὶ συῶν ἀγρίων, ἐν δὲ τοῖς προαστείοις καὶ περὶ τὰ τείχη πολλάκις οὗ σχολὴν ἄγοντες ἐκυνηγέτουν.</quote>
+ 
+
+
+<quote xml:lang="eng">The marketplace in Syracuse grew so much thick and deep vegetation from long abandonment that horses grazed in it, while the grooms lay in the grass. The other cities, except for a very few, became full of deer and wild pigs, and those with spare time often hunted in the suburbs and around the walls. </quote>
+ </cit>
+ Das ist etwa zehn Jahre früher als für diese Erzählung die Zeit angenommen ist; später mochte auch manche andere Stadt durch den Verfall des öffentlichen Lebens ein solches Ansehen erhalten. So auf Euböa bei 
+
+
+<cit>
+
+
+<bibl>Dio Chrysost. Or. <ref n="romarab">VI, 39</ref>, <ref n="pageref">p. 233</ref>:</bibl> 
+
+
+<quote xml:lang="grc">βλέπετε γὰρ αὐτοὶ δήπουϑεν, ὅτι τὸ γυμνάσιον ὑμῖν ἄρουραν πεποιήκασιν, ὥστε τὸν Ἡρακλέα καὶ ἄλλους ἀνδριάντας συχνοὺς ὑπὸ τοῦ ϑέρους ἀποκεκρύφϑαι τοὺς μὲν ἡρώων, τοὺς δὲ ϑεῶν, καὶ ὅτι καϑ' ἡμέραν τὰ τοῦ ῥήτορος τούτου πρόβατα ἔωϑεν εἷς τὴν ἀγορὰν ἐμβάλλει καὶ κατανέμεται περὶ τὸ βουλευτήριον.</quote>
+ 
+
+
+<quote xml:lang="eng">For you yourselves doubtless see that they have made your gymnasium into a field, so that Heracles and many other statues are covered by summer vegetation, some of heroes, some of gods, and that every day this fellow's sheep are driven at dawn into the marketplace and graze around the council hall.</quote>
+ </cit>
+ [Vgl. schon die Klage des 
+
+
+<cit>
+
+
+<bibl>Polybius <ref n="romarab">XXXVII, 4</ref>:</bibl> 
+
+
+<quote xml:lang="grc">ἐπέσχεν ἐν τοῖς καϑ' ἡμᾶς καιροῖς τὴν Ἑλλάδα πᾶσαν ἀπαιδία καὶ συλλήβδην ὀλιγανϑρωπία, δὲ ἣν αἵ τε πόλεις ἐξηρημώϑησαν καὶ ἀφορίαν εἶναι <pb n="52"/> συνέβαινε, καίπερ οὔτε πολέμων συνεχῶν ἐσχηκότων ἡμᾶς οὔτε λοιμικῶν,</quote>
+ 
+
+
+<quote xml:lang="eng">In our time universal childlessness and overall depopulation overtook all Greece, because of which the cities were deserted, and there was lack though we had had no constant wars or plagues.</quote>
+ </cit>
+ und einzelne Beispiele bei Strab. <ref n="bookpage">VIII, <ref n="pageref">p. 388</ref></ref>; <ref n="bookpage">IX, <ref n="pageref">p. 403</ref></ref> u. 412. Vgl. Hermann Privatalterth. S. 1, n. 9 ff.]</p></note> <note n="14" xml:lang="deu"> 
+
+
+<p> Vgl. den Excurs über die Reise.</p></note> <note n="15" xml:lang="deu"> 
+
+
+<p> Ein Beispiel der Art ist eben das des Epänetos, Demosth. in Neaer. 64. </p></note> <note n="16" xml:lang="deu"> 
+
+
+<p> Plutarch. de aud. poët. 8 nennt einen gewissen Poliagros, der seine eigene Frau verkuppelte. Darauf wurde in irgend einer Komódie mit dem Verse angespielt: 
+
+
+<quote xml:lang="grc">
+
+<l>εὐδαίμων Πολίαγρος οὐράνιον αἶγα πλουτοφόρον τρέφων.</l></quote>
+ 
+
+
+<quote xml:lang="eng">
+
+<l>Blessed Poliagros, nurturing the heavenly goat that brings wealth.</l></quote>
+ Ueber die Spottnamen der Hetären ist im Excurse gesprochen worden. Wie Niko <foreign xml:lang="grc">Αἴξ</foreign> <gloss>Goat</gloss>, so konnte auch Nikippe Αἰγίδιον heissen; vgl. Ath. <ref n="romarab">XV, 24</ref>.</p></note> <note n="17" xml:lang="deu"> 
+
+
+<p> Auch Nikarete trieb es ähnlich mit den sieben Mädchen, welche sie sich verschafft hatte. 
+
+
+<cit>
+
+
+<bibl>Demosth. in Neaer. 19: </bibl> 
+
+
+<quote xml:lang="grc">πρoσειποῦσα αὐτὰς ὀνόματι ϑυγατέρας, ἵν᾽ ὡς μεγίστους μισϑοὺς πράττοιτο τοὺς βουλομένους πλησιάζειν αὐταῖς ὡς ἐλευϑέραις οὔσαις.</quote>
+ 
+
+
+<quote xml:lang="eng">Addressing them as daughters, so that she could charge the highest fees to those wishing to have relations, as if they were free.</quote>
+ </cit>
+ Ebenso Neära, nachdem Stephanos sie geheirathet hatte, ebend. S. 41: 
+
+
+<cit>
+
+
+<bibl>in Neaer. S. 41:</bibl> 
+
+
+<quote xml:lang="grc">διεγγυηϑεῖσα δὲ ὁπὸ Στεφάνου καὶ οὖσα παρὰ τούτῳ τὴν μὲν αὐτὴν ἐργασίαν οὐδὲν ἧττον ἢ τὸ πρότερον εἰργάζετο· τοὺς δὲ μισϑοὺς μείζους ἐπράττετο τοὺς βουλομένους αὐτῇ πλησιάζειν, ὡς ἐπὶ προσχήματος ἤδη τινὸς οὖσα καὶ ἀνδρὶ συνοικοῦσα.</quote>
+ 
+
+
+<quote xml:lang="eng">And after being betrothed by Stephanus and being with him, she engaged in the very same occupation no less than before. But she charged higher fees to those wishing to have relations with her, as she now had a certain pretext, cohabiting with a husband.</quote>
+ </cit>
+</p></note> <note n="18" xml:lang="deu"> 
+
+
+<p> Was der Tagelohn für gemeine Handarbeit gewesen sei, lässt sich nicht genau bestimmen. S. Böckh Staatshaush. d. Ath. B. I, S. 165. Lucian. Tim. 6 nennt vier Obolen; vgl. auch 
+
+
+<cit>
+
+
+<bibl>Lucian. Epist. Saturn. 21:</bibl> 
+
+
+<quote xml:lang="grc">ὀνειροπολεῖν, εἴ ποθεν ὀβολοὶ τέσσαρες γένοιντο, ὡς ἔχοιμεν ἄρτων γοῦν ἢ ἀλφίτων ἐμπεπλησμένοι καϑεύδειν</quote>
+ 
+
+
+<quote xml:lang="eng">To dream, if only four obols might turn up somewhere, so that we could at least, filled with bread or barley flour, go to sleep. </quote>
+ </cit>
+ [4 Obolen auch Aristoph. bei Pollux <ref n="romarab">VII, 133</ref>; nur 3 Obolen: Aristoph. Eccles. 310], aber der tägliche Lohn eines Ruderers oder Schiffziehers wird an einem anderen Orte auf die Hälfte angegeben, 
+
+
+<cit>
+
+
+<bibl>de electro 3: </bibl> 
+
+
+<quote xml:lang="grc">εἰ δὲ ἦν τι τοιοῦτον, οἴεε ἡμᾶς δυοῖν ὀβολοῖν ἕνεκα ἐρέττειν ἂν ἢ ἕλκειν τὰ πλοῖα πρὸς ἐναντίον τὸ ὕδωρ, οἷς ἐξῆν πλουτεῖν.</quote>
+ 
+
+
+<quote xml:lang="eng">But if there were any such thing, do you think for the sake of two obols we would row or haul ships against the current, when we could get rich?</quote>
+ </cit>
+ </p></note> <note n="19" xml:lang="deu"> 
+
+
+<p> Wenn auch der Arbeitslohn im Ganzen billig gewesen sein mag, so wurde doch für einzelne Dienstleistungen verhältnissmässig viel mehr gefordert. S. Aristoph. Ran. 173 mit Böckh. a. a. O. Es scheint, dass man wie bei uns für jeden kleinen Dienst auf Bezahlung <pb n="53"/> rechnete und auch der Gebrauch der Douceurs oder Trinkgelder, die im Grunde für nichts gegeben werden, war dem Alterthume nicht fremd. Lucian de merc. cond. 14 schildert vortrefflich den scheinbar der Annahme sich weigernden Sklaven: 
+
+
+<cit>
+
+
+<bibl>Lucian de merc. cond. 14</bibl> 
+
+
+<quote xml:lang="grc">εὐθὺς οὖν πρόσεισι παραγγέλλων τις ἥκειν ἐπὶ τὸ δεῖπνον, οὐχ ἀνομέλητος οἰχέτης, ὃν χρὴ πρότερον ἵλεων ποιήσασϑαι παραβύσαντα ἐς τὴν χεῖρα, ὡς μὴ ἀδέξιος εἶναι δοκῆς, τοὐλάχιστον πέντε δραχμάς· ὁ δὲ ἀχχισάμενος καὶ Ἄπαγε, παρὰ σοῦ δ' ἐγώ: καὶ Ἡράκλεις, μὴ γένοιτο, ἐπειπὼν τέλος ἐπείσϑη. </quote>
+ 
+
+
+<quote xml:lang="eng">Immediately, then, someone comes giving notice to come to dinner - not some negligent house-slave whom one must first propitiate by slipping a coin into his hand, so you do not seem graceless, at least five drachmas. But he, snorting and saying "Away with you! From you? No indeed!" and finally saying "By Heracles, may it not happen!" was persuaded.</quote>
+ </cit>
+ Vgl. 10 und 38. [Mit diesen freilich auf römische Sitte bezüglichen Stellen vgl. noch die von Hermann beigebrachten Juvenal. <ref n="romarab">III, 184</ref> ff. <ref n="romarab">VIII, 218</ref> ff. und Ritschl Rhein. Mus. IV, S. 314]. — Diesen Remunerationen verwandt sind die Geschenke, welche man Leuten, die man selbst im Dienste hatte, an gewissen jährlichen Festen machte, wie wir es zu Weihnachten, an Messen und bei anderen Gelegenheiten thun. Bei der Unterhandlung um den Lohn lässt sie Lucian sogleich mit in Anschlag bringen, 
+
+
+<cit>
+
+
+<bibl>19:</bibl> 
+
+
+<quote xml:lang="grc">σὺ δ᾽ αὐτὸς, ὅτι βούλει λέγε μεμνημένος, ὦ φίλτατε, κἀκείνων, ἅπερ ἐν ἑορταῖς ἐτησίοις εἰκὸς ἡμᾶς παρέξειν· οὐ γὰρ ἀμελήσομεν οὐδὲ τῶν τοιούτων, εἰ καὶ μὴ νῦν αὐτὰ συντιϑέμεϑα. </quote>
+ 
+
+
+<quote xml:lang="eng">But say yourself, dearest friend, whatever you wish, remembering also those things which it is fitting for us to provide at yearly festivals. For we shall not neglect such things either, even if we do not now prepare them.</quote>
+ </cit>
+ Damit lässt sich vergleichen, was sagt: 
+
+
+<cit> 
+
+
+<bibl>Athen. <ref n="romarab">X, 49</ref>, <ref n="pageref">p. 437</ref></bibl> 
+
+
+<quote xml:lang="grc"> τῇ δὲ ἑορτῇ τῶν Χοῶν ἔϑος ἐστὶν Ἀϑήνησι πέμπεσθαι δῶρά τε καὶ τοὺς μισϑοὺς τοῖς σοφισταῖς, οἵπερ καὶ αὐτοὶ συνεκάλουν ἐπὶ ξενέᾳ τοὺς γνωρίμους, ὥς φησιν Εὐβουλίδης ὁ διαλεκτικὸς ἐν δράματι Konaσταῖς οὕτως: 
+
+<l>σοφιστιᾷς, κάκιστε, καὶ Χοῶν δέει</l> 
+
+<l>τῶν μισϑοδώρων, οὐχ ἀδείπνων ἐν τρυφῇ.</l> </quote>
+ </cit>
+</p></note> <note n="20" xml:lang="deu"> 
+
+
+<p> Plutarch schildert so den Anblick, den das Haus des unordentlich Lebenden gewähre: 
+
+
+<cit> 
+
+
+<bibl>Plutarch de cohib. ira 15</bibl> 
+
+
+<quote xml:lang="grc">διὸ τῶν μὲν ἀσώτων ταῖς οἰκίαις προσιόντες αὐλητρίδος ἀκούομεν ἑωϑινῆς καὶ πηλόν, ὥς τις εἶπεν, οἴνου καὶ σπαράγματα στεφάνων καὶ κραιπαλῶντας δρῶμεν ἐπὶ ϑύραις ἀκολούϑους. </quote>
+ 
+
+
+<quote xml:lang="eng">Therefore when we come to the houses of profligates we hear the music of a female flutist at dawn and, as someone said, mud of wine and remnants of garlands and them wandering drunk by the doors with their followers. </quote>
+ </cit>
+</p></note> <note n="21" xml:lang="deu"> 
+
+
+<p> Den Alten galt als vorzüglichstes Mittel, die Müdigkeit als Folge der Anstrengung zu beseitigen, das Bad. Was Dionysos bei Aristophes sagt: 
+
+
+<cit> 
+
+
+<bibl>Aristoph. Ran. 1279</bibl> 
+
+
+<quote xml:lang="grc"> 
+
+<l>ἐγὼ μὲν οὖν ἐς τὸ βαλανεῖον βούλομαι·</l> 
+
+<l>ὑπὸ τῶν κόπων γὰρ τὼ νεφρὼ βουβωνιῶ,</l> </quote>
+ </cit>
+ <pb n="54"/> das ist die allgemeine Ansicht von dem Zwecke des Bades. 
+
+
+<cit> 
+
+
+<bibl>Aristot. Probl. <ref n="romarab">I, 39</ref>, <ref n="pageref">p. 863</ref>:</bibl> 
+
+
+<quote xml:lang="grc">διὰ τί τοὺς μὲν ϑερινοὺς κόπους λουτρῷ ἰᾶσϑαι δεῖ, τοὺς δὲ χειμέρινοὺς ἀλείμματι: </quote>
+ 
+
+
+<quote xml:lang="eng">Why is it necessary to cure summer labors with a bath but winter ones with oil rubdown?</quote>
+ </cit>
+ 
+
+
+<cit> 
+
+
+<bibl>Lucian. Lexiph. 2:</bibl> 
+
+
+<quote xml:lang="grc">χαίρω δὲ μετὰ κάματον ἀπολουόμενος. </quote>
+ 
+
+
+<quote xml:lang="eng">But I delight to wash off sweat after labor. </quote>
+ </cit>
+ 
+
+
+<cit>
+
+
+<bibl>Athen. <ref n="romarab">I, 44</ref>, <ref n="pageref">p. 24</ref>:</bibl> 
+
+
+<quote xml:lang="grc">ἴσασι δὲ καὶ λουτρὰ ἄκη πόνων παντοῖα. </quote>
+ 
+
+
+<quote xml:lang="eng">And baths know every kind of relief from toils. </quote>
+ </cit>
+ Vgl. meine Antiq. Plaut. <ref n="pageref">p. 9</ref> und den Exc. über die Bäder zu Sc. VIII.</p></note> <note n="22" xml:lang="deu"> 
+
+
+<p> 
+
+
+<cit>
+
+
+<bibl>Lucian. Asin. 2</bibl> 
+
+
+<quote xml:lang="grc">εἶτα πέμπε αὐτὸν εἰς βαλανεῖον· οὐχὶ γὰρ μετρίαν ἐλήλυϑεν ὁδόν. Ausführlicher </quote>
+ 
+
+
+<quote xml:lang="eng">Then send him to a bathhouse; for he has come no moderate journey. </quote>
+ </cit>
+ 
+
+
+<cit>
+
+
+<bibl>Appul. Metam. <ref n="romarab">I, 23</ref> :</bibl> 
+
+
+<quote xml:lang="lat">ex promptuario oleum unctui et lintea tersui et caetera huic eidem usui profer ociter, et hospitem meum produc ad proximas balneas : satis arduo itinere atque prolixo fatigatus est. </quote>
+ 
+
+
+<quote xml:lang="eng">Fetch quickly from storage oil for anointing and linen for drying off and everything else for the same use, and take my guest to the nearest bathhouse - he is quite tired from the long and arduous journey.</quote>
+ </cit>
+</p></note> <note n="23" xml:lang="deu"> 
+
+
+<p> 
+
+
+<cit>
+
+
+<bibl>Xenoph. de rep. Lac. 1,3:</bibl> 
+
+
+<quote xml:lang="grc">οἱ μὲν ἄλλοι τὰς μελλούσας τίκτειν καὶ καλῶς δοκούσας κόρας παιδεύεσθαι καὶ σίτῳ ᾖ ἀνυστὸν μετριωτάτῳ τρέφουσι καὶ ὄψῳ ᾗ δυνατὸν μιχροτάτῳ· οἴνου γε μὴν ἢ πάμπαν ἀπεχομένας ἢ ὑδαρεῖ ζρωμένας διάγουσιν. </quote>
+ 
+
+
+<quote xml:lang="eng">Others raise girls about to give birth, seeming fit, educating them and feeding them most moderately on grain and tiny portions of relish; at any rate they live keeping them from wine entirely or giving them only watered wine. </quote>
+ </cit>
+</p></note> <note n="24" xml:lang="deu"> 
+
+
+<p> Es war dies eines der Zeichen, durch welche man stillschweigend seine Liebe erklärte oder auf ein geheimes Einverständniss sich bezog. 
+
+
+<cit>
+
+
+<bibl>Ovid. Amor. <ref n="romarab">I, 4, 31</ref>:</bibl> 
+
+
+<quote xml:lang="lat"> 
+
+<l>Quae tu reddideris, ego primus pocula sumam,</l> 
+
+<l>Et qua tu biberis, hac ego parte bibam.</l> </quote>
+ 
+
+
+<quote xml:lang="eng"> 
+
+<l>The cups which you give back, I will be the first to take,</l> 
+
+<l>And from the part where you drank, I will drink from that part.</l> </quote>
+ </cit>
+ </p> 
+
+
+<p> 
+
+
+<cit>
+
+
+<bibl>Lucian. Dial. meretr. <ref n="romarab">XII, 1</ref>: </bibl> 
+
+
+<quote xml:lang="grc">καὶ πιὼν ἂν ἐκείνῃ μὲν ὑπέδειξας τὸ ποτήριον, ἀποδιδοὺς δὲ τῷ παιδὶ πρὸς τὸ οὖς ἐκέλευες, εἰ μὴ Πυραλλὶς αἰτήσειε, μὴ ἂν ἄλλῳ ἐγχέαι. </quote>
+ 
+
+
+<quote xml:lang="eng">And having drunk you would point out the cup to her, but giving it back to the slave boy would order him, if Pyrrallis did not ask, not to pour for anyone else.</quote>
+ </cit>
+ Die Hauptstelle darüber ist aber bei 
+
+
+<cit>
+
+
+<bibl>Achill. Tat. <ref n="romarab">II, 9</ref>: </bibl> 
+
+
+<quote xml:lang="grc">ᾠνοχόει δὲ ὁ Σάτυρος ἡμῖν καὶ τε ποιεῖ ἐρωτικόν· διαλλάσσει γὰρ τὰ ἐκπώματα καὶ τὸ μὲν ἐμὸν τῇ χόρῃ προστίϑησι, τὸ δὲ ἐκείνης ἐμοί, καὶ ἐγχέων ἀμφοτέροις καὶ ἐγχερασάμενος ὥρεγεν. ἐγὼ δὲ ἐπιτηρήσας τὸ μέρος τοῦ ἐκπώματος ἔνϑα τὸ χεῖλος ἡ κόρη πίνουσα προσέϑιγεν ἐναρμοσάμενος ἔπινον ἀποστολιμαῖον τοῦτο φίλημα ποιῶν καὶ ἅμα κατεφίλουν τὸ ἔχπωμα. </quote>
+ 
+
+
+<quote xml:lang="eng">And the satyr poured the wine for us and did something erotic; for he exchanged the cups and placed mine by the girl, hers by me, and pouring into both and mixing them offered them. But I, noticing what part of the cup the girl's lip touched as she drank, fitting mine to it I drank that kiss from a distance, at the same time kissing the cup. </quote>
+ </cit>
+ Bei nochmaliger Vertauschung thut dann das Mädchen dasselbe, und so wird es mehrmals wiederholt. Ueber andere ähnliche Arten von Liebeserklärungen s. Anm. 10 ff. zu Sc. XI.</p></note> <note n="25" xml:lang="deu"> 
+
+
+<p> Ich habe an den treffenden Vergleich bei Plautus gedacht: 
+
+
+<cit>
+
+
+<bibl>Plaut. Asin. I, 9, 63</bibl> 
+
+
+<quote xml:lang="lat"> 
+
+<l>Non tu scis? hic noster quaestus aucupii simillimu'st,</l> 
+
+<l>Auceps quando concinnavit aream, offundit cibum.</l> 
+
+<l>Aves assuescunt. Necesse est facere sumtum , qui quaerit lucrum.</l> 
+
+<l>Saepe edunt: semel si captae sunt, rem solvunt aucupi.</l> 
+
+<l>Itidem hic apud, nos, aedes nobis area est, auceps ego,</l> 
+
+<l>Esca est meretrix, lectus illex est, amatores aves etc.</l> </quote>
+ 
+
+
+<quote xml:lang="eng"> 
+
+<l>You don't know? Our profession is very similar to that of a fowler,</l> 
+
+<l>When a fowler has prepared his yard, he scatters food,</l> 
+
+<l>The birds get used to it. He who seeks profit must spend something.</l> 
+
+<l>Often they eat: but once they're caught, they pay the fowler.</l> 
+
+<l>So it is here with us, our house is the yard, I'm the fowler,</l> 
+
+<l>The bait is the courtesan, the bed is the snare, the lovers are the birds, etc.</l> </quote>
+ </cit>
+ <pb n="55"/></p></note> <note n="26" xml:lang="deu"> 
+
+
+<p> 
+
+
+<cit>
+
+
+<bibl>Lysias de caede Erat. S. 17:</bibl> 
+
+
+<quote xml:lang="grc">ἀναμιμνησχόμενος, ὅτι ἐν ἐκείνῃ τῇ νυκτὶ ἐφόφει ἣ μέταυλος ϑύρα καὶ ἡ αὔλειος. </quote>
+ 
+
+
+<quote xml:lang="eng">Remembering that on that night the courtyard gate creaked and the gate to the street.</quote>
+ </cit>
+ S. d. Exc. über das Haus. — Auch Euphiletos hörte das im oberen Stockwerke.</p></note> <note n="27" xml:lang="deu"> 
+
+
+<p> Der Gebrauch des Nachtlichts war, wie bei uns, ebensowenig allgemein als ungewöhnlich. Das erhellt schon aus der särtlichen Anrede der Praxagora an ihre Lampe, Aristoph. Eccl. 8, und dem witzigen Einfalle Lucians Catapl. 27, die Nachtlampe als Zeuge gegen den Tyrannen auftreten zu lassen. Auch Leontidas schlief bei Nachtlicht, Plutarch. Pelop. 11. Dagegen wird bei Aristoph. Nub. 18. Theophr. Char. 18. Theocr. <ref n="romarab">XXIV, 48</ref> erst, wenn das Bedürfniss eintritt, Licht angezündet.</p></note> <note n="28" xml:lang="deu"> 
+
+
+<p> 
+
+
+<cit>
+
+
+<bibl>Lysias de caed. Erat. 14:</bibl> 
+
+
+<quote xml:lang="grc">ἐρομένου δέ μου, τί αὶ ϑύραι νύκτωρ φοφοῖεν, ἔφασκε τὸν λύχνον ἀποσβεσϑῆναι τὸν παρὰ τῷ παιδίῳ, εἶτα ἐκ τῶν γειτόνων ἀνάψασϑαι. ἐσιώπων ἐγὼ καὶ ταῦτα οὕτως ἔχειν ἡγούμην. </quote>
+ 
+
+
+<quote xml:lang="eng">When I asked why the gates creaked at night, she said that the lamp by the slave boy had gone out, then they lit it from the neighbors'. I was silent, believing this to be the case. </quote>
+ </cit>
+Es konnte also nichts Auffallendes haben, dass, wiewohl des Nachts, die Gefälligkeit vom Nachbar erbeten wurde; im Gegentheile scheint der Fall oft vorgekommen zu sein. Auch Sokrates sagt bei 
+
+
+<cit>
+
+
+<bibl>Xenoph. Mem. <ref n="romarab">II, 2, 12</ref>:</bibl> 
+
+
+<quote xml:lang="grc">οὐκοῦν καὶ τῷ γείτονι βούλει σὺ ἀρέσκειν, ἵνα σοι καὶ πῦρ ἐναύῃ, ὅταν τούτου δέῃ. </quote>
+ 
+
+
+<quote xml:lang="eng">Well, do you also wish to please the neighbor, so that he may light a fire for you, when there is need?</quote>
+ </cit>
+ [Vgl. 
+
+
+<cit>
+
+
+<bibl>Diphilus bei Athen. <ref n="romarab">VI, 35</ref>:</bibl> 
+
+
+<quote xml:lang="grc"> 
+
+<l>ἀγνοεῖς ἐν ταῖς ἀραῖς</l> 
+
+<l>ὅ τι ἔστιν, εἴ τις μὴ φράσει᾽ ὀρϑῶς δδόν,</l> 
+
+<l>ἢ πῦρ ἐναύσει, ἣ διαφϑεέρει᾽ ὕδωρ,</l> 
+
+<l>ἢ δειπνιεῖν μέλλοντα κωλύσαι τινά.</l> </quote>
+ 
+
+
+<quote xml:lang="eng">You do not understand what is in curses, if one does not explain: to bar the way correctly or light fire or destroy water or hinder someone about to dine. </quote>
+ </cit>
+ Denselben Grundsatz bezeugt auch für die Römer 
+
+
+<cit>
+
+
+<bibl>Cic. Offic. <ref n="romarab">I, 16</ref>:</bibl> 
+
+
+<quote xml:lang="lat">ex quo sunt illa communia: non prohibere aqua profluente; pati ab igne ignem capere, si qui velit; consilium fidele deliberanti dare. </quote>
+ 
+
+
+<quote xml:lang="eng">From these come the common practices: not preventing the flow of water; allowing one who wishes to take fire from fire; giving trustworthy advice to one deliberating.</quote>
+ </cit>
+ Das Gegentheil findet sich bei Demosth. in Aristog. <ref n="romarab">I, 61</ref>] Auch andere kleine Dienste und Gefälligkeiten wurden oft in Anspruch genommen und, wie es scheint, gern gewührt. Theophrastus rechnet es zu den Kennzeichen eines 
+
+
+<cit>
+
+
+<bibl>Theophr. Char. 10 </bibl> 
+
+
+<quote xml:lang="grc">μικρολόγος : ἀπαγoρεῦσαι τῇ γυναιχὶ μήτε ἅλας γρᾶν μήτε ἑλλύχνιον μήτε χύμινον μήτε ὀρίγανον μήτε οὐλὰς μήτε στέμματα μήτε ϑυλήματα· ἀλλὰ λέγειν, ὅτι τὰ μιχρὰ ταῦτα πολλά ἔστι τοῦ ἐνιαυτοῦ. </quote>
+ 
+
+
+<quote xml:lang="eng">Stingy: to forbid one's wife to buy salt, lamp oil, dried fish, oregano, cresses, garlands, sacrifices - but to say that these little things add up over the course of a year. </quote>
+ </cit>
+ [Dass das Leihen <pb n="56"/> und Borgen unter den Nachbarn und besonders den Nachbarinnen überhaupt sehr an der Tagesordnung war, sieht man auch aus 
+
+
+<cit>
+
+
+<bibl>Plaut. Aulul. <ref n="romarab">I, 2, 13</ref>:</bibl> 
+
+
+<quote xml:lang="grc">
+
+<l>Quod quispiam ignem quaerat, exstingui volo ...</l> 
+
+<l>Tum aquam aufugisse dicito, si quis petet;</l> 
+
+<l>Cultrum, securim, pistillum, mortarium,</l> 
+
+<l>Quae utenda vasa semper vicini rogant,</l> 
+
+<l>Fures venisse atque abstulisse dicito;</l> </quote>
+ 
+
+
+<quote xml:lang="eng"> 
+
+<l>If someone is looking for fire, I want it extinguished... </l> 
+
+<l>Then say the water has run off, if someone asks for it; </l> 
+
+<l>Knife, axe, pestle, mortar, </l> 
+
+<l>household objects neighbors are always borrowing, </l> 
+
+<l>say thieves came and took them away.</l> </quote>
+ </cit>
+ vgl. dagegen den Gefülligen im 
+
+
+<cit>
+
+
+<bibl>Plaut. Rudens <ref n="romarab">I, 2, 45</ref>:</bibl> 
+
+
+<quote xml:lang="lat"> 
+
+<l part="F">— — semper petunt</l> 
+
+<l>Aquam hinc aut ignem aut vascula aut cultrum aut veru</l> 
+
+<l part="I">Aut aulam exiarem aut aliquid.</l> </quote>
+ </cit>
+ ] So wurden namentlich Geschirre u. dergl. häufig geliehen, obgleich dabei auch Vorsicht weder ungebräuchlich noch unnöthig war; s. 
+
+
+<cit>
+
+
+<bibl>Aristoph. Eccl. 446:</bibl> 
+
+
+<quote xml:lang="grc">
+
+<l>ἔπειτα συμβάλλειν πρὸς ἀλλήλας ἔφη</l> 
+
+<l>ἱμάτια, χρυσι᾽, ἀργύριον, ἐκπώματα</l> 
+
+<l>μόνας μόναις γ᾽, οὐ μαρτύρων γ᾽ ἐναντίον,</l> 
+
+<l>καὶ ταῦτ᾽ ἀποφέρειν πάντα κοὐχ ἀποστερεῖν·</l> 
+
+<l>ἡμῶν δὲ τοὺς πολλοὺς ἔφασκε τοῦτο δρᾶν.</l> </quote>
+ 
+
+
+<quote xml:lang="eng"> 
+
+<l>Then she said they would exchange with each other </l> 
+
+<l>clothing, gold, silver, cups, </l> 
+
+<l>woman to woman of course, not with witnesses present, </l> 
+
+<l>and they would take all these things away and not steal them. </l> 
+
+<l>But she said that most of us do this. </l> </quote>
+ </cit>
+ Zu den letzten Worten kann als Commentar dienen, was bei Demosth. in Timoth. 24 ff. erzählt wird.</p></note> <note n="29" xml:lang="deu"> 
+
+
+<p> 
+
+
+<cit>
+
+
+<bibl>Eurip. Bacch. 729:</bibl> 
+
+
+<quote xml:lang="grc">
+
+<l>οἴνου δὲ μηκέτ᾽ ὄντος οὐχ ἔστιν Κύπρις.</l> </quote>
+ 
+
+
+<quote xml:lang="eng">When the wine is gone, there is no Aphrodite.</quote>
+ </cit>
+ Auch Aristoteles sagt: 
+
+
+<cit>
+
+
+<bibl>Aristot. Probl. <ref n="romarab">XXX, 1</ref>, <ref n="pageref">p. 953</ref>, 31 Bekk.</bibl> 
+
+
+<quote xml:lang="grc">ὀρϑῶς Διόνυσος καὶ Ἀφροδίτη λέγονται μετ’ ἀλλήλων εἶναι. </quote>
+ 
+
+
+<quote xml:lang="eng">Dionysus and Aphrodite are rightly said to be together. </quote>
+ </cit>
+ Vgl. 
+
+
+<cit>
+
+
+<bibl>Terent. Eunuch. <ref n="romarab">IV, 5, 6</ref>:</bibl> 
+
+
+<quote xml:lang="lat">sine Cerere et Libero friget Venus, </quote>
+ 
+
+
+<quote xml:lang="eng">Without Ceres and Liber, Venus grows cold.</quote>
+ </cit>
+ [die Erklär. zu 
+
+
+<cit>
+
+
+<bibl>Appul. Metam. <ref n="romarab">II, 11</ref>:</bibl> 
+
+
+<quote xml:lang="lat">ecce Veneris hortator et armiger Liber advenit ultro, </quote>
+ 
+
+
+<quote xml:lang="eng">Behold, Venus' encourager and attendant Liber comes unbidden.</quote>
+ </cit>
+ und v. Leutsch zu Apostol. Prov. <ref n="pageref">p. 321</ref>]</p></note> <note n="30" xml:lang="deu"> 
+
+
+<p> Einen solchen Fall bietet die Geschichte von Stephanos und Epänetos dar, s. die erste Anmerkung. Aber Stephanos hatte früher auf dieselbe Weise auch seine Frau als Lockspeise gebraucht: 
+
+
+<cit>
+
+
+<bibl>Demosth. in Neaer. 41:</bibl> 
+
+
+<quote xml:lang="grc">συνεσυκοφάντει δὲ καὶ οὗτος, εἴ τινα ξένον ἀγνῶτα πλούσιον λάβοι ἐραστὴν αὐτῆς ὡς μοιχὸν ἐπ᾽ αὐτῇ, ἔνδον ἀποκλείων καὶ ἀργύριον πραττόμενος πολύ. </quote>
+ 
+
+
+<quote xml:lang="eng">And he would falsely accuse in concert, if he caught some unknown rich stranger as her lover, shutting him inside and extorting a lot of money.</quote>
+ </cit>
+ Diese Beispiele sind uns zufällig bekannt geworden; aber auf wie viele ähnliche Bubenstücke lässt sich daraus schliessen! <pb n="57"/></p></note> <note n="31" xml:lang="deu"> 
+
+
+<p> Es ist die hintere Thür des Hauses gemeint, die gewöhnlich ϑύρα κηπαία genannt wurde. S. den Exc. über das Haus. Dass es möglich war, eine verschlossene Thüre auf solche Weise zu öffnen, bezeugt 
+
+
+<cit>
+
+
+<bibl>Lucian. Dial. meretr. <ref n="romarab">XII, 3</ref>:</bibl> 
+
+
+<quote xml:lang="grc"> τὴν αὔλειον εὗρον ἀποκεκλεισμένην ἐπιμελῶς· μέσαι γὰρ νύκτες ἦσαν· οὐχ ἔκοψα δ' οὖν, ἀλλ᾿ ἑπάρας ἠρέμα τὴν ϑύραν (ἤδη δὲ καὶ ἄλλοτε ἐπεποιήκειν αὐτό) παραγαγὼν τὸν στροφέα παρῆλθον ἀφοφητί. </quote>
+ 
+
+
+<quote xml:lang="eng">I found the courtyard carefully locked - for it was the middle of the night. But I did not knock; rather, gently lifting the door (I had done this before at other times), slipping back the bolt I passed through unnoticed. </quote>
+ </cit>
+</p></note> <note n="32" xml:lang="deu"> 
+
+
+<p> Ich habe dabei an die puncta, lasciva quae terebrantur acu gedacht. S. Mart. <ref n="romarab">XI, 45, 6</ref>.</p></note> <note n="33" xml:lang="deu"> 
+
+
+<p> 
+
+
+<cit>
+
+
+<bibl>Appul. Metam. <ref n="romarab">II, 26</ref>:</bibl> 
+
+
+<quote xml:lang="lat">insperato lucro diffusus in gaudium et in aureos refulgentes, quos idemtidem manu mea ventilabam, altonitus. </quote>
+ 
+
+
+<quote xml:lang="eng">Flushed with unexpected gain, marveling at the golden coins which I repeatedly turned over in my hand.</quote>
+ </cit>
+</p></note> <note n="34" xml:lang="deu"> 
+
+
+<p> Die Zeugen, welche hier nur als bestochene gedacht werden können, holte Euphiletos wirklich herbei. 
+
+
+<cit>
+
+
+<bibl>Lysias de caede Erat. 23:</bibl> 
+
+
+<quote xml:lang="grc">καὶ ἡ ϑεράπαινα ἐπεγείρασα εὐθὺς φράζει, ὅτι (ὁ μοιχὸς) ἔνδον ἐστι· κἀγὼ εἰπὼν ἐκείνῃ ἐπιμελεῖσϑαι τῆς ϑύρας καταβὰς σιωπῇ ἐξέρχομαι καὶ ἀφικνοῦμαι ὡς τὸν καὶ τόν· καὶ τοὺς μὲν ἔνδον κατέλαβον, τοὺς δὲ ἐπιδημοῦντας εὗρον. παραλαβὼν δ᾽ ὡς οἷόν τε ἦν πλείστους ἐκ τῶν παρόντων, ἐβάδιζον. </quote>
+ 
+
+
+<quote xml:lang="eng">And the maid woke me immediately and said that (the adulterer) was inside. And I told her to watch the door, went downstairs silently, and went out and arrived at so-and-so's house. And I caught some at home, others I found at home in town. Taking as many of those present as possible, I set out. </quote>
+ </cit>
+</p></note> <note n="35" xml:lang="deu"> 
+
+
+<p> 
+
+
+<cit>
+
+
+<bibl>Lysias de caede Erat.: </bibl> 
+
+
+<quote xml:lang="grc">καὶ δᾷδας λαβόντες ἐκ τοῦ ἐγγυτάτου καπηλείου εἰσερχόμεϑα. </quote>
+ 
+
+
+<quote xml:lang="eng">And taking torches from the nearest tavern, we went inside. </quote>
+ </cit>
+ Ueber den Gebrauch der Fackeln und die Beleuchtung überhaupt wird weiterhin ausführlich gesprochen werden.</p></note> <note n="36" xml:lang="deu"> 
+
+
+<p> 
+
+
+<cit>
+
+
+<bibl>Lucian. Asin. 7: </bibl> 
+
+
+<quote xml:lang="grc">τῶν δὲ στρωμάτων ῥόδα πολλὰ xareπέπαστο, τὰ μὲν οὕτω γυμνὰ xaó! abrd, cà δὲ ÀsAuuéva, τὰ δὲ στεφάνοις συμπεπλεγμένα. </quote>
+ 
+
+
+<quote xml:lang="eng">Many rose petals were scattered over the bedclothes, some loose by themselves, some woven together, some entwined with garlands. </quote>
+ </cit>
+ 
+
+
+<cit>
+
+
+<bibl>Appul. Metam. <ref n="romarab">II, 16</ref>:</bibl> 
+
+
+<quote xml:lang="lat">commodum cubueram et ecce Fotis mea, iam domina cubitum reddita, lecto prozimat rosae serta et rosa soluta in sinu tuberante. </quote>
+ 
+
+
+<quote xml:lang="eng">I had just lain down when my Fotis, her mistress having now retired, brought rose garlands and loose roses in her swelling bosom close to my bed.</quote>
+ </cit>
+</p></note> <note n="37" xml:lang="deu"> 
+
+
+<p> Die ganze Schilderung dieser Scene ist aus Lysias de caede Erat. S. 24 entnommen, mit den wenigen Abänderungen, welche durch die Verschiedenheit des Factums bedingt sind. Denn bei Lysias, wo Euphiletos den wirklichen Verführer seiner Frau ertappt und tödtet, heisst es: 
+
+
+<cit>
+
+
+<bibl>Lysias de caede Erat. S. 24</bibl> 
+
+
+<quote xml:lang="grc">ὥσαντες δὲ τὴν ϑύραν τοῦ δωματίου οἱ μὲν πρῶτοι εἰσιόντες ἔτι εἴδομεν αὐτὸν κατακείμενον παρὰ τῇ γυναιχί, οὗ δ᾽ ὕστερον ἐν τῇ κλίνῃ γυμνὸν ἑστηχότα. ἐγὼ δ᾽, ὦ ἄνδρες, πατάξας καταβάλλω αὐτὸν καὶ τὼ χεῖρε περιαγαγὼν εἰς τοὔπισϑεν καὶ δήσας ἠρώτων, διὰ τί bf piter elg τὴν οἰκίαν τὴν ἐμὴν εἰσιών; κἀκεῖνος ἀδικεῖν μὲν ὡμολόγει, ἠντιβόλει δὲ καὶ ἱκέτευε μὴ <pb n="58"/> αὐτὸν κτείναι, ἀλλ᾽ ἀργύριον πράξασϑαι. ἐγὼ δ᾽ εἶπον, ὅτε οὐκ ἐγώ σε ἀποκτενῶ, ἀλλ᾽ ὁ τῆς πόλεως νόμος. </quote>
+ 
+
+
+<quote xml:lang="eng">And bursting open the door of the room, those of us entering first still saw him reclining next to the woman, while those entering later saw him naked standing on the bed. And I, gentlemen, after striking him knocked him down, pulled his arms back, tied them, and asked why he had entered my house. And he admitted wrongdoing but begged and entreated me not to kill him but to extort money. I said that it was not I who would kill you, but the law of the city. </quote>
+ </cit>
+ Das geschah in Athen; wer wollte aber bezweifeln, dass in Korinth eben so gut der Beleidigte den ertappten μοιχός tödten durfte? S. den Exc. über die Frauen.</p></note> <note n="38" xml:lang="deu"> 
+
+
+<p> So viel, nämlich dreissig Minen, erpresste Stephanos von Epänetos, s. Demosth. in Neaer. $. 65.</p></note> <note n="39" xml:lang="deu"> 
+
+
+<p> Es war eine schöne Sitte, die sich gewiss nicht bloss auf Athen beschränkte, dass, wenn jemand in Noth oder augenblickliche Geldverlegenheit gerathen war, die Freunde, die er darum anging, es für Pflicht hielten, den Bedarf nach Kräften und Willen zusammenzuschiessen und so dem Freunde zu helfen. Von dieser Beisteuer, die unter dem Namen ἔοανος bekannt ist, hat schon Casaubonus zu Theophr. Char. 15 so befriedigend gehandelt, dass im Grunde nur die nach alter Weise vernachlässigten Nachweisungen hinzugefügt werden konnten. Die übrige Literatur s: bei Hermann Staatsalterth. S. 146, N. 9 und Wachsmuth B. II, S. 185, welcher letztere mit Recht bemerkt, dass der Begriff des Gesellschaftlichen, der sich in den meisten Erklärungen der Grammatiker finde, dabei nicht wesentlich sei. Vielmehr muss eine zweifache Art des <foreign xml:lang="grc">ἔρανος</foreign> angenommen werden, wie es von Meier und Schömann Att. Process BS. 542 ff. geschehen ist. [Ueber die wirklich als Vorschussoder Creditvereine organisirten ἔρανοι vgl. ausser der bei Hermann Privatalterth. S. 69, N. 11 angeführten Literatur: Caillemer, le contrat de société d' Athènes, ét. X. Paris, 1872; Foucart, des associations religieuses chez les Grecs, Thiases, Eranes, Orgéons avec le texte des inscriptions relatives à ces associations. Paris, 1873, beurtheilt von J. H. Lipsius in Bursians Jahresbericht 1875, 10. H. S. 1887.]</p></note> <note n="40" xml:lang="deu"> 
+
+
+<p> 
+
+
+<cit>
+
+
+<bibl>Aeschin. in Timarch. 182:</bibl> 
+
+
+<quote xml:lang="grc">ὥστ᾽ ἀνὴρ εἷς τῶν πολιτῶν εὑρὼν τὴν ἑαυτοῦ θυγατέρα διεφϑαρμένην καὶ τὴν ἡλιχίαν οὐ καλῶς διαφυλάξασαν μέχρι γάμου, ἐγκατῳχοδόμησεν αὐτὴν μεθ᾽ ἵππου εἰς ἔρημον οἰκίαν, ὑφ᾽ οὗ προδήλως ἔμελλεν ἀπολεῖσϑαι διὰ λιμὸν συγκαϑειργμένη. καὶ ἔτι νῦν τῆς οἰκίας ταύτης ἕστηχε τὰ οἰκόπεδα ἐν τῷ ὁμετέρῳ ἄστει, καὶ ὁ τόπος οὗτος καλεῖται παρ᾽ ἵππον καὶ χόρην. </quote>
+ 
+
+
+<quote xml:lang="eng">So a certain citizen, finding his own daughter debauched, not having properly guarded her virginity until marriage, immured her alive with a horse in a deserted house, where she was clearly going to perish from starvation, shut in together. And the foundations of this house still stand in our city, and this place is called "by horse and girl."</quote>
+ </cit>
+ Vgl Schneidewin ad Heracl. Pol. <ref n="pageref">p. 35</ref> und Paroemiogr. t. <ref n="bookpage">I, <ref n="pageref">p. 214</ref></ref>.</p></note> <note n="41" xml:lang="deu"> 
+
+
+<p> Wie ich schon im Gallus Th. <ref n="romarab">I, 8</ref>. 126 bemerkt habe <pb n="59"/> war es im Alterthume nicht sehr gebräuchlich, Namen in gewisser Hinsicht verächtlicher Thiere als Schimpfwörter zu gebrauchen. Dann und wann geschieht es indessen doch. Für das von ältester Zeit her sehr gewöhnliche κύων bedarf es keines Beweises. Seltener ist πίθηκος, Demosth. de cor. 242 [Aristoph. Ran. 707 und Av. 441 (vgl. d. Schol.) bezieht es sich auf körperliche Hässlichkeit, besonders Zwerghaftigkeit, wie auch oft das römische simia (z. B. Horat. sat. <ref n="romarab">I, 10, 18</ref>). Aber es wird auch wie bei uns in Bezug auf Nachäfferei und Ziererei gebraucht (Plaut. Mostell. <ref n="romarab">IV, 2</ref>,4). Vgl. Harpooration s. v. τραγικὸς πίϑηκος, Aristot. Poet. 26, <ref n="pageref">p. 1461</ref>, K. Fr. Hermann Progymn. Arist. Equ. <ref n="pageref">p. 7</ref>, Winckelmann zu Plato ed. Turic. t. XII, p. IX und Jahn, Arch. Beiträge B. 494.] und κέρκωψ Alciphr. Epist.<ref n="romarab">I, 28</ref>. Aber auch die Dummheit des Schafes war zum Sprüchworte geworden und wird, wie das lateinische vervez, auf einfältige, leicht zu betrügende Menschen angewendet. Lucian. Alex. 15: (ἀνϑρώπων) οὐδὲν ἐοιχότων arropdyoıs ἀνδράσιν, ἀλλὰ μόνῃ τῇ μορφῇ μὴ οὐχὶ πρόβατα εἶναι dıapsρόντων. Daher das Sprüchwort bei Suidas: προβατίου βίον ζῆν· ἐπὶ τῶν μωρῶν καὶ ἀνοήτων, und die herbe Anspielung bei Lucian. Demon. 41: ἰδὼν δέ τινα τῶν εὐπαρύφων ἐπὶ τῷ πλάτει τῆς πορφύρας μέγα φρονοῦντα, χύφας αὐτοῦ πρὸς τὸ οὖς καὶ τῆς ἐσθῆτος λαβόμενος καὶ δείξας ἔφη, Τοῦτο μέντοι πρὸ σοῦ πρόβατον ἐφόρει καὶ ἦν πρόβατον. Vgl. die gleich anzuführende Stelle aus Aristophanes und Plaut. Bacch. <ref n="romarab">V, 9, 2</ref> [auch Senec. de const. 17]. Mit dem Schafe in Gesellschaft geht der Esel. Plutarch. Gryll. 10: νῦν μὲν οὖν, Γρύλλε, μεταβέβλησαι σὺ καὶ τὸ πρόβατον Aoyıχὸν ἀποφαίνεις καὶ τὸν ὄνον; Lucian. Jup. Trag. 81: γόητα μὲν εἶναι τοῦτον, ἡμᾶς δὲ ὄνους χανϑηλίους, νὴ Alta, καὶ ἡμιόνους, τοὺς πιστεύοντας αὐτῷ καὶ ὅσον αἱ ἀχρέδες τὸν νοῦν ἔχοντας. 
+
+
+<cit>
+
+
+<bibl>Lysipp. b. Dicaearch. <ref n="pageref">p. 141</ref> Fuhr:</bibl> 
+
+
+<quote xml:lang="grc"> 
+
+<l>εἰ μὴ τεϑέασαι τὰς Ἀθήνας, στέλεχος εἶ·</l> 
+
+<l>εἰ δὲ τεϑέασαι, μὴ τεϑήρευσαι δ’, ὄνος.</l> </quote>
+ </cit>
+ 
+
+
+<cit>
+
+
+<bibl>Diog. Laërt. <ref n="romarab">VII, 170</ref>:</bibl> 
+
+
+<quote xml:lang="grc">καὶ σκωπτόμενος δὲ ὑπὸ τῶν συμμαϑητῶν ἠνέσχετο καὶ ὄνος ἄχούων προσεδέχετο κ. τ. λ. </quote>
+ 
+
+
+<quote xml:lang="eng">And though mocked by his fellow students he put up with it and accepted being called an ass, etc.</quote>
+ </cit>
+ Indessen wird nicht bloss die Dummheit des Thiers, sondern auch seine Trägheit dabei berücksichtigt: 
+
+
+<cit>
+
+
+<bibl>Aristoph. Av. 1827:</bibl> 
+
+
+<quote xml:lang="grc">πάνυ γὰρ βραδύς τίς ἐστιν ὥσπερ ὄνος, </quote>
+ 
+
+
+<quote xml:lang="eng">For he is very slow, just like an ass.</quote>
+ </cit>
+ <pb n="60"/> [ferner seine Unempfindlichkeit: 
+
+
+<cit>
+
+
+<bibl>Plaut. Pseud. <ref n="romarab">I, 2, 4</ref>:</bibl> 
+
+
+<quote xml:lang="lat"> 
+
+<l part="F">neque homines</l> 
+
+<l>magis asinos unquam vidi, ita plagis costae callent,</l> </quote>
+ </cit>
+ seine Tölpelhaftigkeit und Ungeschicklichkeit: 
+
+
+<cit>
+
+
+<bibl>Terent. Eun. <ref n="romarab">III, 5, 50</ref>:</bibl> 
+
+
+<quote xml:lang="lat"> 
+
+<l>tum equidem istuc os tuum impudens videre nimium vellem:</l> 
+
+<l>qui esset status, flabellum tenere te asinum tantum</l> </quote>
+ </cit>
+ ] und noch andere Eigenschaften, s. Lucian. Pisc. 34. Plut. de Isid. et Osir. 31. [Merkwürdiger Weise zählte auch der Kukuk, χόχχυξ, zu den schmühenden Prüdikaten für Dummköpfe und Gimpel: Aristoph. Acharn. 598. Plaut. Asin. <ref n="romarab">V, 2, 78</ref>; Pseud. <ref n="romarab">I, 1, 94</ref>.] Sonst wird häufig für den einfältigen, schwer begreifenden Menschen der Ausdruck λέϑος gebraucht. 
+
+
+<cit>
+
+
+<bibl>Aristoph. Nub. 1202:</bibl> 
+
+
+<quote xml:lang="grc"> 
+
+<l>εὖ γ᾽, ὦ κακοδαίμονες, τέ κάϑησϑ'᾽ ἀβέλτεροι,</l> 
+
+<l>ἡμέτερα κέρδη τῶν σοφῶν, ὄντες λέϑοι,</l> 
+
+<l>ἀριϑμός, πρόβατ' ἄλλως, ἀμφορῆς νενησμένου;</l> </quote>
+ </cit>
+ d.i. wie die Scholien erklären, dvaiodnroı und ἁπλούστατοι μάτην. Als Aristipp von jemandem gefragt wurde, welchen Vortheil sein Sohn von wissenschaftlicher Bildung haben würde, antwortete er: 
+
+
+<cit> 
+
+
+<quote xml:lang="lat">καὶ εἰ μηδὲν ἄλλο, ἕν γ᾽ οὖν τῷ ϑεάτρῳ οὐ καϑεδήσεται λίϑος ἐπὶ λίϑῳ, </quote>
+ 
+
+
+<quote xml:lang="eng">And if nothing else, at any rate in the theater one stone will not sit upon another.</quote>
+ 
+
+
+<bibl>Diog. Laërt. <ref n="romarab">II, 72</ref>;</bibl> </cit>
+ vgl. 
+
+
+<cit>
+
+
+<bibl>Liban. Or. <ref n="bookpage">XXIV, <ref n="pageref">p. 79</ref></ref>:</bibl> 
+
+
+<quote xml:lang="grc">χἂν μὴ ϑεῶν παῖδας ἀποφήνῃ τοὺς νέους, χἂν ὦσι λίϑινοι, τέχνῃ νικήσας τὴν φύσιν, κατηγορέαι πολλαί. </quote>
+ 
+
+
+<quote xml:lang="eng">Even if he does not show the youths to be sons of gods, though they be of stone, having by his art overcome nature, there are many accusations. </quote>
+ </cit>
+ 
+
+
+<cit>
+
+
+<bibl>Terent. Heaut. <ref n="romarab">IV, 7, 3</ref>:</bibl> 
+
+
+<quote xml:lang="lat">Quid stas, lapis? </quote>
+ 
+
+
+<quote xml:lang="eng">Why do you stand there, stone? </quote>
+ </cit>
+ 
+
+
+<cit>
+
+
+<bibl><ref n="romarab">V, 1, 48</ref>:</bibl> 
+
+
+<quote xml:lang="lat">
+
+<l>Quot res dedere, ubi possem persentiscere,</l> 
+
+<l>Nisı si essem lapis.</l> </quote>
+ 
+
+
+<quote xml:lang="eng">How many matters have given me opportunity, where I could get an inkling, unless I were a stone?</quote>
+ </cit>
+ </p> 
+
+
+<p> 
+
+
+<cit>
+
+
+<bibl>Hecyr. <ref n="romarab">II, 1, 17</ref>: </bibl> 
+
+
+<quote xml:lang="lat">quae me omnino lapidem, non hominem putas. </quote>
+ 
+
+
+<quote xml:lang="eng">You think me altogether a stone, not a man.</quote>
+ </cit>
+ [Vgl. Plaut. Mil. glor. <ref n="romarab">IV, 2, 81</ref>.] Doch wird es auch von der Unempfindlichkeit gesagt, die sich durch nichts rühren lässt. 
+
+
+<cit>
+
+
+<bibl>Lucian. Dial. mer. <ref n="romarab">XII, 2</ref>: </bibl> 
+
+
+<quote xml:lang="grc">ὦ τῆς ἀγριότητος, τὸ δὲ μὴ ἐπικλασϑῆναι δακρυούσης, λίϑος, οὐχ ἄνθρωπός ἐστι. </quote>
+ 
+
+
+<quote xml:lang="eng">Oh the cruelty! And to be unmoved by her weeping - he is a stone, not a human being!</quote>
+ </cit>
+ 
+
+
+<cit>
+
+
+<bibl>Dio Chrysost. Or. XXI, <ref n="pageref">p. 506</ref>:</bibl> 
+
+
+<quote xml:lang="grc"> οὐδεὶς γὰρ οὕτως ἀναιδὴς καὶ λίϑινός ἐστιν. </quote>
+ 
+
+
+<quote xml:lang="eng">For no one is so shameless and made of stone.</quote>
+ </cit>
+ Dieselbe Bedeutung wie <foreign xml:lang="grc">λίθινος</foreign> <gloss xml:lang="eng">made of stone</gloss> hat auch <foreign xml:lang="grc"></foreign>σιδηροῦς <gloss xml:lang="eng">made of iron</gloss>. 
+
+
+<cit>
+
+
+<bibl>Lysias in Theomn. I, 8. 20:</bibl> 
+
+
+<quote xml:lang="grc"> ἀλλ᾽ εἰ μὴ σιδηροῦς ἔστιν, οἴομαι αὐτὸν ἕννουν γεγονέναι, </quote>
+ 
+
+
+<quote xml:lang="eng">But if he is not made of iron, I think he has come to his senses. </quote>
+ </cit>
+ vgl. ferreus Cic. Verrin. <ref n="romarab">V, 46</ref> und Ovid. Trist. <ref n="romarab">I, 8, 42</ref>. Andere Schimpfwörter liessen sich aus Aristophanes anführen. Sie sind zum Theil sehr gemein; man muss aber bedenken, dass wir deren auch haben und sie gebrauchen, obne an den ursprünglichen Sinn <pb n="61"/> mehr zu denken. Freilich liegt auch bei uns die Etymologie nicht so klar vor wie bei den griechischen Wörtern. </p></note> <note n="42" xml:lang="deu"> 
+
+
+<p> Das war auch der Fall mit den angeblichen Töchtern des Stephanos. 
+
+
+<cit>
+
+
+<bibl>Demosth. in Neaer. 62: </bibl> 
+
+
+<quote xml:lang="grc">καὶ ὡμολόγει μὲν (ὁ Ἕπαίνετος) χρῆσϑαι τῇ ἀνθρώπῳ, οὐ μέντοι μοιχός γε εἶναι· οὔτε γὰρ Στεφάνου ϑυγατέρα αὐτὴν εἶναι ἀλλὰ Νεαίρας, τὴν δὲ μητέρα αὐτῆς συνειδέναι πλησιάζουσαν αὐτῷ, ἀνηλωκέναι τε πολλὰ εἰς αὐτὰς τρέφειν τε, ὁπότε ἐπιδημήσειε, τὴν οἰκίαν ὅλην. </quote>
+ 
+
+
+<quote xml:lang="eng">And (Epainetos) admitted having relations with the woman, but denied being an adulterer. For she was not Stephanos' daughter but Neaira's, and her mother knew of her having relations with him; he had spent a lot on supporting them and on maintenance whenever he came to town for the whole household. </quote>
+ </cit>
+</p></note> <note n="43" xml:lang="deu"> 
+
+
+<p> 
+
+
+<cit>
+
+
+<bibl>Lucian. Somn. 14:</bibl> 
+
+
+<quote xml:lang="grc">ἡ δὲ ἀπολειφϑεῖσα τὸ μὲν πρῶτον ἡγανάκτει καὶ τὼ χεῖρε συνεκρότει καὶ τοὺς ὀδόντας ἐνέπριε. </quote>
+ 
+
+
+<quote xml:lang="eng">She, when she had been abandoned, became angry and began clapping her two hands together and grinding her teeth.</quote>
+ </cit>
+ Dagegen ist es auch wiederum ein Zeichen der Freude und des Triumphs, in die Hände zu klatschen. S. Jacobs zu Achill. Tat. <ref n="romarab">I, 7</ref>.</p> </note> </div> </div> </body> </text> </TEI> 
