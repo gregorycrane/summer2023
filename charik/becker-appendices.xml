@@ -4374,7 +4374,7 @@ bei uns, Sitte, bei allen Verrichtungen vorzugsweise die rechte
         p. 334. Am wenigsten hingegen wollte, zumal in den Zeiten
         der lykurgischen Frugalität, das Hetärenwesen in Sparta gedeihen,
         mit dessen rauhen Sitten auch nur eine Venus armata
-        sich vertrug. Plutarch. de fort. Rom. 4: <foreign xml:lang="grc">ὥσπερ ol Σπαρτιᾶται</foreign>
+        sich vertrug. Plutarch. de fort. Rom. 4: <foreign xml:lang="grc">ὥσπερ οἱ Σπαρτιᾶται</foreign>
         <foreign xml:lang="grc">τὴν <sic>Ἀφροδίτην</sic> λέγουσι δια βαίνουσαν τὸν Εὐρώταν τὰ</foreign>
         <foreign xml:lang="grc">μὲν ἔσοπτρα καὶ τοὺς χλιδῶνας καὶ τὸν χεστὸν ἀποθέσθαι</foreign>,
         <foreign xml:lang="grc">δόρυ δὲ καὶ ἀσπίδα λαβεῖν κοσμουμένην τῷ <sic>Λυκούργῳ</sic></foreign>.
@@ -5021,10 +5021,18 @@ bei uns, Sitte, bei allen Verrichtungen vorzugsweise die rechte
     oder <foreign xml:lang="grc">αὐλία θύρα. Pind. Nem. I. 19: ἔσταν δʼ En’ αὐλείαις</foreign>
     <foreign xml:lang="grc">θύραις ἀνδρὸς φιλοξείνου</foreign>. Menander bei Stob. Serm.
     LXXIV. 11:
-    <foreign xml:lang="grc">τοὺς τῆς γαμετῆς ὅρους Örepßaivers, γύναι</foreign>,
-    <foreign xml:lang="grc">τὴν <sic>αὐλίαν</sic>· πέρας γὰρ <sic>αὕλιος</sic> θύρα</foreign>
-    <foreign xml:lang="grc">ἐλευθέρᾳ γυναικὶ <sic>νενόμιστʼ</sic> <sic>οἴκίας</sic></foreign>.
-    Harpoecr. <foreign xml:lang="grc">αὔλειος, ἣ ἀπὸ τῆς ὁδοῦ πρώτη θύρα τῆς οἰκίας</foreign>,
+
+
+    <quote xml:lang="grc">
+
+<l>τοὺς τῆς γαμετῆς ὅρους Örepßaivers, γύναι,</l>
+<l>τὴν <sic>αὐλίαν</sic>· πέρας γὰρ <sic>αὕλιος</sic> θύρα</l>
+<l>ἐλευθέρᾳ γυναικὶ <sic>νενόμιστʼ</sic> <sic>οἴκίας</sic>.</l>
+
+</quote>
+
+
+    Harpocr. <foreign xml:lang="grc">αὔλειος, ἣ ἀπὸ τῆς ὁδοῦ πρώτη θύρα τῆς οἰκίας</foreign>,
     <foreign xml:lang="grc">ὡς δηλοῖ Μένανδρος</foreign>. Eustath. ad 1118 ἃ. XXI. 66, p. 1257.
     17: <foreign xml:lang="grc">πρώτας θύρας λέγει τὰς αὐλείους</foreign>. Vgl. die weiter unten
     Charikles II. 8
@@ -5219,10 +5227,17 @@ bei uns, Sitte, bei allen Verrichtungen vorzugsweise die rechte
     <foreign xml:lang="grc">ἔνδοθεν ἐξεφορήσαντο μετὰ τῆς ἀνθρώπου εἰς τὴν <sic>ὁμότοιχον</sic></foreign>
     <foreign xml:lang="grc"><sic>οἰκίαν</sic>, ἣν <sic>ᾦκει</sic> μεμισθωμένος εἷς τούτων</foreign>, und Plaut.
     Mil. glor. 11. 1. 62:
-    Nam unum conclave, concubinae quod dedit
-    Miles, quo nemo nisi eapse inferret pedem,
-    In eo conclavi ego perfodi parietem,
-    Qua commeatus esset hinc huc mulieri.
+
+    <quote xml:lang="lat">
+        <l>Nam unum conclave, concubinae quod dedit</l>
+        <l>Miles, quo nemo nisi eapse inferret pedem,</l>
+        <l>In eo conclavi ego perfodi parietem,</l>
+        <l>Qua commeatus esset hinc huc mulieri.</l>
+    </quote>
+    
+    
+    
+    
     Und damit niemand zweifle, dass dieses dem griechischen
     
     <pb n="119"/>
@@ -5273,7 +5288,11 @@ bei uns, Sitte, bei allen Verrichtungen vorzugsweise die rechte
     <foreign xml:lang="grc">ὑπερῷον</foreign> sich befindet, wiewohl daraus nicht nothwendig folgt,
     dass es ihre Wohnung sei. Aristoph. Ecel. 961 sagt der
     Jüngling zur Schönen:
-    <foreign xml:lang="grc">καταδραμοῦσα τὴν θύραν ἄνοιξον</foreign>.
+
+    <quote xml:lang="grc">
+
+    <l>καταδραμοῦσα τὴν θύραν ἄνοιξον.</l>
+</quote>
     </p>
     
     <p>Eben so ist es zweifelhaft, ob man Thesmoph. 482: <foreign xml:lang="grc">εἶτα</foreign>
@@ -5313,7 +5332,7 @@ bei uns, Sitte, bei allen Verrichtungen vorzugsweise die rechte
     <foreign xml:lang="grc"><sic>οἰκίδιόν</sic> ἐστί μοι διπλοῦν</foreign>. Während man aber auf diese
     Stelle so viel Gewicht legt, übersieht man, dass an einem andern
     Orte derselbe Redner von einer Frauenwohnung im untern
-    Stockwerke spricht, adv. Simon. ὁ 6: <foreign xml:lang="grc">ἐλθὼν ἐπὶ τὴν</foreign>
+    Stockwerke spricht, adv. Simon. 6: <foreign xml:lang="grc">ἐλθὼν ἐπὶ τὴν</foreign>
     <foreign xml:lang="grc">οἰκίαν τὴν ἐμὴν νύκτωρ μεθύων, ἐκκόψας τὰς θύρας εἰσῆλθεν</foreign>
     <foreign xml:lang="grc">εἰς τὴν γυναικωνῖτιν, Worte, die von keinem ὑπερῷον</foreign> verstanden
     werden können. Ferner vergisst man, dass im Hause des
@@ -5362,11 +5381,14 @@ bei uns, Sitte, bei allen Verrichtungen vorzugsweise die rechte
     Verweilen an einem Orte, wo dasselbe eigentlich nichts zu
     suchen hatte, wenn die yuvarxwvirıs so regelmässig hinter der
     <foreign xml:lang="grc"><sic>ἀνδρωνῖτις</sic></foreign> lag. Vgl. Aristoph. Thesmoph. 797:
-    <foreign xml:lang="grc">κἂν ἐκ θυρίδος παρακύπτωμεν, TO κακὸν ζητεῖτε θεᾶσθαι</foreign>·
-    <foreign xml:lang="grc">κἂν αἰσχυνθεῖσ᾽ ἀναχωρήσῃ, πολὺ μᾶλλον πᾶς <sic>ἐπιθυμεῖ</sic></foreign>
-    <foreign xml:lang="grc"><sic>αὖθις</sic> τὸ κακὸν <sic>παρακῦψαν</sic> ἰδεῖν</foreign>.
 
+    <quote xml:lang="grc">
 
+<l>κἂν ἐκ θυρίδος παρακύπτωμεν, TO κακὸν ζητεῖτε θεᾶσθαι·</l>
+<l>κἂν αἰσχυνθεῖσ᾽ ἀναχωρήσῃ, πολὺ μᾶλλον πᾶς <sic>ἐπιθυμεῖ</sic></l>
+<l><sic>αὖθις</sic> τὸ κακὸν <sic>παρακῦψαν</sic> ἰδεῖν.</l>
+
+</quote>
     Endlich erkennt man auch aus dem Werthe mancher Häuser,
     dass sie kaum eine andere innere Einrichtung und einen
     grösseren Umfang besitzen konnten, als das Häuschen des
@@ -5854,12 +5876,19 @@ bei uns, Sitte, bei allen Verrichtungen vorzugsweise die rechte
     und wo der erstere fehlte, hielt wenigstens dieser Wacht.
     Apollodor sagt vom Empfange in einem Hause, wo man
     gern gesehen sei, bei Athen. I, p. 3:
-    <foreign xml:lang="grc">ἔστιν θεωρεῖν, Νικοφῶν, τὴν τοῦ φίλου</foreign>
-    <foreign xml:lang="grc">εὔνοιαν εὐθὺς εἰσιόντι τὰς θύρας</foreign>.
-    ὁ <foreign xml:lang="grc">θυρωρὸς ἱλαρὸς πρῶτόν ἐστιν, ἣ κύων</foreign>
-    <foreign xml:lang="grc">ἔσαινε καὶ προσῆλθεν</foreign>.
+
+    <quote xml:lang="grc">
+<l>ἔστιν θεωρεῖν, Νικοφῶν, τὴν τοῦ φίλου</l>
+<l>εὔνοιαν εὐθὺς εἰσιόντι τὰς θύρας.</l>
+<l>ὁ θυρωρὸς ἱλαρὸς πρῶτόν ἐστιν, ἣ κύων</l>
+<l>ἔσαινε καὶ προσῆλθεν.</l>
     Vgl. Theocr. XV. 48:
-    <foreign xml:lang="grc">τὰν κύνʼ ἔσω κάλεσον, τὰν αὐλείαν <sic>ἀπόκλᾳξον</sic></foreign>.
+
+    <quote xml:lang="grc">
+<l>τὰν κύνʼ ἔσω κάλεσον, τὰν αὐλείαν <sic>ἀπόκλᾳξον</sic>.</l>
+</quote>
+</quote>
+
     Aristoph. Thesm. 416. Equit. 1025. Lysistr. 1215. Die
     in der letzten Stelle ausgesprochene Warnung: <foreign xml:lang="grc">εὐλαβεῖσθαι</foreign>
     <foreign xml:lang="grc">τὴν κύνα</foreign>, wurde wohl auch, wie das römische cave canem!
@@ -5890,12 +5919,18 @@ bei uns, Sitte, bei allen Verrichtungen vorzugsweise die rechte
     caed. Erat. ὁ 24, in Eratosth. 10, Aristoph. Ecel. 8,
     Casaub. ad Theophr. 13, p. 111) und <foreign xml:lang="grc">κοιτῶνες</foreign> (Poll. I.
     79) gedacht werden, darunter auch Säle für die Symposien
-    der Männer, <foreign xml:lang="grc">οἶκοι zolxAwor, <sic>ἑπτάκλινοι͵</sic> <sic>τριακοντάκλινοι</sic></foreign> (Plutarch.
+    der Männer, <foreign xml:lang="grc">οἶκοι τρίκλινοι, <sic>ἑπτάκλινοι͵</sic> <sic>τριακοντάκλινοι</sic></foreign> (Plutarch.
     Symp. V. 5. 2, Poll. I. 79), daher in der besten
     Zeit gewöhnlich dvöpwves genannt. Xenoph. Symp.1. 4, 13,
     Aristoph. Ecel. 676:
-    — <foreign xml:lang="grc">τὸ δὲ δεῖπνον ποῦ παραθήσεις</foreign>; —
-    <foreign xml:lang="grc">τὰ δικαστήρια καὶ τὰς στοιὰς ἀνδρῶνας πάντα ποιήσω</foreign>.
+
+    <quote xml:lang="grc">
+<l>— τὸ δὲ δεῖπνον ποῦ παραθήσεις; —</l>
+<l>τὰ δικαστήρια καὶ τὰς στοιὰς ἀνδρῶνας πάντα ποιήσω.</l>
+    </quote>
+
+    
+  
     [Dieser <foreign xml:lang="grc"><sic>ἀνδρών</sic></foreign> wird am schicklichsten hinter die Mitte der
     dem Eingang entgegenstehenden Halle gelegt, wo auch Vitruv
     seine grosse <foreign xml:lang="grc">παστάς</foreign> hat. Er ist in dem gewöhnlichen Bürgerhause
@@ -6239,7 +6274,12 @@ bei uns, Sitte, bei allen Verrichtungen vorzugsweise die rechte
     <foreign xml:lang="grc">οἱ δὲ <foreign xml:lang="grc">ἐν</foreign>νέα ἄρχοντες εἱστιῶντο ἐν τῇ στοᾷ <sic>περιφραξάμενοί</sic> τί</foreign>
     <foreign xml:lang="grc">μέρος αὐτῆς αὐλαίαις</foreign>. [Vergl. besonders Aristoph. Vesp.
     1215, wo unter den Anstandsregeln bei Tisch der Rath steht:
-    <foreign xml:lang="grc">ὀροφὴν θέασαι, κρεκάδιʼ αὐλῆς θαύμασον</foreign>.
+
+    <quote xml:lang="grc">
+
+<l>ὀροφὴν θέασαι, κρεκάδιʼ αὐλῆς θαύμασον.</l>
+
+</quote>
     Ausserdem lehrt auch diese Stelle, dass man vom <foreign xml:lang="grc"><sic>ἀνδρών</sic></foreign> aus
     die <foreign xml:lang="grc">αὐλὴ überschauen konnte. Denn entweder sind die <sic>κρεκάδια</sic></foreign>
     zum Schutze zwischen den Säulen des <foreign xml:lang="grc"><sic>πρόστωον</sic></foreign> ausgespannt
@@ -6257,7 +6297,7 @@ bei uns, Sitte, bei allen Verrichtungen vorzugsweise die rechte
     Pelop. 11: <foreign xml:lang="grc">ἅμα τῷ πρῶτον ἐνδοῦναι καὶ χαλάσαι τὰς θύρας</foreign>
     <foreign xml:lang="grc">ἐπιπεσόντες ἀθρόοι. So auch de gen. Socr. 82: τὸν μοχλὸν</foreign>
     <foreign xml:lang="grc">ἀφεῖλε καὶ μικρὸν ἐνέδωκε τὴν θύραν</foreign>, und umgekehrt Dion
-    57: ol <foreign xml:lang="grc">μὲν ἔξω τὰς θύρας ἐπισπασάμενοι</foreign> xareiyov, weshalb
+    57:  <foreign xml:lang="grc">οἱ μὲν ἔξω τὰς θύρας ἐπισπασάμενοι</foreign> xareiyov, weshalb
     dann auch die Griffe oder Ringe an der Thüre <foreign xml:lang="grc"><sic>ἐπισπαστῆρες</sic></foreign>
     hiessen; vergl. Sc. II, Anm. 32. Die angeführten Stellen
     sprechen freilich nicht von Athen, allein ich zweifle nicht,
@@ -6358,8 +6398,14 @@ bei uns, Sitte, bei allen Verrichtungen vorzugsweise die rechte
     <foreign xml:lang="grc">καὶ τὴν θύραν ἀνέῳξεν</foreign>. [Ein doppeltes Hausthürenschloss
     wird auch erwähnt Plaut. Mostell. Π, 1, 57 und besonders
     v. 78, wo es heisst:
-    clavim cedo atque abi intro: occlude ostium,
-    et ego hinc occludam.]
+
+    <quote xml:lang="lat"></quote>
+    <l>clavim cedo atque abi intro: occlude ostium,</l>
+    <l>et ego hinc occludam.</l>
+    
+    
+    
+    ]
     </p>
     <pb n="149"/>
     <p>
@@ -6395,9 +6441,14 @@ bei uns, Sitte, bei allen Verrichtungen vorzugsweise die rechte
     797, wo die Frauen fragen, warum die ‘Männer ihnen
     so nachtrachteten, wenn sie wirklich ein xaxdv wären. Da
     heisst es:
-    <foreign xml:lang="grc">κἂν ἐκ Wupidos παρακύπτωμεν, ζητεῖ τὸ κακὸν τεθεᾶσθαι</foreign>·
-    <foreign xml:lang="grc">κἂν αἰσχυνθεῖσʼ ἀναχωρήσῃ, πολὺ μᾶλλον πᾶς ἐπιθυμεῖ</foreign>
-    <foreign xml:lang="grc">αὖθις παρακύψαν ἰδεῖν τὸ κακόν</foreign>.
+
+    <quote xml:lang="grc">
+   
+<l>κἂν ἐκ Wupidos παρακύπτωμεν, ζητεῖ τὸ κακὸν τεθεᾶσθαι·</l>
+<l>κἂν αἰσχυνθεῖσʼ ἀναχωρήσῃ, πολὺ μᾶλλον πᾶς ἐπιθυμεῖ</l>
+<l>αὖθις παρακύψαν ἰδεῖν τὸ κακόν.</l>
+
+</quote>
     Damit möge gleich verbunden werden Plutarch. de curios.
     
     
@@ -6494,6 +6545,8 @@ bei uns, Sitte, bei allen Verrichtungen vorzugsweise die rechte
     </p>
 
     </div>
+    <div type="textpart" subtype="appendix" n="5"> 
+</div>
 </body>
 </text>
 </TEI>
