@@ -7641,12 +7641,23 @@ bestimmten Worten Lysias de inval. ὁ 20: <foreign xml:lang="grc">ἕκαστο
 <foreign xml:lang="grc">ἐλάχιστοι δὲ ὡς τοὺς οὐ πλεῖστον ἀπέχοντας αὐτῆς</foreign>. Vergl.
 Isocr. adv. Callim. ὁ 9. Darauf beziehen sich auch die
 Worte des Aristopb. Plut. 337:
-<foreign xml:lang="grc">καίτοι λόγος γʼ ἦν, νὴ τὸν Ἡρακλέα, πολύς</foreign>
-<foreign xml:lang="grc"><sic>ἐπεὶ</sic> τοῖσι κουρείοισι τῶν καθημένων</foreign>,
-<foreign xml:lang="grc">ὡς ἐξαπίνης ἀνὴρ γεγένηται πλούσιος</foreign>,
+
+<quote xml:lang="grc">
+
+
+<l>καίτοι λόγος γʼ ἦν, νὴ τὸν Ἡρακλέα, πολύς</l>
+<l><sic>ἐπεὶ</sic> τοῖσι κουρείοισι τῶν καθημένων,</l>
+<l>ὡς ἐξαπίνης ἀνὴρ γεγένηται πλούσιος.</l>
+</quote>
+
+
 und Av. 1489:
-<foreign xml:lang="grc">ὅταν λέγωσιν ol πατέρες ἑκάστοτε</foreign>
-<foreign xml:lang="grc">τοῖς <sic>μειρακίοις</sic> ἐν τοῖσι κουρείοις ταδί</foreign>.
+
+<quote xml:lang="grc">
+<l>ὅταν λέγωσιν ol πατέρες ἑκάστοτε</l>
+<l>τοῖς <sic>μειρακίοις</sic> ἐν τοῖσι κουρείοις ταδί.</l>
+</quote>
+
 [Vgl. Plutarch. Nic. 30. De garrul. 7. Isocr. Areop.
 <foreign xml:lang="grc">δ 15.] Dass die κουρεῖα [die Theophrast geradezu dowa συμπόσια</foreign>
 zu nennen pflegte: Plut. Symp. VII, 10] und <foreign xml:lang="grc"><sic>μυροπώλια</sic></foreign>
@@ -7660,14 +7671,18 @@ als um etwas zu kaufen oder zu bestellen, etwas höchst
 befremdliches, dass man ohne weiteres und bloss der Unterhaltung
 wegen die Ergasterien besuchen und in denselben
 verweilen konnte. Und doch war es so. Man sehe z. B.
-Xenoph. Mem. IV. 2. 1: xaranadwv <foreign xml:lang="grc">γὰρ</foreign> Ebdbönpov ...
+Xenoph. Mem. IV. 2. 1: xaranadwv <foreign xml:lang="grc">γὰρ Εὐθύδημον ...</foreign> 
+
+
 <foreign xml:lang="grc">καθίζοντα εἰς ἡνιοποιεῖόν τε τῶν ἐγγὺς τῆς ἀγορᾶς, εἰς τοῦτο</foreign>
 <foreign xml:lang="grc">καὶ αὐτὸς <sic>ᾔει</sic> τῶν <sic>μεθ'</sic> αὑτοῦ τινας ἔχων</foreign> [und Machon bei
 Athen. XIII, p. 581:
-<foreign xml:lang="grc">ἀνάγωγος ὧν δὲ καὶ βάναυσος παντελῶς</foreign>
-<foreign xml:lang="grc">ἐν σκυτοτομείῳ μετὰ τινῶν καθήμενος</foreign>
-<foreign xml:lang="grc">κα<foreign xml:lang="grc">τεσχόλ</foreign>αζε <foreign xml:lang="grc">τ</foreign>ῆς [<sic>Γναθαινίου</sic> <foreign xml:lang="grc">λ</foreign>έγων κ. τ. λ</foreign>.]
 
+<quote xml:lang="grc">
+<l>ἀνάγωγος ὧν δὲ καὶ βάναυσος παντελῶς</l>
+<l>ἐν σκυτοτομείῳ μετὰ τινῶν καθήμενος</l>
+<l>κα<foreign xml:lang="grc">τεσχόλ</foreign>αζε <foreign xml:lang="grc">τ</foreign>ῆς <sic>Γναθαινίου</sic> <foreign xml:lang="grc">λ</foreign>έγων κ. τ. λ.]</l>
+</quote>
 <pb n="183"/>
 
 Solche Oerter erhielten zuweilen gewissermassen eine politische
@@ -7761,7 +7776,7 @@ der Eigenschaft von Hökern erscheinen. Damit stimmt auch
 die Erzählung bei Plutarch. Arat. 8 überein: ἡ <foreign xml:lang="grc">δὲ ὥρα</foreign>
 <foreign xml:lang="grc">κατήπειγεν, ἤδη φθεγγομένων ἀλεκτρυόνων καὶ ὅσον οὔπω τῶν</foreign>
 <foreign xml:lang="grc">ἐξ ἀγροῦ τι φέρειν εἰωθότων πρὸς ἀγορὰν ἐπερχομένων</foreign>. Denn
-᾿ hätten die Leute den Markt selbst abwarten wollen, so würden
+hätten die Leute den Markt selbst abwarten wollen, so würden
 sie nicht vor Tagesanbruch gekommen sein, da die Verkaufszeit
 wenigstens drei Stunden später begann.
 </p>
@@ -7781,10 +7796,13 @@ Pax 1210 ein <foreign xml:lang="grc">ὅπλων κάπηλος</foreign> vor, b
 caede Erat. 14 werden Fackeln, <foreign xml:lang="grc">δᾷδες, in einem καπηλεῖον</foreign>
 gekauft. Nikostratos bei Athen. XV. 59, p. 700 sagt:
 
+<quote xml:lang="grc">
 
-<foreign xml:lang="grc">— ὁ κάπηλος γὰρ οὖχ τῶν γειτόνων</foreign>,
-<foreign xml:lang="grc">ἄν τʼ οἶνον ἄν τε φανὸν drodwral τινι</foreign>
-<foreign xml:lang="grc">ἄν τʼ ὄξος, <sic>ἀπέπεμψʼ</sic> ὁ κατάρατος δοὺς ὕδωρ</foreign>.
+<l>— ὁ κάπηλος γὰρ οὖχ τῶν γειτόνων,</l>
+<l>ἄν τʼ οἶνον ἄν τε φανὸν drodwral τινι</l>
+<l>ἄν τʼ ὄξος, <sic>ἀπέπεμψʼ</sic> ὁ κατάρατος δοὺς ὕδωρ.</l>
+
+</quote>
 
 
 <pb n="186"/>
@@ -7802,10 +7820,16 @@ ihn genannt. Lucian. Hermot. 58: <foreign xml:lang="grc">ἤδη ποτὶ οἶ
 <foreign xml:lang="grc">αὐτός; καὶ μάλα πολλάκις. ἄρʼ οὖν neprneis ἅπαντας ἐν κύκλῳ</foreign>
 <foreign xml:lang="grc">τοὺς ἐν τῇ πόλει καπήλους ἀπογευόμενος καὶ παραβάλλων καὶ</foreign>
 <foreign xml:lang="grc"><sic>ἀντεξετάζων</sic> τοὺς οἴνους; [Antiphanes bei ΑΒ θη</foreign>. Χ. p.441:
-<foreign xml:lang="grc">γείτων ἐστί τις</foreign>
-<foreign xml:lang="grc">κάπηλος, οὗτος <sic>εὐθύς</sic>, ὅταν ἔλθω ποτὶ</foreign>
-<foreign xml:lang="grc">διψῶσα, μόνος old’ ὥς γέ μοι κεράννυται</foreign>,
-<foreign xml:lang="grc">οὔθʼ <sic>ὑδαρὲς</sic> οὔτʼ ἄκρατον</foreign>.)
+
+<quote xml:lang="grc">
+
+<l>γείτων ἐστί τις</l>
+<l>κάπηλος, οὗτος <sic>εὐθύς</sic>, ὅταν ἔλθω ποτὶ</l>
+<l>διψῶσα, μόνος old’ ὥς γέ μοι κεράννυται,</l>
+<l>οὔθʼ <sic>ὑδαρὲς</sic> οὔτʼ ἄκρατον.</l>
+]
+
+</quote>
 Hier mochten dann auch die meisten Betrügereien in Maass
 und Verfälschung vorfallen. Lucian 8. ἃ. Ο.: <foreign xml:lang="grc">ὅτε καὶ <sic>φιλόσοφοι</sic></foreign>
 <foreign xml:lang="grc">ἀποδίδονται τὰ μαθήματα, ὥσπερ ol κάπηλοι, <sic>κερασάμεvoί</sic></foreign>
@@ -7851,11 +7875,18 @@ Ruhme der früheren Zeit sagt, weist er selbst darauf hin,
 dass es in seiner Zeit nicht selten geschehen mochte. Schon
 in einem Fragmente des Eubulos bei Athen. XI, p. 473
 heisst es:
-<foreign xml:lang="grc">ἐγὼ δέ, καὶ γὰρ ἔτυχεν ὃν καταντικρύ</foreign>
-<foreign xml:lang="grc">τῆς οἰκίας καινὸν καπηλεῖον μέγα</foreign>,
-<foreign xml:lang="grc">ἐνταῦθʼ ἐπετήρουν τὴν τροφὴν τῆς παρθένου</foreign>,
-<foreign xml:lang="grc">κεράσαι κελεύσας τὸν κάπηλόν μοι χόα</foreign>
-<foreign xml:lang="grc">ὀβολοῦ rapadeivai δʼ ὡς μέγιστον κάνθαρον</foreign>.
+
+<quote xml:lang="grc">
+
+<l>ἐγὼ δέ, καὶ γὰρ ἔτυχεν ὃν καταντικρύ</l>
+<l>τῆς οἰκίας καινὸν καπηλεῖον μέγα,</l>
+<l>ἐνταῦθʼ ἐπετήρουν τὴν τροφὴν τῆς παρθένου,</l>
+<l>κεράσαι κελεύσας τὸν κάπηλόν μοι χόα</l>
+<l>ὀβολοῦ rapadeivai δʼ ὡς μέγιστον κάνθαρον.</l>
+
+</quote>
+
+
 Sehr übel berüchtigt waren nach Phylarchos bei Athen.
 X, p. 442 und Theopompos ebend. XII, p. 526, auch
 Aelian. Var. Hist. III. 14 die Bewohner von Byzanz, von
@@ -7928,15 +7959,24 @@ Theben anführt: <foreign xml:lang="grc">ἐν <sic>Θήβαις</sic> δὲ ν�
 in Athen war.es keineswegs verboten, sich beim Feilhalten
 von Waaren auf der <foreign xml:lang="grc">ἀγορά</foreign> zu betheiligen. Bei Aristoph.
 Ran. 1346 heisst es:
-<foreign xml:lang="grc">ἐγὼ δʼ ἁ τάλαινα προσέχουσʼ ἔτυχον</foreign>
-<foreign xml:lang="grc">ἐμαυτῆς ἔργοισι</foreign>,
-<foreign xml:lang="grc">κλωστῆρα ποιοῦσʼ, ὅπως</foreign>
-<foreign xml:lang="grc">κνεφαῖος εἰς ἀγορὰν</foreign>
-<foreign xml:lang="grc">φέρουσʼ ἀποδοίμαν</foreign>,
+
+<quote xml:lang="grc">
+
+<l>ἐγὼ δʼ ἁ τάλαινα προσέχουσʼ ἔτυχον</l>
+<l>ἐμαυτῆς ἔργοισι,</l>
+<l>κλωστῆρα ποιοῦσʼ, ὅπως</l>
+<l>κνεφαῖος εἰς ἀγορὰν</l>
+<l>φέρουσʼ ἀποδοίμαν,</l>
+
+</quote>
 ebenso Thesmoph. 446:
-<foreign xml:lang="grc">ἐμοὶ γὰρ ἁνὴρ ἀπέθανεν μὲν ἐν Κύπρῳ</foreign>
-<foreign xml:lang="grc">παιδάρια πέντε καταλιπών, ἁγὼ μόλις</foreign>
-<foreign xml:lang="grc">στεφανηπλοκοῦσʼ ἔβοσκον ἐν ταῖς <sic>μυρρίναις</sic></foreign>.
+
+<quote xml:lang="grc">
+<l>ἐμοὶ γὰρ ἁνὴρ ἀπέθανεν μὲν ἐν Κύπρῳ</l>
+<l>παιδάρια πέντε καταλιπών, ἁγὼ μόλις</l>
+<l>στεφανηπλοκοῦσʼ ἔβοσκον ἐν ταῖς <sic>μυρρίναις</sic>.</l>
+
+</quote>
 Des Euripides Mutter war eine Gemüsehändlerin: Aristoph.
 </p>
 
@@ -7948,17 +7988,29 @@ bei Gell. Noct. Att. XV. 20; Valer. Max. III. 4 und Plin.
 Nat. H. XXII. 38. So ist auch die beleidigte <foreign xml:lang="grc"><sic>ἀρτόπωλις</sic></foreign> in
 den Wespen des Aristophanes eine Bürgerin; denn sie
 sagt 1396:
-<foreign xml:lang="grc">οὔ τοι μὰ τὼ θεὼ καταπροίξει</foreign> Muprias
-<foreign xml:lang="grc">τῆς <sic>Ἀγχυλίωνος</sic> θυγατέρος καὶ Σωστράτης</foreign>,
-<foreign xml:lang="grc">οὕτω διαφθείρας ἐμοῦ τὰ φορτία</foreign>,
+
+<quote xml:lang="grc">
+
+<l>οὔ τοι μὰ τὼ θεὼ καταπροίξει Muprias</l>
+<l>τῆς <sic>Ἀγχυλίωνος</sic> θυγατέρος καὶ Σωστράτης,</l>
+<l>οὕτω διαφθείρας ἐμοῦ τὰ φορτία,</l>
+</quote>
+
 und Lysistrata ruft v. 456 ihre Mitstreiterinnen mit den
 Worten zu Hülfe:
-ὦ <foreign xml:lang="grc">ξύμμαχοι γυναῖκες ἐκθεῖτʼ</foreign> Evdoder,
-ὦ <foreign xml:lang="grc">σπερμαγοραιολεκιθολαχανοπώλιδες</foreign>,
-ὦ <foreign xml:lang="grc">σκοροδοπανδοκευτριαρτοπώλιδες</foreign>
+
+<quote xml:lang="grc">
+<l>ὦ ξύμμαχοι γυναῖκες ἐκθεῖτʼ Evdoder,</l>
+<l>ὦ σπερμαγοραιολεκιθολαχανοπώλιδες,</l>
+<l>ὦ σκοροδοπανδοκευτριαρτοπώλιδες</l>
+</quote>
+
 und fügt dann höhnend hinzu:
-<foreign xml:lang="grc">ἄλλα τί γὰρ <sic>ᾤου</sic>; πότερον ἐπὶ δούλας τινὰς</foreign>
-<foreign xml:lang="grc">ἥκειν <sic>ἐνόμισας</sic></foreign>;
+
+<quote xml:lang="grc">
+<l>ἄλλα τί γὰρ <sic>ᾤου</sic>; πότερον ἐπὶ δούλας τινὰς</l>
+<l>ἥκειν <sic>ἐνόμισας</sic>;</l>
+</quote>
 Ja, es gab gesetzliche Bestimmungen, welche verboten, Bürgerinnen,
 wie Bürgern den Betrieb der Marktgeschäfte zum
 Vorwurfe zu machen: Demosth. in Eubul. ὁ. 30: <foreign xml:lang="grc">περὶ δὲ</foreign>
@@ -8041,19 +8093,17 @@ Leg. VII, p. 788: ἃ <foreign xml:lang="grc">δὲ λέγω, δηλῶσαι π
 <foreign xml:lang="grc"><sic>ἐξενέγχοντα</sic> εἰς φῶς</foreign>. Sehr ergötzlich ist es zu sehen, wie
 ein Weinhändler, <foreign xml:lang="grc"><sic>οἰνοπώλης</sic></foreign>, mit der Flasche unter dem Arme
 umhergeht und nach der Probe den Wein im Einzelnen verkauft,
-was sonst Sache des <foreign xml:lang="grc">κάπηλος</foreign> ist. Diphil. bei Athen.
-</p>
+was sonst Sache des <foreign xml:lang="grc">κάπηλος</foreign> ist. Diphil. bei Athen. XI, p. 499:
 
-<p>XI, p. 499:
+<quote xml:lang="grc">
+<l>— ὦ  τοιχωρύχον</l>
+<l>ἐκεῖνο καὶ τῶν δυναμένων λαγύνιον</l>
+<l>ἔχον βαδίζειν εἰς τὰ <sic>γεύμαθʼ</sic> ὑπὸ μάλης</l>
+<l>καὶ τοῦτο πωλεῖν, μέχρι ἂν ὥσπερ ἐν ἐράνῳ</l>
+<l>εἷς λοιπὸς ἦ κάπηλος ἠδικημένος</l>
+<l>ὑπ᾽ οἰνοπώλου.</l>
 
-<foreign xml:lang="grc">— ὦ  τοιχωρύχον</foreign>
-<foreign xml:lang="grc">ἐκεῖνο καὶ τῶν δυναμένων λαγύνιον</foreign>
-<foreign xml:lang="grc">ἔχον βαδίζειν εἰς τὰ <sic>γεύμαθʼ</sic> ὑπὸ μάλης</foreign>
-<foreign xml:lang="grc">καὶ τοῦτο πωλεῖν, μέχρι ἂν ὥσπερ ἐν ἐράνῳ</foreign>
-<foreign xml:lang="grc">εἷς λοιπὸς ἦ κάπηλος ἠδικημένος</foreign>
-<foreign xml:lang="grc">ὑπ᾽ οἰνοπώλου</foreign>.
-
-
+</quote>
 </p>
 
 <p>Aus der Klage über Beeinträchtigung lässt sich indessen nicht
@@ -8083,10 +8133,14 @@ p. 521 von Sybaris berichtet: <foreign xml:lang="grc">εἰ δέ τις τῶν 
 gewisser Artikel nicht ungewöhnlich gewesen zu sein. Vielleicht
 spielt darauf auch Aristoph. Acharn. 33 an:
 
+<quote xml:lang="grc">
 
-<foreign xml:lang="grc">στυγῶν μὲν ἄστυ, τὸν δʼ ἐμὸν δῆμον ποθῶν</foreign>,
-<foreign xml:lang="grc">ὃς οὐδεπώποτʼ εἶπεν »ἄνθρακας <sic>πρίω«</sic></foreign>
-<foreign xml:lang="grc">οὐχ »ὄξος», οὐχ <sic>»ἔλαιον«</sic>, οὐδʼ ἤδη <sic>»πρίω«</sic></foreign>.
+<l>στυγῶν μὲν ἄστυ, τὸν δʼ ἐμὸν δῆμον ποθῶν,</l>
+<l>ὃς οὐδεπώποτʼ εἶπεν »ἄνθρακας <sic>πρίω«</sic></l>
+<l>οὐχ »ὄξος», οὐχ <sic>»ἔλαιον«</sic>, οὐδʼ ἤδη <sic>»πρίω«</sic>.</l>
+
+</quote>
+
 Die Sache bezeugt jedenfalls Dem. 6. Arist. 8.201: <foreign xml:lang="grc">ὥσπερ οἱ</foreign>
 <foreign xml:lang="grc">τὰ μικρὰ καὶ κομιδῇ φαῦλα ἀποκηρύττοντες οὕτω πωλοῦσιν</foreign>
 <foreign xml:lang="grc">ἐπευωνίζοντες, und Plut. Apophth. Lac. 62: ἕτερος ἐλθὼν</foreign>
@@ -8111,13 +8165,27 @@ vor der römischen Zeit und noch später zu den seltenen
 Ausnahmen. Wenn man gar schon bei den Phäaken eine
 gepflasterte <foreign xml:lang="grc">ἀγορά</foreign> hat finden wollen, indem man die Worte
 Odyss. VI. 267:
-<foreign xml:lang="grc">ῥυτοῖσιν λάεσσι κατωρυχέεσσʼ <sic>ἀραρυῖα</sic></foreign>,
+
+<quote xml:lang="grc">
+<l>ῥυτοῖσιν λάεσσι κατωρυχέεσσʼ <sic>ἀραρυῖα</sic>,</l>
+
+</quote>
+
 davon verstand, so ist dieses ein grosser Irrthum. Diese <foreign xml:lang="grc"><sic>ῥυτοὶ</sic></foreign>
-<foreign xml:lang="grc">λᾶες</foreign> sind nichts anderes als die steinernen Sitze, auf denen
+<l>λᾶες sind nichts anderes als die steinernen Sitze, auf denen</l>
 die Versammlung Platz nimmt; VIL. 6:
-<foreign xml:lang="grc">ἐλθόντες δὲ xddıkov ἐπὶ ξεστοῖσι λίθοισιν</foreign>,
+
+<quote xml:lang="grc">
+<l>ἐλθόντες δὲ xddıkov ἐπὶ ξεστοῖσι λίθοισιν,</l>
+</quote>
+
 und v. 16:
-<foreign xml:lang="grc">καρπαλίμως ἔμπληντο βροτῶν dyopal τε καὶ ἕδραι</foreign>.
+
+<quote xml:lang="grc">
+<l>καρπαλίμως ἔμπληντο βροτῶν dyopal τε καὶ ἕδραι.</l>
+</quote>
+
+
 [Auch hätten ja, wie Ameis zu Hom. Od. VI, 267 richtig
 gegen Curtius zur Gesch. ἃ. Wegebaues S. 31 bemerkt,
 die VIII. 109 ff. geschilderten Wettkämpfe nicht auf Pflaster
@@ -8134,26 +8202,31 @@ Aristoph. Vesp. 248 fi.; für Platää Thucyd. I. 4; für
 Korinth Athen. XII, p. 585; für Theben Eubul. bei Athen.
 X, p. 417. Dagegen bezieht sich mehr auf Landstrassen die
 Schilderung bei Lucian. Tragop. 226 ff.:
-<foreign xml:lang="grc">ἐστρωμένην <sic>χάλιξιν</sic> εἰσέβην <sic>ὁδόν</sic></foreign>
-<foreign xml:lang="grc">καὶ δυσπάτητον ὀξέσιν κέντροις</foreign> Adv
-ned? <foreign xml:lang="grc">ἣν ὀλίσθῳ περιπεσὼν λείας ὁδοῦ</foreign>
-<foreign xml:lang="grc">ἔσπευδον ἐς τὸ πρόσθε, διάλυτος δέ μου</foreign>
-<foreign xml:lang="grc">ἔσυρεν ὀπίσω πηλὸς ἀσθενῇ <sic>σφυρά</sic></foreign>.
 
+<quote xml:lang="grc">
+<l>ἐστρωμένην <sic>χάλιξιν</sic> εἰσέβην <sic>ὁδόν</sic></l>
+<l>καὶ δυσπάτητον ὀξέσιν κέντροις λίθων· </l>
+<l>μεθ᾽ ἣν ὀλίσθῳ περιπεσὼν λείας ὁδοῦ</l>
+<l>ἔσπευδον ἐς τὸ πρόσθε, διάλυτος δέ μου</l>
+<l>ἔσυρεν ὀπίσω πηλὸς ἀσθενῇ <sic>σφυρά</sic>.</l>
+</quote>
 </p>
 
 <pb n="195"/>
 <p>
 
 Denn v. 233 heisst es:
-<foreign xml:lang="grc">ὅθεν με δέχεται πᾶν δέμας κεκμηκότα</foreign>
-<foreign xml:lang="grc">πλατεῖα μὲν κέλευθος, ἀλλʼ οὐχ ἀσφαλής</foreign>.
-</p>
 
-<p><foreign xml:lang="grc">τὰ μὲν γὰρ ἔνθεν, τὰ δὲ ἐκεῖθεν ὀχήματα</foreign>
-<foreign xml:lang="grc">ἤπειγεν, ἠνάγκαζεν, ἔσπερχεν τρέχειν</foreign>.
+<quote xml:lang="grc">
+
+<l>ὅθεν με δέχεται πᾶν δέμας κεκμηκότα</l>
+<l>πλατεῖα μὲν κέλευθος, ἀλλʼ οὐχ ἀσφαλής.</l>
 
 
+<l>τὰ μὲν γὰρ ἔνθεν, τὰ δὲ ἐκεῖθεν ὀχήματα</l>
+<l>ἤπειγεν, ἠνάγκαζεν, ἔσπερχεν τρέχειν.</l>
+
+</quote>
 Auch die von Pindar. Pyth. V, 95 genannte <foreign xml:lang="grc"><sic>σκυρωτὰ</sic> <sic>ὁδός</sic></foreign>
 in Kyrene war nach Böckh zu der Stelle und Staatshaush.
 B. I, 8. 184 nur eine chaussirte Strasse und so mögen auch
@@ -8174,11 +8247,16 @@ darüber sind: Poll. X. 18: da <foreign xml:lang="grc">δʼ Enınpdoxero τὰ �
 <foreign xml:lang="grc">ἀγορᾶς τὸ μέρος τοῦτο κύκλοι ὠνομάζοντο, ὡς Ἄλεξις ὑποδηλοῦν</foreign>
 <foreign xml:lang="grc">ἔοικεν ἐν <sic>Καλασίριδι</sic>· ποῖ δή μʼ ἄγεις διὰ τῶν κύκλων</foreign>;
 <foreign xml:lang="grc">σαφέστερον δὲ ἐν τῷ <sic>Μαινομένῳ</sic> Δίφιλος</foreign>·
-<foreign xml:lang="grc">καὶ προσέτι τοίνυν ἐσχάραν, κλίνην, χάδον</foreign>,
-<foreign xml:lang="grc">στρώματα, σίγυνον, <sic>ἀσκόπηραν</sic>, θύλακον</foreign>,
-<foreign xml:lang="grc">ὥστʼ οὐ στρατιώτην ἄν τις, ἀλλὰ καὶ κύκλον</foreign>
-<foreign xml:lang="grc">ἐκ τῆς ἀγορᾶς ὀρθὸν βαδίζειν ὑπολάβοι</foreign>·
-<foreign xml:lang="grc">τοσοῦτός ἐσθʼ ὁ ῥῶπος, ὃν σὺ περιφέρεις</foreign>.
+
+<quote xml:lang="grc">
+
+<l>καὶ προσέτι τοίνυν ἐσχάραν, κλίνην, χάδον,</l>
+<l>στρώματα, σίγυνον, <sic>ἀσκόπηραν</sic>, θύλακον,</l>
+<l>ὥστʼ οὐ στρατιώτην ἄν τις, ἀλλὰ καὶ κύκλον</l>
+<l>ἐκ τῆς ἀγορᾶς ὀρθὸν βαδίζειν ὑπολάβοι·</l>
+<l>τοσοῦτός ἐσθʼ ὁ ῥῶπος, ὃν σὺ περιφέρεις.</l>
+</quote>
+
 Hier sind allerdings lauter <foreign xml:lang="grc"><sic>σκεύη</sic></foreign> genannt, allein es heisst ja
 auch nur <foreign xml:lang="grc">κύκλον ἐκ τῆς ἀγορᾶς</foreign>, das ist eben eine einzelne
 Abtheilung. Dagegen sagt Pollux VII. 11: <foreign xml:lang="grc">καὶ xbxdor δὲ</foreign>
@@ -8192,11 +8270,12 @@ noda, <foreign xml:lang="grc">ἴσως καὶ τὰ λοιπὰ ὥνια: ebe
 und Harpocr.: <foreign xml:lang="grc">κύκλοι Exalovvro οἱ τόποι ἐν οἷς</foreign>
 <foreign xml:lang="grc">ἐπωλοῦντό τινες</foreign>, mit dem Bruchstücke aus Menander:
 
+<quote xml:lang="grc">
 
-<foreign xml:lang="grc">ἐγὼ μὲν ἤδη μοι δοχῶ, νὴ τοὺς θεούς</foreign>,
-<foreign xml:lang="grc">ἐν τοῖς κύκλοις ἐμαυτὸν ἐκδεδυκότα</foreign>
-<foreign xml:lang="grc">ὁρᾶν κύκλῳ τρέχοντα καὶ πωλούμενον</foreign>:
-
+<l>ἐγὼ μὲν ἤδη μοι δοχῶ, νὴ τοὺς θεούς,</l>
+<l>ἐν τοῖς κύκλοις ἐμαυτὸν ἐκδεδυκότα</l>
+<l>ὁρᾶν κύκλῳ τρέχοντα καὶ πωλούμενον:</l>
+</quote>
 
 vgl. Aelian. V. Hist. II. 1 und Schol. Aristoph. Εᾳ. 181:
 ὁ <foreign xml:lang="grc">δὲ κύκλος <sic>Ἀθήνῃσίν</sic> ἐστε καθάπερ <sic>μάκελλος</sic> Ex τῆς κατασκευῆς</foreign>
@@ -8348,12 +8427,16 @@ zum Einkaufe auf den Markt oder zu irgend einem <foreign xml:lang="grc">κάπη
 
 hätten gehen wollen. Eine Hetäre konnte sich das wohl erlauben,
 wie z. B. Gnathäna nach Machon bei Athen. XII,
-p- 580:
-<foreign xml:lang="grc">ἐπεὶ προέβη τοῖς Ersow ἡ Ivadaıva, καὶ</foreign>
-<foreign xml:lang="grc">ἤδη τελέως ἦν ὁμολογουμένως σορός</foreign>,
-<foreign xml:lang="grc">εἰς τὴν ἀγορὰν λέγουσιν αὐτὴν ἐξίναι</foreign>
-<foreign xml:lang="grc">καὶ τοὔψον ἐφορᾶν καὶ πολυπραγμονεῖν, πόσου</foreign>
-<foreign xml:lang="grc"><sic>πωλεῖθʼ</sic> <sic>ἕκαστον</sic></foreign>,
+p. 580:
+
+<quote xml:lang="grc">
+
+<l>ἐπεὶ προέβη τοῖς Ersow ἡ Ivadaıva, καὶ</l>
+<l>ἤδη τελέως ἦν ὁμολογουμένως σορός,</l>
+<l>εἰς τὴν ἀγορὰν λέγουσιν αὐτὴν ἐξίναι</l>
+<l>καὶ τοὔψον ἐφορᾶν καὶ πολυπραγμονεῖν, πόσου</l>
+<l><sic>πωλεῖθʼ</sic> <sic>ἕκαστον</sic>,</l>
+</quote>
 keineswegs aber die anständige Hausfrau. Nun geschah es
 allerdings, dass Sklavinnen den Einkauf auf dem Markte besorgten.
 Lysias de caede Erat. <foreign xml:lang="grc">δ. 16: ἐὰν οὖν <sic>λάβῃς</sic> τὴν</foreign>
@@ -8372,9 +8455,12 @@ zu bemerken, dass nur Benennungen männlicher Sklaven in
 dieser Eigenschaft vorkommen. So heisst es auch bei Terent.
 Andr. 11. 2. 31:
 
-— etiam puerum inde abiens conveni Chremis
-Olera et pisciculos minutos ferre obolo in coenam seni.
+<quote xml:lang="grc">
+    <l>— etiam puerum inde abiens conveni Chremis</l>
+    <l>Olera et pisciculos minutos ferre obolo in coenam seni.</l>
 
+
+</quote>
 </p>
 
 <p>In den meisten Fällen aber, wie es scheint, kaufte der Mann
@@ -8402,13 +8488,19 @@ einzukaufen. S. z.B. Aeschin. in Timarch. ὁ. 65: <foreign xml:lang="grc">τί�
 <foreign xml:lang="grc">τούτων οὐ τεθεώρηκεν</foreign>; Die Komiker liefern Beispiele im Ueberflusse
 und es werden weiter unten deren angeführt werden.
 [Besonders gehört hierher Aristoph. Vesp. 493:
-<foreign xml:lang="grc">ἣν μὲν ὠνῆταί τις ὀρφὼς μεμβράδας δὲ μὴ <sic>᾿θέλῃ</sic></foreign>,
-<foreign xml:lang="grc">εὐθέως εἴρηχʼ ὁ πωλῶν πλησίον τὰς μεμβράδας</foreign>·
-<foreign xml:lang="grc">οὗτος ὀψωνεῖν ἔοιχʼ ἄνθρωπος ἐπὶ τυραννίδι</foreign>.
-<foreign xml:lang="grc">ἣν δὲ γήτειον προσαιτῇ τις ἀφύαις ἡδύσματα</foreign>,
-<foreign xml:lang="grc">ἢ λαχανόπωλις <sic>παραβλέψασά</sic> φησι <sic>θατέρῳ</sic></foreign>·
-<foreign xml:lang="grc">εἰπέ μοι, γήτειον αἰτεῖς πότερον ἐπὶ <sic>τυράννιδα</sic></foreign>,
-<foreign xml:lang="grc">ἢ νομίζεις τὰς <sic>Ἀθήνας</sic> σοὶ φέρειν ἡδύσματα</foreign>;
+
+<quote xml:lang="grc">
+
+<l>ἣν μὲν ὠνῆταί τις ὀρφὼς μεμβράδας δὲ μὴ <sic>᾿θέλῃ</sic>,</l>
+<l>εὐθέως εἴρηχʼ ὁ πωλῶν πλησίον τὰς μεμβράδας·</l>
+<l>οὗτος ὀψωνεῖν ἔοιχʼ ἄνθρωπος ἐπὶ τυραννίδι.</l>
+<l>ἣν δὲ γήτειον προσαιτῇ τις ἀφύαις ἡδύσματα,</l>
+<l>ἢ λαχανόπωλις <sic>παραβλέψασά</sic> φησι <sic>θατέρῳ</sic>·</l>
+<l>εἰπέ μοι, γήτειον αἰτεῖς πότερον ἐπὶ <sic>τυράννιδα</sic>,</l>
+<l>ἢ νομίζεις τὰς <sic>Ἀθήνας</sic> σοὶ φέρειν ἡδύσματα;</l>
+
+</quote>
+
 Daher hatte auch Lynkeus von Samos eine Anleitung geschrieben,
 wie man sich beim Einkaufe verhalten solle. Athen.
 VI: p. 228: <foreign xml:lang="grc"><sic>Λυγχεὺς</sic> δʼ ὁ Σάμιος καὶ τέχνην ὀψωνητικὴν</foreign>
@@ -8483,38 +8575,54 @@ Fischhändler wird von den Komikern auf eine sehr ergötzliche
 Weise geschildert, und manche dieser Charakterzeichnungen
 sind zu interessant, um nicht einiges davon anzuführen.
 So sagt Amphis bei Athen. VI, p. 224:
-obs <foreign xml:lang="grc">ἂν ἐπερωτήσῃ <foreign xml:lang="grc">τι</foreign>ς, ἣ λαβών τι τῶν</foreign>
-<foreign xml:lang="grc">παρακειμένων ἔκυψεν ὥσπερ Τήλεφος</foreign>
-<foreign xml:lang="grc">πρῶτον σιωπὴ — καὶ δικαίως τοῦτό γε</foreign>·
-<foreign xml:lang="grc">ἅπαντες ἀνδροφόνοι γάρ εἶσιν ἑνὶ λόγῳ</foreign> —
-<foreign xml:lang="grc">ὡσεὶ δὲ προσέχων οὐδὲν οὐδʼ ἀκηκοώς</foreign>
-<foreign xml:lang="grc">ἔκρουσε <sic>πόλυπόν</sic> τινʼ· ὁ δʼ ἐπρήσθη xob λαλῶν</foreign>
-<foreign xml:lang="grc">ὅλα ῥήματʼ, ἀλλὰ συλλαβὴν ἀφελών, τάρων</foreign>
-<foreign xml:lang="grc">βολῶν γένοιτʼ ἄν· ἣ δὲ κέστρα κτὼ βολῶν</foreign>.
+
+<quote xml:lang="grc">
+
+<l>οὓς ἂν ἐπερωτήσῃ <foreign xml:lang="grc">τι</foreign>ς, ἣ λαβών τι τῶν</l>
+<l>παρακειμένων ἔκυψεν ὥσπερ Τήλεφος</l>
+<l>πρῶτον σιωπὴ — καὶ δικαίως τοῦτό γε·</l>
+<l>ἅπαντες ἀνδροφόνοι γάρ εἶσιν ἑνὶ λόγῳ —</l>
+<l>ὡσεὶ δὲ προσέχων οὐδὲν οὐδʼ ἀκηκοώς</l>
+<l>ἔκρουσε <sic>πόλυπόν</sic> τινʼ· ὁ δʼ ἐπρήσθη xob λαλῶν</l>
+<l>ὅλα ῥήματʼ, ἀλλὰ συλλαβὴν ἀφελών, τάρων</l>
+<l>βολῶν γένοιτʼ ἄν· ἣ δὲ κέστρα κτὼ βολῶν.</l>
+
+</quote>
 Alexis ebend.:
-<foreign xml:lang="grc">τοὺς δʼ ἰχθυοπώλας τοὺς κάκιστʼ ἀπολουμένους</foreign>
-<foreign xml:lang="grc">ἐπὰν ἴδω κάτω βλέποντας, τὰς δʼ ὀφρῦς</foreign>
-<foreign xml:lang="grc">ἔχοντας ἐπάνω τῆς κορυφῆς, ἀποπνίγομαι</foreign>·
-<foreign xml:lang="grc">ἐὰν δʼ <sic>ἐρωτήσῃς</sic>, πόσου τοὺς κεστρέας</foreign>
-<foreign xml:lang="grc">πωλεῖς δύʼ ὄντας; δέχʼ ὀβολῶν, φησίν. --- βαρύ</foreign>,
+
+<quote xml:lang="grc">
+
+<l>τοὺς δʼ ἰχθυοπώλας τοὺς κάκιστʼ ἀπολουμένους</l>
+<l>ἐπὰν ἴδω κάτω βλέποντας, τὰς δʼ ὀφρῦς</l>
+<l>ἔχοντας ἐπάνω τῆς κορυφῆς, ἀποπνίγομαι·</l>
+<l>ἐὰν δʼ <sic>ἐρωτήσῃς</sic>, πόσου τοὺς κεστρέας</l>
+<l>πωλεῖς δύʼ ὄντας; δέχʼ ὀβολῶν, φησίν. --- βαρύ,</l>
 
 <pb n="204"/>
 
-<foreign xml:lang="grc">ὀκτὼ λάβοις ἄν; — εἴπερ ὠνεῖ τὸν ἕτερον</foreign>. ---
-ὦ <foreign xml:lang="grc">τᾶν <sic>λαβὲ</sic> καὶ μὴ παῖζε, --- τοσουδί· παράτρεχε</foreign>.
+<l>ὀκτὼ λάβοις ἄν; — εἴπερ ὠνεῖ τὸν ἕτερον. ---</l>
+<l>ὦ  τᾶν <sic>λαβὲ</sic> καὶ μὴ παῖζε, --- τοσουδί· παράτρεχε.</l>
+
+</quote>
 Wer erkennt nicht darin das heutige gleichgültige grobe Wesen
 der Marktverkäufer in grossen Städten, die auch bei einem
 Mindergebote ohne zu antworten auf die Seite sehen! — Wenn
 man den Komikern trauen darf, so gab es mehrere gesetzliche
 Gebote, welche der Hökerei der Fischhändler wehren sollten,
 2. B. die Fische nicht mit Wasser zu begiessen, wodurch man
-zu Schnellerem Verkaufe nöthigen wollte Xenarch. beiAthen.
+zu Schnellerem Verkaufe nöthigen wollte Xenarch. bei Athen.
 p. 225:
-<foreign xml:lang="grc">ἐπεὶ γὰρ αὐτοῖς οὐχ Er’ ἔστʼ ἐξουσία</foreign>
-paivew, <foreign xml:lang="grc">ἀπείρηται δὲ τοῦτο τῷ νόμῳ</foreign>,
-<foreign xml:lang="grc">εἷς τις θεοῖσιν ἐχθρὸς ἄνθρωπος πάνυ</foreign>
-<foreign xml:lang="grc">ξηραινομένους ὡς εἶδε τοὺς ἰχθῦς, μάχην</foreign>
-<foreign xml:lang="grc">ἐποίησʼ ἐν αὐτοῖς ἐξεπίτηδες εὖ πάνυ</foreign>.
+
+<quote xml:lang="grc">
+
+<l>ἐπεὶ γὰρ αὐτοῖς οὐχ Er’ ἔστʼ ἐξουσία</l>
+<l>ῥαίνειν, ἀπείρηται δὲ τοῦτο τῷ νόμῳ,</l>
+<l>εἷς τις θεοῖσιν ἐχθρὸς ἄνθρωπος πάνυ</l>
+<l>ξηραινομένους ὡς εἶδε τοὺς ἰχθῦς, μάχην</l>
+<l>ἐποίησʼ ἐν αὐτοῖς ἐξεπίτηδες εὖ πάνυ.</l>
+
+</quote>
+
 Es muss sich nämlich jemand stellen, als sei er durch einen
 Schlag besinnungslos, und unter dem Vorwande, ihn in’s Leben
 zurückrufen zu wollen, werden zugleich mit ihm die Fische
@@ -8523,14 +8631,20 @@ ein solches Verbot wirklich bestand. Zweifeihafter kann es
 scheinen, ob es mit einem anderen Gesetze, welches nur feste
 Preise, ohne davon nachzulassen, vorschrieb, ernstlich gemeint
 sei. Alexis bei Athen. p. 226:
-<foreign xml:lang="grc">οὐ γέγονε xpeittwv νομοθέτης τοῦ πλουσίου</foreign>
-Aptorovixov‘ <foreign xml:lang="grc">τίθησι γὰρ νυνὶ νόμον</foreign>,
-<foreign xml:lang="grc">τῶν ἰχθυο<foreign xml:lang="grc">πωλῶν</foreign> ὅστις ἂν πωλῶν τινι</foreign>
-<foreign xml:lang="grc">ἰχθὺν <sic>ὑποτιμήσας</sic> <sic>ἀποδῶτʼ</sic> ἐλάττονος</foreign>
-<foreign xml:lang="grc">ἧς εἶπε τιμῆς, εἰς τὸ δεσμωτήριον</foreign>
-<foreign xml:lang="grc">εὐθὺς ἀπάγεσθαι τοῦτον, ἵνα δεδοικότες</foreign>
-<foreign xml:lang="grc">τῆς ἀξίας ἀγαπῶσιν N τῆς ἑσπέρας</foreign>
-<foreign xml:lang="grc">σαπροὺς ἅπαντας ἀποφέρωσιν οἴκαδε</foreign>.
+
+<quote xml:lang="grc">
+
+<l>οὐ γέγονε xpeittwv νομοθέτης τοῦ πλουσίου</l>
+<l>Ἀριστονίκου· τίθησι γὰρ νυνὶ νόμον,</l>
+<l>τῶν ἰχθυο<foreign xml:lang="grc">πωλῶν</foreign> ὅστις ἂν πωλῶν τινι</l>
+<l>ἰχθὺν <sic>ὑποτιμήσας</sic> <sic>ἀποδῶτʼ</sic> ἐλάττονος</l>
+<l>ἧς εἶπε τιμῆς, εἰς τὸ δεσμωτήριον</l>
+<l>εὐθὺς ἀπάγεσθαι τοῦτον, ἵνα δεδοικότες</l>
+<l>τῆς ἀξίας ἀγαπῶσιν N τῆς ἑσπέρας</l>
+<l>σαπροὺς ἅπαντας ἀποφέρωσιν οἴκαδε.</l>
+
+</quote>
+
 Auch Plato giebt ein ähnliches Gesetz Leg. ΧΙ, p. 917: ὁ <foreign xml:lang="grc">πωλῶν</foreign>
 <foreign xml:lang="grc">ὁτιοῦν ἐν ἀγορᾷ μηδέποτε δύο εἴπῃ τιμὰς ὧν ἂν πωλῇ</foreign>"
 <foreign xml:lang="grc">ἁπλῆν δὲ εἰπών, ἂν μὴ τυγχάνῃ ταύτης, ἀποφέρων ὀρθῶς ἂν</foreign>
@@ -8550,10 +8664,17 @@ die Götter auf der Bühne, verkaufen sollen: <foreign xml:lang="grc">ἀπὸ �
 <foreign xml:lang="grc">ὥσπερ οἱ θεοί</foreign>. Wenn man besonders die Worte, in
 welchen Aristonikos als trefflichster Gesetzgeber nach Solon
 gepriesen wird, vergleicht, p. 226:
-ob <foreign xml:lang="grc">γέγονε μετὰ Σόλωνα κρείττων οὐδὲ εἷς</foreign>
-Aptorovixou <foreign xml:lang="grc">νομοθέτης· τά τʼ ἄλλα γὰρ</foreign>
-<foreign xml:lang="grc">νενομοθέτηκε πολλὰ καὶ παντοῖα δή</foreign>,
-yuvi <foreign xml:lang="grc"><foreign xml:lang="grc">δ</foreign>ὲ καινὸν εἰσφέρει νόμον <foreign xml:lang="grc">τ</foreign>ινά χ. τ. δ</foreign>. .
+
+<quote xml:lang="grc">
+
+<l>οὺ γέγονε μετὰ Σόλωνα κρείττων οὐδὲ εἷς</l>
+<l>Ἀριτονίκου νομοθέτης· τά τʼ ἄλλα γὰρ</l>
+<l>νενομοθέτηκε πολλὰ καὶ παντοῖα δή,</l>
+
+<l>νυνὶ <foreign xml:lang="grc">δ</foreign>ὲ καινὸν εἰσφέρει νόμον <foreign xml:lang="grc">τ</foreign>ινά κ. τ. λ. </l>
+
+</quote>
+
 so kann in der That eine Persiflage der platonischen Gesetze,
 zumal bei einem Dichter der mittleren Komödie, möglich scheinen,
 und dass man sich in dieser Zeit noch Anspielungen auf
@@ -8577,10 +8698,12 @@ eines bekannten Geflügelhändlers, einen Preis setzen:
 
 <pb n="206"/>
 
-906 Excurs zur vierten Scene.
-<foreign xml:lang="grc">ὅτι συνείρων τοὺς onlvous πωλεῖ καθʼ ἑπτὰ τοῦ <sic>βολοῦ</sic></foreign>,
-<foreign xml:lang="grc"><sic>εἶτα</sic> φυσῶν τὰς κίχλας δείκνυσι καὶ λυμαίνεται</foreign>,
-<foreign xml:lang="grc">τοῖς τε κοψίχοισιν εἷς <foreign xml:lang="grc">τὰ</foreign>ς ῥῖνας ἐγχεῖ τὰ πτε</foreign>ρά.
+<quote xml:lang="grc">
+
+<l>ὅτι συνείρων τοὺς onlvous πωλεῖ καθʼ ἑπτὰ τοῦ <sic>βολοῦ</sic>,</l>
+<l><sic>εἶτα</sic> φυσῶν τὰς κίχλας δείκνυσι καὶ λυμαίνεται,</l>
+<l>τοῖς τε κοψίχοισιν εἷς <foreign xml:lang="grc">τὰ</foreign>ς ῥῖνας ἐγχεῖ τὰ πτερά.</l>
+</quote>
 </p>
 
 <p>Auch einige Reliefs stellen den Verkauf von Wild, Geflügel
@@ -8598,8 +8721,12 @@ besonderen Ort, der Myrtenmarkt geheissen zu haben scheint
 . nach Aristoph. Thesmoph. 448: <foreign xml:lang="grc"><sic>στεφανηπλοκοῦσα</sic> ἐν ταῖς</foreign>
 <foreign xml:lang="grc">μυρρίναις. Dass er auf der ἀγορά</foreign> war, sieht man aus dem,
 was das Weib v. 457 sagt:
-<foreign xml:lang="grc">ἀλλʼ εἰς dyöpdv ἄπειμι· dei γὰρ ἀνδράσι</foreign>
-<foreign xml:lang="grc">πλέξαι στεφάνους συνθηματιαίους εἴκοσιν</foreign>.
+
+<quote xml:lang="grc">
+
+<l>ἀλλʼ εἰς ἀγορὰν ἄπειμι· δεῖ γὰρ ἀνδράσι</l>
+<l>πλέξαι στεφάνους συνθηματιαίους εἴκοσιν.</l>
+</quote>
 </p>
 
 <p>Vermuthlich waren in dieser Gegend auch die <foreign xml:lang="grc"><sic>ταινιοπώλιδες</sic></foreign>,
@@ -8613,9 +8740,13 @@ her.  20 genannt: <foreign xml:lang="grc">καθίστησιν Εὐκτήμων
 <foreign xml:lang="grc">τῆς ἐν Κεραμεικῷ συνοικίας τῆς παρὰ τὴν πυλίδα, οὗ ὁ οἶνος</foreign>
 <foreign xml:lang="grc"><sic>ὥνιος</sic></foreign>. [Von dort liess man den Wein in Amphoren holen;
 vgl. Aristoph. bei Suid. 5. <foreign xml:lang="grc"><sic>ἀμφορεαφόρους</sic></foreign>:
-<foreign xml:lang="grc"><sic>τρέχʼ</sic> εἷς τὸν οἶνον, ἀμφορέα κενὸν λαβὼν</foreign>
-<foreign xml:lang="grc">τὸν ἔνδοθεν καὶ γεῦμα καὶ <sic>γευστήριον</sic></foreign>
-<foreign xml:lang="grc">κἄπειτα <sic>μίσθου</sic> σαυτὸν <sic>ἀμφορεαφορεῖν</sic></foreign>,
+
+<quote xml:lang="grc">
+
+<l><sic>τρέχʼ</sic> εἷς τὸν οἶνον, ἀμφορέα κενὸν λαβὼν</l>
+<l>τὸν ἔνδοθεν καὶ γεῦμα καὶ <sic>γευστήριον</sic></l>
+<l>κἄπειτα <sic>μίσθου</sic> σαυτὸν <sic>ἀμφορεαφορεῖν</sic>,</l>
+</quote>
 
 <pb n="207"/>
 
@@ -8632,11 +8763,15 @@ d. Leben d. Griech. u. Röm. Fig. 460.] Diese Gemälde
 sind der beste Commentar zu dem auch in anderer Hinsicht
 interessanten Fragmente des Alexis bei Athen. X,
 p. 431 ff:
-<foreign xml:lang="grc"><sic>κομψόν</sic> γε τοῦτʼ ἐστὶν παρʼ Öniv, ὦ Σόλων</foreign>,
-<foreign xml:lang="grc">ἐν ταῖς Ἀθήναις δεξιῶς ὁ εὑρημένον. —</foreign>
-<foreign xml:lang="grc">τὸ ποῖον; — ἐν τοῖς συμποσίοις οὐ πίνετε</foreign>
-<foreign xml:lang="grc">ἄκρατον. --- οὐ γὰρ <sic>ῥᾴδιον</sic>: πωλοῦσι γὰρ</foreign>
-<foreign xml:lang="grc">ἐν <foreign xml:lang="grc">τ</foreign>αῖς ἁμάξαις εὐθέως κεκραμένον χ. τ. λ</foreign>.
+
+<quote xml:lang="grc">
+
+<l><sic>κομψόν</sic> γε τοῦτʼ ἐστὶν παρʼ Öniv, ὦ Σόλων,</l>
+<l>ἐν ταῖς Ἀθήναις δεξιῶς ὁ εὑρημένον. —</l>
+<l>τὸ ποῖον; — ἐν τοῖς συμποσίοις οὐ πίνετε</l>
+<l>ἄκρατον. --- οὐ γὰρ <sic>ῥᾴδιον</sic>: πωλοῦσι γὰρ</l>
+<l>ἐν <foreign xml:lang="grc">τ</foreign>αῖς ἁμάξαις εὐθέως κεκραμένον κ. τ. λ.</l>
+</quote>
 Die schon oben mehrmals erwähnten <foreign xml:lang="grc">χύτραι</foreign> waren der Topfmarkt;
 aber davon zu unterscheiden ist der Ort, wo die Köche
 mit ihrem Geschirre sich aufhielten und warteten, bis jemand
@@ -8681,9 +8816,14 @@ bekommen waren. So sagt Thucyd. VII, 95: <foreign xml:lang="grc">οὗ δὲ ἔ
 <foreign xml:lang="grc">τοῦ ἄστεος οἰκιῶν</foreign>, und manche Artikel, 2. Β. die gesalzenen
 Fische, scheinen aus der Stadt vor die Thore gewiesen worden
 zu sein, nach Aristoph. Eq. 1246:
-<foreign xml:lang="grc">ΚΑ. καὶ μοι τοσοῦτον εἰπέ" πότερον ἐν ἀγορᾷ</foreign>
-<foreign xml:lang="grc">ἠλλαντοπώλεις <sic>ἑτεὸν</sic> ἢ ᾿πὶ ταῖς πύλαις</foreign>;
-<foreign xml:lang="grc">ΑΛΛ. ἐπὶ ταῖς πύλαισιν, οὗ τὸ τάριχος <sic>ὤνιον</sic></foreign>.
+
+<quote xml:lang="grc">
+
+<l>ΚΑ. καὶ μοι τοσοῦτον εἰπέ" πότερον ἐν ἀγορᾷ</l>
+<l>ἠλλαντοπώλεις <sic>ἑτεὸν</sic> ἢ ᾿πὶ ταῖς πύλαις;</l>
+<l>ΑΛΛ. ἐπὶ ταῖς πύλαισιν, οὗ τὸ τάριχος <sic>ὤνιον</sic>.</l>
+</quote>
+
 [Perikles hatte für den Mehlhandel eine <foreign xml:lang="grc">στοὰ <sic>ἀλφιτόπωλις</sic></foreign>
 (Schol. zu Aristoph. Acharn. 547) im Peiräeus erbaut, die
 vielleicht mit der <foreign xml:lang="grc">στοὰ μακρὰ bei Pausan. 1. 1, 2 oder μεγίστη</foreign>
@@ -8755,10 +8895,15 @@ Gelegenheit, und wie sich der Wechsler überhaupt ein Aufgeld
 auch die Coursdifferenz zwischen einheimischem und fremdem
 Gelde nicht unberechnet. Diphilos bei Athen. VI, p. 225
 sagt von einem Fischhändler:
-<foreign xml:lang="grc">ἔπειτʼ ἐὰν τἀργύριον αὐτῷ <sic>καταβάλης</sic></foreign>,
-<foreign xml:lang="grc">ἐπράξατʼ Αἰγιναῖον· ἂν δʼ αὐτὸν δέῃ</foreign>
-<foreign xml:lang="grc"><sic>κέρματʼ</sic> ἀποδοῦναι, προσαπέδωκεν</foreign> ’Ättızd,
-zart’ <foreign xml:lang="grc">ἀμφύτερα δὲ τὴν καταλλαγὴν ἔχει</foreign>.
+
+<quote xml:lang="grc">
+<l>ἔπειτʼ ἐὰν τἀργύριον αὐτῷ <sic>καταβάλης</sic>,</l>
+<l>ἐπράξατʼ Αἰγιναῖον· ἂν δʼ αὐτὸν δέῃ</l>
+<l><sic>κέρματʼ</sic> ἀποδοῦναι, προσαπέδωκεν Ἀττικά,</l>
+<l>κατ᾽ ἀμφύτερα δὲ τὴν καταλλαγὴν ἔχει.</l>
+</quote>
+
+
 [Vgl. Athen. XI, p. 503 und Theophr. Char. 30]. Falsche
 Münze, <foreign xml:lang="grc">ἀργύριον κίβδηλον</foreign> (im Gegensatze von Ödxsuov), war
 nichts Seltenes, obwohl auf der Fälschung, wie es scheint, in
