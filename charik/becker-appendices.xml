@@ -13851,8 +13851,12 @@ Geschlechter zu einander, hinzudeuten scheint.]
             
             <pb n="336"/>
             
-       <foreign xml:lang="grc">εἰσῆλθεν εἰς <sic>ʼταίρα</sic> φέρουσα τὸν γλυκύν</foreign>
-            <foreign xml:lang="grc">ἂν ἀργυρῷ πο<foreign xml:lang="grc">τ</foreign>ηρίῳ <sic>πε<foreign xml:lang="grc">τάχ</foreign>νῳ</sic> <foreign xml:lang="grc">τ</foreign>ινέ κ. τ. λ</foreign>.,
+            <quote xml:lang="grc">
+
+<l>εἰσῆλθεν εἰς <sic>ʼταίρα</sic> φέρουσα τὸν γλυκύν</l>
+<l>ἂν ἀργυρῷ πο<foreign xml:lang="grc">τ</foreign>ηρίῳ <sic>πε<foreign xml:lang="grc">τάχ</foreign>νῳ</sic> <foreign xml:lang="grc">τ</foreign>ινέ κ. τ. λ.,</l>
+         </quote>
+
             allein das würde immer als Ausnahme gelten müssen, und gemischter
             Wein wenigstens wurde vor dem jederzeit üblichen
             Trankopfer nicht getrunken; vergl. Philoch. bei dems. II,
@@ -13979,9 +13983,15 @@ Geschlechter zu einander, hinzudeuten scheint.]
             p. 432. [Ferner das Zugeständniss von Pausanias und Aristophanes
             in Plut. Conviv. p. 176. Auch gehören hierher
             Aristoph. Vesp. 1253:
+
+            <quote xml:lang="grc">
+
             <foreign xml:lang="grc">κακὸν τὸ</foreign> nivew' <foreign xml:lang="grc">ἀπὸ γὰρ οἴνου γίγνεται</foreign>
             <foreign xml:lang="grc">καὶ θυροκοπῆσαι καὶ πατάξαι καὶ βαλεῖν</foreign>,
             <foreign xml:lang="grc">κἄπειτʼ ἀποτίνειν ἀργύριον ἐκ κραιπάλης</foreign>,
+
+        </quote>
+
             mit den Beispielen bei Demosth. in Conon. und Lys. in
             Simon. Dennoch wurde durch die strenge Herrschaft der
             Sitte, welche den Besuch der Weinschenken jedem anständigen
@@ -14104,7 +14114,11 @@ Geschlechter zu einander, hinzudeuten scheint.]
             den Weinen behufs der - Versendung gab, erwähnt
             schon Theophr. caus. plant. VI. 7. 6: <foreign xml:lang="grc">ὁ οἶνος ὅταν <sic>θαλαττωθῇ</sic></foreign>:
             dann Plautus Rudens I. 7. 30:
-            Quasi vinis graecis Neptunus nobis suffudit mare;
+
+            <quote xml:lang="lat">
+<l>Quasi vinis graecis Neptunus nobis suffudit mare;</l>
+            
+        </quote>
             ausdrücklicher jedoch erst die Schriftsteller der römischen Kaiserzeit:
             Dioscor. V. 27, Plinius N. Hist. XIV. 21, Plutarch.
             Quaest. nat. 10, Athen. p. 26 u. 32 u.A. Plutarch.
@@ -14165,13 +14179,20 @@ Geschlechter zu einander, hinzudeuten scheint.]
             Empfehlung, wie schon aus den bekannten Worten Pindar’s
             O1. IX. 52: <foreign xml:lang="grc">αἴνει δὲ παλαιὸν μὲν οἶνον, ἄνθεα δʼ ὕμνων</foreign> vewrepwyv,
             hervorgeht. Eubul. bei Αὐ ἢ θη.1, p. 25:
-            <foreign xml:lang="grc">ἄτοπον δέ, τὸν μὲν οἶνον εὐδοκιμεῖν</foreign> dei
-            <foreign xml:lang="grc">παρὰ ταῖς ἑταίραις τὸν παλαιόν, ἄνδρα δέ</foreign>
-            <foreign xml:lang="grc">μὴ τὸν παλαιόν, ἀλλὰ τὸν νεώτερον</foreign>.
+
+            <quote xml:lang="grc">
+
+<l>ἄτοπον δέ, τὸν μὲν οἶνον εὐδοκιμεῖν ἀεί</l>
+<l>παρὰ ταῖς ἑταίραις τὸν παλαιόν, ἄνδρα δέ</l>
+<l>μὴ τὸν παλαιόν, ἀλλὰ τὸν νεώτερον.</l>
+        </quote>
             </p>
             
             <p>Alexis ebend. II, p. 86:
-            <foreign xml:lang="grc">οἶνον δὲ τὸν παλαιότατον σπουδάζομεν</foreign>.
+                <quote xml:lang="grc">
+
+<l>οἶνον δὲ τὸν παλαιότατον σπουδάζομεν.</l>
+        </quote>
             </p>
             
             <p>Vgl. Plutarch. Non posse suav. 4. [Sympos. VII 8. 4.
@@ -14212,10 +14233,16 @@ Geschlechter zu einander, hinzudeuten scheint.]
             <foreign xml:lang="grc">θεωρῶν ἔφη αὐτοὺς λευκοὺς εἶναι Κυρηναίους</foreign>. Endlich
             führt derselbe III, p. 12] --- 128 den Beweis mit mehreren
             Stellen alter Schriftsteller. So sagt denn auch Plautus Curc.
-            1. 3. 9: |
-            Tum isti Graeci palliati, capite operto qui ambulant, —
-            Quos semper videas bibentes esse in thermopolio:
-            Ubi quid surripuere, operto capitulo calidum bibunt.
+            1. 3. 9: 
+
+            <quote xml:lang="lat">
+                <l>Tum isti Graeci palliati, capite operto qui ambulant, —</l>
+                <l>Quos semper videas bibentes esse in thermopolio:</l>
+                <l>Ubi quid surripuere, operto capitulo calidum bibunt.</l>
+                
+            
+            
+        </quote>
             </p>
             
             <p>Vgl. Lucian. Asin. 7; Philostr. Vit. Apollon. II. 27.
@@ -14226,7 +14253,10 @@ Geschlechter zu einander, hinzudeuten scheint.]
             auch recht frisch zu haben, und das Abkühlen durch Schnee
             war schon in früher Zeit üblich. Alexis bei Athen. III,
             p. 124:
-            zal <foreign xml:lang="grc">χιόνα μὲν πίνειν παρασκευάζομεν</foreign>.
+            <quote xml:lang="grc">
+
+<l>καὶ χιόνα μὲν πίνειν παρασκευάζομεν.</l>
+        </quote>
             </p>
             
             <p>Dexikrates ebend.: <foreign xml:lang="grc">εἰ δὲ μεθύω <foreign xml:lang="grc">κ</foreign>αὶ χιόνα πίνω κ. τ. λ</foreign>. Man
@@ -14244,8 +14274,12 @@ Geschlechter zu einander, hinzudeuten scheint.]
             <foreign xml:lang="grc">περιστέλλοντες ἱματίοις ἀγνάπτοις ἐπὶ πολὺν χρόνον διατηροῦσι</foreign>.
             Wie heut zu Tage in Neapel und anderwärts geschieht, so
             wurde er auch in Athen, wie es scheint, verkauft. Euthykles
-            bei Athen. ἃ. ἃ. Ο.:
-            <foreign xml:lang="grc">πρῶτος μὲν εἶδεν, εἰ χιών ἐστʼ ὠνία</foreign>.
+            bei Athen. a. a. O.:
+
+            <quote xml:lang="grc">
+
+<l>πρῶτος μὲν εἶδεν, εἰ χιών ἐστʼ ὠνία.</l>
+        </quote>
             </p>
             
             <p>Vgl. Plutarch. de sanit. tuend. 6. Man kühlte nicht nur
@@ -14285,11 +14319,15 @@ Geschlechter zu einander, hinzudeuten scheint.]
             Plut. 1087. Es geschah vermuthlich durch Wolle. Ob sich
             darauf Plato Symp. p. 175: <foreign xml:lang="grc">ὥσπερ τὸ ἐν ταῖς κύλιξιν ὕδωρ</foreign>
             <foreign xml:lang="grc">τὸ διὰ τοῦ ἐρίου ῥέον ἐκ τῆς πληρεστέρας εἰς τὴν κενωτέραν</foreign>
-            bezieht, ist eben so zweifelhaft als Aristoph. Υ 68}. 701: <foreign xml:lang="grc">καὶ</foreign>
+            bezieht, ist eben so zweifelhaft als Aristoph.  Vesp. 701: <foreign xml:lang="grc">καὶ</foreign>
             <foreign xml:lang="grc">τοῦτʼ ἐρίῳ σοι</foreign> Evorakovow <foreign xml:lang="grc">κατὰ μικρὸν</foreign> dei: dagegen gehört
             entschieden hierher Pherekrates bei Athen. XI, p. 480:
-            <foreign xml:lang="grc">νυνί δʼ <sic>ἀπονίζων</sic> τὴν κύλικα δὸς ἐμπιεῖν</foreign>,
-            <foreign xml:lang="grc">ἔγχει δʼ ἐπιθεὶς τὸν ἡθμόν</foreign>:
+
+            <quote xml:lang="grc">
+
+<l>νυνί δʼ <sic>ἀπονίζων</sic> τὴν κύλικα δὸς ἐμπιεῖν,</l>
+<l>ἔγχει δʼ ἐπιθεὶς τὸν ἡθμόν:</l>
+        </quote>
             [K. F. Hermann hat bereits richtig zu dieser Stelle bemerkt,
             dass der <foreign xml:lang="grc"><sic>ἠθμός</sic></foreign> wohl ein metallener Durchschlag oder Trichter,
             <foreign xml:lang="grc">χαλκήλατος</foreign> (Poll. X. 108) gewesen sein möchte. Es muss
@@ -14336,8 +14374,12 @@ Geschlechter zu einander, hinzudeuten scheint.]
             <foreign xml:lang="grc">παρʼ αὐτῶν</foreign>·  <foreign xml:lang="grc">ἐκ τούτου δὲ μανῆναί μιν νομίζουσι <sic>Σπαρτῆται</sic></foreign>.
             Und dieser Glaube scheint sehr allgemein gewesen zu
             sein. Mehr noch sagt Mnesitheos bei Athen. II, p. 36:
-            <foreign xml:lang="grc">ἐὰν δʼ ἴσον ἴσῳ προσφέρῃ, μανίαν ποιεῖ</foreign>"
-            <foreign xml:lang="grc">ἐὰν δʼ ἄκρατον, παράλυσιν τῶν σωμάτων</foreign>,
+            <quote xml:lang="grc">
+
+<l>ἐὰν δʼ ἴσον ἴσῳ προσφέρῃ, μανίαν ποιεῖ·</l>
+<l>ἐὰν δʼ ἄκρατον, παράλυσιν τῶν σωμάτων,</l>
+        </quote>
+
             Diese heftige Wirkung nun wollte man eben durch Vermischung
             mit dem nüchternen Brunnen mässigen, wie Plato Leg. VI,
             p. 773 schön sagt: <foreign xml:lang="grc">μαινόμενος μὲν οἶνος ἐγκεχυμένος ζεῖ, κολαζόμενος</foreign>
@@ -14464,17 +14506,19 @@ Geschlechter zu einander, hinzudeuten scheint.]
             den Dionysos sprechen lässt:
             
             <pb n="352"/>
+            <quote xml:lang="grc">
             
-            Tpeis <foreign xml:lang="grc">γὰρ μόνους</foreign> xparüpas <foreign xml:lang="grc">ἐγκεραννύω</foreign>
-            <foreign xml:lang="grc">τοῖς εὖ φρονοῦσι· τὸν μὲν <sic>ὑγιείας</sic> ἕνα</foreign>,
-            <foreign xml:lang="grc">ὃν πρῶτον ἐκπίνουσι· τὸν δὲ δεύτερον</foreign>
-            <foreign xml:lang="grc">ἔρωτος ἡδονῆς τε· τὸν τρίτον δʼ <sic>ὕπνου</sic></foreign>,
-            <foreign xml:lang="grc">ὃν ἐκπιόντες οὗ σοφοὶ κεκλημένοι</foreign>
-            <foreign xml:lang="grc">οἴκαδε βαδίζουσʼ· ὁ δὲ τέταρτος οὐχ</foreign> Erı
-            <foreign xml:lang="grc">ἡμέτερός ἐστʼ, ἀλλʼ <sic>ὕβρεος</sic>· ὁ δὲ πεμπτὸς βοῆς</foreign>·
-            <foreign xml:lang="grc"><sic>ἕκτος</sic> δὲ κώμων· ἕβδομος δʼ ὑπωπίων·</foreign> 
-            <foreign xml:lang="grc">ὁ δʼ ὄγδοος κλητῆρος· ὁ δʼ <sic>ἕνατος</sic> χολῆς</foreign>·
-            <foreign xml:lang="grc">δέκατος δὲ μανίας, ὥστε καὶ βάλλειν ποιεῖ</foreign>.
+<l>τρεῖς γὰρ μόνους κρατῆρας ἐγκεραννύω</l>
+<l>τοῖς εὖ φρονοῦσι· τὸν μὲν <sic>ὑγιείας</sic> ἕνα,</l>
+<l>ὃν πρῶτον ἐκπίνουσι· τὸν δὲ δεύτερον</l>
+<l>ἔρωτος ἡδονῆς τε· τὸν τρίτον δʼ <sic>ὕπνου</sic>,</l>
+<l>ὃν ἐκπιόντες οὗ σοφοὶ κεκλημένοι</l>
+<l>οἴκαδε βαδίζουσʼ· ὁ δὲ τέταρτος οὐχ Erı</l>
+<l>ἡμέτερός ἐστʼ, ἀλλʼ <sic>ὕβρεος</sic>· ὁ δὲ πεμπτὸς βοῆς·</l>
+<l><sic>ἕκτος</sic> δὲ κώμων· ἕβδομος δʼ ὑπωπίων· </l>
+<l>ὁ δʼ ὄγδοος κλητῆρος· ὁ δʼ <sic>ἕνατος</sic> χολῆς·</l>
+<l>δέκατος δὲ μανίας, ὥστε καὶ βάλλειν ποιεῖ.</l>
+        </quote>
             </p>
             
             <p>Es ist wohl dasselbe gemeint, wenn Panyasis ebend. <foreign xml:lang="grc">τὴν</foreign>
@@ -14625,11 +14669,14 @@ Geschlechter zu einander, hinzudeuten scheint.]
             attische Sitte angegeben, dass man aus kleinen Bechern
             trank oder wenigstens damit den Anfang machte. Alexis bei
             Athen. X, p. 431:
-            — <foreign xml:lang="grc">τοῦτʼ <sic>ἔσθʼ</sic>, ὁρᾷς, Ἑλληνικός</foreign>
-            <foreign xml:lang="grc">πότος, μετρίοισι χρωμένους ποτηρίοις</foreign>
-            <foreign xml:lang="grc">λαλεῖν τι καὶ ληρεῖν πρὸς <sic>αὐτοὺς</sic> ἡδέως</foreign>.
-            <foreign xml:lang="grc">τὸ μὲν γὰρ ἕτερον λουτρόν ἐστιν, οὗ πότος</foreign>,
-            <foreign xml:lang="grc"><sic>ψυκτῆρι</sic> πίνειν καὶ κάδοις· θάνατος μὲν οὖν</foreign>.
+            <quote xml:lang="grc">
+
+<l>— τοῦτʼ <sic>ἔσθʼ</sic>, ὁρᾷς, Ἑλληνικός</l>
+<l>πότος, μετρίοισι χρωμένους ποτηρίοις</l>
+<l>λαλεῖν τι καὶ ληρεῖν πρὸς <sic>αὐτοὺς</sic> ἡδέως.</l>
+<l>τὸ μὲν γὰρ ἕτερον λουτρόν ἐστιν, οὗ πότος,</l>
+<l><sic>ψυκτῆρι</sic> πίνειν καὶ κάδοις· θάνατος μὲν οὖν.</l>
+        </quote>
             </p>
             
             <p>Gewöhnlich ging man indessen später zu den grösseren Bechern
@@ -14639,8 +14686,12 @@ Geschlechter zu einander, hinzudeuten scheint.]
             Privatalt. <foreign xml:lang="grc">ὁ</foreign>. 28, n. 28 ff] Diese grösseren Gefässe mögen
             zuweilen eine bedeutonde Quantität gefasst haben. So klagt
             jemand in einem Stücke des Alexis bei Athen. p. 431:
-            <foreign xml:lang="grc">οὗ συμποσίαρχος ἦν γάρ, ἀλλὰ δήμιος</foreign>
-            <foreign xml:lang="grc">ὁ Χαιρέας, κυάθους προπίνων <sic>εἴκοσιν</sic></foreign>.
+
+            <quote xml:lang="grc">
+
+<l>οὗ συμποσίαρχος ἦν γάρ, ἀλλὰ δήμιος</l>
+<l>ὁ Χαιρέας, κυάθους προπίνων <sic>εἴκοσιν</sic>.</l>
+        </quote>
             </p>
             
             <p>Zwanzig <foreign xml:lang="grc">κύαθοι</foreign> sind ziemlich 2/7 eines <foreign xml:lang="grc">χοῦς</foreign>, also ungefähr
@@ -14702,8 +14753,12 @@ Geschlechter zu einander, hinzudeuten scheint.]
             Toasten oder Gesundheiten. Athen. XI, p. 498: <foreign xml:lang="grc">πληροῦντες</foreign>
             <foreign xml:lang="grc">γὰρ</foreign> npoenwov <foreign xml:lang="grc">ἀλλήλοις μετὰ προσαγορεύσεως</foreign> [und Kri-
             1188 bei Athen. Χ, p. 432:
-            <foreign xml:lang="grc">καὶ προπόσεις ὀρέγειν ἐπιδέξια καὶ</foreign> npöxaleioda:
-            <foreign xml:lang="grc">ἐξονομακλήδην, ᾧ προπιεῖν ἐθέλει</foreign>,
+
+            <quote xml:lang="grc">
+
+<l>καὶ προπόσεις ὀρέγειν ἐπιδέξια καὶ npöxaleioda:</l>
+<l>ἐξονομακλήδην, ᾧ προπιεῖν ἐθέλει,</l>
+        </quote>
             Vgl. Panofka in Gerhard’s Hyberb.-röm. Stud. 5. 818 ff.)
             Was man ungefähr dabei sagen mochte, lässt sich aus obiger
             Stelle Heliodor’s schliessen. Vergl. Welcker. ad Theogn.
@@ -14808,6 +14863,37 @@ Geschlechter zu einander, hinzudeuten scheint.]
             Zechens das Feld behauptete und sich wach erhielt, <foreign xml:lang="grc">διαγρυπνήσας</foreign>,
             zur Belohnung einen Kuchen, <foreign xml:lang="grc">πυραμοῦς</foreign>, bekam. Athen.
             XIV, p. 647: yWweoda: <foreign xml:lang="grc">γὰρ ταύτην</foreign> Ex <foreign xml:lang="grc">πυρῶν πεφωσμένων καὶ</foreign>
+            <pb n="361"/>
+
+<foreign xml:lang="grc">μέλιτι δεδευμένων: αὗται δὲ ἄθλα</foreign> Tidevrar <foreign xml:lang="grc">ταῖς παννυχίσι τῷ</foreign>
+<foreign xml:lang="grc">διαγρυπνήσαντι</foreign>. Darauf bezieht sich auch nach den Scholien
+Aristoph. Equit. 277: <foreign xml:lang="grc">ἣν δʼ ἀναιδείᾳ παρέλθῃ σʼ, ἡμέτερος</foreign>
+<foreign xml:lang="grc">ὁ πυραμοῦς</foreign>. Vgl. Poll. VI. 108. Dessenungeachtet möchte
+ich diese Sitte nicht, wie K. F. Hermann zu dieser Stelle
+im Charicles und Privatalterth. <foreign xml:lang="grc">ὁ</foreign>. 28, ἢ. 26 gethan hat,
+überhaupt auf die Symposien beziehen. Denn Athenaeos setzt
+a. a. 0. ausdrücklich <foreign xml:lang="grc">παννυχίσι</foreign> hinzu und so haben wir es mit
+Familienfesten zu thun, namentlich der dexary, wie denn derselbe
+Autor aus der <foreign xml:lang="grc">Παννυχίς</foreign> des Kallippos XV, p. 608 die
+Stelle anführt:
+<quote xml:lang="grc">
+
+<l>ὁ διαγρυπνήσας πυραμοῦντα λήψεται</l>
+<l>τὰ κοττάβια, καὶ τῶν παρουσῶν ἣν θέλει</l>
+<l>φιλήσει.</l>
+</quote>
+Wer dagegen beim Symposion einschlief, dem drohte die Strafe
+der Ewioxpaola, welche Becker Anecd. I, p. 288 erklärt
+wird als <foreign xml:lang="grc">ἡ κατάχυσις τῶν ζωμῶν τῶν ἑώλων δείπνων ἐπὶ τοὺς <sic>κοιμωμένους</sic> τῶν συμπινόντων</foreign>. Dazu stimmt Phot. Lex. s.v.:
+<foreign xml:lang="grc">ἔθος ἦν τοῖς νέοις δειπνοῦσι καὶ νυκτερεύουσι καταχεῖν τῶν</foreign>
+<foreign xml:lang="grc">κοιμωμένων τῶν ἑώλων δείπνων τοὺς <sic>ζωμοὺς</sic> πρὸς τὴν τοιαύτὴν</foreign>
+<foreign xml:lang="grc">παιδιὰν κεκραμένους</foreign> und Apostol. Prov.: <foreign xml:lang="grc">ἡνίκα συνέπινον</foreign>
+<foreign xml:lang="grc">ἀλλήλοις παρʼ <sic>Ἀθηναίοις</sic>, ἐπὶ</foreign> Exdorov <foreign xml:lang="grc">κρατὴρ οἴνου ἐτίθετο</foreign>,
+<foreign xml:lang="grc">καὶ εἴ τις</foreign> ExdBevde <foreign xml:lang="grc">μὴ πιὼν τὸν ἴδιον κρατῆρα, πρωΐ κατὰ</foreign>
+<foreign xml:lang="grc">τῆς αὐτοῦ κεφαλῆς <sic>ἐξεχέετο</sic></foreign>. Vergl. hierzu die Anm. von
+Leutsch, Gregor. Cor. in Walz Rhetor. Gr. VII, p. 1161
+in Bezug auf Demosth. pro coron. §. 50, und Stephani
+Compte rendu pour 1868, p. 89 ff.]
             </p>
             </div>
        
