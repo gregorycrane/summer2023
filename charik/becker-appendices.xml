@@ -93,7 +93,7 @@
     viel später Plato sagt:
     
     <cit><bibl>   Plat. Legg. V, p. 729 </bibl>
-        <quote xml:lang="grc">πρὸς δ᾽ αὖ τοὺς
+        <quote rend="blockquote" xml:lang="grc">πρὸς δ᾽ αὖ τοὺς
             ξένους διανοητέον ὡς ἁγιώτατα ξυμβόλαια ὄντα: σχεδὸν γὰρ
             πάντ᾽ ἐστὶ τὰ τῶν ξένων καὶ εἰς τοὺς ξένους ἁμαρτήματα παρὰ
             τὰ τῶν πολιτῶν εἰς θεὸν ἀνηρτημένα τιμωρὸν μᾶλλον: ἔρημος
@@ -126,7 +126,7 @@
     
     
     <cit><bibl>Odyss. I, 176:</bibl>
-    <quote xml:lang="grc"><l>ἐπεὶ πολλοὶ ἔσαν ἀνέρες ἡμέτερον δῶ</l>
+    <quote rend="blockquote" xml:lang="grc"><l>ἐπεὶ πολλοὶ ἔσαν ἀνέρες ἡμέτερον δῶ</l>
         <l>ἄλλοι, ἐπεὶ καὶ κεῖνος ἐπίστροφος ἦν ἀνθρώπων.</l></quote>
     </cit>
     
@@ -150,15 +150,15 @@ V, 209 und IV, 178. Der gemeine Mann zog mit einem
     auch Stellen hin, wie 
     
     <cit><bibl>   Il. XV, 682:</bibl>
-        <quote xml:lang="grc">λαοφόρον ὁδόν,</quote>
+        <quote rend="blockquote" xml:lang="grc">λαοφόρον ὁδόν,</quote>
         </cit>
    
     <cit><bibl>Il. XXI, 146:</bibl>
-        <quote xml:lang="grc">κατ᾽ ἀμαξιτὸν ἐσσεύοντο,</quote>
+        <quote rend="blockquote" xml:lang="grc">κατ᾽ ἀμαξιτὸν ἐσσεύοντο,</quote>
         </cit>
       
     <cit><bibl>Odyss. X, 104:</bibl>
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
             <l part="F">λείην ὁδὸν, ᾗ περ ἄμαξαι</l>
 
             <l>ἄστυδʼ ἀφ᾽ ὑψηλῶν ὀρέων καταγίνεον ὕλην,</l>
@@ -168,7 +168,7 @@ V, 209 und IV, 178. Der gemeine Mann zog mit einem
       
     vergl.
     <cit><bibl>Od. III, 323-326:</bibl>
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
             <l>ἀλλʼ ἴθι νῦν σὺν νηί τε σῇ καὶ σοῖς ἑτάροισιν·</l>
             <l>εἰ δʼ ἐθέλεις πεζός, πάρα τοι δίφρος τε καὶ ἵπποι,</l>
             <l>πὰρ δέ τοι υἷες ἐμοί, οἵ τοι πομπῆες ἔσονται</l>
@@ -198,7 +198,7 @@ Guhl und Koner S. 304ff.] Die schöne Sitte der Gastfreundschaft
 vgl.
 
 <cit><bibl>Herodot. VI, 35:</bibl>
-    <quote xml:lang="grc">οὗτος ὁ Μιλτιάδης (ὁ Κυψέλου, Ἀθηναῖος)
+    <quote rend="blockquote" xml:lang="grc">οὗτος ὁ Μιλτιάδης (ὁ Κυψέλου, Ἀθηναῖος)
         κατήμενος ἐν τοῖσι προθύροισι τοῖσι ἑωυτοῦ, ὁρέων τοὺς
         Δολόγκους παριόντας, ἐσθῆτα ἔχοντας οὐκ ἐγχωρίην καὶ αἰχμάς,,
         προσεβώσατο καὶ σφι προςελθοῦσι ἐπηγγείλατο καταγωγὴν
@@ -209,7 +209,7 @@ vgl.
     
     Ein Gesetz des Charondas schrieb sogar vor:
     <cit><bibl>Charondas bei Stob. Serm. XLIV, 40</bibl>
-        <quote xml:lang="grc">ξένον πάντα τὸν ἐν τῇ ἑαυτοῦ   <pb n="3"/>
+        <quote rend="blockquote" xml:lang="grc">ξένον πάντα τὸν ἐν τῇ ἑαυτοῦ   <pb n="3"/>
     
             πατρίδι σεβόμενον καὶ κατὰ τοὺς οἰκείους νόμους εὐφήμως καὶ
             οἰκείως προσδέχεσθαι καὶ ἀποστέλλειν, μεμνημένους Διὸς Ξενίου,
@@ -225,7 +225,7 @@ vgl.
     Völkern findet sich dieselbe Gesinnung. 
     
     <cit><bibl>Aelian. V. Hist. IV, 1:</bibl>
-        <quote xml:lang="grc">λέγει τις νόμος Λευκανῶν, ἐὰν ἡλίου δύσαντος ἀφίκηται
+        <quote rend="blockquote" xml:lang="grc">λέγει τις νόμος Λευκανῶν, ἐὰν ἡλίου δύσαντος ἀφίκηται
             ξένος καὶ παρελθεῖν ἐθελήσῃ εἰς στέγην τινός, εἶτα μὴ δέξηται
             τὸν ἄνδρα, ζημιοῦσθαι αὐτὸν καὶ ὑπέχειν δίκας τῆς 
             κακοξενίας. </quote>
@@ -238,7 +238,7 @@ Vgl.
 die Φασιανοί bei 
    
 <cit><bibl>Heracl. Pon. 18:</bibl>
-    <quote xml:lang="grc">φιλόξενοι
+    <quote rend="blockquote" xml:lang="grc">φιλόξενοι
         δ᾽ εἰσὶν ὥστε τοὺς ναυαγοὺς ἐφοδιάζειν καὶ τρεῖς μνᾶς διδόντας
         ἀποπλεῖν</quote>
     </cit>
@@ -289,14 +289,14 @@ die Φασιανοί bei
 
 Vgl.
 <cit><bibl>Theophr. Char. 20:</bibl>
-    <quote xml:lang="grc">καὶ ξενίζων δὲ φῆσαι, ὅτι ἣ οἰκία αὐτοῦ πανδοκεῖόν
+    <quote rend="blockquote" xml:lang="grc">καὶ ξενίζων δὲ φῆσαι, ὅτι ἣ οἰκία αὐτοῦ πανδοκεῖόν
         ἐστι· μεστὴ γάρ ἐστιν ἀεὶ ξένων,</quote>
     </cit>
      
      und 
     
      <cit><bibl>Theophr. Char. 28:</bibl>
-        <quote xml:lang="grc">καὶ ἐν μισθωτῇ
+        <quote rend="blockquote" xml:lang="grc">καὶ ἐν μισθωτῇ
             οἰκίᾳ οἰκῶν φῆσαι, ταύτην εἶναι τὴν πατρῴαν, πρὸς τὸν μὴ
             εἰδότα, καὶ ὅτι μέλλει πωλεῖν αὐτὴν διὰ τὸ ἐλάττω εἶναι αὐτῷ
             πρὸς τὰς ξενοδοκίας. </quote>
@@ -307,7 +307,7 @@ Vgl.
     Aelian,
     wo es am Schlusse heisst: 
     <cit><bibl>Aelian. Var. Hist. XIV, 24:</bibl>
-        <quote xml:lang="grc">ἐοίκαμεν γὰρ ἀντὶ περιστερᾶς ἔχειν
+        <quote rend="blockquote" xml:lang="grc">ἐοίκαμεν γὰρ ἀντὶ περιστερᾶς ἔχειν
             φάτταν, ὑπὲρ οἰκίας εὑρόντες πανδοκεῖον.</quote>
         </cit>
     
@@ -343,7 +343,7 @@ vgl.
     Anacreon bei 
     
     <cit><bibl>Plut. adv. Stoic. 20:</bibl>
-        <quote xml:lang="grc">ἔστε ξένοισι μειλίχοις ἐοικότες στέγης τε μοῦνον καὶ πυρὸς
+        <quote rend="blockquote" xml:lang="grc">ἔστε ξένοισι μειλίχοις ἐοικότες στέγης τε μοῦνον καὶ πυρὸς
             κεχρημένοι.</quote>
         </cit>
         
@@ -357,7 +357,7 @@ vgl.
     vini cadum, als xeniola. Dieselbe Sitte bezeugt auch 
     
     <cit><bibl>Vitruv. VI. 7 (10), 4:</bibl>
-        <quote xml:lang="lat">nam cum fuerunt Graeci delicatiores et fortuna
+        <quote rend="blockquote" xml:lang="lat">nam cum fuerunt Graeci delicatiores et fortuna
             opulentiores, hospitibus advenientibus instruebant triclinia,
             cubicula, cum penu cellas, primoque die ad coenam invitabant,
             postero mittebant pullos, ova, olera, poma reliquasque res
@@ -373,7 +373,7 @@ vgl.
     sagt: 
 
     <cit><bibl>Chrysost. Or. VIII, 4, p. 276</bibl>
-        <quote xml:lang="grc">μετέβη εἰς Κόρινθον κἀκεῖ διῆγεν, οὔτε οἰκίαν μισθωσάμενος
+        <quote rend="blockquote" xml:lang="grc">μετέβη εἰς Κόρινθον κἀκεῖ διῆγεν, οὔτε οἰκίαν μισθωσάμενος
             οὔτε παρὰ ξένῳ τινὶ καταγόμενος.</quote>
         </cit>
     
@@ -386,7 +386,7 @@ Lucian. Toxar.
     61 und besonders
     
     <cit><bibl>Aelian. Var. Hist. III, 14:</bibl>
-        <quote xml:lang="grc">Βυζαντίους
+        <quote rend="blockquote" xml:lang="grc">Βυζαντίους
             δὲ δεινῶς οἰνόφλυγας ὄντας ἐνοικεῖν τοῖς καπηλείοις ὁ
             λόγος ἔχει, τῶν οἰκιῶν τῶν ἰδίων καὶ τῶν δωματίων ἐξοικισθέντας
             καὶ τοῖς ξένοις τοῖς ἐπιδημοῦσι τῇ πόλει ἐπιμισθώσαντας
@@ -400,7 +400,7 @@ Lucian. Toxar.
     ganz eigenthümlichen Bestimmungen Plato’s Leges,
     dessen Verlangen: 
     <cit><bibl>Plato’s Leg. XII, p. 952</bibl>
-        <quote xml:lang="grc">τῷ δὴ τοιούτῳ (θεωρῷ) παντὶ χρὴ καταλύσεις
+        <quote rend="blockquote" xml:lang="grc">τῷ δὴ τοιούτῳ (θεωρῷ) παντὶ χρὴ καταλύσεις
             πρὸς ἱεροῖς εἶναι φιλοξενίαις ἀνθρώπων παρεσκευασμένας,</quote>
         </cit>
     
@@ -422,7 +422,7 @@ Aelian. V. Hist. IV, 9. Eine ganz ähnliche Einrichtung fand sich
     bei dem Tempel der Aphrodite zu Knidos, 
     
     <cit><bibl>Lucian. Amor. 12:</bibl>
-        <quote xml:lang="grc">ἦν δ᾽ ὑπὸ ταῖς ἄγαν παλινσκίοις ὕλαις ἱλαραὶ κλισίαι τοῖς ἐνεστιᾶσθαι
+        <quote rend="blockquote" xml:lang="grc">ἦν δ᾽ ὑπὸ ταῖς ἄγαν παλινσκίοις ὕλαις ἱλαραὶ κλισίαι τοῖς ἐνεστιᾶσθαι
             θέλουσιν, εἰς ἃ τῶν μὲν ἀστικῶν σπανίως ἐπεφοίτων
             τινές· ἀθρόος δ᾽ ὁ πολιτικὸς ὄχλος ἐπανηγύριζεν, ὄντως ἀφροδισιάζοντες.</quote>
         </cit>  
@@ -433,7 +433,7 @@ Aelian. V. Hist. IV, 9. Eine ganz ähnliche Einrichtung fand sich
 vgl.
 
 <cit><bibl>Corp. Inscr. No. 1104:</bibl>
-    <quote xml:lang="grc">καταλύσεις τοῖς ἀπὸ τῆς οἰκουμένης ἐπὶ τὰ Ἴσθμια παραγενομένοις
+    <quote rend="blockquote" xml:lang="grc">καταλύσεις τοῖς ἀπὸ τῆς οἰκουμένης ἐπὶ τὰ Ἴσθμια παραγενομένοις
         ἀθληταῖς.</quote>
     </cit>   
     
@@ -444,7 +444,7 @@ vgl.
     worden. 
 
     <cit><bibl>Thucyd. II, 68:</bibl>
-        <quote xml:lang="grc">ᾠκοδόμησαν πρὸς τῷ Ἡραίῳ καταγώγιον
+        <quote rend="blockquote" xml:lang="grc">ᾠκοδόμησαν πρὸς τῷ Ἡραίῳ καταγώγιον
             διακοσίων ποδῶν, πανταχῇ κύκλῳ οἰκήματα ἔχον κάτωθεν
             καὶ ἄνωθεν.</quote>
         </cit>
@@ -465,7 +465,7 @@ vgl.
     dem nöthigen anderen Geschirr die στρώματα trug.] So sagt
     Peisthetäros 
     <cit><bibl>Aristoph. Av. 615:</bibl>
-    <quote xml:lang="grc">
+    <quote rend="blockquote" xml:lang="grc">
     <l>οὕτω μὲν εἰσίωμεν. ἄγε δὴ, Ξανθία</l>
     <l>καὶ Μανόδωρε, λαμβάνετε τὰ στρώματα.</l>
     </quote>
@@ -477,7 +477,7 @@ vgl.
     
     <p>Vergl. Ran. 12 u. ö. Am deutlichsten erhellt die Sitte aus
         <cit><bibl>Xenoph. Memor. III, 13, 6:</bibl>
-            <quote xml:lang="grc">
+            <quote rend="blockquote" xml:lang="grc">
                 ἄλλου δὲ λέγοντος, ὡς παρετάθη
     
     <pb n="7"/>
@@ -496,13 +496,13 @@ vgl.
     für dieses Reisegepäck hiess στρωματόδεσμον. 
     
     <cit><bibl>Plato Theaet. p. 175:</bibl>
-        <quote xml:lang="grc">ὅταν εἰς δουλικὰ ἐμπέσῃ διακονήματα, οἷον στρωματόδεσμον
+        <quote rend="blockquote" xml:lang="grc">ὅταν εἰς δουλικὰ ἐμπέσῃ διακονήματα, οἷον στρωματόδεσμον
             μὴ ἐπιστάμενος συσκευάσασθαι.</quote>
         </cit>
      
      
         <cit><bibl>Aeschin. de falsa leg.  99:</bibl>
-            <quote xml:lang="grc">συνηκολούθουν δ᾽ αὐτῷ ἄνθρωποι δύο στρωματόδεσμα
+            <quote rend="blockquote" xml:lang="grc">συνηκολούθουν δ᾽ αὐτῷ ἄνθρωποι δύο στρωματόδεσμα
                 φέροντες, ἐν δὲ τῷ ἑτέρῳ τούτων, ὡς αὐτὸς ἔφη, τάλαντον
                 ἐνῆν ἀργυρέου:</quote>
             </cit>    
@@ -511,7 +511,7 @@ vgl.
     
     in späterer Zeit auch στρωματεύς nach
     <cit><bibl>Poll. VII, 79:</bibl>
-        <quote xml:lang="grc">ἃ δὲ οἱ παλαιοὶ στρωματόδεσμα, ταῦθ᾽ οἱ νεώτεροι
+        <quote rend="blockquote" xml:lang="grc">ἃ δὲ οἱ παλαιοὶ στρωματόδεσμα, ταῦθ᾽ οἱ νεώτεροι
             στρωματεῖς ἔλεγον, ἐν οἷς, ὡς μὲν τοὔνομα δηλοῖ, τὰ
             στρώματα ἀπετίθεντο· δῆλον δὲ ὅτι καὶ τὰς ἄλλας ἐσθῆτας.</quote>
         </cit>
@@ -522,7 +522,7 @@ vgl.
 Vgl.
 
 <cit><bibl>Poll. X, 137:</bibl>
-    <quote xml:lang="grc">θύλακοι, στρωματόδεσμα.</quote>
+    <quote rend="blockquote" xml:lang="grc">θύλακοι, στρωματόδεσμα.</quote>
     </cit>
      
      
@@ -534,7 +534,7 @@ Vgl.
     von solcher Unbilligkeit 
  
     <cit><bibl>Theophr. Char. 30:</bibl>
-        <quote xml:lang="grc">τῷ ἀκολούθῳ
+        <quote rend="blockquote" xml:lang="grc">τῷ ἀκολούθῳ
             ἐπιθεῖναι μεῖζον φορτίον ἢ δύναται φέρειν.</quote>
         </cit>    
      
@@ -545,7 +545,7 @@ Vgl.
     einen Theil des Gepäcks. 
     
     <cit><bibl>Lucian. Asin. 1:</bibl>
-        <quote xml:lang="grc">ἕπος δέ με
+        <quote rend="blockquote" xml:lang="grc">ἕπος δέ με
             κατῆγε καὶ τὰ σκεύη, καὶ θεράπων ἠκολούθει εἷς.</quote>
         </cit>      
     
@@ -555,7 +555,7 @@ Vgl.
     bekommen hätten 
     
     <cit><bibl>Theophrast bei Athen. IV, p. 173</bibl>
-        <quote xml:lang="grc">στέγην, ἅλας, ἔλαιον, ὄξος, ἐπέ
+        <quote rend="blockquote" xml:lang="grc">στέγην, ἅλας, ἔλαιον, ὄξος, ἐπέ
             λύχνον, κλίνας, στρώματα, τραπέζας.</quote>
         </cit>    
     
@@ -585,7 +585,7 @@ Vgl.
     es scheint überall, in Wirtbshäusern, πανδοκείοις, ein. 
     
     <cit><bibl>Aeschin. de falsa leg. 97:</bibl>
-        <quote xml:lang="grc">οὐδεὶς αὐτῷ συσσιτεῖν, ὅτ᾽ ἐξῄειμεν ἐπὶ
+        <quote rend="blockquote" xml:lang="grc">οὐδεὶς αὐτῷ συσσιτεῖν, ὅτ᾽ ἐξῄειμεν ἐπὶ
             τὴν ὑστέραν πρεσβείαν, ἤθελεν οὐδὲ ἐν ταῖς ὁδοῖς, ὅπου δυνατὸν
             ἦν, εἰς ταὐτὸ πανδοκεῖον καταλύειν.</quote>
         </cit>      
@@ -600,18 +600,18 @@ Vgl.
     [von Epidauros
     
     <cit><bibl>Plaut. Menaechm. II, 3, 81 :</bibl>
-        <quote xml:lang="lat">abduce istos in tabernam actutum deversoriam. </quote>
+        <quote rend="blockquote" xml:lang="lat">abduce istos in tabernam actutum deversoriam. </quote>
         </cit>   
     
     
     <cit><bibl>Appul. Met. I, 15:</bibl>
-        <quote xml:lang="lat">sumo sarcinulam et pretio mansionis stabulario
+        <quote rend="blockquote" xml:lang="lat">sumo sarcinulam et pretio mansionis stabulario
             persoluto capessimus viam.</quote>
         </cit>     
      
 
     <cit><bibl>Cic. Divin. I, 27:</bibl>
-        <quote xml:lang="lat">cum duo
+        <quote rend="blockquote" xml:lang="lat">cum duo
             quidem Arcades familiares iter una facerent et Megaram venissent,
             alterum ad cauponem devertisse, ad hospitem alterum.</quote>
         </cit>
@@ -623,11 +623,11 @@ Vgl.
     griechischen Gasthause. 
     
     <cit><bibl>Diog. Laërt. II, 132 von Menedemos:</bibl>
-        <quote xml:lang="grc">σὺν γοῦν Ἀσκληπίαδῃ κατ’ ἄγνοιαν ἐν πανδοκείῳ ποτὶ
+        <quote rend="blockquote" xml:lang="grc">σὺν γοῦν Ἀσκληπίαδῃ κατ’ ἄγνοιαν ἐν πανδοκείῳ ποτὶ
             κρεάτων ῥιπτουμένων φαγών. </quote>
         </cit>    
         <cit><bibl>Plut. Cat. Min. 12:</bibl>
-            <quote xml:lang="grc">εἰ μηδεὶς
+            <quote rend="blockquote" xml:lang="grc">εἰ μηδεὶς
                 τύχοι φίλος ὧν adrödı πατρῷος ἢ γνώριμος, ἐν πανδοκείῳ
                 τὴν ὑποδοχὴν αὐτοῦ παρεσκεύαζον,</quote>
             </cit>
@@ -645,7 +645,7 @@ Amator. narr. 3;
     <pb n="9"/>
     
     <cit><bibl>Aristoph. Ran. 112ff.</bibl>
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
             <l>τούτους (ξένους) φράσον μοι, λιμένας, ἀρτοπώλια,</l>
 <l>πορνεῖ’, ἀναπαύλας, ἐκτροπάς, κρήνας, ὁδούς,</l>
 <l>πόλεις, διαίτας, πανδοκευτρίας, ὅπου</l>
@@ -660,7 +660,7 @@ Amator. narr. 3;
     <p>Dass man oft die Auswahl unter den Herbergen hatte, lehrt
     
         <cit><bibl>Plut. de vitios. pud. 8:</bibl>
-            <quote xml:lang="grc">φέρε δὲ καὶ πρὸς ταῦτα — γυμνάζωμεν
+            <quote rend="blockquote" xml:lang="grc">φέρε δὲ καὶ πρὸς ταῦτα — γυμνάζωμεν
                 ἑαυτούς — μήτε καταλύειν ἐν φαύλῳ πανδοκείῳ, βελτίονος
                 παρόντος, ὅτι πολλάκις ὁ πανδοκεὺς ἠσπάσατο ἡμᾶς,
                 ἀλλ᾽ ἔθους ἕνεκα, κἂν γ παρὰ μικρόν, αἱρεῖσθαι τὸ βελτίον.</quote>
@@ -671,7 +671,7 @@ Amator. narr. 3;
     Berenike gab es nach 
     
     <cit><bibl>Strab. XVII, p. 815:</bibl>
-        <quote xml:lang="grc">καταγωγὰς 
+        <quote rend="blockquote" xml:lang="grc">καταγωγὰς 
             ἐπιτηδείους </quote>
         </cit>     
     
@@ -680,7 +680,7 @@ Amator. narr. 3;
     auf Thrakien über 
     
     <cit><bibl>Aristides Or. XXVII, p. 304</bibl>
-        <quote xml:lang="grc">καταγωγίων ἀπορία</quote>
+        <quote rend="blockquote" xml:lang="grc">καταγωγίων ἀπορία</quote>
         </cit>    
      
     
@@ -694,7 +694,7 @@ vgl.
 
     
 <cit><bibl>Epictet. Diss. II, 23, 36:</bibl>
-    <quote xml:lang="grc">
+    <quote rend="blockquote" xml:lang="grc">
         οἷον εἴ
     τίς ἀπιὼν εἰς τὴν πατρίδα τὴν ἑαυτοῦ καὶ διοδεύων πανδοκεῖον
     καλὸν, ἀρέσαντος αὐτῷ τοῦ πανδοκείου, καταμένοι ἐν τῷ πανδοκείῳ,
@@ -715,7 +715,7 @@ vgl.
     sehr gemischt. Belehrend dafür ist 
     
     <cit><bibl>Plut. De san. praecept. 15: </bibl>
-        <quote xml:lang="grc">ὅθεν οὐδὲ πλοῦν ποιητέον οὔτε καταγωγὴν ἐν
+        <quote rend="blockquote" xml:lang="grc">ὅθεν οὐδὲ πλοῦν ποιητέον οὔτε καταγωγὴν ἐν
             πανδοκείῳ σιγῆς πρόφασιν, οὐδ᾽ ἐὰν πάντες καταγελῶσιν. Ὅπου
             γὰρ οὐκ αἰσχρὸν τὸ φαγεῖν, οὐδὲ τὸ γυμνάζεσθαι δήπουθεν
             αἰσχρόν: ἀλλ᾽ αἰσχίον τὸ δεδοικέναι καὶ δυσωπεῖσθαι ναύτας
@@ -750,7 +750,7 @@ die Inschrift von Aesernia im Gall.
     δεινὸς πανδοκεῦσαι καὶ πορνοβοσκῆσαι καὶ τελωνῆσαι: vergl.
     
     <cit><bibl>Plato Leg. XI, p. 918:</bibl>
-        <quote xml:lang="grc">πάντα τὰ περὶ τὴν καπηλείαν καὶ ἐμπορίαν
+        <quote rend="blockquote" xml:lang="grc">πάντα τὰ περὶ τὴν καπηλείαν καὶ ἐμπορίαν
             καὶ πανδοκείαν γένη διαβέβληταί τε καὶ ἐν αἰσχροῖς γέγονεν
             ὀνείδεσιν· ἐπεὶ εἴ τίς (ὁ μή ποτε γένοιτο οὐδ᾽ εἰρήσεται) προσαναγκάσειε
             (γέλοιον μὲν εἰπεῖν, ὅμως δὲ εἰρήσεται) πανδοκεῦσαι
@@ -776,14 +776,14 @@ die Inschrift von Aesernia im Gall.
     
     ein 
     <cit><bibl>Artemid. Onirocr. 1, 4</bibl>
-        <quote xml:lang="grc">ξενοδοκεῖν, ᾧ ἐπώνυμον κάμηλος </quote>
+        <quote rend="blockquote" xml:lang="grc">ξενοδοκεῖν, ᾧ ἐπώνυμον κάμηλος </quote>
         </cit>
     
     
     und auf einen πανδοκεύς
     wird auch das 
     <cit>
-        <quote xml:lang="grc">κέρας Ἀμαλθείας</quote>
+        <quote rend="blockquote" xml:lang="grc">κέρας Ἀμαλθείας</quote>
         <bibl>bei Palaeph. Incredib.
             46</bibl>
         </cit>
@@ -797,7 +797,7 @@ die Inschrift von Aesernia im Gall.
     cisalpinischen Gallien sagt: 
     
     <cit><bibl>Polybios II, 15</bibl>
-        <quote xml:lang="grc">ποιοῦνται γὰρ τὰς καταλύσεις οἱ
+        <quote rend="blockquote" xml:lang="grc">ποιοῦνται γὰρ τὰς καταλύσεις οἱ
             διοδεύοντες τὴν χώραν ἐν τοῖς πανδοκείοις, οὐ συμφωνοῦντες
             περὶ τῶν κατὰ μέρος ἐπιτηδείων, ἀλλ᾽ ἐρωτῶντες. πόσου τὸν
             ἄνδρα δέχεται. ὡς μὲν οὖν ἐπὶ τὸ πολὺ παρίενται τοὺς καταλύτας
@@ -814,7 +814,7 @@ die Inschrift von Aesernia im Gall.
     Auf bestimmte Preise deuten auch die 
     
     <cit>
-        <quote xml:lang="grc">χρέα ἀνάβραστα ἡμιωβολιαῖα
+        <quote rend="blockquote" xml:lang="grc">χρέα ἀνάβραστα ἡμιωβολιαῖα
             der πανδοκεύτρια</quote>
         <bibl>bei Aristoph. Ran. 553</bibl>
         </cit>
@@ -826,7 +826,7 @@ die Inschrift von Aesernia im Gall.
 vgl.
 
 <cit><bibl>Plut. Apophth. Lacon. 44:</bibl>
-    <quote xml:lang="grc">εἰς πανδοκεῖον τις καταλύσας καὶ δοὺς ὄψον τῷ
+    <quote rend="blockquote" xml:lang="grc">εἰς πανδοκεῖον τις καταλύσας καὶ δοὺς ὄψον τῷ
         πανδοκεῖ σκευάσαι, ὡς ἕτερος τυρὸν ᾔτει καὶ ἔλαιον, τί, ἔφη,
         εἰ τυρὸν εἶχον, ἔτι ἂν ἐδεόμην ὄψου; </quote>
     </cit>
@@ -862,7 +862,7 @@ vgl.
     Theben. 
     
     <cit><bibl>de falsa leg.  111:</bibl>
-        <quote xml:lang="grc">ἐμισθώσατ᾽ αὐτοῖς ὅτ᾽ ἀπῄεσαν ὀρικὰ ζεύγη καὶ συμπαρῄει ἐφ᾽ ἵππου:</quote>
+        <quote rend="blockquote" xml:lang="grc">ἐμισθώσατ᾽ αὐτοῖς ὅτ᾽ ἀπῄεσαν ὀρικὰ ζεύγη καὶ συμπαρῄει ἐφ᾽ ἵππου:</quote>
         </cit>    
     
     
@@ -889,7 +889,7 @@ Lucian.
     dieses immer als Zeichen der Weichlichkeit oder des Hochmuths
     getadelt. So sagt 
     <cit><bibl> Demosth. adv. Phaenipp. 24:</bibl>
-        <quote xml:lang="grc">δόμενος τὸν πολεμιστήριον ἵππον καταβέβηκεν ἀπὸ τῶν ἕππων
+        <quote rend="blockquote" xml:lang="grc">δόμενος τὸν πολεμιστήριον ἵππον καταβέβηκεν ἀπὸ τῶν ἕππων
             καὶ ἀντ᾽ ἐκείνου ὄχημα αὑτῷ τηλικοῦτος ὧν ἐώνηται, ἵνα μὴ
             πεζῇ πορεύηται τοσαύτης τρυφῆς μεστὸς οὗτός ἐστι. </quote>
         </cit>    
@@ -900,7 +900,7 @@ Lucian.
     erklärt sich die Anekdote von Speusippos und Diogenes bei
 
     <cit><bibl>Diog. Laërt. IV, 3:</bibl>
-        <quote xml:lang="grc">φασὶ δὲ ἐφ᾽ ἁμαξίου αὐτὸν φερόμενον
+        <quote rend="blockquote" xml:lang="grc">φασὶ δὲ ἐφ᾽ ἁμαξίου αὐτὸν φερόμενον
             εἰς τὴν Ἀκαδημίαν συναντῆσαι Διογένει καὶ, χαῖρε, εἰπεῖν· τὸν
             δὲ φάναι, ἀλλὰ μὴ σύ γε, ὅστις ὑπομένεις ζῆν τοιοῦτος ὤν.</quote>
         </cit>
@@ -916,7 +916,7 @@ Aristoph. Thesm. 811. Selbst bei Frauen wird es als
     
     <cit><bibl>Demosth. in
         Mid. 158:</bibl>
-        <quote xml:lang="grc">καὶ εἰς μυστήρια τὴν γυναῖκα ἄγει κἂν ἄλλοσέ
+        <quote rend="blockquote" xml:lang="grc">καὶ εἰς μυστήρια τὴν γυναῖκα ἄγει κἂν ἄλλοσέ
             ποι βούληται ἐπὶ τοῦ λευκοῦ ζεύγους τοῦ ἐκ Σικυῶνος.</quote>
         </cit>  Daher
     veranlasste auch der Redner Lykurg ein Gesetz, dass die Weiber
@@ -932,7 +932,7 @@ Aristoph. Thesm. 811. Selbst bei Frauen wird es als
     (Plutarch. Timol. 38), so geschah dieses, weil er
     blind war; aber als Auszeichnung gilt es bei 
     <cit><bibl>Andoc. de myst.  45:</bibl>
-        <quote xml:lang="grc">τὸν δὲ τῶν κακῶν τούτων αἴτιον Διοκλείδην ὡς
+        <quote rend="blockquote" xml:lang="grc">τὸν δὲ τῶν κακῶν τούτων αἴτιον Διοκλείδην ὡς
             σωτῆρα ὄντα τῆς πόλεως ἐπὶ ζεύγους ἦγον εἰς τὸ πρυτανεῖον
             στεφανώσαντες.</quote>
         </cit>  
@@ -944,7 +944,7 @@ Aristoph. Thesm. 811. Selbst bei Frauen wird es als
     hatte ja befohlen 
     
     <cit><bibl>(Plut. Sol. 21):</bibl>
-        <quote xml:lang="grc">μὴ νύκτωρ πορεύεσθαι
+        <quote rend="blockquote" xml:lang="grc">μὴ νύκτωρ πορεύεσθαι
             πλὴν ἁμάξῃ κομιζομένην, λύχνου προφαίνοντος. </quote>
         </cit> 
     
@@ -956,7 +956,7 @@ Aristoph. Thesm. 811. Selbst bei Frauen wird es als
     dienten. Aber auch von Empedokles erzählt 
 
     <cit><bibl>Diog. Laërt. VIII, 73:</bibl>
-        <quote xml:lang="grc">διά τινα πανήγυριν πορευόμενον ἐφ᾽ ἁμάξης
+        <quote rend="blockquote" xml:lang="grc">διά τινα πανήγυριν πορευόμενον ἐφ᾽ ἁμάξης
             ὡς εἰς Μεσσήνην πεσεῖν καὶ τὸν μηρὸν κλᾶσαι.</quote>
         </cit>     
     
@@ -970,7 +970,7 @@ Aristoph. Thesm. 811. Selbst bei Frauen wird es als
     wie sie in der Morgenfrühe üblich waren: 
     
     <cit><bibl>Poll. X, 51</bibl>
-        <quote xml:lang="grc">ἀλλ᾽ εἰ μὲν αἰωρήσει:
+        <quote rend="blockquote" xml:lang="grc">ἀλλ᾽ εἰ μὲν αἰωρήσει:
             τῇ δι᾽ ὀχημάτων χρῷτό τις περὶ τὴν ἕω θέρους ὄντος, πρὶν
             ἢ τὸν ἥλιον περιφλέγειν, τὰ εἰδὴ τῶν ὀχημάτων ἰστέον, εἴτε
             ἅρματα εἴτε ὄχους εἴτε ἁμάξας εἴτε λαμπήνας αὐτὰ προσήκει
@@ -993,7 +993,7 @@ vgl.
         Ξενοφῶν δὲ ἐν τῇ Παιδείᾳ (VI, 4, 11) τὸ ἐστεγασμένον μέρος
         τῆς ἁμάξης ὑποσημαίνων ἔφη, καὶ κατέκλιναν καὶ κατεκάλυψαν
         τὴν σκηνήν· καὶ τὰ μὲν τετράκυκλα, τὰ δὲ δίκυκλα:</bibl>
-        <quote xml:lang="grc"></quote>
+        <quote rend="blockquote" xml:lang="grc"></quote>
         </cit>
              
     
@@ -1034,7 +1034,7 @@ Stephani
     mit bequemen Lehnsätteln versehenen Maulthiere. 
     
     <cit><bibl>Schol. zu Demosth. in Mid. 133:</bibl>
-        <quote xml:lang="grc">ἀστράβη εἶδος καθέδρας, παρὰ
+        <quote rend="blockquote" xml:lang="grc">ἀστράβη εἶδος καθέδρας, παρὰ
             τὸ μὴ στρέφεσθαι· ἔστι δὲ ἐπὶ πλεῖστον εἰς ὕφος, ὥστε τῶν
             καθεζομένων ἀνέχειν τὰ νῶτα. χρῶνται δὲ αὐτῷ μάλιστα αἱ
             γυναῖκες.</quote>
@@ -1047,7 +1047,7 @@ Stephani
     Thier übertragen: 
     
     <cit><bibl>Harpocrat. s. v. Hellad. bei Phot. Bibl. 279, p. 533 a 31:</bibl>
-        <quote xml:lang="grc">ὅτι τὴν ἡμίονον, ἐφ᾽ ἧς ὀχούμεθα,
+        <quote rend="blockquote" xml:lang="grc">ὅτι τὴν ἡμίονον, ἐφ᾽ ἧς ὀχούμεθα,
             φησίν, ἀζύγου οὔσης, Ἀθηναῖοι καλοῦσιν ἀστράβην, ἔνθεν λέγεται
             ὁ ἀστραβηλάτης.</quote>
         </cit>
@@ -1068,7 +1068,7 @@ Vgl.
     möchte ich nicht aus den Worten 
     
     <cit><bibl>Xenophon’s Memor. Socr. I, 1, 15:</bibl>
-        <quote xml:lang="grc">σὺ δὲ ἐν ταῖς ὁδοῖς, ἔνθα πλεῖστοι ἀδικοῦνται
+        <quote rend="blockquote" xml:lang="grc">σὺ δὲ ἐν ταῖς ὁδοῖς, ἔνθα πλεῖστοι ἀδικοῦνται
     
             <pb n="15"/>
             
@@ -1085,7 +1085,7 @@ Vgl.
     
     <cit><bibl>Diog. Laërt.
         II, 136</bibl>
-        <quote xml:lang="grc"> ὅμως αὐτὸν
+        <quote rend="blockquote" xml:lang="grc"> ὅμως αὐτὸν
             (Ἀλεξῖνον) εὖ ἐποίησε τὴν γυναῖκα παραπέμψας ἐκ Δελφῶν ἕως
             Χαλκίδος εὐλαβουμένην κλωπείας τε καὶ τὰς καθ' ὁδὸν λῃστείας,</quote>
         </cit>
@@ -1121,7 +1121,7 @@ Curtius Wegebau der Gr. S. 43
     
     <pb n="16"/>
     <cit><bibl>Aristoph. Av. 1212,</bibl>
-        <quote xml:lang="grc"><l>σφραγῖδ᾽ ἔχεις παρὰ τῶν πελαργῶν; ἸΡ. τί τὸ xaxöv ;</l>
+        <quote rend="blockquote" xml:lang="grc"><l>σφραγῖδ᾽ ἔχεις παρὰ τῶν πελαργῶν; ἸΡ. τί τὸ xaxöv ;</l>
             <l>Π. οὐχ ἔλαβες; ἸΡ. ὑγιαίνεις μέν; Π. οὐδὲ σύμβολον</l>
             <l>ἐπέβαλεν ὀρνίθαρχος οὐδείς σοι παρών ;</l></quote>
         </cit>  
@@ -1129,14 +1129,14 @@ Curtius Wegebau der Gr. S. 43
     Dazu bemerkt der Scholiast: 
     
     <cit><bibl>Schol. zu Aristoph. Av. 1212</bibl>
-        <quote xml:lang="grc">οἷον σύμβολον ἐπὶ τῷ συγχωρηθῆναι
+        <quote rend="blockquote" xml:lang="grc">οἷον σύμβολον ἐπὶ τῷ συγχωρηθῆναι
             παρελθεῖν.</quote>
         </cit>
      
     
     Man vergleiche damit 
     <cit><bibl>Plaut. Capt. II, 8,90:</bibl>
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
             <l>Eadem opera a praetore sumam syngraphum. — Quem syngraphum? —</l>
 <l>Quem hic ferat secum ad legionem, hinc ire huic ut liceat domum.</l>
         </quote>
@@ -1149,7 +1149,7 @@ Curtius Wegebau der Gr. S. 43
     einer polizeilichen Anstalt zur Controle der Ankommenden zu
     enthalten scheint, findet sich bei demselben Dichter, wo von einem untergeschobenen Briefe die Rede ist:
     <cit><bibl>Plaut. Trin. III, 3, 65</bibl>
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
             <l>Jam si obsignatas non feret (literas), dici hoc potest:</l>
 <l>Apud portitorem eas resignatas sibi</l>
 <l>Inspectasque esse,</l>
@@ -1160,7 +1160,7 @@ Curtius Wegebau der Gr. S. 43
 
     und 
     <cit><bibl>Plaut. Trin. III, 3, 80: </bibl>
-        <quote xml:lang="grc"><l>Lepida est illa causa, ut commemoravi, dicere</l>
+        <quote rend="blockquote" xml:lang="grc"><l>Lepida est illa causa, ut commemoravi, dicere</l>
             <l>Apud portitores esse inspectas.</l></quote>
         </cit>
 
@@ -1171,7 +1171,7 @@ Curtius Wegebau der Gr. S. 43
     solchen Staatssiegel zu erfahren. Er sagt 
     
     <cit><bibl>Strabo IX, 3, 1: </bibl>
-        <quote xml:lang="grc"> καλοῦνται
+        <quote rend="blockquote" xml:lang="grc"> καλοῦνται
             δ᾽ οἱ μὲν ἑσπέριοι Λοκροὶ καὶ Ὀζόλαι, ἔχουσί τε ἐπὶ τῇ
             δημοσίᾳ σφραγῖδι τὸν ἕσπερον ἀστέρα ἐγκεχαραγμένον.</quote>
         </cit>  
@@ -1185,14 +1185,14 @@ Curtius Wegebau der Gr. S. 43
     Verse der Medea  gebraucht:
     
     <cit><bibl>Eur. Medea 613</bibl>
-        <quote xml:lang="grc"><l>ξένοις τε πέμπειν σύμβολ᾽, οἳ δράσουσί σ᾽ εὖ.</l></quote>
+        <quote rend="blockquote" xml:lang="grc"><l>ξένοις τε πέμπειν σύμβολ᾽, οἳ δράσουσί σ᾽ εὖ.</l></quote>
         </cit>    
 
     Deutlicher erhellt die Beschaffenheit und der Zweck solcher
     σύμβολα aus 
     
     <cit><bibl>Lysias de bonis Aristoph. 25:</bibl>
-        <quote xml:lang="grc"> ὅτε ἔλαβε
+        <quote rend="blockquote" xml:lang="grc"> ὅτε ἔλαβε
     
             <pb n="17"/>
             
@@ -1210,7 +1210,7 @@ Curtius Wegebau der Gr. S. 43
 
 
     <cit><bibl>Plaut. Pseud. I, 1, 53:</bibl>
-        <quote xml:lang="lat">
+        <quote rend="blockquote" xml:lang="lat">
             <l>Ea causa miles hic reliquit symbolum,</l>
 <l>Expressam in cera ex anulo suam imaginem, _</l>
 <l>Ut qui huc afferret eius similem symbolum</l>
@@ -1224,7 +1224,7 @@ Curtius Wegebau der Gr. S. 43
     
 
     <cit><bibl>Plaut. Pseud. II, 2, 52:</bibl>
-        <quote xml:lang="lat"><l>— tu epistolam hanc a me accipe atque illi dato;</l>
+        <quote rend="blockquote" xml:lang="lat"><l>— tu epistolam hanc a me accipe atque illi dato;</l>
             <l>Nam istic symbolum est inter herum meum et tuum de muliere.</l>
             <l>Ps. Scio equidem, ut qui argentum afferret atque expressam imaginem</l>
             <l>Suam huc ad nos, cum eo aiebat velle mitti mulierem.</l></quote>
@@ -1236,7 +1236,7 @@ Curtius Wegebau der Gr. S. 43
     und 
     
     <cit><bibl>Plaut. Bacchid. II, 3, 29:</bibl>
-        <quote xml:lang="lat"><l>Eo praesente homini extemplo ostendit symbolum,</l>
+        <quote rend="blockquote" xml:lang="lat"><l>Eo praesente homini extemplo ostendit symbolum,</l>
             <l>Quem tute dederas, ad eum ut ferret, filio.</l></quote>
         </cit>
         
@@ -1248,7 +1248,7 @@ Curtius Wegebau der Gr. S. 43
     heisst es unter Anderem: 
     
     <cit><bibl>Marmor. Oxon. 11,24. Böckh C. Inscr. 1, p. 126</bibl>
-        <quote xml:lang="grc">ποιησάσθω δὲ καὶ σύμβολα ἢ βουλὴ
+        <quote rend="blockquote" xml:lang="grc">ποιησάσθω δὲ καὶ σύμβολα ἢ βουλὴ
             πρὸς τὸν βασιλέα τὸν Σιδωνίων, ὅπως ἂν ὁ δῆμος ὁ Adyvaluv
             εἰδῇ ἐάν τι πέμπῃ ὁ Σιδωνίων βασιλεὺς δεόμενος τῆς πόλεως,
             καὶ ὁ βασιλεὺς ὁ Σιδωνίων εἰδῇ ὅταν πέμπῃ τινὰ ὡς αὐτὸν ὁ
@@ -1409,7 +1409,7 @@ Büchsenschütz, Bes. u.
     Kohl, <foreign xml:lang="grc">ῥάφανος</foreign>, als herkömmlich bezeichnet, nach einer Stelle
     des Ephippos:
 
-    <quote xml:lang="grc">
+    <quote rend="blockquote" xml:lang="grc">
 <l>οὐ στέφανος οὐδείς ἐστι πρόσθε τῶν θυρῶν</l>,
 <l>οὐ κνῖσα ὀρούει ῥινὸς ὑπεροχὰς ἄρας</l>,
 <l>ἀμφιτρομέω ὄντων, ἐν οἷς νομίζεται</l>
@@ -1464,7 +1464,7 @@ Büchsenschütz, Bes. u.
     Schicksal preiszugeben; sondern der Wille des Vaters
     konnte sie auch geradehin zum Tode bestimmen. So sagt
     Chremes bei Terent. IV, 1, 21:
-    <quote xml:lang="lat">
+    <quote rend="blockquote" xml:lang="lat">
         <l part="F">nam jam primum, si meum</l>
         <l>Imperium exsequi voluisses, interemptum oportuit;</l>
         <l>Non simulare mortem verbis, re ipsa spem vitae dare,</l>
@@ -1499,7 +1499,7 @@ Büchsenschütz, Bes. u.
     erhielt dasselbe an diesem Tage auch seinen Namen, wie man
     aus Aristoph. Av. 922 sieht:
 
-    <quote xml:lang="grc">
+    <quote rend="blockquote" xml:lang="grc">
 <l>οὐχ ἄρτι θύω τὴν δεκάτην ταύτης ἐγώ;</l>
 <l>καὶ τοὔνομ᾽ ὥσπερ παιδίῳ νῦν δὴ ᾿θέμην.</l>
 </quote>
@@ -1530,7 +1530,7 @@ Büchsenschütz, Bes. u.
     Komikern griechische und römische Sitte durch einander läuft.
     Da aber auch bei Terent. Phorm. I, 1, 12:
 
-    <quote xml:lang="lat">
+    <quote rend="blockquote" xml:lang="lat">
         <l part="F">Porro autem Geta</l>
         <l>ferietur alio munere, ubi era pepererit;</l>
         <l>porro autem alio, ubi erit puero natalis dies,</l>
@@ -1593,7 +1593,7 @@ Büchsenschütz, Bes. u.
     muss es auch von Seiten der Mutter nicht ungewöhnlich gewesen
     sein, da Eurip. Phoen. 57 die Iokaste sagen lässt:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 <l>τὴν μὲν Ἰσμήνην πατήρ</l>
 <l>ὠνόμασε, τὴν δὲ πρόσθεν Ἀντιγόνην ἐγώ.</l>
 </quote>
@@ -1603,7 +1603,7 @@ Büchsenschütz, Bes. u.
     Dandin, Nub. 60 klagt:
     
     <pb n="27"/>
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
     <l>μετὰ ταῦθ᾽, ὅπως νῷν ἐγένεθ’ υἱὸς οὑτοσί,</l>
     <l>ἐμοί τε δὴ καὶ τῇ γυναικὶ τὴ ᾿γαθῇ,</l>
     <l>περὶ τοὐνόματος δὴ 'ντεῦθεν ἐλοιδορούμεθα.</l>
@@ -1668,7 +1668,7 @@ Büchsenschütz, Bes. u.
      <foreign xml:lang="grc">Ἀθηναίοις χαλκῷ νομίσματι χρήσασθαι</foreign>. Eine Menge
     Vogelnamen als Zunamen giebt Aristoph. Av. 1291ff. an:
 
-    <quote xml:lang="grc">
+    <quote rend="blockquote" xml:lang="grc">
 
 <l>Πέρδιξ μὲν εἷς κάπηλος ὠνομάζετο</l>
 <l>χωλός, Μενίππῳ δ᾽ ἦν Χελιδὼν "τοὔνομα,</l>
@@ -1684,7 +1684,7 @@ Büchsenschütz, Bes. u.
     <foreign xml:lang="grc">Ἀναξανδρίδης ἐν Ὀδυσσεῖ οὕτως·</foreign>
     
     <pb n="29"/>
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
     <l>ὑμεῖς γὰρ ἀλλήλους ἀεὶ χλευάζετ᾽, οἶδ’ ἀκριβῶς.</l>
     <l>ἂν μὲν γὰρ ἦ τις εὐπρεπής, Ἱερὸν γάμον καλεῖτε</l>
     <l>ἐὰν δὲ μικρὸν παντελῶς ἀνθρώπιον, Σταλαγμόν·</l>
@@ -1753,7 +1753,7 @@ Büchsenschütz, Bes. u.
     nämlich die Speise vor und gab sie dann dem Kinde, <foreign xml:lang="grc">μασωμένη</foreign>
     <foreign xml:lang="grc">ἐσίτιζεν</foreign>. Theophr. Char. 20: <foreign xml:lang="grc">τὸ παιδίον τῆς τίτθης</foreign>
     <foreign xml:lang="grc">ἀφελόμενος μασώμενος σιτίζειν αὐτὸς</foreign>. Aristoph. Equit. 717:
-    <quote xml:lang="grc">
+    <quote rend="blockquote" xml:lang="grc">
 <l>κᾷθ᾽, ὥσπερ αἱ τίτθαι γε, σιτίζεις κακῶς.</l>
 <l>μασώμενος γὰρ τῷ μὲν ὀλίγον ἐντιθεῖς,</l>
 <l>οὑτὸς δ᾽ ἐκείνου τριπλάσιον κατέσπακας.</l>
@@ -1819,7 +1819,7 @@ Büchsenschütz, Bes. u.
     <foreign xml:lang="grc">καταβαυκαλήσεις ὀνομάζονται</foreign>. Bei Theocrit. Id. XXIV. 6
     findet sich zwar nicht ein eigentliches Schlaflied; aber von
     Alkmene, welche die Zwillinge einschläfert, heisst es:
-    <quote xml:lang="grc">
+    <quote rend="blockquote" xml:lang="grc">
 <l>ἁπτομένα δὲ γυνὴ κεφαλᾶς μυθήσατο παίδων.</l>
 <l>εὕδετʼ ἐμὰ βρέφεα γλυκερόν καὶ ἐγέρσιμον ὕπνον·</l>
 <l>εὕδετʼ ἐμὰ ψυχά, δύ᾽ ἀδελφεώ, εὔσοα τέκνα·</l>
@@ -1871,7 +1871,7 @@ Büchsenschütz, Bes. u.
     Spielzeug, wie bei uns, als Geräthe u. dgl. erwähnt zu
     finden. So sagt Strepsiades, Aristoph. Nub. 863:
 
-    <quote xml:lang="grc">
+    <quote rend="blockquote" xml:lang="grc">
     <foreign xml:lang="grc">ὃν πρῶτον ὀβολὸν ἔλαβον ἡλιαστικόν,</foreign>
     <foreign xml:lang="grc">τούτου ’npidunv σοι Διασίοις  ἁμαξίδα.</foreign>
 </quote>
@@ -1895,7 +1895,7 @@ Büchsenschütz, Bes. u.
     wohl die Kinder nach Kräften selbst, wie man ebenfalls aus
     Aristoph. Nub. 878ff. sieht:
 
-    <quote xml:lang="grc">
+    <quote rend="blockquote" xml:lang="grc">
 <l>εὐθύς γέ τοι παιδάριον ὧν τυννουτονί</l>
 <l>ἔπλαττεν ἔνδον ulxias, ναῦς τ᾽ ἔγλυφεν,</l>
 <l>ἁμαξίδας τε σκυτίνας εἰργάζετο,</l>
@@ -1950,7 +1950,7 @@ Büchsenschütz, Bes. u.
     so verblieben ihnen die Puppen bis zur Hochzeit,
     vor welcher sie dieselben der Artemis weihten. Daher heisst
     es in Anthol. Pal. VI, 280:
-    <quote xml:lang="grc">
+    <quote rend="blockquote" xml:lang="grc">
 <l>Τιμαρέτα πρὸ γάμοιο τὰ τύμπανα τὴν τ᾽ ἐρατεινὴν</l>
 <l>σφαῖραν τόν τε κόμας ῥύτορα κεκρύφαλον</l>
 <l>τὰς δὲ κόρας, Λιμνᾶτι, κόρᾳ κόρα, ὡς ἐπιεικές,</l>
@@ -1995,7 +1995,7 @@ Büchsenschütz, Bes. u.
     arch. Rom. 1868 p. 35 und 38.] Selbst der am Faden fliegende
     Käfer fehlte nicht, wie man aus Aristoph. Nub. 764
     sieht:
-    <quote xml:lang="grc">
+    <quote rend="blockquote" xml:lang="grc">
 <l>λινόδετον ὥσπερ μηλολόνθην τοῦ ποδός.</l>
 
 </quote>
@@ -2003,7 +2003,7 @@ Büchsenschütz, Bes. u.
     <foreign xml:lang="grc">δὲ ζωύφιόν τί ἐστὶ κατὰ κάνθαρον, ξανθόν, ὁ καὶ κατέχοντες</foreign>
     <foreign xml:lang="grc">οἱ παῖδες δεσμεύουσιν ἐκ τοῦ ποδὸς καὶ ἀφιᾶσι πρὸς</foreign>
     <foreign xml:lang="grc">τὸν ἀέρα</foreign>. Herodes bei Stob. Serm. LXXVII. 6:
-    <quote xml:lang="grc">
+    <quote rend="blockquote" xml:lang="grc">
 <l>ἢ τῇσι μηλάνθῃσιν ἅμματ' ἐξάπτων</l>
 <l>τοῦ κεσκίου μοι τὸν γέροντα λωβῆται.</l>
 
@@ -2039,7 +2039,7 @@ Büchsenschütz, Bes. u.
     ad Pers. III, 51; Grasberger 5. 77) wurde entweder mit
     der Peitsche getrieben: Kleobulos bei Diog. Laërt. I, 82:
 
-    <quote xml:lang="grc">
+    <quote rend="blockquote" xml:lang="grc">
 <l>οἱ δ᾽ ἄρ’ ὑπὸ πληγῇσι θοὰς βέμβικας ἔχοντες</l>
 <l>ἔστρεφον εὐρείῃ παῖδες ἐνὶ τριόδῳ,</l>
 </quote>    
@@ -2058,7 +2058,7 @@ Büchsenschütz, Bes. u.
     Kinderschuhen tretenden Knaben dem Hermes geweiht nach
     Leonidas in d. Anthol. ed. Jacobs t. I, p. 289:
 
-    <quote xml:lang="grc">
+    <quote rend="blockquote" xml:lang="grc">
 <l>εὔφημόν τοι σφαῖραν, ἐυκρόταλόν τε Φιλοκλῆς</l>
 <l>Ἑρμείῃ ταύτην πυξινέην πλαταγήν,</l>
 <l>ἀστραγάλας θ᾽ αἷς πόλλʼ ἐπεμήνατο, καὶ τὸν ἐλιχτὸν</l>
@@ -2191,7 +2191,7 @@ Büchsenschütz, Bes. u.
     Preise verthbeilt wurden, Asclepiod. in Anthol. Palat.
     VI, 308:
 
-    <quote xml:lang="grc">
+    <quote rend="blockquote" xml:lang="grc">
 <l>νικήσας τοὺς παῖδας, ἐπεὶ καλὰ γράμματ᾽ ἔγραψεν,</l>
 <l>Κόνναρος ὀγδώκοντ᾽ ἀστραγάλους ἔλαβεν.</l>
 </quote>  
@@ -2205,12 +2205,12 @@ Büchsenschütz, Bes. u.
     man aus Stellen, wie Theocr. Id. XV. 11, wo Gorgo zur
     Praxinoe, die ihren Mann ein <foreign xml:lang="grc">φθονερὸν</foreign> xaxov genannt hatte,
     sagt:
-    <quote xml:lang="grc"></quote>
+    <quote rend="blockquote" xml:lang="grc"></quote>
 <l>μὴ λέγε τὸν τεὸν ἄνδρα, φίλα, Δείνωνα τοιαῦτα</l>
 <l>τῶ μικκῶ παρεόντος· ὅρη, γύναι, ὡς ποθορῇ τυ.</l>
     und diese darauf spricht:
 
-    <quote xml:lang="grc">
+    <quote rend="blockquote" xml:lang="grc">
 <l>αἰσθάνεται τὸ βρέφος, val τὰν πότνιαν· καλὸς ἀπφῦς.</l> 
 </quote>
     <pb n="42"/>
@@ -2284,7 +2284,7 @@ Büchsenschütz, Bes. u.
     zurückschreckt, findet sich bei Theocr. XV. 40. Praxinoe,
     indem sie ausgehen will, sagt zu dem Knaben, der ihr weinend
     nachläuft: 
-    <quote xml:lang="grc">
+    <quote rend="blockquote" xml:lang="grc">
 <l> — οὐχ ἀξῶ τυ, τέκνον· Μορμώ, δάκνει</l> ἵππος·
 <l>δάκρυ᾽, ὅσσα θέλεις· χωλὸν δ᾽ οὐ δῖ τυ  γενέσθαι.</l>
 
@@ -2343,7 +2343,7 @@ Büchsenschütz, Bes. u.
     die Anfänge zweier unsauberen Geschichten von der Lamia
     u. s. w. genannt hat, Vesp. 1179:
 
-    <quote xml:lang="grc">
+    <quote rend="blockquote" xml:lang="grc">
 
 <l>ΒΔΕΛ. μὴ ᾽μοίγε μύθους, ἀλλὰ τῶν ἀνθρωπίνων</l>
 <l>οἵους λέγομεν μάλιστα τοὺς κατ᾽ οἰκίαν</l> 
@@ -2376,7 +2376,7 @@ Büchsenschütz, Bes. u.
     That Philepsios gewesen sein, von dem Aristoph. Plut.
     177 sagt:
 
-    <quote xml:lang="grc">
+    <quote rend="blockquote" xml:lang="grc">
 
 <l>Φιλέψιος δ᾽ οὐχ ἕνεκα σου μύθους λέγει;</l>
 </quote>
@@ -2394,7 +2394,7 @@ Büchsenschütz, Bes. u.
     Zenob. VI. 28 mit den Auslegern. [Auch gehört hierher,
     dass Aristoph. Vesp. 566 unter den <foreign xml:lang="grc">θωπεύματα</foreign> für die
     Richter erwähnt: 
-    <quote xml:lang="grc">
+    <quote rend="blockquote" xml:lang="grc">
 
 <l>οὗ δὲ λέγουσι μύθους ἡμῖν, οἱ δ᾽ Αἰσώπου τι γέλοιον.</l>
     </quote>
@@ -2570,7 +2570,7 @@ Büchsenschütz, Bes. u.
      Sitte zu entschuldigende Stelle bei Plaut. Bacch.
     III, 8, 27:
 
-    <quote xml:lang="lat">
+    <quote rend="blockquote" xml:lang="lat">
         <l>Inde de hippodromo et palaestra ubi revenisses domum</l>
         <l>cincticulo prascinctus in sella aput magistrum assideres,</l>
         <l>ibi librum quom legeres, si unam peccavisses syllabam,</l>
@@ -2737,7 +2737,7 @@ Büchsenschütz, Bes. u.
     wollten, und es konnten wohl auch manche ganz ohne
     Unterricht bleiben, wie der Wursthändler bei Aristoph.
     Equit. 1234, [der dennoch v. 188 von sich sagt:
-    <quote xml:lang="grc">
+    <quote rend="blockquote" xml:lang="grc">
 
 <l>ἀλλ᾽ ὦγάθ᾽ οὐδὲ μουσικὴν ἐπίσταμαι</l>
 <l>πλὴν γραμμάτων, καὶ ταῦτα μέντοι κατὰ κακῶς.</l>
@@ -2841,7 +2841,7 @@ Büchsenschütz, Bes. u.
     <foreign xml:lang="grc">κάθηνται, καὶ οὐδὲν αὐτοῖς ἐμπιδών ἐστιν ἐν τοσούτῳ πλήθει τοῦ διδάσκειν τε καὶ μανθάνειν</foreign> [und Arat. in Anthol. Gr.
     XI, 437 Jacobs:
 
-    <quote xml:lang="grc">
+    <quote rend="blockquote" xml:lang="grc">
 
 <l>αἰάζω Διότιμον, ὃς ἐν πέτρῃσι κάθηται,</l>
 <l>Γαργαρέων παισὶν βῆτα καὶ ἄλφα λέγων.</l>
@@ -3122,7 +3122,7 @@ Büchsenschütz, Bes. u.
     reine Buchstabirmethode herrschend war. Nach Angabe des
     in Trimeter gebrachten Alphabets:
 
-    <quote xml:lang="grc">
+    <quote rend="blockquote" xml:lang="grc">
 
 <l>ἔστ᾽ ἄλφα, βῆτα, γάμμα, δέλτα, θεοῦ πάρ᾽ εἶ,</l> 
 <l>ζῆτα, ἦτα, θῆτ᾽, ἰῶτα, κάππα, λάβδα, μῦ,</l>
@@ -3208,7 +3208,7 @@ Büchsenschütz, Bes. u.
     gewöhnlichen Leben, die Finger oder, wenn genauer gerechnet
     werden sollte, Rechensteine, <foreign xml:lang="grc">ψήφους</foreign>. Daher Aristoph.
     Vesp. 656:
-    <quote xml:lang="grc">
+    <quote rend="blockquote" xml:lang="grc">
 
 <l>καὶ πρῶτον μὲν λόγισαι φαύλως, μὴ ψήφοις, ἀλλ᾽ ἀπὸ χειρός.</l> 
 </quote>
@@ -3563,7 +3563,7 @@ Büchsenschütz, Bes. u.
     <foreign xml:lang="grc">εἶναι σωφρονεῖν</foreign>.] Die Bescheidenheit bei Tische verbunden
     mit dem Anstande der Haltung schildert Aristoph. Nub. 981:
 
-    <quote xml:lang="grc">
+    <quote rend="blockquote" xml:lang="grc">
 
 <l>οὐδ᾽ ἂν ἑλέσθαι δειπνοῦντα ἐξῆν κεφάλαιον τῆς ῥαφανῖδος,</l>
 <l>οὐδ᾽ ἂν ἄνηθον τῶν πρεσβυτέρων ἁρπάζειν οὐδὲ σέλινον,</l>
@@ -3625,7 +3625,7 @@ bei uns, Sitte, bei allen Verrichtungen vorzugsweise die rechte
     <foreign xml:lang="grc">ἅμα ἐνεκλίθη αὐτῷ</foreign>. Ein ähnliches ebenfalls sehr anmuthiges
     Bild gewährt ein Fragment Menander’s bei Plutarch de
     sanit. tuend. 18: 
-    <quote xml:lang="grc">
+    <quote rend="blockquote" xml:lang="grc">
 
     νεανίσκων ὑπὸ τοῦ πορνοβοσκοῦ παρὰ πότον ἐπιβουλευομένων καλὰς καὶ πολυτελεῖς εἰσάγοντος ἑταίρας, ἕκαστος, ὥς φησι,
 
@@ -3712,7 +3712,7 @@ bei uns, Sitte, bei allen Verrichtungen vorzugsweise die rechte
     sich gegenüber stell. Es spricht der <foreign xml:lang="grc">Δίκαιος λόγος</foreign>,
     Nub. 960f.
 
-    <quote xml:lang="grc">
+    <quote rend="blockquote" xml:lang="grc">
 
 <l>λέξω τοίνυν τὴν ἀρχαίαν παιδείαν ὡς διέκειτο,</l>
 <l>ὅτ᾽ ἐγὼ τὰ δίκαια λέγων ἤνθουν καὶ σωφροσύνη νενόμιστο.</l>
@@ -3727,7 +3727,7 @@ bei uns, Sitte, bei allen Verrichtungen vorzugsweise die rechte
     ein weites <foreign xml:lang="grc">ἱμάτιον</foreign> gehüllt.] und endlich der Paränese an Pheidippides
     v. 990:
 
-    <quote xml:lang="grc">
+    <quote rend="blockquote" xml:lang="grc">
 
 <l>πρὸς ταῦτ᾽, ὦ μειράκιον, θαῤῥῶν ἐμὲ τὸν κρείττω λόγον αἱροῦ,</l>
 
@@ -3834,7 +3834,7 @@ bei uns, Sitte, bei allen Verrichtungen vorzugsweise die rechte
     Schüler der Philosophen. Nirgends findet sich das klarer ausgesprochen
     als bei Terent. Andr. 1. 1. 24:
 
-<quote xml:lang="lat">
+<quote rend="blockquote" xml:lang="lat">
 <l>Nam hic postquam excessit ex ephebis — nam antea</l>
 <l>Qui scire posses aut ingenivm noscere,</l>
 <l>Dum aetas, metus, magister cohibebant? —</l>
@@ -3974,7 +3974,7 @@ bei uns, Sitte, bei allen Verrichtungen vorzugsweise die rechte
         lässt sie Aristoph. Eccl. 720 ein die Hetären sowohl als
         die Sklavinnen treffendes Gesetz geben:
 
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
 
 <l>ἔπειτα τὰς πόρνας καταπαῦσαι βούλομαι ἁπαξαπάσας· ἱνατί; δῆλον τουτογί,</l>
 <l>ἵνα τῶν νέων ἔχωμεν αὐταὶ τὰς <sic>ἀκμάς</sic>.</l>
@@ -4004,7 +4004,7 @@ bei uns, Sitte, bei allen Verrichtungen vorzugsweise die rechte
         Zeit zu bauen. Entschieden das Gegentheil sagt Plaut.
         Merc. IV, 6, 3.
       
-        <quote xml:lang="lat">
+        <quote rend="blockquote" xml:lang="lat">
             <l>Nam si vir scortum duxit clam uxorem suam,</l>
             <l>Id si rescivit uxor, impune est viro.</l>
             <l>Uxor viro si clam domo egressa est foras,</l>
@@ -4087,7 +4087,7 @@ bei uns, Sitte, bei allen Verrichtungen vorzugsweise die rechte
         <foreign xml:lang="grc">ἀφʼ ὧν ἠργυρίσαντο αἱ προστᾶσαι τῶν οἰκημάτων</foreign>. Die
         zunächst hierher gehörigen Worte des Philemon sind:
 
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
 
 <l>σὲ γὰρ λέγουσι τοῦτʼ ἰδεῖν πρῶτον βροτῶν</l>
 <l>δημοτικὸν ὦ Ζεῦ πρᾶγμα καὶ σωτήριον,</l>
@@ -4131,7 +4131,7 @@ bei uns, Sitte, bei allen Verrichtungen vorzugsweise die rechte
         selbst nachzulesen, und führe nur einige Verse Xenarch's
         an:
 
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
 
 <l>— ἃς ἔξεσθʼ ὁρᾶν</l>
 <l>εἰληθερούσας στέρνʼ ἀπημφιεσμένας,</l>
@@ -4220,7 +4220,7 @@ bei uns, Sitte, bei allen Verrichtungen vorzugsweise die rechte
         das der Nikarete, und daraus erklärt sich was Ballio zur
         Phönicium sagt, Plaut. Pseud. I, 2, 91:
 
-        <quote xml:lang="lat">
+        <quote rend="blockquote" xml:lang="lat">
             <l>Nisi hodie mi ex fundis tuorum amicorum omne huc penus adfertur,</l>
             <l>Cras, Phoenicium, phoenicio corio invises pergulam;</l>
             
@@ -4332,7 +4332,7 @@ bei uns, Sitte, bei allen Verrichtungen vorzugsweise die rechte
         wird, anzuführen. Dahin gehört zuerst Aristoph.
         Plut. 149:
 
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
 
 <l>καὶ τάς γʼ ἑταίρας <sic>φασὶ</sic> τὰς Κορινθίας,</l>
 <l>ὅταν μὲν αὐτάς τις πένης πειρῶν τύχῃ,</l>
@@ -4417,7 +4417,7 @@ bei uns, Sitte, bei allen Verrichtungen vorzugsweise die rechte
         
         
 
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
             <l>Quae dum foris sunt, nil videtur mundius</l>
             <l>Nec magis compositum quicquam nec magis elegans.</l>
             <l>Harum videre inluviem sordes inopiam,</l>
@@ -4437,7 +4437,7 @@ bei uns, Sitte, bei allen Verrichtungen vorzugsweise die rechte
         Thais gelten kann, wie sie Menander bei Plutarch.
         aud. poöt. p. 19 malte:
 
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
 
 <l>θρασεῖαν, ὡραίαν δὲ καὶ πιθανὴν ἅμα,</l>
 <l>ἀδικοῦσαν, ἀποκλείουσαν, αἰτοῦσαν πυκνά,</l>
@@ -4452,7 +4452,7 @@ bei uns, Sitte, bei allen Verrichtungen vorzugsweise die rechte
         was Astaphium I. 2 und II. 1 sagt, vortrefflich durchgeführt.
         Es heisst z. B. in letzterer Stelle v. 14: 
      
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
             <l>Bonis esse oportet dentibus lenam probam: arridere,</l>
             <l>Quisquis veniat, blande alloqui; male corde consultare,</l>
             
@@ -4551,7 +4551,7 @@ bei uns, Sitte, bei allen Verrichtungen vorzugsweise die rechte
         Epikrates bei Athen. XII, p. 570, nachdem sie älter geworden:
 
 
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
 
 <l><sic>ἰδεῖν</sic> μὲν αὐτὴν ῥᾷόν ἔστι καὶ πτύσαι·</l>
 <l>ἐξέρχεται δὲ <sic>πανταχόσʼ</sic> ἤδη πιομένη,</l>
@@ -5023,7 +5023,7 @@ bei uns, Sitte, bei allen Verrichtungen vorzugsweise die rechte
     LXXIV. 11:
 
 
-    <quote xml:lang="grc">
+    <quote rend="blockquote" xml:lang="grc">
 
 <l>τοὺς τῆς γαμετῆς ὅρους Örepßaivers, γύναι,</l>
 <l>τὴν <sic>αὐλίαν</sic>· πέρας γὰρ <sic>αὕλιος</sic> θύρα</l>
@@ -5228,7 +5228,7 @@ bei uns, Sitte, bei allen Verrichtungen vorzugsweise die rechte
     <foreign xml:lang="grc"><sic>οἰκίαν</sic>, ἣν <sic>ᾦκει</sic> μεμισθωμένος εἷς τούτων</foreign>, und Plaut.
     Mil. glor. 11. 1. 62:
 
-    <quote xml:lang="lat">
+    <quote rend="blockquote" xml:lang="lat">
         <l>Nam unum conclave, concubinae quod dedit</l>
         <l>Miles, quo nemo nisi eapse inferret pedem,</l>
         <l>In eo conclavi ego perfodi parietem,</l>
@@ -5289,7 +5289,7 @@ bei uns, Sitte, bei allen Verrichtungen vorzugsweise die rechte
     dass es ihre Wohnung sei. Aristoph. Ecel. 961 sagt der
     Jüngling zur Schönen:
 
-    <quote xml:lang="grc">
+    <quote rend="blockquote" xml:lang="grc">
 
     <l>καταδραμοῦσα τὴν θύραν ἄνοιξον.</l>
 </quote>
@@ -5382,7 +5382,7 @@ bei uns, Sitte, bei allen Verrichtungen vorzugsweise die rechte
     suchen hatte, wenn die yuvarxwvirıs so regelmässig hinter der
     <foreign xml:lang="grc"><sic>ἀνδρωνῖτις</sic></foreign> lag. Vgl. Aristoph. Thesmoph. 797:
 
-    <quote xml:lang="grc">
+    <quote rend="blockquote" xml:lang="grc">
 
 <l>κἂν ἐκ θυρίδος παρακύπτωμεν, TO κακὸν ζητεῖτε θεᾶσθαι·</l>
 <l>κἂν αἰσχυνθεῖσ᾽ ἀναχωρήσῃ, πολὺ μᾶλλον πᾶς <sic>ἐπιθυμεῖ</sic></l>
@@ -5877,14 +5877,14 @@ bei uns, Sitte, bei allen Verrichtungen vorzugsweise die rechte
     Apollodor sagt vom Empfange in einem Hause, wo man
     gern gesehen sei, bei Athen. I, p. 3:
 
-    <quote xml:lang="grc">
+    <quote rend="blockquote" xml:lang="grc">
 <l>ἔστιν θεωρεῖν, Νικοφῶν, τὴν τοῦ φίλου</l>
 <l>εὔνοιαν εὐθὺς εἰσιόντι τὰς θύρας.</l>
 <l>ὁ θυρωρὸς ἱλαρὸς πρῶτόν ἐστιν, ἣ κύων</l>
 <l>ἔσαινε καὶ προσῆλθεν.</l>
     Vgl. Theocr. XV. 48:
 
-    <quote xml:lang="grc">
+    <quote rend="blockquote" xml:lang="grc">
 <l>τὰν κύνʼ ἔσω κάλεσον, τὰν αὐλείαν <sic>ἀπόκλᾳξον</sic>.</l>
 </quote>
 </quote>
@@ -5924,7 +5924,7 @@ bei uns, Sitte, bei allen Verrichtungen vorzugsweise die rechte
     Zeit gewöhnlich dvöpwves genannt. Xenoph. Symp.1. 4, 13,
     Aristoph. Ecel. 676:
 
-    <quote xml:lang="grc">
+    <quote rend="blockquote" xml:lang="grc">
 <l>— τὸ δὲ δεῖπνον ποῦ παραθήσεις; —</l>
 <l>τὰ δικαστήρια καὶ τὰς στοιὰς ἀνδρῶνας πάντα ποιήσω.</l>
     </quote>
@@ -6275,7 +6275,7 @@ bei uns, Sitte, bei allen Verrichtungen vorzugsweise die rechte
     <foreign xml:lang="grc">μέρος αὐτῆς αὐλαίαις</foreign>. [Vergl. besonders Aristoph. Vesp.
     1215, wo unter den Anstandsregeln bei Tisch der Rath steht:
 
-    <quote xml:lang="grc">
+    <quote rend="blockquote" xml:lang="grc">
 
 <l>ὀροφὴν θέασαι, κρεκάδιʼ αὐλῆς θαύμασον.</l>
 
@@ -6399,7 +6399,7 @@ bei uns, Sitte, bei allen Verrichtungen vorzugsweise die rechte
     wird auch erwähnt Plaut. Mostell. Π, 1, 57 und besonders
     v. 78, wo es heisst:
 
-    <quote xml:lang="lat"></quote>
+    <quote rend="blockquote" xml:lang="lat"></quote>
     <l>clavim cedo atque abi intro: occlude ostium,</l>
     <l>et ego hinc occludam.</l>
     
@@ -6442,7 +6442,7 @@ bei uns, Sitte, bei allen Verrichtungen vorzugsweise die rechte
     so nachtrachteten, wenn sie wirklich ein xaxdv wären. Da
     heisst es:
 
-    <quote xml:lang="grc">
+    <quote rend="blockquote" xml:lang="grc">
    
 <l>κἂν ἐκ Wupidos παρακύπτωμεν, ζητεῖ τὸ κακὸν τεθεᾶσθαι·</l>
 <l>κἂν αἰσχυνθεῖσʼ ἀναχωρήσῃ, πολὺ μᾶλλον πᾶς ἐπιθυμεῖ</l>
@@ -7007,7 +7007,7 @@ Abschreiber im eigenen Hause besorgt werden konnten.
 bezeugt die fortschreitende Bildung seiner Zeit durch Lectüre
 Aristoph. Ran. 1109 ff.
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 
 <l>εἰ δὲ τοῦτο καταφοβεῖσθον, μή τις ἀμαθία προσῇ</l>
@@ -7030,7 +7030,7 @@ Diog. Laërt. IX. 40: <foreign xml:lang="grc">Ἀριστόξενος δʼ ἐν
 S. 18 in dem freilich spöttischen Lobe des Aristophanes das
 <foreign xml:lang="grc">ἐστρατευμένοι</foreign>, welches durch v. 1115 und 1116:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 
 <l>αἱ φύσεις τʼ ἄλλως κράτισται,</l>
@@ -7642,7 +7642,7 @@ bestimmten Worten Lysias de inval. ὁ 20: <foreign xml:lang="grc">ἕκαστο
 Isocr. adv. Callim. ὁ 9. Darauf beziehen sich auch die
 Worte des Aristopb. Plut. 337:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 
 <l>καίτοι λόγος γʼ ἦν, νὴ τὸν Ἡρακλέα, πολύς</l>
@@ -7653,7 +7653,7 @@ Worte des Aristopb. Plut. 337:
 
 und Av. 1489:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 <l>ὅταν λέγωσιν ol πατέρες ἑκάστοτε</l>
 <l>τοῖς <sic>μειρακίοις</sic> ἐν τοῖσι κουρείοις ταδί.</l>
 </quote>
@@ -7678,7 +7678,7 @@ Xenoph. Mem. IV. 2. 1: xaranadwv <foreign xml:lang="grc">γὰρ Εὐθύδημ
 <foreign xml:lang="grc">καὶ αὐτὸς <sic>ᾔει</sic> τῶν <sic>μεθ'</sic> αὑτοῦ τινας ἔχων</foreign> [und Machon bei
 Athen. XIII, p. 581:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 <l>ἀνάγωγος ὧν δὲ καὶ βάναυσος παντελῶς</l>
 <l>ἐν σκυτοτομείῳ μετὰ τινῶν καθήμενος</l>
 <l>κα<foreign xml:lang="grc">τεσχόλ</foreign>αζε <foreign xml:lang="grc">τ</foreign>ῆς <sic>Γναθαινίου</sic> <foreign xml:lang="grc">λ</foreign>έγων κ. τ. λ.]</l>
@@ -7796,7 +7796,7 @@ Pax 1210 ein <foreign xml:lang="grc">ὅπλων κάπηλος</foreign> vor, b
 caede Erat. 14 werden Fackeln, <foreign xml:lang="grc">δᾷδες, in einem καπηλεῖον</foreign>
 gekauft. Nikostratos bei Athen. XV. 59, p. 700 sagt:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>— ὁ κάπηλος γὰρ οὖχ τῶν γειτόνων,</l>
 <l>ἄν τʼ οἶνον ἄν τε φανὸν drodwral τινι</l>
@@ -7821,7 +7821,7 @@ ihn genannt. Lucian. Hermot. 58: <foreign xml:lang="grc">ἤδη ποτὶ οἶ
 <foreign xml:lang="grc">τοὺς ἐν τῇ πόλει καπήλους ἀπογευόμενος καὶ παραβάλλων καὶ</foreign>
 <foreign xml:lang="grc"><sic>ἀντεξετάζων</sic> τοὺς οἴνους; [Antiphanes bei ΑΒ θη</foreign>. Χ. p.441:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>γείτων ἐστί τις</l>
 <l>κάπηλος, οὗτος <sic>εὐθύς</sic>, ὅταν ἔλθω ποτὶ</l>
@@ -7876,7 +7876,7 @@ dass es in seiner Zeit nicht selten geschehen mochte. Schon
 in einem Fragmente des Eubulos bei Athen. XI, p. 473
 heisst es:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>ἐγὼ δέ, καὶ γὰρ ἔτυχεν ὃν καταντικρύ</l>
 <l>τῆς οἰκίας καινὸν καπηλεῖον μέγα,</l>
@@ -7960,7 +7960,7 @@ in Athen war.es keineswegs verboten, sich beim Feilhalten
 von Waaren auf der <foreign xml:lang="grc">ἀγορά</foreign> zu betheiligen. Bei Aristoph.
 Ran. 1346 heisst es:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>ἐγὼ δʼ ἁ τάλαινα προσέχουσʼ ἔτυχον</l>
 <l>ἐμαυτῆς ἔργοισι,</l>
@@ -7971,7 +7971,7 @@ Ran. 1346 heisst es:
 </quote>
 ebenso Thesmoph. 446:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 <l>ἐμοὶ γὰρ ἁνὴρ ἀπέθανεν μὲν ἐν Κύπρῳ</l>
 <l>παιδάρια πέντε καταλιπών, ἁγὼ μόλις</l>
 <l>στεφανηπλοκοῦσʼ ἔβοσκον ἐν ταῖς <sic>μυρρίναις</sic>.</l>
@@ -7989,7 +7989,7 @@ Nat. H. XXII. 38. So ist auch die beleidigte <foreign xml:lang="grc"><sic>ἀρ�
 den Wespen des Aristophanes eine Bürgerin; denn sie
 sagt 1396:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>οὔ τοι μὰ τὼ θεὼ καταπροίξει Muprias</l>
 <l>τῆς <sic>Ἀγχυλίωνος</sic> θυγατέρος καὶ Σωστράτης,</l>
@@ -7999,7 +7999,7 @@ sagt 1396:
 und Lysistrata ruft v. 456 ihre Mitstreiterinnen mit den
 Worten zu Hülfe:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 <l>ὦ ξύμμαχοι γυναῖκες ἐκθεῖτʼ Evdoder,</l>
 <l>ὦ σπερμαγοραιολεκιθολαχανοπώλιδες,</l>
 <l>ὦ σκοροδοπανδοκευτριαρτοπώλιδες</l>
@@ -8007,7 +8007,7 @@ Worten zu Hülfe:
 
 und fügt dann höhnend hinzu:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 <l>ἄλλα τί γὰρ <sic>ᾤου</sic>; πότερον ἐπὶ δούλας τινὰς</l>
 <l>ἥκειν <sic>ἐνόμισας</sic>;</l>
 </quote>
@@ -8095,7 +8095,7 @@ ein Weinhändler, <foreign xml:lang="grc"><sic>οἰνοπώλης</sic></foreig
 umhergeht und nach der Probe den Wein im Einzelnen verkauft,
 was sonst Sache des <foreign xml:lang="grc">κάπηλος</foreign> ist. Diphil. bei Athen. XI, p. 499:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 <l>— ὦ  τοιχωρύχον</l>
 <l>ἐκεῖνο καὶ τῶν δυναμένων λαγύνιον</l>
 <l>ἔχον βαδίζειν εἰς τὰ <sic>γεύμαθʼ</sic> ὑπὸ μάλης</l>
@@ -8133,7 +8133,7 @@ p. 521 von Sybaris berichtet: <foreign xml:lang="grc">εἰ δέ τις τῶν 
 gewisser Artikel nicht ungewöhnlich gewesen zu sein. Vielleicht
 spielt darauf auch Aristoph. Acharn. 33 an:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>στυγῶν μὲν ἄστυ, τὸν δʼ ἐμὸν δῆμον ποθῶν,</l>
 <l>ὃς οὐδεπώποτʼ εἶπεν »ἄνθρακας <sic>πρίω«</sic></l>
@@ -8166,7 +8166,7 @@ Ausnahmen. Wenn man gar schon bei den Phäaken eine
 gepflasterte <foreign xml:lang="grc">ἀγορά</foreign> hat finden wollen, indem man die Worte
 Odyss. VI. 267:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 <l>ῥυτοῖσιν λάεσσι κατωρυχέεσσʼ <sic>ἀραρυῖα</sic>,</l>
 
 </quote>
@@ -8175,13 +8175,13 @@ davon verstand, so ist dieses ein grosser Irrthum. Diese <foreign xml:lang="grc"
 <l>λᾶες sind nichts anderes als die steinernen Sitze, auf denen</l>
 die Versammlung Platz nimmt; VIL. 6:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 <l>ἐλθόντες δὲ xddıkov ἐπὶ ξεστοῖσι λίθοισιν,</l>
 </quote>
 
 und v. 16:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 <l>καρπαλίμως ἔμπληντο βροτῶν dyopal τε καὶ ἕδραι.</l>
 </quote>
 
@@ -8203,7 +8203,7 @@ Korinth Athen. XII, p. 585; für Theben Eubul. bei Athen.
 X, p. 417. Dagegen bezieht sich mehr auf Landstrassen die
 Schilderung bei Lucian. Tragop. 226 ff.:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 <l>ἐστρωμένην <sic>χάλιξιν</sic> εἰσέβην <sic>ὁδόν</sic></l>
 <l>καὶ δυσπάτητον ὀξέσιν κέντροις λίθων· </l>
 <l>μεθ᾽ ἣν ὀλίσθῳ περιπεσὼν λείας ὁδοῦ</l>
@@ -8217,7 +8217,7 @@ Schilderung bei Lucian. Tragop. 226 ff.:
 
 Denn v. 233 heisst es:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>ὅθεν με δέχεται πᾶν δέμας κεκμηκότα</l>
 <l>πλατεῖα μὲν κέλευθος, ἀλλʼ οὐχ ἀσφαλής.</l>
@@ -8248,7 +8248,7 @@ darüber sind: Poll. X. 18: da <foreign xml:lang="grc">δʼ Enınpdoxero τὰ �
 <foreign xml:lang="grc">ἔοικεν ἐν <sic>Καλασίριδι</sic>· ποῖ δή μʼ ἄγεις διὰ τῶν κύκλων</foreign>;
 <foreign xml:lang="grc">σαφέστερον δὲ ἐν τῷ <sic>Μαινομένῳ</sic> Δίφιλος</foreign>·
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>καὶ προσέτι τοίνυν ἐσχάραν, κλίνην, χάδον,</l>
 <l>στρώματα, σίγυνον, <sic>ἀσκόπηραν</sic>, θύλακον,</l>
@@ -8270,7 +8270,7 @@ noda, <foreign xml:lang="grc">ἴσως καὶ τὰ λοιπὰ ὥνια: ebe
 und Harpocr.: <foreign xml:lang="grc">κύκλοι Exalovvro οἱ τόποι ἐν οἷς</foreign>
 <foreign xml:lang="grc">ἐπωλοῦντό τινες</foreign>, mit dem Bruchstücke aus Menander:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>ἐγὼ μὲν ἤδη μοι δοχῶ, νὴ τοὺς θεούς,</l>
 <l>ἐν τοῖς κύκλοις ἐμαυτὸν ἐκδεδυκότα</l>
@@ -8429,7 +8429,7 @@ hätten gehen wollen. Eine Hetäre konnte sich das wohl erlauben,
 wie z. B. Gnathäna nach Machon bei Athen. XII,
 p. 580:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>ἐπεὶ προέβη τοῖς Ersow ἡ Ivadaıva, καὶ</l>
 <l>ἤδη τελέως ἦν ὁμολογουμένως σορός,</l>
@@ -8455,7 +8455,7 @@ zu bemerken, dass nur Benennungen männlicher Sklaven in
 dieser Eigenschaft vorkommen. So heisst es auch bei Terent.
 Andr. 11. 2. 31:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
     <l>— etiam puerum inde abiens conveni Chremis</l>
     <l>Olera et pisciculos minutos ferre obolo in coenam seni.</l>
 
@@ -8489,7 +8489,7 @@ einzukaufen. S. z.B. Aeschin. in Timarch. ὁ. 65: <foreign xml:lang="grc">τί�
 und es werden weiter unten deren angeführt werden.
 [Besonders gehört hierher Aristoph. Vesp. 493:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>ἣν μὲν ὠνῆταί τις ὀρφὼς μεμβράδας δὲ μὴ <sic>᾿θέλῃ</sic>,</l>
 <l>εὐθέως εἴρηχʼ ὁ πωλῶν πλησίον τὰς μεμβράδας·</l>
@@ -8576,7 +8576,7 @@ Weise geschildert, und manche dieser Charakterzeichnungen
 sind zu interessant, um nicht einiges davon anzuführen.
 So sagt Amphis bei Athen. VI, p. 224:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>οὓς ἂν ἐπερωτήσῃ <foreign xml:lang="grc">τι</foreign>ς, ἣ λαβών τι τῶν</l>
 <l>παρακειμένων ἔκυψεν ὥσπερ Τήλεφος</l>
@@ -8590,7 +8590,7 @@ So sagt Amphis bei Athen. VI, p. 224:
 </quote>
 Alexis ebend.:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>τοὺς δʼ ἰχθυοπώλας τοὺς κάκιστʼ ἀπολουμένους</l>
 <l>ἐπὰν ἴδω κάτω βλέποντας, τὰς δʼ ὀφρῦς</l>
@@ -8613,7 +8613,7 @@ Gebote, welche der Hökerei der Fischhändler wehren sollten,
 zu Schnellerem Verkaufe nöthigen wollte Xenarch. bei Athen.
 p. 225:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>ἐπεὶ γὰρ αὐτοῖς οὐχ Er’ ἔστʼ ἐξουσία</l>
 <l>ῥαίνειν, ἀπείρηται δὲ τοῦτο τῷ νόμῳ,</l>
@@ -8632,7 +8632,7 @@ scheinen, ob es mit einem anderen Gesetze, welches nur feste
 Preise, ohne davon nachzulassen, vorschrieb, ernstlich gemeint
 sei. Alexis bei Athen. p. 226:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>οὐ γέγονε xpeittwv νομοθέτης τοῦ πλουσίου</l>
 <l>Ἀριστονίκου· τίθησι γὰρ νυνὶ νόμον,</l>
@@ -8665,7 +8665,7 @@ die Götter auf der Bühne, verkaufen sollen: <foreign xml:lang="grc">ἀπὸ �
 welchen Aristonikos als trefflichster Gesetzgeber nach Solon
 gepriesen wird, vergleicht, p. 226:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>οὺ γέγονε μετὰ Σόλωνα κρείττων οὐδὲ εἷς</l>
 <l>Ἀριτονίκου νομοθέτης· τά τʼ ἄλλα γὰρ</l>
@@ -8698,7 +8698,7 @@ eines bekannten Geflügelhändlers, einen Preis setzen:
 
 <pb n="206"/>
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>ὅτι συνείρων τοὺς onlvous πωλεῖ καθʼ ἑπτὰ τοῦ <sic>βολοῦ</sic>,</l>
 <l><sic>εἶτα</sic> φυσῶν τὰς κίχλας δείκνυσι καὶ λυμαίνεται,</l>
@@ -8722,7 +8722,7 @@ besonderen Ort, der Myrtenmarkt geheissen zu haben scheint
 <foreign xml:lang="grc">μυρρίναις. Dass er auf der ἀγορά</foreign> war, sieht man aus dem,
 was das Weib v. 457 sagt:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>ἀλλʼ εἰς ἀγορὰν ἄπειμι· δεῖ γὰρ ἀνδράσι</l>
 <l>πλέξαι στεφάνους συνθηματιαίους εἴκοσιν.</l>
@@ -8741,7 +8741,7 @@ her.  20 genannt: <foreign xml:lang="grc">καθίστησιν Εὐκτήμων
 <foreign xml:lang="grc"><sic>ὥνιος</sic></foreign>. [Von dort liess man den Wein in Amphoren holen;
 vgl. Aristoph. bei Suid. 5. <foreign xml:lang="grc"><sic>ἀμφορεαφόρους</sic></foreign>:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l><sic>τρέχʼ</sic> εἷς τὸν οἶνον, ἀμφορέα κενὸν λαβὼν</l>
 <l>τὸν ἔνδοθεν καὶ γεῦμα καὶ <sic>γευστήριον</sic></l>
@@ -8764,7 +8764,7 @@ sind der beste Commentar zu dem auch in anderer Hinsicht
 interessanten Fragmente des Alexis bei Athen. X,
 p. 431 ff:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l><sic>κομψόν</sic> γε τοῦτʼ ἐστὶν παρʼ Öniv, ὦ Σόλων,</l>
 <l>ἐν ταῖς Ἀθήναις δεξιῶς ὁ εὑρημένον. —</l>
@@ -8817,7 +8817,7 @@ bekommen waren. So sagt Thucyd. VII, 95: <foreign xml:lang="grc">οὗ δὲ ἔ
 Fische, scheinen aus der Stadt vor die Thore gewiesen worden
 zu sein, nach Aristoph. Eq. 1246:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>ΚΑ. καὶ μοι τοσοῦτον εἰπέ" πότερον ἐν ἀγορᾷ</l>
 <l>ἠλλαντοπώλεις <sic>ἑτεὸν</sic> ἢ ᾿πὶ ταῖς πύλαις;</l>
@@ -8896,7 +8896,7 @@ auch die Coursdifferenz zwischen einheimischem und fremdem
 Gelde nicht unberechnet. Diphilos bei Athen. VI, p. 225
 sagt von einem Fischhändler:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 <l>ἔπειτʼ ἐὰν τἀργύριον αὐτῷ <sic>καταβάλης</sic>,</l>
 <l>ἐπράξατʼ Αἰγιναῖον· ἂν δʼ αὐτὸν δέῃ</l>
 <l><sic>κέρματʼ</sic> ἀποδοῦναι, προσαπέδωκεν Ἀττικά,</l>
@@ -9065,7 +9065,7 @@ quorum corpora in sagina, animi in macie et veterno sunt«?
 auch Lucan. Phars. VII. 171, Quintil. I. 11. 15 und vorzüglich
 Sil. Italic. XIV. 136:
 
-<quote xml:lang="lat">
+<quote rend="blockquote" xml:lang="lat">
     <l>Pigro luctandi studio certamen in umbra</l>
     <l>Molle pati docta et gaudens splendescere olivo</l>
     <l>Stat, mediocre decus vincentum, ignava juventus.</l>
@@ -9082,7 +9082,7 @@ bei den Nationalfesten den leiblichen Trefflichkeiten gespendeten
 Ehren und Auszeichnungen geäussert bei Athen. X,
 p. 413:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>ἀλλʼ εἰκῇ μάλα τοῦτο νομίζεται οὐδὲ δίκαιον</l>
 <l>προκρίνειν ῥώμην τῆς ἀγαθῆς σοφίης·</l>
@@ -9109,7 +9109,7 @@ deutet auf die traurige Rolle hin, die sie in späteren Jahren
 spielten; dann tadelt er die Griechen, die so unnütze Künste
 über die Gebühr ehrten:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>τέ γὰρ παλαίσας εὖ, τέ δʼ ὠκύπους ἀνήρ</l>
 <l>δἢ ίσκον ἄρας ἣ γνάθον παίσας καλῶς</l>
@@ -9121,7 +9121,7 @@ spielten; dann tadelt er die Griechen, die so unnütze Künste
 
 und endlich schlägt er vor:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 
 <l>— ἄνδρας οὖν ἐχρῆν σοφούς τε <sic>κἀγαθοὺς</sic></l>
@@ -9506,7 +9506,7 @@ Hermann Privatalterth. 8.21, n.13.] Nur einige wenige,
 in denen das Unterkleid ausdrücklich genannt wird, mögen
 hier stehen. So sagt Lysistrata bei Ariestophanes v. 150:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>εἰ γὰρ καθοίμεθʼ <sic>ἔνδον</sic> ἐντετριμμέναι,</l>
 <l>κἂν τοῖς χιτωνίοισι τοῖς <sic>ἀμοργίνοις</sic></l>
@@ -9530,7 +9530,7 @@ sagt: <foreign xml:lang="grc">οὐδὲ γὰρ ὑπὲρ γόνυ, xaddnep τ
 ihre Tracht anderwärts höchst unanständig erscheinen musste.
 Eurip. Androm. 588:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>αἳ ξὺν νέοισιν, ἐξερημοῦσαι δόμους,</l>
 <l>γυμνοῖσι μηροῖς καὶ πέπλοις ἀνειμένοις</l>
@@ -9548,7 +9548,7 @@ Stelle: <foreign xml:lang="grc">τῷ γὰρ ὄντι τοῦ napdevıxod χι
 
 <pb n="227"/>
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>καὶ τὰν νέορτον, <sic>ἇς</sic> ἔτ’ ἄστολος χιτών.</l>
 <l>θυραῖον ἀμφὶ μηρόν</l>
@@ -9646,7 +9646,7 @@ soll, XI, p. 925: <foreign xml:lang="grc">τὴν δὲ τοῦ τῶν γάμω
 Wenn man ferner vergleicht, was die spartanischen
 Mädchen bei Theocr. XVIII. 22 sagen:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>ἄμμες γὰρ πᾶσαι συνομάλικες, αἷς δρόμος <sic>ωὑτός</sic></l>
 <l>χρισαμέναις ἀνδριστὶ παρʼ Εὐρώταο λοετροῖς,</l>
@@ -9665,7 +9665,7 @@ Nacktheit, sondern auch an gemeinschaftliche Uebungen der
 spartanischen Mädchen mit den Jünglingen geglaubt haben,
 als Prop. III. 14:
 
-<quote xml:lang="lat">
+<quote rend="blockquote" xml:lang="lat">
 <l>Multa tuae, Sparte, miramur iura palaestrae,</l>
 <l>Sed mage virginei tot bona gymnasii,</l>
 
@@ -9681,7 +9681,7 @@ als Prop. III. 14:
 </quote>
 
 Ovid. Her. XVI. 148:
-<quote xml:lang="lat">
+<quote rend="blockquote" xml:lang="lat">
     <l>More tuae gentis nitida dum nuda palaestra</l>
     <l>Ludis et es nudis femina mista viris;</l>
 
@@ -9690,7 +9690,7 @@ Ovid. Her. XVI. 148:
 </quote>
 
 Martial. IV. 55:
-<quote xml:lang="lat">
+<quote rend="blockquote" xml:lang="lat">
     <l>Aut claram Rhodon aut libidinosae</l>
     <l>Ledaeas Lacedaemonos palaestras;</l>
 
@@ -10177,7 +10177,7 @@ weiss, ob er in der Ringschule als Zuschauer oder Lehrer gewesen
 sei, oder in der Palästra eines Gymnasiums. Diese, als
 der Haupttheil der Anlage, ist auch gemeint bei Aristoph.
 Nub. 1053:
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>ταῦτʼ <sic>ἑστὶ</sic> ταῦτʼ ἐκεῖνα,</l>
 <l>ἃ τῶν νεανίσκων del διʼ ἡμέρας λαλούντων</l>
@@ -10214,7 +10214,7 @@ in Hermes VII, 8. 42: <foreign xml:lang="grc">κτίστην τοῦ <sic>ἀλ�
 Becker auf Aristoph. Av. 140, wo von einem <foreign xml:lang="grc">παῖς ὡραῖος</foreign>
 gesagt wird:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l><sic>εὑρὼν</sic> ἀπιόντʼ ἀπὸ γυμνασίου Aslovusvov</l>
 <l><sic>οὐκ</sic> ἔκυσας, οὐ προσεῖπας, οὐ προσηγάγου.</l>
@@ -10421,7 +10421,7 @@ keit entscheidend sein würde, wenn man wüsste, wie viel der
 Dichter von römischer Sitte beigemischt haben kann, findet
 sich bei Plaut. Bacch. III, 3, 20 ff.
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
     <l>Ante solem exorientem nisi in palaestram veneras,</l>
     <l>Gymnasii praefecto poenas haud mediocres penderes. —</l>
     <l>Inde de hippodromo et palaestra ubi revenisses domum,</l>
@@ -10670,7 +10670,7 @@ hat in seinen Myrmidonen ein Liebesverhältniss zwischen
 Achilles und Patroklos im Sinne seiner Zeit fingirt, wie man
 deutlich aus den bei Plutarch. Amat. 5 und Athen. XIII,
 p. 602 erhaltenen Versen sieht:
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>σέβας δὲ μηρῶν ἁγνὸν οὐχ ἐπῃδέσω,</l>
 <l>ὦ δυσχάριστε τῶν πυκνῶν φιλημάτων,</l>
@@ -10847,13 +10847,13 @@ der Gymnasien wenn nicht die erste weckende Ursache
 war, doch die einmal entzündete Neigung zur mächtigen Flamme
 nährte, das ist nicht nur an sich sehr natürlich, sondern es
 stimmen darin auch die Ansichten des Alterthums selbst überein.
-Die bekannten Worte Cicero’s Tuscul. IV. 33: <quote xml:lang="lat">quis est
+Die bekannten Worte Cicero’s Tuscul. IV. 33: <quote rend="blockquote" xml:lang="lat">quis est
 enim iste amor amicitiae? cur neque deformem adolescentem
 quisquam amat neque formosum senem? mihi quidem haec in
 Graecorum gymnasiis nata consustudo videtur, in quibus isti
 liberi et concessi sunt amores. Bene ergo Ennius:
 
-<quote xml:lang="lat">
+<quote rend="blockquote" xml:lang="lat">
 <l>Flagitii principium est nudare inter cives corpora,</l>
 
 </quote></quote>
@@ -10878,7 +10878,7 @@ Man vergleiche damit, was Aristophanes Nub. 973 ff. im
 Gegensatze zu der guten alten Zeit von der Koketterie der
 Knaben sagt:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>ἐν παιδοτρίβου δὲ <sic>καθίζοντας</sic> τὸν μηρὸν ἔδει προβαλέσθαι</l>
 <l>τοὺς παῖδας, ὅπως τοῖς ἔξωθεν μηδὲν δείξειαν ἀπηνές,</l>
@@ -10983,7 +10983,7 @@ aus Solon’s eigenen Elegien noch erhalten sind, nur bestätigt
 wird. Denn da heisst es z. B. in dem von Plutarch Amator.
 5 angeführten Fragmente:
 
-<quote xml:lang="grc"></quote>
+<quote rend="blockquote" xml:lang="grc"></quote>
 
 <l>ἔσθʼ ἥβης ἐρατοῖσιν En’ ἄνθεσι παιδοφιλήσῃ</l>
 <l>μηρῶν ἱμείρων καὶ γλυκεροῦ στόματος.</l>
@@ -10994,14 +10994,14 @@ wird. Denn da heisst es z. B. in dem von Plutarch Amator.
 
 Ganz übereinstimmend damit sind die Gnomen bei Theogn.
 1266: 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>ὅστις μὴ παῖδάς τε φιλεῖ καὶ μώνυχας ἵππους</l>
 <l>καὶ κύνας, <sic>οὔποτέ</sic> οἱ θυμὸς ἐν εὐφροσύνῃ:</l>
 
 </quote>
 und v. 1385:
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 <l>ὄλβιος ὅστις ἐρῶν yuuvaleraı, οἴκαδε δʼ ἐλθών </l>
  <foreign xml:lang="grc">εὕδει σὺν καλῷ παιδὶ πανημέριος</foreign>.
 </quote>
@@ -11127,7 +11127,7 @@ treibend wie gemeine Lustdirnen für Geld sich Jedem Preis
 gaben oder sich doch durch Geschenke von ihren Erasten gewinnen
 liessen, wie es bei Aristoph. Plut. 153 ff. heisst:.
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>ΚΑΡ. καὶ τούς γε παῖδάς φασι ταὐτὸ τοῦτο δρᾶν</l>
 <l>οὐ τῶν ἐραστῶν, ἀλλὰ τἀργυρίου χάριν.</l>
@@ -11401,7 +11401,7 @@ Laced. 2. 12: <foreign xml:lang="grc">οὗ μὲν τοίνυν ἄλλοι Ἕ
 <foreign xml:lang="grc"> τῇ ὥρᾳ χρῶνται</foreign>. Vgl. Aelian. V. Hist. ΧΙΠ. 5. Auf
 Elis scheint auch Aristoph. Av. 140 anzuspielen, wo Peisthetäros
 erklärt, was für eine Stadt er suche:
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>ὅπου ξυναντῶν nor ταδί τις μέμφεται,</l>
 <l>ὥσπερ ἀδικηθεὶς παιδὸς ὡραίου πατήρ·</l>
@@ -11413,7 +11413,7 @@ erklärt, was für eine Stadt er suche:
 </quote>
 worauf der Epops, da es eine griechische Stadt sein soll, sagt:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>τί οὐ τὸν Ἠλεῖον Λέπρεον οἰκίζετον ;</l>
 </quote>
@@ -11719,7 +11719,7 @@ ausspricht. Er sagt: <foreign xml:lang="grc">ἐπειδὴ δὲ φράσαντ
 <foreign xml:lang="grc">εἶναι τὸν Κυδίαν τὰ ἐρωτικά, ὃς εἶπεν, ἐπὶ τοῦ καλοῦ λέγων</foreign>
 <foreign xml:lang="grc">παιδός, εὐλαβεῖσθαι μὴ κατέναντα λέοντος</foreign>
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>νεβρὸν ἐλθόντα θανάτου σʼ ἢ θέᾳ</l>
 <l>μοῖραν αἱρεῖσθαι χρεών.</l>
@@ -11945,7 +11945,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
         attischen Mahlzeiten wiederum als einfach bezeichnet und als
         solche von den Komikern bespöttelt. Athen. IV, p. 131:
 
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
             <sic>Λυγκεὺς</sic> δʼ ἐν Κενταύρῳ διαπαίζων τὰ Ἀττικὰ δεῖπνά φησι·
 
 <l><sic>μάγειρʼ</sic>, ὁ θύων ἐστὶν ὁ δειπνίζων τʼ ἐμὲ</l>
@@ -12028,7 +12028,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
         früher <foreign xml:lang="grc">ἄριστον, später ἀκράτισμα</foreign> hiess; wie er sich denn auch
         nur auf Od. XVI. 2 beruft, den Vers irrig so anführend:
 
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
 
 <l>ἐντύνοντας ἄριστον ἅμʼ ἠοῖ φαινομένηφι.</l>
     </quote>
@@ -12070,7 +12070,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
         <foreign xml:lang="grc"><sic>πρωϊνὸν</sic> ἔμβρωμα, ὁ ἡμεῖς ἀκρατισμὸν καλοῦμεν διὰ τὸ ἐν</foreign>
         <foreign xml:lang="grc">ἀκράτῳ βρέχειν καὶ προσίεσθαι ψωμούς</foreign>. Vgl. Aristomenes
         bei dems. p. 11:
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
 
 <l>ἀκρατιοῦμαι μικρόν, εἶθʼ ἥξω πάλιν</l>
 <l>ἄρτου δὶς ἢ τρὶς ἀποδακών.</l>
@@ -12120,7 +12120,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
         sen, daher man oft dazu des Kochs bedurfte. Antiphan.
         bei Athen. I, p. 11:
 
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
 
 <l>ἄριστον ἐν ὅσῳ ὁ μάγειρος ποιεῖ.</l>
     </quote>
@@ -12128,7 +12128,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
         [Aristoph. Eccles. 554 sagt Blepyros zu der aus der Volksversammlung
         heimkehrenden Praxagora:
 
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
 
 <l>κάθησο τοίνυν σηπίας μασωμένη.</l>
     </quote>
@@ -12141,7 +12141,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
         <foreign xml:lang="grc">δεῖπνον</foreign>, das aber vielleicht etwas später als die römische coena
         eingenommen wurde. Bei Aristoph. Eccl. 652 heisst es:
 
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
 
 <l>ὅταν ᾖ δεκάπουν τὸ στοιχεῖον, λιπαρὸν χωρεῖν ἐπὶ δεῖπνον.</l>
     </quote>
@@ -12175,7 +12175,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
         <foreign xml:lang="grc">σήμερον</foreign>, so spricht sich Alexis bei Athen. II, p. 47 eben
         so aus:
 
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
 <l>ἐπὰν ἰδιώτην ἄνδρα <sic>μονοσιτοῦντʼ</sic> <sic>ἴδῃς</sic></l>
 <l>ἢ μὴ <sic>ποθοῦντʼ</sic> <sic>ᾠδὰς</sic> ποιητὴν καὶ μέλη,</l>
 <l>τὸν μὲν ἰδιώτην τοῦ βίου τὸν ἥμισυν</l>
@@ -12273,7 +12273,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
         6 sagt: <foreign xml:lang="grc">τὸ μὲν δὴ δεῖπνον ἦν ἀπὸ συμφορῶν</foreign>. Am deutlichsten
         erhellt die Sitte aus Terent. Eun. I. 4:
 
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
             <l>Heri aliquot adolescentuli coiimus in Piraeo,</l>
             <l>In hunc diem ut de symbolis essemus. Chaeream ei rei</l>
             <l>Praefecimus: dati anuli: locus, tempus constitutum est.</l>
@@ -12295,7 +12295,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
         Opp. 722: 
         
         <pb n="297"/>
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
 
 <l>μηδὲ πολυξείνου δαιτὸς δυσπέμφελος εἶναι</l>
 <l>ἐκ κοινοῦ, πλείστη δὲ χάρις δαπάνη τʼ ὀλιγίστη.</l>
@@ -12317,7 +12317,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
         <foreign xml:lang="grc">οὕτως</foreign>·
 
 
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
 
 
 <l>συσκευασάμενος δεῖπνον, ἕν τὸ σπυρίδιον,</l>
@@ -12331,7 +12331,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
         Auch Aristophanes gedenkt der Sache Acharn.
         1138, wo Dikäopolis zu dem Sklaven sagt:
 
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
 
 <l>τὸ δεῖπνον, ὦ παῖ, δῆσον ἐκ τῆς κιστίδος.</l>
     </quote>
@@ -12428,7 +12428,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
         üblem Rufe scheint aber die Zudringlichkeit der Kyrenäer gestanden
         zu haben, nach Alexis bei Athen. XII, p. 510:
 
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
 
 <l>κἀκεῖ γὰρ dv τις ἐπὶ τὸ δεῖπνον ἕνα καλῇ,</l>
 <l>πάρεισιν ὀκτωκαίδεκʼ ἄλλοι καὶ δέκα</l>
@@ -12488,7 +12488,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
         sei, lässt sich nicht nachweisen. In der That sagt
         noch Phokylides bei Athen. X, p. 428:
 
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
 
 <l>χρὴ δʼ ἐν συμποσίῳ κυλίκων <sic>περινισσομενάων</sic></l>
 <l>ἡδέα κωτίλλοντα καθήμενον οἰνοποτάζειν.</l>
@@ -12501,7 +12501,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
         sagt, dafür ist mir kein genügender Beweis bekannt. Gründet
         sich die Behauptung auf das Fragment bei Athen. III,
         p. 111:
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
 
 <l>κλῖναι μὲν ἑπτὰ καὶ τόσαι τράπεσδαι</l>
 <l>μακωνίδων ἄρ<foreign xml:lang="grc">τ</foreign>ων ἐπισ<foreign xml:lang="grc">τ</foreign>έφοισαι κ. τ. λ.</l>
@@ -12688,7 +12688,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
         Was dann weiter geschah, nennt Bdelykleon in der komisch
         trefflichen Phantasie (<foreign xml:lang="grc">ἐνύπνιον</foreign>) bei Aristoph. Vesp. 1210 ff.:
 
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
 
 <l>ΦΙΛ. πῶς οὖν κατακλινῶ; φράζʼ ἀνύσας. ΒΔΕΛ. εὐσχημόνως.</l>
 <l>ΦΙΛ. ὡδὶ κελεύεις <sic>κατακλινῆναι</sic>; ΒΔΕΛ. μηδαμῶς.</l>
@@ -12736,7 +12736,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
         <foreign xml:lang="grc"><sic>τρισάθλιος</sic> ἀναδιδῷ τῇ γλώττῃ</foreign>. Darauf beziehen sich ferner die
         Worte des jüngeren Kratinos bei dems. VI, p. 241:
 
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
 
 <l>— Κόρυδον τὸν χαλκοτύπον πεφύλαξο,</l>
 <l>ἣν μὴ σοὶ νομιεῖς αὐτὸν μηδὲν καταλείφειν,</l>
@@ -12750,7 +12750,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
     </quote>
         und des Aristophanes ebend. IV, p. 161:
 
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
 
 <l>ἐπεὶ παράθες αὐτοῖσιν ἰχθῦς ἢ κρέας,</l>
 <l>κἂν μὴ κατεσθίωσι καὶ τοὺς δακτύλους,</l>
@@ -12765,7 +12765,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
         eines Messers finde ich nur in einem Fragmente des
         Pherekrates bei Poll. X. 89 erwähnt:
 
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
 <l>μάχαιραν ἄρʼ ἐνέθηκας; οὔ. τέ μʼ εἴργασαι;</l>
 <l><sic>ἀμάγαιρος</sic> ἐπὶ βόεια νοστήσω χρέα,</l>
 <l>ἀνὴρ γέρων, <sic>ἀνόδοντος</sic> ;</l>
@@ -12790,7 +12790,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
         Demos. Aristoph. Equit. 1167:
         
         <pb n="309"/>
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
    
 <l>ἐγὼ δὲ (φέρω) μυστίλας μεμυστιλημένας</l>
 <l><sic>ὑπὸ</sic> τῆς θεοῦ τῇ <sic>χειρὶ</sic> τῇ <sic>᾿λεφαντίνῃ</sic>.</l>
@@ -12808,7 +12808,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
         nal, <foreign xml:lang="grc">ταχέως κατὰ χειρὸς ὕδωρ, παράπεμπε τὸ χειρόμακτρον</foreign>.
         [Vgl. Anthol. Graec. IV, p. 286, n. 2:
 
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
 <l><sic>ξάνθη</sic> μέν τις ἐγὼν Nun» πάρος, ἀλλὰ κοπεῖσα</l>
 <l>γίνομαι ἀργεννῆς λευκοτέρη χιόνος·</l>
 <l>χαίρω δὲ γλυκερῷ τε καὶ <sic>ἰχθυοέντι</sic> <sic>λοέτρῳ</sic></l>
@@ -12950,7 +12950,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
         sie:
         
         <pb n="313"/>
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
  
 <l>ἀπὸ τῆς μάζης, ἧς arreitaı" ταύτης γὰρ ὅταν τις ἀφαιρῇ,</l>
 <l>οὐχ <sic>ὑβριεῖται</sic> φαύλως οὕτως αὖθις τῇ γαστρὶ κολασθείς.</l>
@@ -13058,14 +13058,14 @@ Geschlechter zu einander, hinzudeuten scheint.]
         nennt der Scholiast Fett und Gerstenschrot] waren, sieht
         man aus Aristoph. Equit. 208:
 
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
 
 <l>ὁ δράκων γάρ ἐστι μακρόν, ὁ δʼ ἀλλᾶς αὖ μακρόν.</l>
 <l>εἶθʼ αἱματοπώτης ἐστὶν ὅ τʼ ἀλλᾶς χὠ δράκων,</l>
     </quote>
         und dem Fragmente des Sophilos bei Athen. Ill, p. 125:
     
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
     
 <l>ὁ πορνοβόσκος γάρ μʼ ὑπὸ κνισολοιχίας</l>
 <l>χορδὴν τινʼ αἱματῖτιν αὑτῷ σκευάσαι</l>
@@ -13282,7 +13282,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
         reizende Speisen ass, will ich nicht leugnen, und es sagt ja
         selbst Aristophanes Acharn. 1112:
 
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
 
 <l>ἀλλʼ ἣ πρὸ δείπνου τὴν ninapxuv κατέδομαι.</l>
     </quote>
@@ -13309,14 +13309,14 @@ Geschlechter zu einander, hinzudeuten scheint.]
         Worten bei Athen. IV, p. 146f. (8. Sc. VI, Anm. 6) verglichen
         mit Antiphanes bei Athen.II, p. 60:
         
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
 
 <l>κατὰ χειρὸς ἐδόθη· τὴν τράπεζαν <sic>ἦχʼ</sic> ἔχων,</l>
     </quote>
         wo nur der Tisch gemeint sein kann. [Auch aus den Worten
         des Euangelos bei Athen. XIV, p. 644:
 
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
 
 <l>τέτταρας τραπέζας τῶν γυναικῶν εἶπά σοι</l>
 <l>ἓξ δὲ τῶν ἀνδρῶν· τὸ δεῖπνον δʼ ἐντελὲς καὶ μηδενὶ</l>
@@ -13381,7 +13381,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
         überall erwähnt wird, auch nicht ohne Ausnahme Statt fand.
         Plato Com. bei Athen. XV, p. 665:
 
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
 
 <l>ἅνδρες δεδειπνήκασιν ἤδη σχεδὸν ἅπαντες· εὖ γε·</l>
 <l>τί οὐ τρέχων σὺ τὰς τραπέζας ἐκφέρεις; ἐγὼ δέ</l>
@@ -13392,7 +13392,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
         
         
         <pb n="324"/>
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
 <l>καὶ δὴ δεδειπνήκασιν al γυναῖκες· ἀλλʼ ἀφαιρεῖν</l>
 <l>ὥρα ʼστὶν ἤδη τὰς τραπέζας, εἶτα παρακορῆσαι,</l>
 <l><sic>ἔπειτα</sic> κατὰ χειρῶν <sic>ἑκάστῃ</sic> καὶ μύρον τι δοῦναι.</l>
@@ -13400,7 +13400,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
         </p>
         
         <p>Menand. bei Suidas s. v. αἴρειν:
-            <quote xml:lang="grc">
+            <quote rend="blockquote" xml:lang="grc">
 <l>εἶτʼ εὐθὺς οὕτω τὰς rpanelas αἴρετε,</l>
 <l>μύρα, στεφάνους ἑτοίμασον, σπονδὰς ποίει.</l>
     </quote>
@@ -13443,7 +13443,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
         <foreign xml:lang="grc">ἔθος δὲ ἦν, ὁπότε μέλλοι ἣ τράπεζα αἴεσθαι, ἀγαθοῦ <sic>δαίμονος</sic></foreign>
         <foreign xml:lang="grc"><sic>ἐπιρροφεῖν</sic></foreign>. Nicostratos bei Athen. XV, p. 693:
 
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
 
 <l>ἀλλʼ ἐγχέασα θᾶττον ἀγαθοῦ δαίμονος</l>
 <l>ἀπενεγκάτω μοι τὴν τράπεζαν ἐκ ποδῶν.</l>
@@ -13474,7 +13474,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
         (vergl. Preller Griech. Mythol. B. I, S. 421 ff.) geweihte
         Spende ebenfalls ein Trankopfer war: Aristoph. Equit. 106:
 
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
         
 <l>ΟΙΚΕΤ. Α. ἴθι νῦν ἄκρατον ἐγκάναξόν μοι πολὺν σπονδήν.</l>
        
@@ -13529,7 +13529,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
         eigentlich mehr zu dem nun folgenden Symposion gehört; vgl.
         Xenophanes bei Athen. XI, p. 462:
 
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
      
 <l>νῦν γὰρ δὴ ζάπεδον καθαρὸν zal yeipes ἁπάντων,</l>
 <l>καὶ κύλικες, πλεκτοὺς δʼ ἀμφιτιθεῖ στεφάνους,</l>
@@ -13557,7 +13557,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
         er gewiss nach griechischem Originale Curc. IV. 4. 5 den
         Cappadox sagen lässt:
 
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
             <l>Therapontigonoplatagidore, salve, salvus quom advenis</l>
             <l>In Epidaurum; hic hodie apud me nunquam delinges salem;</l>
             
@@ -13567,7 +13567,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
         oder Pers. III. 3. 28:
         
         <pb n="328"/>
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
         <l>Referundae ego habeo linguam natam gratiae.</l>
         <l>Eodem mihi pretio sal praebetur, quo tibi.</l>
         <l>Nisi me haec defendet, nunquam delinget salem,</l>
@@ -13624,7 +13624,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
         halten wie die mehrmals vorkommenden <foreign xml:lang="grc">ἅλες <sic>θυμῖται</sic></foreign>, wie
         sie z. B. Lamachos auf den Marsch verlangt. Aristoph.
         Acharn. 1099:
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
 
 <l>ἅλας θυμίτας οἷσι, παῖ, καὶ κρόμμυα.</l>
     </quote>
@@ -13781,7 +13781,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
         I, p.52. Natürlich auch frisches Obst, Matron bei Athen.
         IV, p. 137:
 
-        <quote xml:lang="grc">
+        <quote rend="blockquote" xml:lang="grc">
       
 <l>δεύτεραι αὖτε τράπεζαι ἐφωπλίζοντο γέμουσαι·</l>
 <l>ἐν δʼ αὐταῖσιν ἐπῆν ἄπιοι καὶ πίονα μῆλα</l>
@@ -13851,7 +13851,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
             
             <pb n="336"/>
             
-            <quote xml:lang="grc">
+            <quote rend="blockquote" xml:lang="grc">
 
 <l>εἰσῆλθεν εἰς <sic>ʼταίρα</sic> φέρουσα τὸν γλυκύν</l>
 <l>ἂν ἀργυρῷ πο<foreign xml:lang="grc">τ</foreign>ηρίῳ <sic>πε<foreign xml:lang="grc">τάχ</foreign>νῳ</sic> <foreign xml:lang="grc">τ</foreign>ινέ κ. τ. λ.,</l>
@@ -13984,7 +13984,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
             in Plut. Conviv. p. 176. Auch gehören hierher
             Aristoph. Vesp. 1253:
 
-            <quote xml:lang="grc">
+            <quote rend="blockquote" xml:lang="grc">
 
             <foreign xml:lang="grc">κακὸν τὸ</foreign> nivew' <foreign xml:lang="grc">ἀπὸ γὰρ οἴνου γίγνεται</foreign>
             <foreign xml:lang="grc">καὶ θυροκοπῆσαι καὶ πατάξαι καὶ βαλεῖν</foreign>,
@@ -14115,7 +14115,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
             schon Theophr. caus. plant. VI. 7. 6: <foreign xml:lang="grc">ὁ οἶνος ὅταν <sic>θαλαττωθῇ</sic></foreign>:
             dann Plautus Rudens I. 7. 30:
 
-            <quote xml:lang="lat">
+            <quote rend="blockquote" xml:lang="lat">
 <l>Quasi vinis graecis Neptunus nobis suffudit mare;</l>
             
         </quote>
@@ -14180,7 +14180,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
             O1. IX. 52: <foreign xml:lang="grc">αἴνει δὲ παλαιὸν μὲν οἶνον, ἄνθεα δʼ ὕμνων</foreign> vewrepwyv,
             hervorgeht. Eubul. bei Αὐ ἢ θη.1, p. 25:
 
-            <quote xml:lang="grc">
+            <quote rend="blockquote" xml:lang="grc">
 
 <l>ἄτοπον δέ, τὸν μὲν οἶνον εὐδοκιμεῖν ἀεί</l>
 <l>παρὰ ταῖς ἑταίραις τὸν παλαιόν, ἄνδρα δέ</l>
@@ -14189,7 +14189,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
             </p>
             
             <p>Alexis ebend. II, p. 86:
-                <quote xml:lang="grc">
+                <quote rend="blockquote" xml:lang="grc">
 
 <l>οἶνον δὲ τὸν παλαιότατον σπουδάζομεν.</l>
         </quote>
@@ -14235,7 +14235,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
             Stellen alter Schriftsteller. So sagt denn auch Plautus Curc.
             1. 3. 9: 
 
-            <quote xml:lang="lat">
+            <quote rend="blockquote" xml:lang="lat">
                 <l>Tum isti Graeci palliati, capite operto qui ambulant, —</l>
                 <l>Quos semper videas bibentes esse in thermopolio:</l>
                 <l>Ubi quid surripuere, operto capitulo calidum bibunt.</l>
@@ -14253,7 +14253,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
             auch recht frisch zu haben, und das Abkühlen durch Schnee
             war schon in früher Zeit üblich. Alexis bei Athen. III,
             p. 124:
-            <quote xml:lang="grc">
+            <quote rend="blockquote" xml:lang="grc">
 
 <l>καὶ χιόνα μὲν πίνειν παρασκευάζομεν.</l>
         </quote>
@@ -14276,7 +14276,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
             wurde er auch in Athen, wie es scheint, verkauft. Euthykles
             bei Athen. a. a. O.:
 
-            <quote xml:lang="grc">
+            <quote rend="blockquote" xml:lang="grc">
 
 <l>πρῶτος μὲν εἶδεν, εἰ χιών ἐστʼ ὠνία.</l>
         </quote>
@@ -14323,7 +14323,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
             <foreign xml:lang="grc">τοῦτʼ ἐρίῳ σοι</foreign> Evorakovow <foreign xml:lang="grc">κατὰ μικρὸν</foreign> dei: dagegen gehört
             entschieden hierher Pherekrates bei Athen. XI, p. 480:
 
-            <quote xml:lang="grc">
+            <quote rend="blockquote" xml:lang="grc">
 
 <l>νυνί δʼ <sic>ἀπονίζων</sic> τὴν κύλικα δὸς ἐμπιεῖν,</l>
 <l>ἔγχει δʼ ἐπιθεὶς τὸν ἡθμόν:</l>
@@ -14374,7 +14374,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
             <foreign xml:lang="grc">παρʼ αὐτῶν</foreign>·  <foreign xml:lang="grc">ἐκ τούτου δὲ μανῆναί μιν νομίζουσι <sic>Σπαρτῆται</sic></foreign>.
             Und dieser Glaube scheint sehr allgemein gewesen zu
             sein. Mehr noch sagt Mnesitheos bei Athen. II, p. 36:
-            <quote xml:lang="grc">
+            <quote rend="blockquote" xml:lang="grc">
 
 <l>ἐὰν δʼ ἴσον ἴσῳ προσφέρῃ, μανίαν ποιεῖ·</l>
 <l>ἐὰν δʼ ἄκρατον, παράλυσιν τῶν σωμάτων,</l>
@@ -14506,7 +14506,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
             den Dionysos sprechen lässt:
             
             <pb n="352"/>
-            <quote xml:lang="grc">
+            <quote rend="blockquote" xml:lang="grc">
             
 <l>τρεῖς γὰρ μόνους κρατῆρας ἐγκεραννύω</l>
 <l>τοῖς εὖ φρονοῦσι· τὸν μὲν <sic>ὑγιείας</sic> ἕνα,</l>
@@ -14669,7 +14669,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
             attische Sitte angegeben, dass man aus kleinen Bechern
             trank oder wenigstens damit den Anfang machte. Alexis bei
             Athen. X, p. 431:
-            <quote xml:lang="grc">
+            <quote rend="blockquote" xml:lang="grc">
 
 <l>— τοῦτʼ <sic>ἔσθʼ</sic>, ὁρᾷς, Ἑλληνικός</l>
 <l>πότος, μετρίοισι χρωμένους ποτηρίοις</l>
@@ -14687,7 +14687,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
             zuweilen eine bedeutonde Quantität gefasst haben. So klagt
             jemand in einem Stücke des Alexis bei Athen. p. 431:
 
-            <quote xml:lang="grc">
+            <quote rend="blockquote" xml:lang="grc">
 
 <l>οὗ συμποσίαρχος ἦν γάρ, ἀλλὰ δήμιος</l>
 <l>ὁ Χαιρέας, κυάθους προπίνων <sic>εἴκοσιν</sic>.</l>
@@ -14754,7 +14754,7 @@ Geschlechter zu einander, hinzudeuten scheint.]
             <foreign xml:lang="grc">γὰρ</foreign> npoenwov <foreign xml:lang="grc">ἀλλήλοις μετὰ προσαγορεύσεως</foreign> [und Kri-
             1188 bei Athen. Χ, p. 432:
 
-            <quote xml:lang="grc">
+            <quote rend="blockquote" xml:lang="grc">
 
 <l>καὶ προπόσεις ὀρέγειν ἐπιδέξια καὶ npöxaleioda:</l>
 <l>ἐξονομακλήδην, ᾧ προπιεῖν ἐθέλει,</l>
@@ -14876,7 +14876,7 @@ a. a. 0. ausdrücklich <foreign xml:lang="grc">παννυχίσι</foreign> hinz
 Familienfesten zu thun, namentlich der dexary, wie denn derselbe
 Autor aus der <foreign xml:lang="grc">Παννυχίς</foreign> des Kallippos XV, p. 608 die
 Stelle anführt:
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>ὁ διαγρυπνήσας πυραμοῦντα λήψεται</l>
 <l>τὰ κοττάβια, καὶ τῶν παρουσῶν ἣν θέλει</l>
@@ -14931,7 +14931,7 @@ Zeit wurde das Singen der alten Skolien für altfränkisch angesehen,
 Nub. 1354:
 
 <pb n="363"/>
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>ʼπειδὴ γὰρ εἱστιώμεθ´, ὥσπερ ἴστε,</l>
 <l>πρῶτον μὲν αὐτὸν τὴν λύραν λαβόντʼ ἐγὼ ʼκέλευσα</l>
@@ -14946,7 +14946,7 @@ v. 1371. Hatte doch dieser Abgott des jüngeren Geschlechts
 selbst sich gegen den Brauch ausgesprochen: Med.
 190ff., wo es am Schlusse heisst:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>ἵνα δʼ εὔδειπνοι</l>
 <l>δαῖτες, τέ μάτην τείνουσι βοάν;</l>
@@ -14984,7 +14984,7 @@ findet: <foreign xml:lang="grc">Κλεάρχου γρῖφος· <sic>Αἷνό�
  <foreign xml:lang="grc">νάρθηκος <sic>κισήρει</sic></foreign>. Auch das alte Räthsel des Kleobulos auf
 das Jahr bei Diog. Laërt. 1. 91:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 
 <l>εἷς ὁ πατήρ, παῖδες δὲ δυώδεκα· τῶν δέ θ᾽ ἑκάστῳ </l>
@@ -14998,7 +14998,7 @@ der Sphinx nicht anders (Sophocl. Oed. tyr. 393. 1525),
 und dagegen wird <foreign xml:lang="grc">γρῖφος</foreign> von den läppischsten Witzen der Art
 gesagt, wie bei Aristoph. Vesp. 20:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>οὐδὲν ἄρα γρίφου διαφέρει Κλεώνυμος.</l>
 <l>πῶς δή; προσερεῖ τις τοῖσι συμπόταις λέγων·</l>
@@ -15306,7 +15306,7 @@ Arten, die Poll. IX. 97 ausdrücklich unterscheidet: <foreign xml:lang="grc">ἐ
 <foreign xml:lang="grc">ψῆφοι μέν εἰσιν οἱ <sic>πεσσοί͵</sic> πέντε δὲ</foreign> Exdrepog <foreign xml:lang="grc">εἶχε τῶν παιζόντων</foreign>
 <foreign xml:lang="grc">ἐπὶ πέντε γραμμῶν, εἰκότως εἴρηται Σοφοκλεῖ</foreign>·
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <foreign xml:lang="grc">καὶ <sic>πεσσὰ</sic> <sic>πεντέγραμμα</sic> καὶ κύβων βολαί</foreign>:·
 </quote>
@@ -15405,7 +15405,7 @@ Min. p. 816: <foreign xml:lang="grc">ἐπειδὰν δʼ ἐννοήσω, ὅ�
 Gegner einen Vortheil gewähren, hiess <foreign xml:lang="grc">κρεῖσσον διδόναι</foreign>, wie
 sich aus Eurip. Suppl. 409 schliessen lässt:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>ἕν μὲν τόδʼ ἡμῖν ὥσπερ ἐν πεσσοῖς δίδως</l>
 <l><sic>κρεῖσσον</sic>.</l>
@@ -15423,7 +15423,7 @@ Platze gerückten und auf der Tafel zerstreuten Steinen
 vergleicht derselbe Dichter auch bei Plutarch. de exil. 13
 die Städte Griechenlands im Gegensatze zu Athen:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>αὐτόχθονες δʼ ἔφυμεν·  αἱ δʼ ἄλλαι πόλεις,</l>
 <l>πεσσῶν ὁμοίως διαφορηθεῖσαι βολαῖς,</l>
@@ -15485,7 +15485,7 @@ Eine Hauptsache dabei war, dass man seine Steine nicht vereinzelte
 sondern mindestens auf je einer Linie zwei behielt (<foreign xml:lang="grc"><sic>δίζυγες</sic></foreign>). Jenen Fehler hatte der eine Partner im Epigramme
 begangen, weshalb es heisst:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 <l>δοιὰ καὶ ἓξ καὶ πέντε κατήγαγεν, αύτίκα δʼ ὀχτώ -</l>
 <l>ἄζυγας εἶχεν ὅλας πρόσθε μεριζομένας.</l>
 </quote>
@@ -15512,7 +15512,7 @@ de insomn. 6. 2 und in <foreign xml:lang="grc">διὰ δακτύλων κλῆ�
 Hephaest. V, 1 finden. Beschrieben wird es von Nonn.
 XXXIL, 77:
 
-<quote xml:lang="grc">
+<quote rend="blockquote" xml:lang="grc">
 
 <l>λαχμὸς ἔην μεθέπων ἑτερότροπα δάκτυλα χείρων.</l>
 <l>καὶ τὰ μὲν ὀρθώσαντες ἀνέσχεθον, ἄλλα δὲ καρπῷ</l>
