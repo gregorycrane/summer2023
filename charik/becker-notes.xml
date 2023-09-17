@@ -6104,11 +6104,13 @@ keine ungewöhnliche Erscheinung, wo sie als xölaxes oder <foreign xml:lang="gr
 auftreten. Was der Parssit des Epicharmos bei Athen.
 a. a. O. von sich sagt:
 
-<foreign xml:lang="grc"><sic>συνδειπνέω</sic> τῷ</foreign> Awyrı, <foreign xml:lang="grc">καλέσαι δεῖ μόνον</foreign>,
-<foreign xml:lang="grc">καὶ τῷ γα μηδὲ λῶντι, <sic>χωὐδὲν</sic> δεῖ καλεῖν</foreign>·
-<foreign xml:lang="grc">τηνεὶ δὲ χαρίεις τʼ εἰμὶ καὶ ποιέω πολύν</foreign>
-<foreign xml:lang="grc">γέλωτα καὶ τὸν <sic>ἱστιῶντʼ</sic> ἐπαινέω</foreign>·
+<quote xml:lang="grc">
 
+<l><sic>συνδειπνέω</sic> τῷ λῶντι, καλέσαι δεῖ μόνον,</l>
+<l>καὶ τῷ γα μηδὲ λῶντι, <sic>χωὐδὲν</sic> δεῖ καλεῖν·</l>
+<l>τηνεὶ δὲ χαρίεις τʼ εἰμὶ καὶ ποιέω πολύν</l>
+<l>γέλωτα καὶ τὸν <sic>ἱστιῶντʼ</sic> ἐπαινέω·</l>
+</quote>
 
 das drückt vollständig den Charakter des Philippos aus, wie er sich
 bei Xenoph, Symp. 1, 11 in Kallias Haus einführt, was hier für
@@ -6167,12 +6169,17 @@ wenn es eine gute Mahlzeit galt; <foreign xml:lang="grc"><sic>οὓς</sic> ο�
 <foreign xml:lang="grc">χαλκὸς εἴργει μὴ φοιτᾶν ἐπὶ δεῖπνον</foreign>, sagt Plutarch. de adul.3.
 Die Schilderung, welche Alexis bei Athen. IV, p. 164 f. von
 Chaerephon giebt:
-<foreign xml:lang="grc">ὅπου γάρ ἐστιν ὁ κέραμος μισθώσιμος</foreign>
-<foreign xml:lang="grc">ὁ τοῖς μαγείροις, εὐθὺς ἐξ <sic>ἑωθινοῦ</sic></foreign>
-<foreign xml:lang="grc">ἔστηκεν ἐλθών· κἂν ἴδῃ μισθούμενον</foreign>
-<foreign xml:lang="grc">εἰς ἑστίασιν, τοῦ μαγείρου πυθόμενος</foreign>
-<foreign xml:lang="grc">τὸν ἑστιῶντα, τῆς θύρας χασμωμένης</foreign>
-<foreign xml:lang="grc">ἂν ἐπιλάβηται, πρῶτος εἰσελήλυθεν</foreign>,
+
+<quote xml:lang="grc">
+
+<l>ὅπου γάρ ἐστιν ὁ κέραμος μισθώσιμος</l>
+<l>ὁ τοῖς μαγείροις, εὐθὺς ἐξ <sic>ἑωθινοῦ</sic></l>
+<l>ἔστηκεν ἐλθών· κἂν ἴδῃ μισθούμενον</l>
+<l>εἰς ἑστίασιν, τοῦ μαγείρου πυθόμενος</l>
+<l>τὸν ἑστιῶντα, τῆς θύρας χασμωμένης</l>
+<l>ἂν ἐπιλάβηται, πρῶτος εἰσελήλυθεν,</l>
+</quote>
+
 ist gewiss aus dem Leben gegriffen; wenigstens spürten diese Leute,
 wie auch des Philippos Beispiel beweist, sorgfältig aus, wo etwa ein
 Fest veranstaltet war, trieben auf dem Markte und in den Bädern
@@ -6213,16 +6220,28 @@ p. 253 ff. Meineke Hist. crit. com. Graec. p. 343; Avellino
 Opuscoli t. I, p. 215 fi. Es gab selbst Anekdotensammlungen,
 vermittelst deren sich die Parasiten auf ihre Leistungen präparirten:
 Plaut. Stich. III, 2, 1:
-Libros inspexi: tam confido quam potest,
-me meum oblenturum regem ridiculis meis,
+
+<quote xml:lang="lat">
+    <l>Libros inspexi: tam confido quam potest,</l>
+    <l>me meum oblenturum regem ridiculis meis,</l>
+
+
+</quote>
 und Pers. III, 1, 67:
-Librorum eccillum habeo plenum soracum.
-Sı hoc accurassis lepide, cui re operam damus,
+
+<quote xml:lang="lat">
+    <l>Librorum eccillum habeo plenum soracum.</l>
+    <l>Si hoc accurassis lepide, cui re operam damus,</l>
+
+
+
 
 <pb n="160"/>
+<l>dabuntur dotis tibi inde sexcenti logi,</l>
+<l>atque Attici omnes, nullum Siculum acceperts.</l>
 
-dabuntur dotis tibi inde sexcenti logi,
-atque Attici omnes, nullum Siculum acceperts.]
+
+</quote>]
 </p>
 </note>
 
@@ -6238,9 +6257,13 @@ Böckh Explic. p. 162; [auch Hermann Privatalterth. $. 7,
 n. 19 ff. und Bursian Geogr. I, S. 201.] Von den Dichterstellen,
 welche Athen. X, p. 417 anführt, hebe ich nur eine des Eubulos
 aus:
-<foreign xml:lang="grc">πονεῖν μὲν ἄμμες καὶ φαγεῖν μάλʼ <sic>ἀνδρικοί</sic></foreign>
-<foreign xml:lang="grc">καὶ καρτερῆσαι, τοὶ δʼ <sic>Ἀθηναῖοι</sic> λέγειν</foreign>
-<foreign xml:lang="grc">καὶ μικρὰ φαγέμεν, τοὶ δὲ Θηβαῖοι μέγα</foreign>.
+
+<quote xml:lang="grc">
+
+<l>πονεῖν μὲν ἄμμες καὶ φαγεῖν μάλʼ <sic>ἀνδρικοί</sic></l>
+<l>καὶ καρτερῆσαι, τοὶ δʼ <sic>Ἀθηναῖοι</sic> λέγειν</l>
+<l>καὶ μικρὰ φαγέμεν, τοὶ δὲ Θηβαῖοι μέγα.</l>
+</quote>
 Gewichtiger ist das Zeugniss des Polybios XX, 4, 7, wo er auf
 die kurze Periode ihres Ruhms hinweisend von der folgenden Zeit
 sagt: <foreign xml:lang="grc">ὁρμήσαντες πρὸς εὐωχίαν καὶ μέθας οὐ μόνον τοὶς σώμασιν</foreign>
@@ -6280,29 +6303,44 @@ den ersten Rang; daher auch der Demos bei Aristoph. Equit. 966
 28, n. 23. Lenz Botan. der Griech. u. Röm. 1859. S. 154 ff.]
 Doch flocht man auch andere Blumen ein, namentlich Veilchen und
 den zweifelhaften daxıvdos. Theocr. Id. X, 98:
-<foreign xml:lang="grc"><sic>καὶ</sic> τὸ ἴον μέλαν ἐντὶ καὶ ἁ γραπτὰ <sic>ὑάκινθος</sic></foreign>·
-<foreign xml:lang="grc">ἀλλʼ <sic>ἔμπας</sic> ἐν τοῖς στεφάνοις τὰ πρῶτα λέγονται</foreign>.
+
+<quote xml:lang="grc">
+
+<l><sic>καὶ</sic> τὸ ἴον μέλαν ἐντὶ καὶ ἁ γραπτὰ <sic>ὑάκινθος</sic>·</l>
+<l>ἀλλʼ <sic>ἔμπας</sic> ἐν τοῖς στεφάνοις τὰ πρῶτα λέγονται.</l>
+</quote>
 Besonders Veilchenkränze scheinen in Athen sehr beliebt gewesen zu
 sein und <foreign xml:lang="grc">ἰοστέφανοι</foreign> ist ein Beiwort der Athener. Aristoph. Acharn.
 636; Equit. 1322; Pind. Fragm. 45. 46. Oft wurden Kränze aus
 den mannichfaltigsten Blumen gewunden. Von dem symbolischen
 Kranze Meleager’s (Anthol. Pal. IV, 1) abgesehen, heisst es ebendaselbst
 V, 74:
-<foreign xml:lang="grc">πέμπω σοι, <sic>Ῥοδόκλεια</sic>, τόδε στέφος, ἄνθεσι καλοῖς</foreign>
-<foreign xml:lang="grc">αὐτὸς 69’ ἡμετέραις πλεξάμενος παλάμαις</foreign>,
-<foreign xml:lang="grc">ἔστι κρίνον ῥοδέη τε κάλυξ νοτε</foreign>ρή T’ <foreign xml:lang="grc">ἀνεμώνη</foreign>
-<foreign xml:lang="grc">καὶ νάρκισσος ὑγρὸς καὶ κυαναυγὲς ἴον</foreign>:
+
+<quote xml:lang="grc">
+
+<l>πέμπω σοι, <sic>Ῥοδόκλεια</sic>, τόδε στέφος, ἄνθεσι καλοῖς</l>
+<l>αὐτὸς ὑφ’ ἡμετέραις πλεξάμενος παλάμαις,</l>
+<l>ἔστι κρίνον ῥοδέη τε κάλυξ νοτερή τ᾽ ἀνεμώνη</l>
+<l>καὶ νάρκισσος ὑγρὸς καὶ κυαναυγὲς ἴον:</l>
+</quote>
 ebend. 147:
-<foreign xml:lang="grc">πλέξω <sic>λευκόϊον</sic>, πλέξω δʼ ἁπαλὴν ἅμα μύρτοις</foreign>
-<foreign xml:lang="grc">νάρκισσον, πλέξω καὶ τὰ γελῶντα κρίνα</foreign>,
-<foreign xml:lang="grc">πλέξω καὶ κρόκον ἡδύν, ἐπιπλέξω δʼ <sic>ὑάκινθον</sic></foreign>
-<foreign xml:lang="grc">πορφυρέην, πλέξω καὶ φιλέραστα ῥόδα</foreign>,
-<foreign xml:lang="grc">ὡς ἂν ἐπὶ κροτάφοις μυροβοστρύχου Ἡλιοδώρας</foreign>
-<foreign xml:lang="grc">εὐπλόκαμον χαίτην ἀνθοβολῇ στέφανος</foreign>.
+
+<quote xml:lang="grc">
+
+<l>πλέξω <sic>λευκόϊον</sic>, πλέξω δʼ ἁπαλὴν ἅμα μύρτοις</l>
+<l>νάρκισσον, πλέξω καὶ τὰ γελῶντα κρίνα,</l>
+<l>πλέξω καὶ κρόκον ἡδύν, ἐπιπλέξω δʼ <sic>ὑάκινθον</sic></l>
+<l>πορφυρέην, πλέξω καὶ φιλέραστα ῥόδα,</l>
+<l>ὡς ἂν ἐπὶ κροτάφοις μυροβοστρύχου Ἡλιοδώρας</l>
+<l>εὐπλόκαμον χαίτην ἀνθοβολῇ στέφανος.</l>
+</quote>
 Vgl. auch das artige Epigramm 81, das zu Sc. IV, Anm. 3 angeführt
 werden sollte:
-<foreign xml:lang="grc">ἢ τὰ ῥόδα, ῥοδόεσσαν ἔχεις χάριν· ἀλλὰ</foreign> Ti <foreign xml:lang="grc">πωλεῖς</foreign>;
-<foreign xml:lang="grc">σαυτὴν ἣ τὰ ῥόδα ἠὶ συναμφότερα</foreign>;
+<quote xml:lang="grc">
+
+<l>ἡ τὰ ῥόδα, ῥοδόεσσαν ἔχεις χάριν· ἀλλὰ τί πωλεῖς;</l>
+<l>σαυτὴν ἣ τὰ ῥόδα ἠὶ συναμφότερα;</l>
+</quote>
 Athenaeos nennt von p. 676 an eine Menge Namen verschiedener
 Kränze, die auf die frühere Zeit schwerlich Anwendung leiden, wo
 
@@ -6311,8 +6349,12 @@ Kränze, die auf die frühere Zeit schwerlich Anwendung leiden, wo
 dergleichen Distinetionen nicht gemacht wurden. — Neben der Myrte
 scheint besundeıs das Laub der Silberpappel und des Epheu zu Kränzen
 benutzt worden zu sein. Theoer. 11, 121:
+
+<quote xml:lang="grc">
+
 zpari <foreign xml:lang="grc">δʼ ἔχων λεύκαν,  <sic>Ἡρακλέος</sic> ἱερὸν ἔρνος</foreign>,
-<foreign xml:lang="grc">πάντοτε <sic>πορφυρέησι</sic> <sic>περιζώστρῃσιν</sic> ἑλικτάν</foreign>.
+<l>πάντοτε <sic>πορφυρέησι</sic> <sic>περιζώστρῃσιν</sic> ἑλικτάν.</l>
+</quote>
 </p>
 
 <p>Die <foreign xml:lang="grc">πορφυραῖ <sic>περιζῶστραι</sic></foreign> müssen von Tänien verstanden werden,
@@ -6349,23 +6391,29 @@ Lucian. Saturn. 4.
 <note n="12b" xml:lang="deu"><p>
 [Anwendung der von Athen. XIII, p. 579 aus Machon’s
 Sammlung erzählten Anekdote:
-<foreign xml:lang="grc">παρὰ</foreign> Ivasdaivn <foreign xml:lang="grc">Δίφιλος πίνων ποτέ</foreign>,
-<foreign xml:lang="grc">ψυχρόν γʼ, ἔφη, τἀγγεῖον, ὦ <sic>Γνάθαινʼ</sic>, ἔχεις</foreign>·
-<foreign xml:lang="grc">τῶν σῶν γάρ, εἶπεν: ἐπιμελῶς, ὦ <sic>Δίφιλε</sic></foreign>,
-<foreign xml:lang="grc">εἰς αὐτό γʼ</foreign> dei <foreign xml:lang="grc">δραμάτων ἐμβάλλομεν</foreign>.]
+
+<quote xml:lang="grc">
+
+<l>παρὰ Γναθαἰνῃ Δίφιλος πίνων ποτέ,</l>
+<l>ψυχρόν γʼ, ἔφη, τἀγγεῖον, ὦ <sic>Γνάθαινʼ</sic>, ἔχεις·</l>
+<l>τῶν σῶν γάρ, εἶπεν: ἐπιμελῶς, ὦ <sic>Δίφιλε</sic>,</l>
+<l>εἰς αὐτό γʼ ἀεὶ δραμάτων ἐμβάλλομεν.</l>
+</quote>]
 </p>
 </note>
 
 <note n="13" xml:lang="deu"><p>
 Alexis bei Athen. X, p. 431 e:
-<foreign xml:lang="grc">τοῦτʼ ἔσθʼ, ὁρᾶς</foreign>, 'Elinvıxös
-<foreign xml:lang="grc">πότος, μετρίοισι χρωμένους ποτηρίοις</foreign>
-<foreign xml:lang="grc">λαλεῖν τι καὶ ληρεῖν πρὸς αὑτοὺς ἡδέως</foreign>·
-<foreign xml:lang="grc">τὸ μὲν γὰρ ἕτερον λουτρόν ἐστιν, οὐ πότος</foreign>:
+<quote xml:lang="grc">
 
+<l>τοῦτʼ ἔσθʼ, ὁρᾶς, Ἑλληνικός</l>
+<l>πότος, μετρίοισι χρωμένους ποτηρίοις</l>
+<l>λαλεῖν τι καὶ ληρεῖν πρὸς αὑτοὺς ἡδέως·</l>
+<l>τὸ μὲν γὰρ ἕτερον λουτρόν ἐστιν, οὐ πότος:</l>
+</quote>
 <pb n="163"/>
 
-vgl. Plato Symp. p. 214: <foreign xml:lang="grc">πῶς οὖν, ὦ</foreign> Alxıfıadn, <foreign xml:lang="grc">ποιοῦμεν; οὕτως</foreign>
+vgl. Plato Symp. p. 214: <foreign xml:lang="grc">πῶς οὖν, ὦ Ἀλκιβιάδη,  ποιοῦμεν; οὕτως</foreign>
 <foreign xml:lang="grc">οὔ<foreign xml:lang="grc">τε</foreign> τι λέγομεν ἐπὶ τῇ κύλικι οὔ<foreign xml:lang="grc">τε</foreign> τε <sic>ᾄδομεν</sic>; <sic>ἀλλ'</sic> ἀτεχνῶς ὥσπερ</foreign>
 <foreign xml:lang="grc">οἱ διψῶντες πιόμεθα</foreign>;
 </p>
@@ -6374,39 +6422,58 @@ vgl. Plato Symp. p. 214: <foreign xml:lang="grc">πῶς οὖν, ὦ</foreign> 
 <note n="14" xml:lang="deu"><p>
 Ein Rätbsel des Tragikers Theodektes bei Athen. X,
 p. 451 f.:
+
+<quote xml:lang="grc">
+
 <foreign xml:lang="grc">εἰσὶ κασίγνηται διτταί, ὧν ἢ μία τίκτει</foreign>
 <foreign xml:lang="grc">τὴν ἑτέραν, αὐτὴ δὲ τεκοῦσʼ ὑπὸ τῆσδε τεκνοῦται</foreign>.
+</quote>
 </p>
 </note>
 
 <note n="15" xml:lang="deu"><p>
 Ebenfalls von Theodektes daselbst:
-<foreign xml:lang="grc">τίς φύσις <sic><foreign xml:lang="grc"><sic>οὔθ'</sic></foreign></sic> ὅσα γαῖα φέρει τροφὸς <sic><foreign xml:lang="grc"><sic>οὔθ'</sic></foreign></sic> ὅσα πόντος</foreign>,
-<foreign xml:lang="grc">οὔτε βροτοῖσιν ἔχει γυίων αὔξησιν ὁμοίαν</foreign>;
-<foreign xml:lang="grc">ἀλλʼ ἐν μὲν γενέσει πρωτοσπόρῳ ἐστὶ μεγίστη</foreign>,
-<foreign xml:lang="grc">ἐν δὲ μέσαις ἀκμαῖς μικρά, γήρᾳ δὲ πρὸς αὐτῷ</foreign>
-<foreign xml:lang="grc">μορφῇ καὶ μεγέθει μείζων πάλιν ἐστὶν ἁπάντων</foreign>.
+
+<quote xml:lang="grc">
+
+<l>τίς φύσις <sic><foreign xml:lang="grc"><sic>οὔθ'</sic></foreign></sic> ὅσα γαῖα φέρει τροφὸς <sic><foreign xml:lang="grc"><sic>οὔθ'</sic></foreign></sic> ὅσα πόντος,</l>
+<l>οὔτε βροτοῖσιν ἔχει γυίων αὔξησιν ὁμοίαν;</l>
+<l>ἀλλʼ ἐν μὲν γενέσει πρωτοσπόρῳ ἐστὶ μεγίστη,</l>
+<l>ἐν δὲ μέσαις ἀκμαῖς μικρά, γήρᾳ δὲ πρὸς αὐτῷ</l>
+<l>μορφῇ καὶ μεγέθει μείζων πάλιν ἐστὶν ἁπάντων.</l>
+</quote>
+
 </p>
 </note>
 
 <note n="16" xml:lang="deu"><p>
-Alexis bei Athen. X, p. 449 ἃ:
-ob <foreign xml:lang="grc">θνητὸς οὐδʼ</foreign> ddavaros, <foreign xml:lang="grc">ἀλλʼ ἔχων τινά</foreign>
-<foreign xml:lang="grc">σύγκρασιν, ὥστε μήτʼ ἐν ἀνθρώπου μέρει</foreign>
-<foreign xml:lang="grc">μήτʼ ἐν θεοῦ ζῆν, ἀλλὰ φύεσθαί</foreign> T’ dei
-<foreign xml:lang="grc">καινῶς φθίνειν τε τὴν παρουσίαν πάλιν</foreign>,
-<foreign xml:lang="grc">ἀόρατος ὄψιν, γνώριμος δʼ ἅπασιν ὦν</foreign>.
+Alexis bei Athen. X, p. 449 d:
+<quote xml:lang="grc">
+
+<l>οὐ θνητὸς οὐδʼ ἀθάνατος, ἀλλʼ ἔχων τινά</l>
+<l>σύγκρασιν, ὥστε μήτʼ ἐν ἀνθρώπου μέρει</l>
+<l>μήτʼ ἐν θεοῦ ζῆν, ἀλλὰ φύεσθαί T’ dei</l>
+<l>καινῶς φθίνειν τε τὴν παρουσίαν πάλιν,</l>
+<l>ἀόρατος ὄψιν, γνώριμος δʼ ἅπασιν ὦν.</l>
+</quote>
 </p>
 </note>
 
 <note n="17" xml:lang="deu"><p>
 Dieses Räthsel, das zu den besten gehört, welche uns aufbewahrt
 sind, lässt Antiphanes ebend. p. 450 e. die Sappho aufgeben:
-<foreign xml:lang="grc">ἔστι φύσις θήλεια βρέφη <sic>σώζουσ'</sic> ὑπὸ κόλποις</foreign>
-<foreign xml:lang="grc"><sic>αὐτῆς</sic>· ὄντα δʼ ἄφωνα βοὴν <sic>ἵστησι</sic> γεγωνόν</foreign>
-<foreign xml:lang="grc">καὶ διὰ πόντιον <sic>οἶδμα</sic> <sic>καὶ</sic> <sic>ἠπείρου</sic> διὰ πάσης</foreign>,
-<foreign xml:lang="grc">οἷς ἐθέλει θνητῶν· τοὶς δʼ οὐ παρεοῦσιν ἀκούειν</foreign>
-<foreign xml:lang="grc">ἔξεστιν· κωφὴν δʼ ἀκοῆς αἴσθησιν ἔχουσιν</foreign>.
+
+<quote xml:lang="grc">
+
+<l>ἔστι φύσις θήλεια βρέφη <sic>σώζουσ'</sic> ὑπὸ κόλποις</l>
+<l><sic>αὐτῆς</sic>· ὄντα δʼ ἄφωνα βοὴν <sic>ἵστησι</sic> γεγωνόν</l>
+<l>καὶ διὰ πόντιον <sic>οἶδμα</sic> <sic>καὶ</sic> <sic>ἠπείρου</sic> διὰ πάσης,</l>
+<l>οἷς ἐθέλει θνητῶν· τοὶς δʼ οὐ παρεοῦσιν ἀκούειν</l>
+<l>ἔξεστιν· κωφὴν δʼ ἀκοῆς αἴσθησιν ἔχουσιν.</l>
+
+
+</quote>
+
 </p>
 </note>
 
@@ -6504,10 +6571,15 @@ Lebens 8. 23, Gerhard arch. Zeit. 1848, S. 224, Minervini
 Mon. ined. pl. 3. 9. Stephani Compte rendu pour l’annde
 1863, p. 149. Atl. pl. II, 10; auch Guhl u. Koner, Fig. 305, 306
 und 307.]
-23)' So wünschenswerth es erscheinen muss, dass einmal eine
+</p>
+</note>
+
+<note n="23" xml:lang="deu"><p>
+
+So wünschenswerth es erscheinen muss, dass einmal eine
 gründliche Erörterung der gesammten Tanzkunst der Alten angestellt
 werde, wozu es an Material durchaus nicht fehlt [vgl. Meursii Orchestra
-in <foreign xml:lang="grc">ὅτου</foreign>. Thes. t. VII; Burette in M. de 1’Acad. ἃ,
+in <foreign xml:lang="grc">ὅτου</foreign>. Thes. t. VII; Burette in M. de l’Acad. d.
 Inscript. t. I, p. 93—135; v. Leutsch Metrik 8. 372 8.;
 Krause Gymnastik 8.100 ff. H. Buchholz die Tanzkunst des
 Euripides, 1871], so liegt doch eine solche ganz ausserhalb des Kreises
@@ -6524,11 +6596,11 @@ Poesie durch Worte (<foreign xml:lang="grc">λέξις</foreign>), das soll der 
 
 <pb n="166"/>
 
-16 6 Anmerkungen
 ynors) bewirken; daher beide in genauem Zusammenhange stehen
 und der letztere der natürlichen Action beim mündlichen Vortrage
 seinen Ursprung verdankt. So erklärt sich Plato Leg. VII, p. 816:
-<foreign xml:lang="grc">ὅλως δὲ φθεγγόμενος εἴτʼ ἐν ὠδαῖς εἴτʼ</foreign> Ev <foreign xml:lang="grc">λόγοις ἡσυχίαν οὗ πάνυ</foreign>.
+
+<foreign xml:lang="grc">ὅλως δὲ φθεγγόμενος εἴτʼ ἐν ὠδαῖς εἴτʼ ἐν λόγοις ἡσυχίαν οὗ πάνυ</foreign>.
 <foreign xml:lang="grc">δυνατὸς τῷ σώματι παρέχεσθαι πᾶς· διὸ μίμησις τῶν λεγομένων</foreign>
 <foreign xml:lang="grc">σχήμασι γενομένη τὴν ὀρχηστικὴν ἐξειργάσατο τέχνην ἅπασαν</foreign>.
 Deutlicher noch spricht sich über das <foreign xml:lang="grc">μιμητικόν</foreign> des Tanzes derselbe
@@ -6625,12 +6697,16 @@ die dabei an den Tag tretende, von Herodot als <foreign xml:lang="grc">ἀναι
 raffinirte Kunstfertigkeit] die Braut verscherzte; allein auch
 sonst wird es gewöhnlich als ein Zeichen von [jugendlicher] Leichtfertigkeit
 betrachtet, zu der meistens beginnender Rausch veranlasst.
-Athen. IV, p. 134 a: ”AleEıs <foreign xml:lang="grc">δʼ ἐν</foreign> Tapevrivors <foreign xml:lang="grc">ἐν τοῖς συμποσίοις</foreign>
-<foreign xml:lang="grc"><sic>φησὶ</sic> τοὺς <sic>Ἀττικοὺς</sic></foreign> zai <foreign xml:lang="grc">ὀρχεῖσθαι <sic>ὑποπιόντας</sic></foreign>·
-— <foreign xml:lang="grc">τοῦτο γὰρ νῦν ἐστί σοι</foreign>
-<foreign xml:lang="grc">ἐν ταῖς</foreign> Adnvars <foreign xml:lang="grc">ταῖς χαλαῖς ἐπιχώριον</foreign>·
-<foreign xml:lang="grc">ἅπαντες <sic>ὀρχοῦντʼ</sic> <sic>εὐθὺς</sic>, ἂν <sic>οἴνου</sic> μόνον</foreign>
-<foreign xml:lang="grc">ὀσμὴν ἴδωσι. --- <sic>Συμφορὰν</sic> λέγεις ἄκραν</foreign>.
+Athen. IV, p. 134 a: <foreign xml:lang="grc">Ἄλεξις δʼ ἐν</foreign> Tapevrivors <foreign xml:lang="grc">ἐν τοῖς συμποσίοις</foreign>
+<foreign xml:lang="grc"><sic>φησὶ</sic> τοὺς <sic>Ἀττικοὺς</sic> καὶ</foreign>  <foreign xml:lang="grc">ὀρχεῖσθαι <sic>ὑποπιόντας</sic></foreign>·
+
+<quote xml:lang="grc">
+
+<l>— τοῦτο γὰρ νῦν ἐστί σοι</l>
+<l>ἐν ταῖς Ἀθήναις ταῖς χαλαῖς ἐπιχώριον·</l>
+<l>ἅπαντες <sic>ὀρχοῦντʼ</sic> <sic>εὐθὺς</sic>, ἂν <sic>οἴνου</sic> μόνον</l>
+<l>ὀσμὴν ἴδωσι. --- <sic>Συμφορὰν</sic> λέγεις ἄκραν.</l>
+</quote>
 So gilt es auch als höchster Grad des Vergnügtseins, das durch den
 Wein hervorgebracht wird, bei Xenoph. Hier. 6, 2: <foreign xml:lang="grc">διῆγον δʼ ἐν</foreign>
 <foreign xml:lang="grc">συμποσίοις πολλάκις μὲν μέχρι τοῦ ἐπιλαθέσθαι πάντων, εἴ τι <sic>χαλεπὸν</sic></foreign>
@@ -6658,14 +6734,23 @@ und Gubl und Koner Fig. 310). In Privatbäusern tanzten auch
 die Weiber bei Familienfesten, z. B. Hochzeiten und Kindtaufen:
 Athen. XV, p. 668: <foreign xml:lang="grc">ὅτε δὲ καὶ φίλημα ἦν <sic>ἆθλον</sic>, ἑξῆς λέγει</foreign>
 <foreign xml:lang="grc">Εὔβουλος</foreign>·
-<foreign xml:lang="grc">Εἶεν, γυναῖκες νῦν ὅπως τὴν <sic>νύχθʼ</sic> ὅλην</foreign>
-<foreign xml:lang="grc">ἐν τῇ δεκάτῃ τοῦ παιδίου χορεύσετε</foreign>.
-<foreign xml:lang="grc">θήσω δὲ νικητήριον τρεῖς ταινίας</foreign>,
-<foreign xml:lang="grc">καὶ μῆλα πέντε καὶ φιλήματʼ ἐννέα</foreign>.
+
+<quote xml:lang="grc">
+
+<l>Εἶεν, γυναῖκες νῦν ὅπως τὴν <sic>νύχθʼ</sic> ὅλην</l>
+<l>ἐν τῇ δεκάτῃ τοῦ παιδίου χορεύσετε.</l>
+<l>θήσω δὲ νικητήριον τρεῖς ταινίας,</l>
+<l>καὶ μῆλα πέντε καὶ φιλήματʼ ἐννέα.</l>
+</quote>
+
 Dahin gehört auch Aristoph. Lysistr. 408:
-<foreign xml:lang="grc">ὦ χρυσοχόε, τὸν ὅρμον, ὃν ἐπεσκεύασας</foreign>,
-<foreign xml:lang="grc">ὀρχουμένης μου τῆς γυναικὸς ἑσπέρας</foreign>;
-<foreign xml:lang="grc">ἢ βάλανος ἐκπέπτωκεν</foreign> Ex <foreign xml:lang="grc">τοῦ τρήματος</foreign>.
+
+<quote xml:lang="grc">
+
+<l>ὦ χρυσοχόε, τὸν ὅρμον, ὃν ἐπεσκεύασας,</l>
+<l>ὀρχουμένης μου τῆς γυναικὸς ἑσπέρας;</l>
+<l>ἢ βάλανος ἐκ τοῦ τρήματος.</l>
+</quote>
 Doch werden auch hier beide Geschlechter für sich ihre Touren ausgeführt
 haben. Vgl. schon Hom. Odyss. XXIII, 130 f. u. XXIV, 297.]
 </p>
