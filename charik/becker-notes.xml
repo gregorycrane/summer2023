@@ -4627,14 +4627,19 @@ und die schönen Worte V, 2,4:
     Deshalb wird der trunkene Philokleon, der in seinem Uebermuthe
     eine Brodverkäuferin insultirt und eine Anzahl Brode ihr heruntergeworfen
     hat, von ihr verfolgt. Aristoph. Vesp. 1339:
-    <foreign xml:lang="grc"><sic>δδὶ</sic> γάρ ἔστιν ὅς μʼ ἀνὴρ ἀπώλεσε</foreign>
-    <foreign xml:lang="grc">τῇ <sic>δᾳαδὶ</sic> παίων κἀξέβαλεν ἐντευθενί</foreign>
-    <foreign xml:lang="grc">ἄρτους δέχʼ <sic>ὁβολῶν</sic> κἀπιθήκην τέτταρας</foreign>."
+
+    <quote xml:lang="grc">
+
+<l><sic>ὁδὶ</sic> γάρ ἔστιν ὅς μʼ ἀνὴρ ἀπώλεσε</l>
+<l>τῇ <sic>δᾳαδὶ</sic> παίων κἀξέβαλεν ἐντευθενί</l>
+<l>ἄρτους δέκʼ <sic>ὁβολῶν</sic> κἀπιθήκην τέτταρας.</l>
+</quote>
+
     Das Weib zeigt sich hier noch gemässigt genug. Sonst aber scheinen
     diese Brodverkäuferinnen in Athen gewissermassen vorzugsweise die
     dames de la halle gewesen zu sein, trefllich geübt im Keifen und
-    Schimpfen, weshalb Aristoph. Ran. 857 sagt: <foreign xml:lang="grc">λοιδορεῖσθαι ὥσπερ</foreign>
-    üpronwiıdas.
+    Schimpfen, weshalb Aristoph. Ran. 857 sagt: <foreign xml:lang="grc">λοιδορεῖσθαι ὥσπερ ἀρτοπωλίδας</foreign>.
+  
     </p>
     </note>
     
@@ -4684,15 +4689,18 @@ und die schönen Worte V, 2,4:
     eine Drachme, den Richtersold für beide, erhalten hat,
     wechselt sie auf dem Fischmarkte der Theilung wegen: Aristoph.
     Vesp. 788.
-    6\) Nach Alexis bei Ath. VI, 5:
+</p>
+</note>
+
+<note n="6" xml:lang="deu"><p>Nach Alexis bei Ath. VI, 5:
     <foreign xml:lang="grc">τοὺς δʼ ἰχθυοπώλας τοὺς κάκιστʼ ἀπολουμένους</foreign>
     <foreign xml:lang="grc">ἐπὰν ἴδω κάτω βλέποντας, τὰς δʼ ὀφρῦς</foreign>
     <foreign xml:lang="grc">ἔχοντας ἐπάνω τῆς κορυφῆς, ἀποπνίγομαι</foreign>.
-    <foreign xml:lang="grc">ἐὰν δʼ <sic>ἐρωτήσης</sic>, πόσου τοὺς κεστρέας</foreign>
+    <foreign xml:lang="grc">ἐὰν δʼ <sic>ἐρωτήσῃς</sic>, πόσου τοὺς κεστρέας</foreign>
     <foreign xml:lang="grc">πωλεῖς δύʼ ὄντας</foreign>; der’ <foreign xml:lang="grc">ὀβολῶν, φησίν " — βαρύ</foreign>,
     <foreign xml:lang="grc">ὀκτὼ λάβοις ἄν; — εἴπερ ὠνεῖ τὸν ἕτερον</foreign>. —
-    <foreign xml:lang="grc">ὦ τᾶν <sic>λαβὶ</sic> καὶ μὴ παῖζε. --- τοσουδί" παράτρεχε</foreign>. —
-    <foreign xml:lang="grc">ταῦτʼ οὐχὶ <sic>πιχρότερʼ</sic> ἐστὶν αὐ<foreign xml:lang="grc">τῆς</foreign> τῆς χολῆς</foreign>;
+    <foreign xml:lang="grc">ὦ τᾶν <sic>λαβὲ</sic> καὶ μὴ παῖζε. --- τοσουδί" παράτρεχε</foreign>. —
+    <foreign xml:lang="grc">ταῦτʼ οὐχὶ <sic>πικρότερʼ</sic> ἐστὶν αὐ<foreign xml:lang="grc">τῆς</foreign> τῆς χολῆς</foreign>;
     </p>
     </note>
     
@@ -4700,15 +4708,15 @@ und die schönen Worte V, 2,4:
     <foreign xml:lang="grc"><sic>Βλέπειν</sic> νᾶπυ, κάρδαμα</foreign> oder auch <foreign xml:lang="grc">ὀρίγανον</foreign> wird von finsteren
     und verdriesslichen Mienen gesagt, wie bei uns „sauer aussehen“.
     Vom Zorne oder Aerger braucht es Aristoph. Equit. 631:
-    <foreign xml:lang="grc"><sic>χάβλεῴφε</sic> νᾶπυ καὶ τὰ μέτωπʼ ἀνέσπασε</foreign>:
+    <foreign xml:lang="grc"><sic>κἄβλεψε</sic> νᾶπυ καὶ τὰ μέτωπʼ ἀνέσπασε</foreign>:
     allein auch von dem Ernste gesetzter Männer Vesp. 453:
     <foreign xml:lang="grc">ἀλλὰ τούτων μὲν τάχʼ ἡμῖν δώσετον καλὴν δίχην</foreign>,
-    <foreign xml:lang="grc">οὐκέτʼ ἐς <sic>μαχρᾶν</sic>, ἵνʼ <sic>εἴδηθ'</sic> οἷόν ἐστʼ ἀνδρῶν τρόπος</foreign>
+    <foreign xml:lang="grc">οὐκέτʼ ἐς <sic>μακράν</sic>, ἵνʼ <sic>εἴδηθ'</sic> οἷόν ἐστʼ ἀνδρῶν τρόπος</foreign>
     <foreign xml:lang="grc">ὀξυθύμων καὶ δικαίων καὶ βλεπόντων κάρδαμα</foreign>.
     [Eccles. 292: <foreign xml:lang="grc">βλέπων ὑπότριμμα</foreign>. K. F. H] Eustath. ad lliad.
-    ΧΥ͂Ι, 200, p. 1054, 52: <foreign xml:lang="grc">ἐκ τούτων δὲ παρενεχθέντες ἄλλοι <sic>ἔγραday</sic></foreign>
-    <foreign xml:lang="grc"><sic>ἐπὲὶ</sic> τοιούτων ἀνδρῶν εὐτελέστερον τὸ βλέπειν αὐτοὺς νᾶπυ</foreign>
-    N <foreign xml:lang="grc">ὀρίγανον ἤγουν δριμεῖς εἶναι</foreign>.
+    XVI, 200, p. 1054, 52: <foreign xml:lang="grc">ἐκ τούτων δὲ παρενεχθέντες ἄλλοι <sic>ἔγραψαν</sic></foreign>
+    <foreign xml:lang="grc"><sic>ἐπεὶ</sic> τοιούτων ἀνδρῶν εὐτελέστερον τὸ βλέπειν αὐτοὺς νᾶπυ</foreign>
+    <foreign xml:lang="grc">ἤ ὀρίγανον ἤγουν δριμεῖς εἶναι</foreign>.
     </p>
     </note>
     
@@ -4729,24 +4737,24 @@ und die schönen Worte V, 2,4:
     Sitte in blossen Aeusserlichkeiten. Darüber spottet Sokrates
     bei Plato Prot. p. 342, wo er sagt, dass die Spartaner ıhre
     Weisheit vor der Welt geheim hielten: <foreign xml:lang="grc">νῦν δὲ ἀποκρυψάμενοι ἐκεῖνο</foreign>
-    <foreign xml:lang="grc">ἐξηπατήκασι τοὺς</foreign> Ev <foreign xml:lang="grc">ταῖς πόλεσι λακωνίζοντας, καὶ</foreign> ol <foreign xml:lang="grc">μὲν ὦτά τε</foreign>,
+    <foreign xml:lang="grc">ἐξηπατήκασι τοὺς ἐν ταῖς πόλεσι λακωνίζοντας, καὶ οἱ μὲν ὦτά τε</foreign>,
     <foreign xml:lang="grc">κατάγνυνται μιμούμενοι αὐτοὺς καὶ ἱμάντας περιειλίττονται καὶ</foreign>
     <foreign xml:lang="grc">φιλογυμναστοῦσι καὶ βραχείας ἀναβολὰς φοροῦσιν, ὡς δὴ τούτοις</foreign>
     <foreign xml:lang="grc">κρατοῦντας τῶν Ἑλλήνων τοὺς Λακεδαιμονίους</foreign>. Andere Stellen,
     welche uns ein Bild von diesen Leuten entwerfen, sind Plutarch
-    Phoc. 10: <foreign xml:lang="grc">ἦν δέ τις <sic>᾿ρχεβιάδης</sic>, ἐπικαλούμενος <sic>λαχωνιστής</sic>, πώγωνά</foreign>
+    Phoc. 10: <foreign xml:lang="grc">ἦν δέ τις <sic>Ἀρχεβιάδης</sic>, ἐπικαλούμενος <sic>λακωνιστής</sic>, πώγωνά</foreign>
     <foreign xml:lang="grc">τε καθειμένος ὑπερφυῆ μεγέθει καὶ τρίβωνα φορῶν</foreign> dei <foreign xml:lang="grc">καὶ</foreign>
     <foreign xml:lang="grc">σκυθρωπάζων</foreign>. Demosth. in Con. <foreign xml:lang="grc">ὁ. 84: οὗ <sic>μεθ'</sic> ἡμέραν μὲν</foreign>
-    <foreign xml:lang="grc"><sic>ἐσχυθρωπάχασι</sic> <foreign xml:lang="grc">καὶ</foreign> <sic>λαχωνέίζειν</sic> φασὶ καὶ <sic>τρίέβωνας</sic> ἔχουσι καὶ ἁπλᾶς</foreign>
-    <foreign xml:lang="grc"><sic>ὁποδέδενται</sic></foreign>: [Vgl. Wachsmuth Hell. Alterth. B. I, 8. 591.
+    <foreign xml:lang="grc"><sic>ἐσκυθρωπάκασι</sic> <foreign xml:lang="grc">καὶ</foreign> <sic>λακωνίζειν</sic> φασὶ καὶ <sic>τρίβωνας</sic> ἔχουσι καὶ ἁπλᾶς</foreign>
+    <foreign xml:lang="grc"><sic>ὑποδέδενται</sic></foreign>: [Vgl. Wachsmuth Hell. Alterth. B. I, 8. 591.
     656 und E. G. Weber de Laconistis apud Athenienses,
     Weimar 1835. 4.]
     </p>
     </note>
     
     <note n="9" xml:lang="deu"><p>
-    Demosth. a. a. O. sagt von eben diesen Lakonisten: <foreign xml:lang="grc"><sic>ἐἔπειdav</sic></foreign>
-    <foreign xml:lang="grc">δὲ συλλεγῶσι</foreign> xat ner’ <foreign xml:lang="grc">ἀλλήλων γένωνται, κακῶν καὶ αἰσχρῶν</foreign>
+    Demosth. a. a. O. sagt von eben diesen Lakonisten: <foreign xml:lang="grc"><sic>ἐπειδὰν</sic></foreign>
+    <foreign xml:lang="grc">δὲ συλλεγῶσι καὶ μετ᾽ ἀλλήλων γένωνται, κακῶν καὶ αἰσχρῶν</foreign>
     <foreign xml:lang="grc">οὐδὲν ἐλλείπουσι</foreign>.
     </p>
     </note>
@@ -4763,11 +4771,11 @@ und die schönen Worte V, 2,4:
     ihr Ausdruck durch Geberden und Wort erhält durch Zeit und Ort
     eine eigenthümliche Farbe, und wo dieses selbst nicht der Fall ist,
     will es mir nicht weniger lehrreich scheinen, eben diese Uebereinstimmung
-    in dem Benehmen eines griechischen <foreign xml:lang="grc"><sic>ὅπερηφανείᾳ</sic> <sic>ἐπίφθο-</sic></foreign>
+    in dem Benehmen eines griechischen <foreign xml:lang="grc"><sic>ὑπερηφανείᾳ</sic> <sic>ἐπίφθονος</sic></foreign>
     
     <pb n="108"/>
     
-    vos und <foreign xml:lang="grc">νεόπλουτος</foreign> vor mehr als zweitausend Jahren und eines
+     und <foreign xml:lang="grc">νεόπλουτος</foreign> vor mehr als zweitausend Jahren und eines
     heutigen Hochmüthigen oder Glückspilzes kennen zu lernen. In jedem
     Falle aber gewinnt durch solche Charakteristik das Bild des griechischen
     Lebens an Deutlichkeit. Die stolze Aufgeblasenheit reicher
@@ -4775,21 +4783,21 @@ und die schönen Worte V, 2,4:
     <foreign xml:lang="grc">γενναῖοι ἐκ βαλαντίου</foreign> genannt wurden, wird von mehr als einem
     Schriftsteller nach dem Leben mit sprechender Wahrheit geschildert.
     Von Meidias sagt Demosth. in Mid. <foreign xml:lang="grc">ὁ. 158: καὶ τρεῖς ἀκολούθους</foreign>
-    ἢ <foreign xml:lang="grc">τέτταρας αὐτὸς</foreign> Eywv <foreign xml:lang="grc">διὰ τῆς ἀγορᾶς σοβεῖ, κυμβία <foreign xml:lang="grc">καὶ</foreign></foreign> hura <foreign xml:lang="grc">καὶ</foreign>
+    <foreign xml:lang="grc">ἢ τέτταρας αὐτὸς ἔχων διὰ τῆς ἀγορᾶς σοβεῖ, κυμβία καὶ ῥυτὰ καὶ</foreign>
     <foreign xml:lang="grc">φιάλας ὀνομάζων οὕτως ὥστε τοὺς παριόντας ἀκούειν</foreign>, von Aeschines
     de falsa leg. <foreign xml:lang="grc">ὁ. 814: διὰ τῆς ἀγορᾶς πορεύεται τὸ ἱμάτιον</foreign>
     <foreign xml:lang="grc">καθεὶς ἄχρι τῶν σφυρῶν, ἴσα βαίνων Πυθοκλεῖ, τὰς γνάθους φυσῶν</foreign>,
-    von Nikobulos adv. Pantaen. <foreign xml:lang="grc">ὁ. 52: <sic>Λιχόβουλος</sic> δʼ ἐπίφθονός</foreign>
+    von Nikobulos adv. Pantaen. <foreign xml:lang="grc">ὁ. 52: <sic>Νικόβουλος</sic> δʼ ἐπίφθονός</foreign>
     <foreign xml:lang="grc">ἔστι καὶ ταχέως βαδίζει καὶ μέγα φθέγγεται καὶ βακτηρίαν</foreign>
     <foreign xml:lang="grc">φορεῖ</foreign>, von Meidias nochmals $. 200: ἦ <foreign xml:lang="grc">πόλις αὐτὸν οὐ χωρεῖ</foreign>. Vgl.
     damit den dem Sokrates gemachten Vorwurf, Aristopb. ΝΡ. 362:
     <foreign xml:lang="grc">ὅτι βρενθύει τʼ ἐν ταῖσιν ὁδοῖς καὶ τὠφθαλμὼ παραβάλλεις</foreign>:
-    auch Theophr. Char. 24: (<foreign xml:lang="grc">ὑπερηφάνου) ἐν ταῖς <sic>δδοῖς</sic> <sic>πορευόμεvos</sic></foreign>
+    auch Theophr. Char. 24: (<foreign xml:lang="grc">ὑπερηφάνου) ἐν ταῖς <sic>ὁδοῖς</sic> <sic>πορευόμεvos</sic></foreign>
     <foreign xml:lang="grc">μὴ λαλεῖν τοῖς ἐντυγχάνουσι κάτω κεκυφώς</foreign>, und Aristoph.
     Εἰ! <foreign xml:lang="grc">ὁ</foreign> 6]. 631:
     -- <foreign xml:lang="grc">καὶ δημοτική γʼ ἡ γνώμη, καὶ καταχήνη</foreign>
     <foreign xml:lang="grc">τῶν σεμνοτέρων ἔσται πολλὴ καὶ τῶν σφραγῖδας ἐχόντων</foreign>,
-    <foreign xml:lang="grc">ὅταν <sic>ἐμβάδ'</sic> ἔχων εἴπῃ" προτέρῳ παραχώρει <sic>χᾷτʼ</sic> ἐπιτήρει</foreign>,
+    <foreign xml:lang="grc">ὅταν <sic>ἐμβάδ'</sic> ἔχων εἴπῃ" προτέρῳ παραχώρει <sic>κᾆτʼ</sic> ἐπιτήρει</foreign>,
     <foreign xml:lang="grc">ὅταν ἤδη <sic>᾿γὼ</sic> διαπραξάμενος παραδῶ σοι δευτεριάζειν</foreign>.
     </p>
     
@@ -4801,15 +4809,15 @@ und die schönen Worte V, 2,4:
     findet sich bei Lucian Somn. 8. Gall. 14: <foreign xml:lang="grc">ἐπεὶ δὲ ἀπέθανε πρώην</foreign>
     <foreign xml:lang="grc">ἅπαντα</foreign> Exeiva <foreign xml:lang="grc">κατὰ τοὺς νόμους Σίμωνός ἔστι καὶ νῦν ἐκεῖνος ὁ</foreign>
     <foreign xml:lang="grc">τὰ ῥάκια τὰ πιναρά, ὁ τὸ τρυβλίον περιλείχων, ἄσμενος ἐξελαύνει</foreign>
-    <foreign xml:lang="grc"><sic>ἁλουργῇ</sic> καὶ <sic>δσγινοβαφῇ</sic> ἀμπεχόμενος, οἰκέτας καὶ ζεύγη καὶ χρυσᾶ</foreign>
+    <foreign xml:lang="grc"><sic>ἁλουργῆ</sic> καὶ <sic>ὑσγινοβαφῆ</sic> ἀμπεχόμενος, οἰκέτας καὶ ζεύγη καὶ χρυσᾶ</foreign>
     <foreign xml:lang="grc">ἐκπώματα καὶ ἐλεφαντόποδας τραπέζας ἔχων, ὑφʼ ἁπάντων</foreign> προςχυνούμενος
     <foreign xml:lang="grc">οὐδὲ προσβλέπων ἔτι ἡμᾶς</foreign>. Vgl. Quom. hist. conser.
-    20: <foreign xml:lang="grc"><sic>ἐοέίχασιν</sic> οἰκέτῃ νεοπλούτῳ ἄρτι τοῦ δεσπότου κληρονομήσαντι</foreign>,
-    <foreign xml:lang="grc">ὃς οὐδὲ τὴν ἐσθῆτα</foreign> oldev <foreign xml:lang="grc">ὡς χρὴ περιβάλλεσθαι οὐδὲ <sic>δειπνῆ-</sic></foreign>
+    20: <foreign xml:lang="grc"><sic>ἐοίκασιν</sic> οἰκέτῃ νεοπλούτῳ ἄρτι τοῦ δεσπότου κληρονομήσαντι</foreign>,
+    <foreign xml:lang="grc">ὃς οὐδὲ τὴν ἐσθῆτα</foreign> oldev <foreign xml:lang="grc">ὡς χρὴ περιβάλλεσθαι οὐδὲ <sic>δειπνῆσαι</sic></foreign>
     
     <pb n="109"/>
     
-    <foreign xml:lang="grc">σαι κα<foreign xml:lang="grc">τ</foreign>ὰ νόμον</foreign> x. <foreign xml:lang="grc">τ</foreign>. A, In Lucian’s Zeit mochte freilich der Fall,
+    <foreign xml:lang="grc"> κα<foreign xml:lang="grc">τ</foreign>ὰ νόμον</foreign> κ. <foreign xml:lang="grc">τ. λ.</foreign> In Lucian’s Zeit mochte freilich der Fall,
     dass gemeine Menschen und selbst Sklaven zu Reichthum gelangten,
     häufiger sein; allein warum wollte man es nicht auch früher für
     möglich halten? Wahrscheinlich batte Plato eine Thatsache vor
@@ -4827,13 +4835,13 @@ und die schönen Worte V, 2,4:
     Lucian. Somn. 5. Gall. 14: <foreign xml:lang="grc">ἔναγχος γοῦν ἐγὼ μὲν ἰδὼν</foreign>
     <foreign xml:lang="grc">προσιόντα, χαῖρε, <foreign xml:lang="grc">ἔφη</foreign>ν, ὦ Σίμων· ὁ δὲ ἀγανακτήσας, εἴπατε, ἔφη</foreign>,
     <foreign xml:lang="grc">τῷ πτωχῷ, μὴ κατασμικρύνειν μου τοὔνομα· οὐ γὰρ Σίμων, ἀλλὰ</foreign>
-    <foreign xml:lang="grc">Σιμωνίδη<foreign xml:lang="grc">ς</foreign> ὀνομάζομαι: ς. ῶ9: παρὰ τὸν Σίμωνα, ὃς ἀντὶ δισυλλάβου</foreign>
+    <foreign xml:lang="grc">Σιμωνίδη<foreign xml:lang="grc">ς</foreign> ὀνομάζομαι: c. 29: παρὰ τὸν Σίμωνα, ὃς ἀντὶ δισυλλάβου</foreign>
     <foreign xml:lang="grc">τετρασύλλαβος ἤδη πλουτήσας εἶναι ἀξιοῖ</foreign>: [Aeschines bei Demosth.
-    cor. $. 180: <foreign xml:lang="grc">καὶ δύο συλλαβὰς προσθεὶς τὸν μὲν πατέρα</foreign>
-    <foreign xml:lang="grc">ἀντί Τρόμητος ἐποίησεν <sic>᾿ἡτρόμητον</sic>, τὴν δὲ μητέρα σεμνῶς πάνυ</foreign>
+    cor. 180: <foreign xml:lang="grc">καὶ δύο συλλαβὰς προσθεὶς τὸν μὲν πατέρα</foreign>
+    <foreign xml:lang="grc">ἀντί Τρόμητος ἐποίησεν <sic>Ἀτρόμητον</sic>, τὴν δὲ μητέρα σεμνῶς πάνυ</foreign>
     <foreign xml:lang="grc">Γλαυκοθέαν ὠνόμασε</foreign>. Auch nach Ath. XIV, 3 erscheinen die zweisilbigen
     Namen als die gewöhnlicheren und gemeineren. Vergl.
-    Huschke Anal. crit. p. 264, Boissonade zu Aristaenet. |,
+    Huschke Anal. crit. p. 264, Boissonade zu Aristaenet. I,
     19, und im Allgem. Pape Wörterbuch der griech. Eigennamen
     p. XVII ff. Uebrigens verhielt sich der nach Eust. zu
     Od. X, p. 390 aus <foreign xml:lang="grc">Σιμωνίδης</foreign> verkürzte Name <foreign xml:lang="grc">Σίμων</foreign> zu diesem wie
@@ -4848,8 +4856,8 @@ und die schönen Worte V, 2,4:
     unseren Tagen; das folgt schon aus dem Umgange Vornehmerer mit
     Handwerkern, die sonst in Athen nicht eben angesehen waren; z.B.
     Lysias de inval. <foreign xml:lang="grc">ὁ. 5: ὅτι δύναμαι συνεῖναι δυναμένοις ἀνθρώποις</foreign>
-    <foreign xml:lang="grc">ἀναλίσκειν</foreign>, und Plutarch. de anima t. V, p. 719 Wytt.: ö
-    <foreign xml:lang="grc">δὲ <sic>Νιχανδᾶς</sic> ἦν σκυτοτόμος, ἄλλως δὲ τῶν ἐν παλαίστραις γεγονότων</foreign>
+    <foreign xml:lang="grc">ἀναλίσκειν</foreign>, und Plutarch. de anima t. V, p. 719 Wytt.: 
+    <foreign xml:lang="grc">ὁ δὲ <sic>Νικανδᾶς</sic> ἦν σκυτοτόμος, ἄλλως δὲ τῶν ἐν παλαίστραις γεγονότων</foreign>
     <foreign xml:lang="grc"><foreign xml:lang="grc">καὶ</foreign> πολλοῖς συνήθης καὶ γνώριμος</foreign>. Allein Viele waren doch
     wohl auch thöricht genug, sich der Bekanntschaft mit Geringeren zu
     schämen, und der Dürftige hielt es wohl selbst für unschicklich, in
@@ -4863,16 +4871,16 @@ und die schönen Worte V, 2,4:
     </p>
     </note>
     
-    <note n="18" xml:lang="deu"><p>
+    <note n="13" xml:lang="deu"><p>
     Die Beschreibung des Sykophanten ist aus Demosth. in
-    Aristog. I, $.52 entlehnt: <foreign xml:lang="grc">πορεύεται διὰ τῆς ἀγορᾶς, ὥσπερ ἔχις</foreign>
-    7 <foreign xml:lang="grc">σκορπίος, ἠρκὼς τὸ κέντρον, <sic>ἄττων</sic> δεῦρο κἀκεῖσε, σκοπῶν τίνι</foreign>
+    Aristog. I, 52 entlehnt: <foreign xml:lang="grc">πορεύεται διὰ τῆς ἀγορᾶς, ὥσπερ ἔχις</foreign>
+    <foreign xml:lang="grc">ἢ σκορπίος, ἠρκὼς τὸ κέντρον, <sic>ᾄττων</sic> δεῦρο κἀκεῖσε, σκοπῶν τίνι</foreign>
     <foreign xml:lang="grc">ξυμφορὰν ἣ βλασφημίαν ἢ κακόν τε προστριψάμενος καὶ καταστήσας</foreign>
     <foreign xml:lang="grc">εἰς φόβον ἀργύριον πράξεται· οὐδὲ προσφοιτᾷ πρός τι τούτων</foreign>
     <foreign xml:lang="grc">τῶν ἐν τῇ πόλει κουρείων ἢ <sic>μυροπωλείων</sic> ἢ τῶν ἄλλων ἐργαστηρίων</foreign>
     <foreign xml:lang="grc"><foreign xml:lang="grc">οὐ</foreign>δὲ πρὸς ἕν, ἀλλʼ ἄσπειστος, ἀνίδρυτος, ἄμικτος, οὐ χάριν</foreign>,
-    <foreign xml:lang="grc">οὐ φιλίαν, οὖχ ἄλλʼ οὐδὲν ὧν ἄνθρωπος μέτριος <sic>γιγνώσχωνʼ</sic></foreign>" ned
-    <foreign xml:lang="grc">ὧν δʼ οἱ ζωγράφοι τοὺς ἀσεβεῖς γράφουσιν ἐν <sic>“Ἥιδου</sic>, μετὰ τούτων</foreign>,
+    <foreign xml:lang="grc">οὐ φιλίαν, οὖχ ἄλλʼ οὐδὲν ὧν ἄνθρωπος μέτριος <sic>γιγνώσκων·</sic></foreign> 
+    <foreign xml:lang="grc">μεθ᾽ ὧν δʼ οἱ ζωγράφοι τοὺς ἀσεβεῖς γράφουσιν ἐν <sic>Αἵδου</sic>, μετὰ τούτων</foreign>,
     <foreign xml:lang="grc">μετʼ ἀρᾶς <foreign xml:lang="grc">καὶ</foreign> βλασφημίας καὶ φθόνου καὶ στάσεως <foreign xml:lang="grc">καὶ</foreign> νείκους</foreign>
     <foreign xml:lang="grc">περιέρχεται</foreign>. Das Unwesen der Sykophantie (der angebliche Ursprung
     des Namens ist aus Plutarch. Sol. 24 und Athen. III, 6
@@ -4890,9 +4898,9 @@ und die schönen Worte V, 2,4:
     Es gab Leute, welche geradehin davon lebten, für Bezahlung
     als Ankläger aufzutreten, hauptsächlich aber durch Androhung einer
     Anklage Geld zu erpressen. Demosth. in Neaer. <foreign xml:lang="grc">ὁ. 43: οὔτε</foreign>
-    <foreign xml:lang="grc">γὰρ ἀπὸ τῆς πολιτείας <sic>προσήει</sic> Στεφάνῳ τούτῳ ἄξιον λόγου· οὐ</foreign>
+    <foreign xml:lang="grc">γὰρ ἀπὸ τῆς πολιτείας <sic>προσῄει</sic> Στεφάνῳ τούτῳ ἄξιον λόγου· οὐ</foreign>
     <foreign xml:lang="grc">γάρ πω ἦν ῥήτωρ, ἀλλʼ ἔτι συκοφάντης τῶν παραβοώντων παρὰ</foreign>
-    <foreign xml:lang="grc">τὸ βῆμα καὶ γραφομένων μισθοῦ καὶ φαινόντων, <sic>χαὲὶ</sic> ἐπιγραφομένων</foreign>
+    <foreign xml:lang="grc">τὸ βῆμα καὶ γραφομένων μισθοῦ καὶ φαινόντων, <sic>καὶ</sic> ἐπιγραφομένων</foreign>
     <foreign xml:lang="grc">ταῖς ἀλλοτρίαις γνώμαις</foreign>: vgl. <foreign xml:lang="grc">δ. 89: οὐ γὰρ ἣν αὐτῷ ἄλλη πρόσοδ</foreign>ος,
     <foreign xml:lang="grc">ὅ<foreign xml:lang="grc">τε</foreign> μὴ συκοφαντήσας τε λάβοι</foreign>. Die erwiesen verleumderische
     Anklage wurde nun zwar wohl bestraft, allein das Gewerbe selbst,
@@ -4902,8 +4910,8 @@ und die schönen Worte V, 2,4:
     <pb n="111"/>
     
     denheit der früheren und späteren Ansicht findet sich bei Isocr. de
-    perm. 8. 313: <foreign xml:lang="grc">οὔκουν ἐπέ γε τῶν <sic>προγύνων</sic> οὕτως εἶχεν, ἀλλὰ</foreign>
-    <foreign xml:lang="grc">τοὺς μὲν καλουμένους σοφιστὰς ἐθαύμαζον καὶ τοὺς συνόντας <sic>αὖτοῖς</sic></foreign>
+    perm. 8. 313: <foreign xml:lang="grc">οὔκουν ἐπέ γε τῶν <sic>προγόνων</sic> οὕτως εἶχεν, ἀλλὰ</foreign>
+    <foreign xml:lang="grc">τοὺς μὲν καλουμένους σοφιστὰς ἐθαύμαζον καὶ τοὺς συνόντας <sic>αὐτοῖς</sic></foreign>
     <foreign xml:lang="grc">ἐζήλουν, τοὺς δὲ συκοφάντας πλείστων κακῶν</foreign> alrious <foreign xml:lang="grc">ἐνόμιζον</foreign>
     elvar ... <foreign xml:lang="grc">περὶ δὲ τῶν συχοφαντῶν χαλεπωτέρους ἢ περὶ τῶν ἄλλων</foreign>
     <foreign xml:lang="grc">κακουργιῶν τοὺς νόμους ἔθεσαν</foreign>: und dagegen ἃ. 315: <foreign xml:lang="grc">κἀκεῖνοι μὲν</foreign>
@@ -4912,7 +4920,7 @@ und die schönen Worte V, 2,4:
     <foreign xml:lang="grc">περὶ τῶν ἄλλων</foreign>. Dieser Indulgenz des Volks in späterer Zeit gegen
     dieses ränkesüchtige, giftige Gezücht .ist es nun ganz angemessen,
     dass Aeschines in Timarch. <foreign xml:lang="grc">δ</foreign>. 20 unter den Rechten, deren der
-    <foreign xml:lang="grc">ἡταιρηκώς</foreign> verlustif wurde, auch angiebt: <foreign xml:lang="grc">μηδὲ συκοφαντείτω <sic>μισθωdeis</sic></foreign>.
+    <foreign xml:lang="grc">ἡταιρηκώς</foreign> verlustif wurde, auch angiebt: <foreign xml:lang="grc">μηδὲ συκοφαντείτω <sic>μισθωδεῖς</sic></foreign>.
     Taylor’s und Wolf’s Erklärung, dass dieses nur eine von
     Aeschines in Bezug auf Timarch’s Persönlichkeit gemachte gehässige
     Erweiterung des Gesetzes sei, scheint der Stelle durchaus nicht angemessen
@@ -4926,7 +4934,7 @@ und die schönen Worte V, 2,4:
     mancher sah sich genöthigt, ihnen Opfer zu bringen und mit ihnen
     Freundschaft zu halten, um vor ihren Anklagen sicher zu sein, deren
     Erfolg, auch bei völliger Grundlosigkeit, immer ungewiss blieb. So
-    sagt Charmides bei Xenoph. Symp. 4, 30: <foreign xml:lang="grc">ἐγὼ τοίνυν ἐν <sic>τῆδε</sic></foreign>
+    sagt Charmides bei Xenoph. Symp. 4, 30: <foreign xml:lang="grc">ἐγὼ τοίνυν ἐν <sic>τῇδε</sic></foreign>
     <foreign xml:lang="grc">τῇ πόλει, ὅτε μὲν πλούσιος</foreign> Av, <foreign xml:lang="grc">πρῶτον μὲν ἐφοβούμην, μή τίς</foreign>
     <foreign xml:lang="grc">μου τὴν οἰκίαν διορύξας <foreign xml:lang="grc">καὶ</foreign> τὰ χρήματα λάβοι καὶ αὐτὸν τέ με</foreign>
     <foreign xml:lang="grc">κακὸν ἐργάσαιτο· ἔπειτα δὲ καὶ τοὺς συκοφάντας ἐθεράπευον, εἰδὼς</foreign>
@@ -4944,10 +4952,10 @@ und die schönen Worte V, 2,4:
     119 <foreign xml:lang="grc">οἱ</foreign> Anmerkungen
     der, vertraut mit den Nichtswürdigkeiten jener, sie selbst mit Anklagen
     bedroht und dadurch von Kriton abhält. Vortrefflich schildert
-    sie auch Aristoph. Acharn. 817 fl. Equit. 260 ff. Vgl.
+    sie auch Aristoph. Acharn. 817 ff. Equit. 260 ff. Vgl.
     Platner Process B. II, S. 164 ff. Meier und Schömann Att.
     Process 8. 385 ἢ. Wachsmuth B. I, 8. 590. 666. Hermann
-    Staatsalterth. <foreign xml:lang="grc">ὁ</foreign>. 69, n. 10; <foreign xml:lang="grc">ὁ</foreign>. 163, n.9. [Schömann Griech.
+    Staatsalterth. <foreign xml:lang="grc">ὁ</foreign>. 69, n. 10; §. 163, n.9. [Schömann Griech.
     Alterth. I, S. 194.]
     </p>
     </note>
@@ -4959,7 +4967,7 @@ und die schönen Worte V, 2,4:
     <foreign xml:lang="grc">τὸ βλέμμα, μελιχρὸν τὸ φώνημα, μύρων ἀποπνέοντα, τῷ</foreign>
     <foreign xml:lang="grc">δακτύλῳ τὴν κεφαλὴν κνώμενον</foreign>. [Vgl. Juv. Sat. IX, 133: qui
     digito scalpunt uno caput und Licin. Calv. Frgm. 18 (L. Müller):
-    Magnus, quem metuunt omnes, digito caput uno scalpit.)] Allein
+    Magnus, quem metuunt omnes, digito caput uno scalpit.] Allein
     nicht erst diese späte Zeit kennt solche Gecken. Wir sehen sie auf
     dem Markte figurirend schon bei Aristoph. Equit. 1372:
     AHM, <foreign xml:lang="grc">οὐδʼ ἀγοράσει γʼ ἀγένειος οὐδεὶς ἐν ἀγορᾷ</foreign>.
@@ -4967,9 +4975,9 @@ und die schönen Worte V, 2,4:
     AHM. <foreign xml:lang="grc">τά μειράκια ταυτὶ λέγω, τὰν τῷ μύρῳ</foreign>,
     ἃ <foreign xml:lang="grc">σ<foreign xml:lang="grc">τωμυλεῖτ</foreign>αι <foreign xml:lang="grc">τ</foreign>οιαδὶ καθήμενα</foreign> x <foreign xml:lang="grc">τ</foreign>. A.
     Vgl. Vesp. 637:
-    <foreign xml:lang="grc">ὅταν εἰσελθὸν μειράκιόν σοι κατάπυγον, Χαιρέου <sic>υἷός</sic></foreign>,
-    <foreign xml:lang="grc"><sic>ὧδὶ</sic> διαβάς, διακινηθεὶς <foreign xml:lang="grc">τ</foreign>ῷ σώμα<foreign xml:lang="grc">τ</foreign>ι καὶ <foreign xml:lang="grc">τ</foreign>ρυφερανθείς</foreign> x. <foreign xml:lang="grc">τ</foreign>. A.
-    <foreign xml:lang="grc"><sic>Ὅοθον</sic></foreign> die Gewohnheit, Blumen und Früchte in der Hand zu tragen,
+    <foreign xml:lang="grc">ὅταν εἰσελθὸν μειράκιόν σοι κατάπυγον, Χαιρέου <sic>υἱός</sic></foreign>,
+    <foreign xml:lang="grc"><sic>ὡδὶ</sic> διαβάς, διακινηθεὶς <foreign xml:lang="grc">τ</foreign>ῷ σώμα<foreign xml:lang="grc">τ</foreign>ι καὶ <foreign xml:lang="grc">τ</foreign>ρυφερανθείς</foreign> x. <foreign xml:lang="grc">τ</foreign>. λ.
+    Ueber die Gewohnheit, Blumen und Früchte in der Hand zu tragen,
     stellt Klearch bei Athen. ΧΙ, 79 eine lange Betrachtung an.
     Aus seinen Worten: <foreign xml:lang="grc">διὰ</foreign> Te <foreign xml:lang="grc">με<foreign xml:lang="grc">τὰ</foreign></foreign> yeipas <foreign xml:lang="grc">ἄνθη καὶ μῆλα</foreign> zal <foreign xml:lang="grc">τὰ</foreign>
     <foreign xml:lang="grc">τοιαῦτα φέρομεν</foreign>; ergibt sich, dass es keineswegs ungewöhnlich war.
@@ -4980,12 +4988,12 @@ und die schönen Worte V, 2,4:
     S. den Exc. über die Erziehung und was die Aenderung
     betrifft, Andoc. adv. Alcib. <foreign xml:lang="grc">ὁ. 22: τοιγάρτοι τῶν νέων</foreign> al
     <foreign xml:lang="grc">διατριβαὶ οὐχ ἐν τοῖς γυμνασίοις ἀλλʼ ἐν τοῖς δικαστηρίοις</foreign> elat.
-    [Vgl. K. F. Hormann Privatalterth. <foreign xml:lang="grc">ὁ</foreign>. 17, n. 15.)
+    [Vgl. K. F. Hormann Privatalterth. <foreign xml:lang="grc">ὁ</foreign>. 17, n. 15.]
     </p>
     </note>
     
     <note n="16" xml:lang="deu"><p>
-    Isocr. Trapez. <foreign xml:lang="grc">ὁ</foreign>. 2 u. 53: ra <foreign xml:lang="grc">μὲν γὰρ συμβόλαια τὰ</foreign>
+    Isocr. Trapez.  2 u. 53: ra <foreign xml:lang="grc">μὲν γὰρ συμβόλαια τὰ</foreign>
     <foreign xml:lang="grc">πρὸς τοὺς ἐπὶ ταῖς τραπέζαις ἄνευ μαρτύρων γίγνεται</foreign>. Es geschah
     dieses unstreitig nicht, weil man es für unnöthig hielt, sondern
     weil in hundert Fällen es Nachtheil bringen konnte, wenn Andere
@@ -5005,14 +5013,14 @@ und die schönen Worte V, 2,4:
     Ausdruck deruncinare und besonders durch das Fragment des
     Pherekrates bei Clem. Alex. Strom. VII, p. 847 Pott. wahrscheinlich,
     wiewohl die alten Grammatiker der ersteren Etymologie
-    folgen, denn auch Suidas sagt: <foreign xml:lang="grc"><sic>ῥινώμενος</sic> ὁ <sic>μυχτηριζόμενος</sic></foreign> : allein
-    das Sprüchwort <foreign xml:lang="grc">δεινὸς <sic>ἔλχειν</sic></foreign> kommt namentlich bei Lucian öfter
+    folgen, denn auch Suidas sagt: <foreign xml:lang="grc"><sic>ῥινώμενος</sic> ὁ <sic>μυκτηριζόμενος</sic></foreign> : allein
+    das Sprüchwort <foreign xml:lang="grc">δεινὸς <sic>ἕλκειν</sic></foreign> kommt namentlich bei Lucian öfter
     vor. Deor. dial. VI, 3: <foreign xml:lang="grc"><foreign xml:lang="grc">καὶ</foreign> ἄγει</foreign> oe <foreign xml:lang="grc">καὶ φέρει τῆς ῥινός, φασίν</foreign>,
     <foreign xml:lang="grc">ἕλκων</foreign> zal <foreign xml:lang="grc">ἔπῃ αὐτῳ</foreign>, Evda <foreign xml:lang="grc">ἂν ἡγῆταί σοι</foreign>. Hermot. 73: <foreign xml:lang="grc">εἰς τοῦτο</foreign>
-    <foreign xml:lang="grc">γὰρ ἑωρᾶτε μόνον καὶ διὰ τοῦτο <sic>εἶλχεν</sic> ὑμᾶς τῆς ῥινός</foreign>. Philops.
-    23: ol <foreign xml:lang="grc">μὲν οὖν ἀμφὶ τὸν Ἴωνα --- <sic>χεχηνύτες</sic> ἀτενὲς προσεῖχον</foreign>
+    <foreign xml:lang="grc">γὰρ ἑωρᾶτε μόνον καὶ διὰ τοῦτο <sic>εἶλκεν</sic> ὑμᾶς τῆς ῥινός</foreign>. Philops.
+    23: ol <foreign xml:lang="grc">μὲν οὖν ἀμφὶ τὸν Ἴωνα --- <sic>χκεχηνότες</sic> ἀτενὲς προσεῖχον</foreign>
     <foreign xml:lang="grc">αὐτῷ γέροντες ἄνδρες, ἑλκόμενοι τῆς ῥινός</foreign>. Man sagte auch
-    <foreign xml:lang="grc">ἀπὸ ῥινὸς <sic>ἔλχειν</sic></foreign>, Julian. p. 2948.
+    <foreign xml:lang="grc">ἀπὸ ῥινὸς <sic>ἔλκειν</sic></foreign>, Julian. p. 294 B.
     </p>
     </note>
     
@@ -5021,8 +5029,8 @@ und die schönen Worte V, 2,4:
     Fall an, in dem sich Leokrates befand, als er nach Megara
     geflüchtet war. Lycurg. in Leocrat. <foreign xml:lang="grc">ὁ. 22: μεταπεμψάμενος</foreign>
     <foreign xml:lang="grc">ἐντεῦθεν</foreign> Auuvrav, <foreign xml:lang="grc">τὸν τὴν ἀδελφὴν ἔχοντα τὴν πρεσβυτέραν, καὶ</foreign>
-    <foreign xml:lang="grc">τὸν φίλον</foreign> Avrıyevnv <foreign xml:lang="grc">Ξυπετεῶνα, καὶ δεηθεὶς τοῦ χηδεστοῦ <sic>πρίαoda</sic></foreign>:
-    <foreign xml:lang="grc">παρʼ αὐτοῦ τἀνδράποδα καὶ τὴν οἰκίαν <sic>ἀποδύόσθαε</sic> ταλάντου</foreign>·
+    <foreign xml:lang="grc">τὸν φίλον</foreign> Avrıyevnv <foreign xml:lang="grc">Ξυπετεῶνα, καὶ δεηθεὶς τοῦ κηδεστοῦ <sic>πρίασθαι</sic></foreign>
+    <foreign xml:lang="grc">παρʼ αὐτοῦ τἀνδράποδα καὶ τὴν οἰκίαν <sic>ἀποδόσθαι</sic> ταλάντου</foreign>·
     <foreign xml:lang="grc">ἐπὶ τούτοις προσέταξε τοῖς τε χρήσταις ἀποδοῦναι τά ὀφειλόμενα</foreign>
     <foreign xml:lang="grc">καὶ τοὺς ἐράνους διενεγκεῖν, τὸ δὲ λοιπὸν αὐτῷ ἀποδοῦναι</foreign>.
     </p>
@@ -5031,12 +5039,12 @@ und die schönen Worte V, 2,4:
     <note n="19" xml:lang="deu"><p>
     Nach Demosth. in Dionysod. $. 1, wo der Kläger darauf
     hinweist, wie sehr der, welcher Geld aufnehme, gegen den Darleiber
-    im Vortheile sei: <foreign xml:lang="grc">λαβὼν γὰρ ἀργύριον φανερὸν καὶ <sic>ὅμολογούμενον</sic></foreign>,
-    <foreign xml:lang="grc">ἐν γραμματειδίῳ δυοῖν</foreign> yalxoiv <foreign xml:lang="grc">ἐωνημένῳ καὶ βιβλιδίῳ</foreign>
-    <foreign xml:lang="grc"><sic>μιρῷ</sic> πάνυ τὴν ὁμολογίαν καταλέλοιπε τοῦ ποιήσειν τὰ</foreign> δίχαια·»
+    im Vortheile sei: <foreign xml:lang="grc">λαβὼν γὰρ ἀργύριον φανερὸν καὶ <sic>ὁμολογούμενον</sic></foreign>,
+    <foreign xml:lang="grc">ἐν γραμματειδίῳ δυοῖν χαλκοῖν ἐωνημένῳ καὶ βιβλιδίῳ</foreign>
+    <foreign xml:lang="grc"><sic>μικρῷ</sic> πάνυ τὴν ὁμολογίαν καταλέλοιπε τοῦ ποιήσειν τὰ</foreign> δίκαια·
     <foreign xml:lang="grc">ἡμεῖς δʼ οὐ φαμὲν δώσειν, ἀλλʼ εὐθὺς τῷ δανειζομένῳ δίδομεν τὸ</foreign>
     <foreign xml:lang="grc">ἀργύριον. τῷ οὖν ποτε πιστεύοντες καὶ τί λαβόντες τὸ βέβαιον</foreign>
-    <foreign xml:lang="grc">προϊέμεθα; ὑμῖν, ὦ ἄνδρες <sic>διχασταΐί</sic>, καὶ τοῖς νόμοις τοῖς <sic>ὁμετέροις</sic></foreign>,
+    <foreign xml:lang="grc">προϊέμεθα; ὑμῖν, ὦ ἄνδρες <sic>δικασταί</sic>, καὶ τοῖς νόμοις τοῖς <sic>ὑμετέροις</sic></foreign>,
     <foreign xml:lang="grc">οὗ κελεύουσιν, ὅσα ἄν τις ἑκὼν ἕτερος ἑτέρῳ ὁμολογήσῃ</foreign>,
     <foreign xml:lang="grc">ταῦτα κύρια εἶναι</foreign>.
     </p>
