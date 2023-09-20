@@ -9741,7 +9741,7 @@ Theophr. Char. 3: <foreign xml:lang="grc">τὴν θάλατταν</foreign> Ex 
 
 <note n="5" xml:lang="deu"><p>
 Die Zahl der Fremden, welche der Feier der Dionysien sowie
-anderer F'este zuströmten, war gewiss sehr bedeutend. Hiero sagt
+anderer Feste zuströmten, war gewiss sehr bedeutend. Hiero sagt
 bei Xenoph. 1, 11: <foreign xml:lang="grc">πρῶτον μὲν γὰρ ἐν τοῖς διὰ τῆς ὄψεως θεάμασι</foreign>
 <foreign xml:lang="grc">λογιζόμενος <sic>εὑρίσκω</sic> μειονεκτοῦντας τοὺς τυράννους. ἄλλα μέν</foreign>
 <foreign xml:lang="grc">γε ἐν ἄλλῃ χώρᾳ ἐστὶν ἀξιοθέατα. ἐπὶ δὲ τούτων <sic>ἕκαστα</sic> οἱ μὲν</foreign>
@@ -9753,11 +9753,15 @@ pflegten. Den Unterschied in der Frremdenfrequenz zwischen den
 grossen Dionysien, wo die Babylonier des Aristophanes aufgeführt
 worden waren, und den Lenäen, an denen seine Acharner gegeben
 wurden, bezeichnet der Dichter selbst im letztgenannten Stücke v. 502:
-ob <foreign xml:lang="grc">γάρ με νῦν γε διαβαλεῖ Κλέων ὅτι</foreign>
-<foreign xml:lang="grc">ξένων παρόντων τὴν πόλιν κακῶς λέγω</foreign>·
-<foreign xml:lang="grc">αὐτοὶ γάρ ἐσμεν <sic>οὑπὶ</sic> Ληναίῳ</foreign> T’ <foreign xml:lang="grc">ἀγών</foreign>,
-<foreign xml:lang="grc">κοὔπω ξένοι πάρεισιν· οὔτε γὰρ φόροι</foreign>
-<foreign xml:lang="grc"><sic>ἥκουσιν</sic> οὔτʼ</foreign> Ex <foreign xml:lang="grc">τῶν πόλεων οἱ ξύμμαχοι</foreign>.
+
+<quote xml:lang="grc">
+<l>οὐ γάρ με νῦν γε διαβαλεῖ Κλέων ὅτι</l>
+<l>ξένων παρόντων τὴν πόλιν κακῶς λέγω·</l>
+<l>αὐτοὶ γάρ ἐσμεν <sic>οὑπὶ</sic> Ληναίῳ τ᾽ ἀγών,</l>
+<l>κοὔπω ξένοι πάρεισιν· οὔτε γὰρ φόροι</l>
+<l><sic>ἥκουσιν</sic> οὔτʼ ἐκ τῶν πόλεων οἱ ξύμμαχοι.</l>
+</quote>
+
 Darum widersetzt sich der neidische Aeschines so heftig der Auszeichnung
 des Demosthenes im Theater in Ctesiph. 34: <foreign xml:lang="grc"><sic>Κτησιφῶν</sic></foreign>
 <foreign xml:lang="grc">δὲ (ἀνακηρύττειν</foreign> xeledeı) <foreign xml:lang="grc">ἐν τῷ θεάτρῳ — οὐδὲ ἐκκλησιαζόντων</foreign>
@@ -9784,7 +9788,10 @@ Arrian. Dissert. Epictet. Il, 14, 23 und mehr im Exc, über
 Markt und Handel zu Ende; [Menander bei Stob. Flor.
 CΧΧΙ, 7, den Hermann anführt, nennt als Hauptmerkmale einer
 <foreign xml:lang="grc">πανήγυρις</foreign>:
-<foreign xml:lang="grc">ὄχλος, ἀγορά, κλέπται, κυβεῖαι, διατριβαί</foreign>.
+
+<quote xml:lang="grc">
+<l>ὄχλος, ἀγορά, κλέπται, κυβεῖαι, διατριβαί.</l>
+</quote>
 </p>
 </note>
 
@@ -9824,11 +9831,11 @@ Es sind die Worte des Periplektomenes mit der Bemerkung
 des Palästrio, Plaut. Mil. III, 1, 35:
 
 <pb n="278"/>
-
-Nam equidem haud sum annos nalus praeter quinquaginia et quatuor.
-Clare oculis video, pernix sum manibus, sum pedes mobilis ;
-PA. Si albus capillus hic videtur, neutigquam ingenio est senex.
-
+<quote xml:lang="lat">
+    <l>Nam equidem haud sum annos nalus praeter quinquaginia et quatuor.</l>
+    <l>Clare oculis video, pernix sum manibus, sum pedes mobilis ;</l>
+    <l>PA. Si albus capillus hic videtur, neutigquam ingenio est senex.</l>
+</quote>
 </p>
 
 </note>
@@ -9836,12 +9843,19 @@ PA. Si albus capillus hic videtur, neutigquam ingenio est senex.
 <note n="11" xml:lang="deu"><p>
 Periplektomenes giebt ebendas. als Grund, weshalb er nicht
 heirathen möge, die Sorge um die Kinder launig an, v. 125:
-Censerem emori, cecidisseine ebrius aut de equo uspiam;
-Metuerem, ne ibi defregisset crura aut cervices sibi.-
-Tum ne uxor mihi insignitos pueros pariat postea,
-Aut varum aut valgum aut compernem aut paelum aut
-broncum filium.
-[Sehr passend vergleicht bierzu K. F. Hermann die Sorge des
+
+<quote xml:lang="lat">
+    <l>Censerem emori, cecidisseine ebrius aut de equo uspiam;</l>
+    <l>Metuerem, ne ibi defregisset crura aut cervices sibi.-</l>
+    <l>Tum ne uxor mihi insignitos pueros pariat postea,</l>
+    <l>Aut varum aut valgum aut compernem aut paelum aut broncum filium.</l>
+
+
+
+
+</quote>
+
+[Sehr passend vergleicht hierzu K. F. Hermann die Sorge des
 alten Micio um seinen Adoptivsohn: Terent. Adelph. I, 1.]
 </p>
 </note>
@@ -9887,10 +9901,14 @@ Alterthum solche Gottesgerichte eben so gut kannte als das nur häufiger
 davon Gebrauch machende Mittelalter. Die älteste Erwähnung
 derselben findet sich bei Sophocl. Antig. 264 ff., wo die Wächter
 beim Leichname des Polyneikes ihre Unschuld betheuern:
-<foreign xml:lang="grc">ἦμεν δʼ ἕτοιμοι καὶ μύδρους αἴρειν χεροῖν</foreign>
-<foreign xml:lang="grc">καὶ πῦρ διέρπειν καὶ θεοὺς ὁρκωμοτεῖν</foreign>
-<foreign xml:lang="grc">τὸ μήτε δρᾶσαι μήτε τῳ ξυνειδέναι</foreign>
-<foreign xml:lang="grc">τὸ πρᾶγμα βουλεύσαντι μήτʼ εἰργασμένῳ</foreign>.
+
+<quote xml:lang="grc">
+<l>ἦμεν δʼ ἕτοιμοι καὶ μύδρους αἴρειν χεροῖν</l>
+<l>καὶ πῦρ διέρπειν καὶ θεοὺς ὁρκωμοτεῖν</l>
+<l>τὸ μήτε δρᾶσαι μήτε τῳ ξυνειδέναι</l>
+<l>τὸ πρᾶγμα βουλεύσαντι μήτʼ εἰργασμένῳ.</l>
+</quote>
+
 An Folter ist hierbei nicht zu denken; es ist ein freiwilliges Erbieten
 zur Beglaubigung der Unschuld durch Aufheben glühender
 Eisenmassen, Gehen durch Feuer, und Schwur, Handlungen, welche
@@ -9927,18 +9945,22 @@ liess. Pausan. VII, 25, 8: <foreign xml:lang="grc">πίνουσαι δὲ αἷ�
 <foreign xml:lang="grc">δίχην</foreign> Eyeı. Denn Ochsenblut galt für tödtendes Gift. Aristoph.
 Equit. 80 fl.: 
 
-
-<foreign xml:lang="grc">Ν. κράτιστον οὖν νῷν</foreign> Anodaveiv. <foreign xml:lang="grc">ἀλλὰ σκόπει</foreign>,
-<foreign xml:lang="grc">ὅπως ἂν ἀποθάνοιμεν ἀνδρικώτατα</foreign>.
-<foreign xml:lang="grc">Δ. πῶς δῆτα; πῶς γένοιτʼ ἂν ἀνδρικώτατα</foreign>;
-<foreign xml:lang="grc">Ν. βέλτιστον ἡμῖν αἷμα ταύρειον πιεῖν</foreign>·
-<foreign xml:lang="grc">ὁ <sic>Θεμιστοκλέους</sic> γὰρ θάνατος αἱρετώτερος</foreign>.
-
+<quote xml:lang="grc">
+<l>Ν. κράτιστον οὖν νῷν ἀποθανεῖν. ἀλλὰ σκόπει,</l>
+<l>ὅπως ἂν ἀποθάνοιμεν ἀνδρικώτατα.</l>
+<l>Δ. πῶς δῆτα; πῶς γένοιτʼ ἂν ἀνδρικώτατα;</l>
+<l>Ν. βέλτιστον ἡμῖν αἷμα ταύρειον πιεῖν·</l>
+<l>ὁ <sic>Θεμιστοκλέους</sic> γὰρ θάνατος αἱρετώτερος.</l>
+</quote>
 
 Vgl. Plutarch. Themist. 31 und die vom Scholiasten angeführten
 Verse aus Sophokles:
-<foreign xml:lang="grc">ἐμοὶ δὲ</foreign> Adorov <foreign xml:lang="grc">αἷμα ταύρειον πιεῖν</foreign>
-<foreign xml:lang="grc">καὶ μή γε πλείω <sic>τῶνδ'</sic> ἔχειν δυσφημίας</foreign>,
+
+<quote xml:lang="grc">
+<l>ἐμοὶ δὲ λῷστον αἷμα ταύρειον πιεῖν</l>
+<l>καὶ μή γε πλείω <sic>τῶνδ'</sic> ἔχειν δυσφημίας,</l>
+</quote>
+
 Ein Gottesgericht eigener Art, aber ganz in demselben Sinne erdacht,
 ist der Altar (<foreign xml:lang="grc">ἐσχάρα</foreign>) bei Heliod. Aethiop. X, 8, durch
 welchen eben so wohl das, <foreign xml:lang="grc">παρθενεύειν</foreign> als der Meineid erprobt wird.
@@ -9973,9 +9995,13 @@ u. Röm. in Schneidewin’s Philol. II, 1847, 5. 385 ff. und IV,
 <note n="13" xml:lang="deu"><p>
 Ein delphisches Orakel bei Demosth. in Mid. $. 52 befahl
 den Athenern:
-<foreign xml:lang="grc">μεμνῆσθαι</foreign> Baryoıo <foreign xml:lang="grc">καὶ εὐρυχόρους κατʼ ἀγυιάς</foreign>
-<foreign xml:lang="grc">ἱστάναι ὡραίων βρομίῳ χάριν ἄμμιγα πάντας</foreign>,
-<foreign xml:lang="grc">καὶ κνισᾶν βωμοῖσι, χάρη στεφάνοις πυκάσαντας</foreign>:
+
+<quote xml:lang="grc">
+<l>μεμνῆσθαι Βάκχοιο καὶ εὐρυχόρους κατʼ ἀγυιάς</l>
+<l>ἱστάναι ὡραίων βρομίῳ χάριν ἄμμιγα πάντας,</l>
+<l>καὶ κνισᾶν βωμοῖσι, χάρη στεφάνοις πυκάσαντας:</l>
+</quote>
+
 ein dodonäisches ebendas. <foreign xml:lang="grc">ὁ</foreign>. 53 und in Macart <foreign xml:lang="grc">ὁ</foreign>. 66: xar’ <foreign xml:lang="grc">ἀγυιὰς</foreign>
 <foreign xml:lang="grc">κνισῆν καὶ κρατῆρας ἱστάμεν καὶ</foreign> yopoüs <foreign xml:lang="grc">καὶ στεφανηφορεῖν</foreign>. Das
 geschah auch anderwärts an den Festen des Dionysos. Paus. VII,
@@ -10000,13 +10026,16 @@ scheint aus Aristoph. Av. 785 ff. deutlich hervorzugehen,
 dass man früh mit der Tragödie begann und nach Mittag das Lustspiel
 folgte; denn dort wird es als wünschenswerth gepriesen, Flügel
 zu haben, weil, wie er sagt:
-<foreign xml:lang="grc">αὐτίκʼ ὑμῶν τῶν θεατῶν</foreign> el <foreign xml:lang="grc">τις ἦν</foreign> Önöntepos,
-<foreign xml:lang="grc">εἶτα πεινῶν τοῖς χοροῖσι τῶν τραγῳδῶν</foreign> Aydero,
+<quote xml:lang="grc">
+<l>αὐτίκʼ ὑμῶν τῶν θεατῶν εἴ τις ἦν Önöntepos,</l>
+<l>εἶτα πεινῶν τοῖς χοροῖσι τῶν τραγῳδῶν ἤχθετο,</l>
+
 
 <pb n="282"/>
 
-<foreign xml:lang="grc">ἐκπτόμενος ἄν οὗτος <sic>ἠρίστησεν</sic> ἐλθὼν οἴκαδε</foreign>·
-xar’ <foreign xml:lang="grc">ἂν ἐμπλησθεὶς ἐφʼ ἡμᾶς <foreign xml:lang="grc">αὖ</foreign>θις αὖ κατέπτετο</foreign>.
+<l>ἐκπτόμενος ἄν οὗτος <sic>ἠρίστησεν</sic> ἐλθὼν οἴκαδε·</l>
+<l>κᾆτ᾽ ἂν ἐμπλησθεὶς ἐφʼ ἡμᾶς <foreign xml:lang="grc">αὖ</foreign>θις αὖ κατέπτετο.</l>
+</quote>
 [Da die Vögel des Aristophanes nach den Didaskalien (Clinton
 Fast. Hell. p. 81) an den grossen Dionysien aufgeführt worden
 sind, so hat hier Becker sicher Recht und die Ausflucht Wieseler’s
@@ -10067,10 +10096,17 @@ Potheinos heisst es bei Athen. I, 35 (p. 19): <foreign xml:lang="grc"><sic>Ἀθ
 <note n="16" xml:lang="deu"><p>
 Davon verstehe ich, was Planesium in Plaut. Cist. V, 2,
 45 ff. erzählt:
-Nutrix quae fui? — Archestrata;
-Ea me spectalum tulerat per Dionysia.
-Postgquam illo venium est, iam ut me collocarerat,
-Exoritur ventus turbo: spectacla ibi ruunt,
+
+<quote xml:lang="grc">
+    <l>Nutrix quae fui? — Archestrata;</l>
+    <l>Ea me spectalum tulerat per Dionysia.</l>
+    <l>Postgquam illo venium est, iam ut me collocarerat,</l>
+    <l>Exoritur ventus turbo: spectacla ibi ruunt,</l>
+
+
+
+
+</quote>
 </p>
 </note>
 
@@ -10247,10 +10283,11 @@ Lucian. Piscat. 36: <foreign xml:lang="grc">καὶ μέχρι πολλοῦ ε�
 <note n="26" xml:lang="deu"><p>
 Bei Aristoph. Pax 730 sagt der Chor zur Parabase
 schreitend: 
-
-<foreign xml:lang="grc">ἡμεῖς δὲ τέως τάδε τὰ σκεύη παραδόντες</foreign>
-<foreign xml:lang="grc">τοῖς ἀκολούθοις δῶμεν σώζειν· ὡς εἰώθασι μάλιστα</foreign>
-<foreign xml:lang="grc">περὶ τὰς σκηνὰς πλεῖστοι κλέπται κυπτάζειν καὶ <sic>κακοποιεῖν</sic></foreign>.
+<quote xml:lang="grc">
+<l>ἡμεῖς δὲ τέως τάδε τὰ σκεύη παραδόντες</l>
+<l>τοῖς ἀκολούθοις δῶμεν σώζειν· ὡς εἰώθασι μάλιστα</l>
+<l>περὶ τὰς σκηνὰς πλεῖστοι κλέπται κυπτάζειν καὶ <sic>κακοποιεῖν</sic>.</l>
+</quote>
 [Besonders gehören hierher die eigentlichen Taschendiebe oder
 
 <pb n="287"/>
@@ -10258,16 +10295,26 @@ schreitend:
 <foreign xml:lang="grc">βαλαντιοτόμοι</foreign>, welche zu der Kategorie der gemeinen Verbrecher
 zählten, die der Todesstrafe nicht zu entgehen pflegten und von
 denen Aristoph. Ran. 772 sagt:
-<foreign xml:lang="grc">ὅτε δὲ <sic>κατηλθʼ</sic> Εὐριπίδης, ἐπεδείκνυτο</foreign>
-<foreign xml:lang="grc">τοῖς λωποδύταις καὶ τοῖσι <sic>βαλαντιοτόμοις</sic></foreign>
-<foreign xml:lang="grc">καὶ τοῖσι πατραλοίαισι καὶ τοιχωρύχοις</foreign>,
-<foreign xml:lang="grc">ὅπερ ἔστʼ ἐν <sic>ᾅδου</sic> πλῆθος</foreign>.
+
+<quote xml:lang="grc">
+<l>ὅτε δὲ <sic>κατηλθʼ</sic> Εὐριπίδης, ἐπεδείκνυτο</l>
+<l>τοῖς λωποδύταις καὶ τοῖσι <sic>βαλαντιοτόμοις</sic></l>
+<l>καὶ τοῖσι πατραλοίαισι καὶ τοιχωρύχοις,</l>
+<l>ὅπερ ἔστʼ ἐν <sic>ᾅδου</sic> πλῆθος.</l>
+</quote>
+
 Das Benehmen der Diebe schildert Plaut. Trin. IV, 2, 19:
-(Quo magis specto, minus placet mi haec hominis jacies;
-mira sunt
-ni illic homost aut dormitator aut seclor zonarius.
-Loca contemplat, circumspectat sese alque aedis noscitat:
-credo edepol quo mox juralum veniat speculatur loca.]
+
+<quote xml:lang="lat">
+    <l>Quo magis specto, minus placet mi haec hominis jacies; mira sunt</l>
+    <l>ni illic homost aut dormitator aut seclor zonarius.</l>
+    <l>Loca contemplat, circumspectat sese alque aedis noscitat:</l>
+    <l>credo edepol quo mox juralum veniat speculatur loca.</l>
+
+
+
+
+</quote>]
 </p>
 </note>
 
@@ -10301,8 +10348,10 @@ nicht nur den Menschen selbst, sondern auch sein Eigenthum. So
 sagt Verg. Ecl. II, 103:
 
 <pb n="288"/>
+<quote xml:lang="grc">
+    <l>Nescio quis teneros oculus mihi fascinat agnos.</l>
 
-Nescio quis teneros oculus mihi fascinat agnos.
+</quote>
 Vgl. Sc. VII, Anm. 3 und Böttiger Kl. Schriften B. II,
 S. 111 [insbes. auch O. Jahn über die Wirkung des bösen
 Blickes bei den Alten in Ber. d. Leipz. Gesellsch. d. Wissenschaften
@@ -10329,7 +10378,7 @@ der unstreitig der erotischen Bedeutung seine Entstehung verdankt.
 Es bleibt indessen ungewiss, ob damit eine besondere Pflanze bezeichnet
 wird oder ob es nur eine andere Benennung des <foreign xml:lang="grc"><sic>πλαταγώνιον</sic></foreign>
 ist. Pollux IX, 27 sagt davon: <foreign xml:lang="grc">τὸ δὲ <sic>πλαταγώνιον</sic> οἱ ἐρῶντες</foreign>
-N <foreign xml:lang="grc">ἐρῶσαι ἔπαιζον· καλεῖται μὲν γὰρ οὕτω καὶ τὸ κρόταλον καὶ τὸ</foreign>
+<foreign xml:lang="grc">ἢ ἐρῶσαι ἔπαιζον· καλεῖται μὲν γὰρ οὕτω καὶ τὸ κρόταλον καὶ τὸ</foreign>
 <foreign xml:lang="grc">σεῖστρον, ᾧ <sic>καταβαυκαλῶσιν</sic> αἱ τίτθαι <sic>ψυχαγωγοῦσαι</sic> τὰ δυσυπνοῦντα</foreign>
 <foreign xml:lang="grc">τῶν παιδίων, ἀλλὰ καὶ τὰ τοῦ τηλεφίλου καλουμένου φύλλα</foreign>
 <foreign xml:lang="grc">ἐπὶ τοὺς πρώτους δύο τῆς λαιᾶς δακτύλους εἰς κύκλον <sic>συμβληθέντας</sic></foreign>
@@ -10349,16 +10398,24 @@ machen. Damit vergleiche man Phot. Lex. p. 432: <foreign xml:lang="grc"><sic>π�
 <foreign xml:lang="grc">ἤχησεν, <sic>ἐστέργοντο</sic></foreign>: auch Suidas und Hesychius s. v. <foreign xml:lang="grc"><sic>πλαταγώνιον</sic></foreign>
 [wozu Hermann den Scholiasten zu Theoor. ΧΙ,
 56 fügt:
-— <foreign xml:lang="grc">ἔφερον δέ τοι</foreign> ἣ xpiva <foreign xml:lang="grc">λευκά</foreign>
-N udxwv’ <foreign xml:lang="grc">ἁπαλὰν ἐρυθρὰ</foreign> nAaraywve <foreign xml:lang="grc">ἔχοισαν</foreign> :
+
+<quote xml:lang="grc">
+<l>— ἔφερον δέ τοι ἢ κρίνα λευκά</l>
+<l>ἢ μάκων᾽ ἁπαλὰν ἐρυθρὰ πλαταγώνι᾽ ἔχοισαν :</l>
+</quote>
+
 <foreign xml:lang="grc">τὰ τῆς μήκωνος φύλλα <sic>φησὶ</sic> καὶ τὰ τῆς ἀνεμώνης, ἀπὸ τοῦ <sic>πλατάσσειν</sic></foreign>,
 <foreign xml:lang="grc">ὅ ἐστι ψοφεῖν· τιθέντες γὰρ αὐτὰ κατὰ τὸν ἀντίχειρα</foreign>
 <foreign xml:lang="grc">καὶ τὸν λιχανὸν δάκτυλον τύπτουσι τῇ ἑτέρᾳ χειρὶ καὶ οὕτω σημειοῦνται</foreign>,
 <foreign xml:lang="grc">εἰ ἀγαπῶνται ὑπὸ τῶν ἐρωμένων</foreign>. Anders erklären das
 <foreign xml:lang="grc">τηλέφιλον</foreign> die Grammatiker zu dems. III, 28 ff.:
-<foreign xml:lang="grc">ἔγνων πρᾶν</foreign>, Öxa <foreign xml:lang="grc"><foreign xml:lang="grc">με</foreign>υ <foreign xml:lang="grc">με</foreign>μναμένω εἰ φιλέεις με</foreign>
-<foreign xml:lang="grc">οὐδὲ τὸ τηλέφιλον <sic>ποτιμαξάμενον</sic> <sic>πλατάγησεν</sic></foreign>,
-<foreign xml:lang="grc"><sic>ἀλλ'</sic> αὕτως ἁπαλῷ ποτὶ πάχεϊ ἐξεμαράνθη</foreign>.
+
+<quote xml:lang="grc">
+<l>ἔγνων πρᾶν, ὅκα μευ <foreign xml:lang="grc">με</foreign>μναμένω εἰ φιλέεις με</l>
+<l>οὐδὲ τὸ τηλέφιλον <sic>ποτιμαξάμενον</sic> <sic>πλατάγησεν</sic>,</l>
+<l><sic>ἀλλ'</sic> αὕτως ἁπαλῷ ποτὶ πάχεϊ ἐξεμαράνθη.</l>
+</quote>
+
 Das erste Scholion lässt es unentschieden, ob Mohn oder nach Anderen
 eine besondere Pflanze darunter zu verstehen sei. Ein zweites
 und drittes aber nehmen eine besondere Pflanze an, die im ersteren
@@ -10403,18 +10460,25 @@ Poll. IX, 128: <foreign xml:lang="grc">ἔτι τοίνυν τὸ σπέρμα �
 <foreign xml:lang="grc">δακτύλοις <sic>συμπιέζοντες</sic> ἔτι διάβροχον καὶ ὀλισθηρὸν ὄν, εἰ πρὸς</foreign>
 <foreign xml:lang="grc"><sic>ὕψος</sic> πηδήσειεν, <sic>ἐσημαίνοντο</sic> τούτῳ τὴν εὔνοιαν τὴν παρὰ τῶν</foreign>
 <foreign xml:lang="grc">παιδικῶν</foreign>. [Horat. Sat. IL, 3, 272:
+
+<quote xml:lang="lat">
 Quid? cum Picenis excerpens semina pomis
-Gaudes, si cameram percusti forte, penes te es?]
+Gaudes, si cameram percusti forte, penes te es?
+</quote>]
 </p>
 </note>
 
 <note n="31" xml:lang="deu"><p>
 Nach Aristoph. Thesm. 401 ff.:
-<foreign xml:lang="grc">ἐάν γέ τις πλέκῃ</foreign>
-<foreign xml:lang="grc">γυνὴ στέφανον, ἐρᾶν <sic>δοκεῖ·</sic> κἂν ἐκβάλῃ</foreign>
-<foreign xml:lang="grc">σκεῦός τι κατὰ τὴν οἰκίαν πλανωμένη</foreign>,
-<foreign xml:lang="grc">ἁνὴρ ἐρωτᾷ, τῷ κατέαγεν</foreign> I <foreign xml:lang="grc">χύτρα</foreign>;
-<foreign xml:lang="grc">οὐχ <sic>ἔσθ'</sic> <sic>ὅπως</sic> οὐ τῷ Κορινθίῳ ξένῳ</foreign>.
+
+<quote xml:lang="grc">
+<l>ἐάν γέ τις πλέκῃ</l>
+<l>γυνὴ στέφανον, ἐρᾶν <sic>δοκεῖ·</sic> κἂν ἐκβάλῃ</l>
+<l>σκεῦός τι κατὰ τὴν οἰκίαν πλανωμένη,</l>
+<l>ἁνὴρ ἐρωτᾷ, τῷ κατέαγεν ἡ χύτρα;</l>
+<l>οὐχ <sic>ἔσθ'</sic> <sic>ὅπως</sic> οὐ τῷ Κορινθίῳ ξένῳ.</l>
+</quote>
+
 [Doch sprechen die Scholien zu dieser Stelle davon, dass man sich
 durch das Zerbrechen eines Gefässes an verstorbene theuere Personen
 erinnern liess. ]
@@ -10441,15 +10505,23 @@ Zeichen, gewesen zu sein, mit Hülfe deren man jeder Gefahr
 
 trotzen zu können glaubte. So sagt der Gerechte bei Aristoph.
 Plut. 383 als der Sykophant ihm droht:
-<foreign xml:lang="grc">οὐδὲν προτιμῶ σου, φορῶ γὰρ πριάμενος</foreign>
-<foreign xml:lang="grc">τὸν δακτύλιον τονδὶ παρ’</foreign> Ebdanov <foreign xml:lang="grc">δραχμῆς</foreign>.
+
+<quote xml:lang="grc">
+<l>οὐδὲν προτιμῶ σου, φορῶ γὰρ πριάμενος</l>
+<l>τὸν δακτύλιον τονδὶ παρ’ Εὐδάμου δραχμῆς.</l>
+</quote>
+
 Dazu bemerkt der Scholiast: <foreign xml:lang="grc">ἀλεξητήριον τῶν δηλητηρίων δείκνυσιν</foreign>
 <foreign xml:lang="grc">αὐτῷ καὶ βασκανίας <sic>ἀποτρεπτικὸν</sic> δακτύλιον, ὃν καλοῦσι φαρμακίτην</foreign>
 [vgl. dazu Hemsterhbus]. Mit derselben Zuversicht lässt
 Antiphanes bei Athen. Ill, 96 jemanden sagen:
-vb <foreign xml:lang="grc">γὰρ κακὸν ἔχω μη<foreign xml:lang="grc">δʼ</foreign> ἔχοιμʼ " ἐὰν δʼ ἄρα</foreign>
-<foreign xml:lang="grc">στρέφῃ με περὶ τὴν γαστέρʼ ἣ τὸν ὀμφαλόν</foreign>,
-<foreign xml:lang="grc">παρὰ Φερτάτου δακτύλιός ἐστέ μοι δραχμῆς</foreign>.
+
+<quote xml:lang="grc">
+<l>οὐ γὰρ κακὸν ἔχω μη<foreign xml:lang="grc">δʼ</foreign> ἔχοιμʼ· ἐὰν δʼ ἄρα</l>
+<l>στρέφῃ με περὶ τὴν γαστέρʼ ἣ τὸν ὀμφαλόν,</l>
+<l>παρὰ Φερτάτου δακτύλιός ἐστέ μοι δραχμῆς.</l>
+</quote>
+
 Daber ist der Zauberring der Charikleia bei Heliod. Aethiop. IV,
 8 nichts ungewöhnliches, und eine merkwürdige Parallele zu manchem
 Aberglauben neuerer Zeit bietet der von Lucian. Philops. 17 erwähnte
@@ -10537,11 +10609,19 @@ stimmt fast wörtlich Alciphr. ep. Ill, 62 überein, der solcher
 
 Sendungen auch I, 36 gedenkt. Auf sie bezieht sich auch, was bei
 Theocr. XI, 10 von Polyphem gesagt wird:
-<foreign xml:lang="grc">ἤρατο δʼ οὔτι ῥόδοις, οὐ μάλοις οὐδὲ κικίννοις</foreign>.
+
+<quote xml:lang="grc">
+<l>ἤρατο δʼ οὔτι ῥόδοις, οὐ μάλοις οὐδὲ κικίννοις.</l>
+</quote>
+
 Es galt indessen auch schon das blosse Werfen mit Aepfeln für eine
 Liebeserklärung und Bewerbung. Anthol. Pal. V, 79:
-<foreign xml:lang="grc">τῷ μήλῳ βάλλω σε· σὺ δ᾽, εἰ μὲν ἑκοῦσα φιλεῖς με</foreign>,
-<foreign xml:lang="grc">δεξαμένη τῆς <sic>σῆς</sic> <sic>παρθενίης</sic> μετάδος</foreign>,
+
+<quote xml:lang="grc">
+<l>τῷ μήλῳ βάλλω σε· σὺ δ᾽, εἰ μὲν ἑκοῦσα φιλεῖς με,</l>
+<l>δεξαμένη τῆς <sic>σῆς</sic> <sic>παρθενίης</sic> μετάδος,</l>
+</quote>
+
 und ep. 80: <foreign xml:lang="grc">μῆλον ἐγώ" βάλλει με φιλῶν σέ τις</foreign>. [Vgl. Theoerit.
 II, 120; V, 88; VI, 6; Plat. bei Diog. Laërt. III, 22;
 Aristoph. Nub. 997; Vergil. Eclog. II, 64; Propert. I, 2,
