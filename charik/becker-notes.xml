@@ -10702,9 +10702,13 @@ rendu pour 1860, p. 86. M. Fränkel in Archaeolog. Zeit.
     Redensart für jedes vergebliche Bemühen, namentlich aber auch von
     nichts geltenden Eiden. Hellad, Chrest, bei Phot. Bibl. p. 530,
     15: <foreign xml:lang="grc">ὁ στίχος ὁ καὶ παροιμιαζόμενος</foreign>,
-    <foreign xml:lang="grc">ὄρχους ἐγὼ γυναικὸς εἰς <sic>ὕδωρ</sic> γράφω</foreign>,
-    <foreign xml:lang="grc">ἐστὶ μὲν Σοφοκλέους, τοῦτον δὲ <sic>παρῳδήσας</sic> ὁ <sic>Φιλωνίδης</sic> ἔφη</foreign>.
-    <foreign xml:lang="grc">ὄρχους δὲ μοιχῶν εἰς τέφραν ἐγὼ γράφω</foreign>.
+
+    <quote xml:lang="grc">
+<l>ὄρχους ἐγὼ γυναικὸς εἰς <sic>ὕδωρ</sic> γράφω,</l>
+<l>ἐστὶ μὲν Σοφοκλέους, τοῦτον δὲ <sic>παρῳδήσας</sic> ὁ <sic>Φιλωνίδης</sic> ἔφη.</l>
+<l>ὄρχους δὲ μοιχῶν εἰς τέφραν ἐγὼ γράφω.</l>
+</quote>
+
     8. Meineke Fragm. Com. t. Il, 1, p. 423, der aus Suidas anführt:
     <foreign xml:lang="grc">εἰς τέφραν γράφειν</foreign> Ent <foreign xml:lang="grc">τῶν ἀδυνάτων· ἐγὼ δὲ τοὺς ὄρχους</foreign>
     <foreign xml:lang="grc">αὐτοῦ, τὸ τῆς παροιμίας, οἶμαι δεῖν ἐς τέφραν γράφειν</foreign>. So sagt
@@ -10907,9 +10911,12 @@ rendu pour 1860, p. 86. M. Fränkel in Archaeolog. Zeit.
     den Art. Aurum in Pauly’s Realencykl. B. I. Von dem mehrfach
     als <foreign xml:lang="grc">τρυφερός</foreign> verschrieenen Artemon heisst es in dem Frragmente
     aus Anacr. bei Athen. XII, 46:
-    <foreign xml:lang="grc">νῦν δʼ ἐπιβαίνει σατινέων, χρύσεα φορέων καθέρματα</foreign>
-    <foreign xml:lang="grc">πάϊς</foreign> Kurns, <foreign xml:lang="grc">καὶ σκιαδίσκην ἐλεφαντίνην φορέει</foreign>
-    <foreign xml:lang="grc">γυναιξὶν αὕτως</foreign>.
+
+    <quote xml:lang="grc">
+<l>νῦν δʼ ἐπιβαίνει σατινέων, χρύσεα φορέων καθέρματα</l>
+<l>πάϊς Κόκης, καὶ σκιαδίσκην ἐλεφαντίνην φορέει</l>
+<l>γυναιξὶν αὕτως.</l>
+</quote>
     Dass die <foreign xml:lang="grc">καθέρματα</foreign> Ohrringe bedeuten, ist kaum zweifelhaft, da es
     vorher von ihm heisst: <foreign xml:lang="grc"><sic>πρὶν</sic> μὲν ἔχων — ---- ξυλίνους ἀστραγάλους</foreign>
     <foreign xml:lang="grc">ἐν ὠσί</foreign>. Sonst galt es bei Männern für einen Schimpf und Zeichen
@@ -10938,9 +10945,14 @@ rendu pour 1860, p. 86. M. Fränkel in Archaeolog. Zeit.
     <foreign xml:lang="grc">ἔχει τὸν</foreign> ypvaov, <foreign xml:lang="grc">ὥσπερ</foreign> napdEvos. Auch Eurip. Hec. 154 ist
     die Rede von der <foreign xml:lang="grc">δειρὴ <sic>χρυσοφόρος</sic></foreign> der Polyxena und bei Lycophr.
     in Athen. XIII, 16 (p. 564) heisst es:
-    <foreign xml:lang="grc">οὔτε παιδὸς ἄρρενος, οὔτε παρθένων</foreign>
-    <foreign xml:lang="grc">τῶν χρυσοφόρων, οὔτε γυναικῶν βαθυκόλπων</foreign>
-    <foreign xml:lang="grc">καλὸν τὸ πρόσωπον, ἀλλὰ χόσμιον πεφύκει</foreign>.]
+
+    <quote xml:lang="grc">
+<l>οὔτε παιδὸς ἄρρενος, οὔτε παρθένων</l>
+<l>τῶν χρυσοφόρων, οὔτε γυναικῶν βαθυκόλπων</l>
+<l>καλὸν τὸ πρόσωπον, ἀλλὰ χόσμιον πεφύκει.</l>
+</quote>  
+
+]
     Welchen Wertb dieser Frauenschmuck haben konnte, ersieht man
     aus Plato Alcib, I, p. 123, wo von des Alkibiades Mutter Deinomache
     gesagt wird: <foreign xml:lang="grc">ἡ ἐστι κόσμος</foreign> laws <foreign xml:lang="grc">ἄξιος μνῶν πεντήκοντα</foreign>.
@@ -11110,16 +11122,21 @@ rendu pour 1860, p. 86. M. Fränkel in Archaeolog. Zeit.
     
     <pb n="314"/>
     
-    814 Anmerkungen
     Zeit erwähnt. Callim. fragm. 101 (aus den Schol. zu Arietoph.
     Acharn. 144):
-    <foreign xml:lang="grc">ἀλλʼ</foreign> Evi <foreign xml:lang="grc">δὴ <sic>φλοιοῖσι</sic> κεκομμένα τόσσα φορεῖτε</foreign>
-    <foreign xml:lang="grc">γράμματα, Κυδίππην ὅσσʼ ἐρέουσι καλήν</foreign>.
+
+    <quote xml:lang="grc">
+<l>ἀλλʼ ἐνὶ δὴ <sic>φλοιοῖσι</sic> κεκομμένα τόσσα φορεῖτε</l>
+<l>γράμματα, Κυδίππην ὅσσʼ ἐρέουσι καλήν.</l>
+</quote>
     </p>
     
     <p>Theoer. XVII, 47:
-    <foreign xml:lang="grc">γράμματα δʼ ἐν φλοιῷ γεγράψεται, ὡς παριών τις</foreign>
-    <foreign xml:lang="grc"><sic>ἀννείμῃ</sic>, δωριστί: <sic>Σέβου</sic> μ’, Ἑλένας φυτόν εἶμι</foreign>.
+
+        <quote xml:lang="grc">       
+<l>γράμματα δʼ ἐν φλοιῷ γεγράψεται, ὡς παριών τις</l>
+<l><sic>ἀννείμῃ</sic>, δωριστί: <sic>Σέβου</sic> μ’, Ἑλένας φυτόν εἶμι.</l>
+</quote>
     So sagt auch Lucian. Amor. 16 von dem Jünglinge, der sich in
     die Aphrodite des Praxiteles verliebt hatte: <foreign xml:lang="grc">πᾶς μαλακοῦ δένδρου</foreign>
     <foreign xml:lang="grc">φλοιὸς Ἀφροδίτην καλὴν ἐκήρυσσεν</foreign>. Vgl. Anthol. Pal. IX, 431;
@@ -11179,10 +11196,18 @@ rendu pour 1860, p. 86. M. Fränkel in Archaeolog. Zeit.
     güinstige Vorbedeutung gehalten. Theoer. III, 37: <foreign xml:lang="grc"><sic>ἅλλεται</sic> ὀφθαλμός</foreign>
     <foreign xml:lang="grc">μευ ὁ δεξιός· ἄρά γʼ ἰδησῶ αὐτάν</foreign>; vgl. Eustath. ad Iliad.
     VII, 184 und Plaut. Pseud.], 1, 105:
-    PS. Spero alicunde hodie me bona opera aut hac mea
-    Tiıbi inrenturum esse aurilium argentarium.
-    ΟΑ. Atque id futurum unde? PS. Unde dicam, nescio;
-    Nisi quia futurum est, ita supercilium salit.
+
+    <quote xml:lang="grc">
+        <l>PS. Spero alicunde hodie me bona opera aut hac mea</l>
+        <l>Tibi inrenturum esse aurilium argentarium.</l>
+        <l>CΑ. Atque id futurum unde? PS. Unde dicam, nescio;</l>
+        <l>Nisi quia futurum est, ita supercilium salit.</l>
+    
+    
+    
+    
+</quote>
+
     [Hermann lässt hierzu noch vergleichen: Bybilakis Neugriech.
     Leben 8. 24: <foreign xml:lang="el">τὸ ᾽μάτι μου ξεπετᾷ, κἄποιον θὰ ἰδῶ, ποῦ μ᾽ ἀγαπᾷ</foreign>.
     Melampus <foreign xml:lang="grc">περὶ παλμῶν</foreign> in Franz Script. Physiogn. p.
@@ -11288,9 +11313,15 @@ rendu pour 1860, p. 86. M. Fränkel in Archaeolog. Zeit.
     <note n="18" xml:lang="deu"><p>
     In den Komödien folgt die Hochzeit oft unmittelbar auf die
     Verlobung; z. B. bei Plaut. Trin. V, 2, 64:
-    Numgqguid causae est, quin uxorem cras domum ducam ?
-    — Optumum est.
-    Tu in perendinum paratus sis, ut ducas.
+
+    <quote xml:lang="grc">
+        <l>Numquid causae est, quin uxorem cras domum ducam ?</l>
+        <l>— Optumum est.</l>
+        <l>Tu in perendinum paratus sis, ut ducas.</l>
+    
+    
+    
+</quote>
     In der Aulularia und dem Curculio geschieht es an demselben
     Tage; aber die vorher zu beobachtenden Gebräuche gestatteten das
     in der Wirklichkeit wohl nur selten.
