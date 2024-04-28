@@ -1,0 +1,257 @@
+
+<note n="6.431.1">A deme in Attica.</note>
+
+
+
+
+<note n="6.432.1">ἐλεύθερον Solanus: ἐλευθέριον MSS.</note>
+
+
+<note n="6.432.2">Αἰγυπτίοις Ω: Αἰγυπτίας ΓΝ.</note>
+
+
+
+
+<note n="6.435.1">Thucydides I, vi.</note>
+
+
+
+
+<note n="6.436.1">κατὰ Seager: μετὰ MSS.</note>
+
+
+
+
+<note n="6.439.1">Castor and Pollux, guides to mariners.</note>
+
+
+<note n="6.439.2">St. Elmo’s Fire.</note>
+
+
+
+
+<note n="6.440.1">τὴν Reitz: τὸν MSS.</note>
+
+
+<note n="6.440.2">ὑπακούσει Jacobitz: ὑπακούσεις MSS.</note>
+
+
+
+<note n="6.441.1">The old man of the sea.</note>
+
+
+
+
+<note n="6.442.1">σιγᾶν Solanus: σέ γ᾿ ἂν MSS.</note>
+
+
+<note n="6.442.2">πολλοὶ ΓΝΦ: παλαιοὶ other MSS.</note>
+
+
+
+
+<note n="6.445.1">In Athens.</note>
+
+
+
+
+<note n="6.446.1">So Dindorf: καὶ τοὺς MSS.</note>
+
+
+<note n="6.446.2">ἐπιστάντες Guyet: ὑποστάντες MSS.</note>
+
+
+<note n="6.446.3">πρῴην Jacobs and Lobeck: πρῶτον MSS.</note>
+
+
+
+<note n="6.447.1">Enodia, Hecate.</note>
+
+
+
+
+<note n="6.448.1">ἑκάστῳ Fritzsche confirmed by Γ ἑκάστω (sic): ἕκαστος
+other MSS.</note>
+
+
+<note n="6.448.2">ἔστω add. Fritzsche.</note>
+
+
+
+<note n="6.449.1">Against bad luck.</note>
+
+
+
+
+
+<note n="6.453.1">Arion.</note>
+
+
+<note n="6.453.2">Melicertes.</note>
+
+
+
+
+<note n="6.454.1">So Γ: om. θύμον N: ὅσα ἱσθμοῖ καὶ πυθοῖ ΑΩ.</note>
+
+
+<note n="6.454.2">μοι Fritzsche: με MSS.</note>
+
+
+<note n="6.454.3">τὰς add. Halm.</note>
+
+
+
+<note n="6.455.1"><hi rend="italic">Works and Days</hi>, 405.</note>
+
+
+<note n="6.455.2">Sisyphus was condemned to roll a rock up to the top of a hill, from where it eternally rolls back again.</note>
+
+
+
+
+<note n="6.456.1">ἐπιβλέψομαι Pflugk: ἐπιβλέψοιμι MSS.</note>
+
+
+
+
+<note n="6.458.1">MSS: χρυσῷ Warmington (v. ch. 23, init.).</note>
+
+
+<note n="6.458.2">δημοσίᾳ δὲ ὅσα Fritzsche: δημόσια δὲ ἐς κάλλος (om. ὅσα) MSS.</note>
+
+
+
+<note n="6.459.1">Irus, the beggar in the Odyssey.</note>
+
+
+<note n="6.459.2">Proverbial.</note>
+
+
+
+
+<note n="6.460.1">βιώσει Dindorf: βιώσεις MSS.</note>
+
+
+<note n="6.460.2">τό γε Guyet: τότε MSS.</note>
+
+
+<note n="6.460.3">καὶ edd.: ἢ MSS.</note>
+
+
+<note n="6.460.4">οὐδὲ Fritzsche: οὔτε (or οὐ) MSS.</note>
+
+
+
+
+<note n="6.462.1">αἰτήσω μοι Courier: αἰτήσομαι MSS.</note>
+
+
+<note n="6.462.2">ἡδύ, μείζω Sommerbrodt: ἤδη μείζον MSS.</note>
+
+
+
+
+<note n="6.464.1">αὑτοῦ Reitz: αὐτοῦ MSS.</note>
+
+
+
+
+<note n="6.466.1">μενεῖν Lehmann: μένειν MSS.</note>
+
+
+<note n="6.466.2">αὐτοὶ συμπαρῶσι Ω: αὐτοὶ συμπαρ (sic) Γ: αὐτοὶ συμπαρεδερεύειν αὑτοῖς βούλονταί τινας Ν.</note>
+
+
+<note n="6.466.3">διαβάλωμεν: Dindorf and Bekker: διαλάβωμεν MSS.</note>
+
+
+
+
+<note n="6.468.1">ἄχρι Jacobitz: ἄχρις MSS.</note>
+
+
+<note n="6.468.2">ἅνθρωποι Fritzsche: ἄνθρωποι MSS.</note>
+
+
+
+<note n="6.469.1">Alexander left him in Macedon.</note>
+
+
+
+
+<note n="6.470.1">κατέλεξε Pellet: κατέαξε MSS.</note>
+
+
+
+
+<note n="6.472.1">ἀνατετραμμένης Gesner: ἀναγεγραμμένης MSS.</note>
+
+
+<note n="6.472.2">εὔ γε add. Dindorf.</note>
+
+
+<note n="6.472.3">So Bekker: καὶ οὐ παρὰ τὸ φανεῖσθαι MSS.</note>
+
+
+<note n="6.472.4">συμμῖξαι Jacobitz: συμμίξαι MSS.</note>
+
+
+
+<note n="6.473.1">The God of War.</note>
+
+
+
+
+<note n="6.474.1">μέντοι Bekker: μέν σοι (or μοι) MSS.</note>
+
+
+<note n="6.474.2">ὑμῶν Solanus: ἡμῖν MSS.</note>
+
+
+
+
+<note n="6.476.1">After ὅμορος MSS. have ἤδη: del. Fritzsche.</note>
+
+
+<note n="6.476.2">So Jacobitz: παραπολύ MSS.</note>
+
+
+<note n="6.476.3">προπίνων Gesner and Cobet: προτεινόμενος (or προτείνων) MSS.</note>
+
+
+
+
+<note n="6.478.1">νεῴ Guyet: νεὼς MSS.</note>
+
+
+
+
+<note n="6.480.1">ἃ εἰκότως MSS.: ἃ del. Bekker.</note>
+
+
+
+<note n="6.481.1">The story is told in Plato, <hi rend="italic">Republic</hi> II, 359d ff.</note>
+
+
+<note n="6.481.2">Handsome young men of ancient myth.</note>
+
+
+
+
+<note n="6.482.1">τύχοι ND: τύχοιμι other MSS.</note>
+
+
+<note n="6.482.2">ἂν ἐξῆν Guyet: ἀνέξειν Γ: ἂν ἕξειν N: ἂν ἐξῇ ΑΩ.</note>
+
+
+
+
+<note n="6.484.1">ὑγιείας Jacobitz: ὑγείας MSS.</note>
+
+
+<note n="6.484.2">προσδεῖ ὃς edd.: πρὸς διὸς MSS.</note>
+
+
+
+

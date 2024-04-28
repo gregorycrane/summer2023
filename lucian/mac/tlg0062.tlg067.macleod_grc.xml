@@ -58,15 +58,14 @@
 <p>optical character recognition</p>
 </correction>
 </editorialDecl>
-    <refsDecl n="CTS">
-        <cRefPattern matchPattern="(\w+)"
-            replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
-            <p>This pointer pattern extracts section.</p>
-        </cRefPattern>
-    </refsDecl>
-<!-- <refsDecl doctype="TEI.2">
-<state unit="section" n="chunk"/>å
-</refsDecl>-->
+<refsDecl n="CTS">
+    <cRefPattern n="section" matchPattern="(\w+).(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])">
+        <p>This pointer pattern extracts book and section.</p>
+    </cRefPattern>
+    <cRefPattern n="book" matchPattern="(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+        <p>This pointer pattern extracts book.</p>
+    </cRefPattern>
+</refsDecl>
 </encodingDesc>
 <profileDesc>
 <langUsage>
@@ -254,8 +253,10 @@
 χεῖρας ἐκπετάσας, μόνα παρεὶς τὰ πρόβατα εἰς τὴν
 νομήν, ἐντειλάμενος τῷ κριῷ ὅσα ἐχρῆν πράττειν
 αὐτὸν ὑπὲρ ἐμοῦ.</p></sp>
+</div>
 
-<sp><speaker>ΠΟΣΕΙΔΩΝ</speaker><p>4.Μανθάνω· ὑπ᾿ ἐκείνοις ἔλαθον ὑπεξελθόντες· σὲ δὲ
+<div type="textpart" subtype="section" n="4">
+<sp><speaker>ΠΟΣΕΙΔΩΝ</speaker><p>Μανθάνω· ὑπ᾿ ἐκείνοις ἔλαθον ὑπεξελθόντες· σὲ δὲ
 τοὺς ἄλλους Κύκλωπας ἔδει ἐπιβοήσασθαι ἐπ᾿ αὐτόν.</p></sp>
 
 <sp><speaker>ΚΥΚΛΩΨ</speaker><p>Συνεκάλεσα, ὦ πάτερ, καὶ ἧκον· ἐπεὶ δὲ
@@ -776,7 +777,12 @@
  τῆς
 ὀργῆς, ἀλλ᾿ ὑπὸ τῶν νεκρῶν ἐνέφραττέ μοι τὸν
 ῥοῦν, ἐλεήσας τοὺς ἀθλίους ἐπῆλθον ἐπικλύσαι
-ἐθέλων, ὡς φοβηθεὶς ἀπόσχοιτο τῶν ἀνδρῶν. 2.
+ἐθέλων, ὡς φοβηθεὶς ἀπόσχοιτο τῶν ἀνδρῶν. </p></sp>
+
+</div>
+
+<div type="textpart" subtype="section" n="2">
+<sp><p>
 ἐνταῦθα ὁ Ἥφαιστος—ἔτυχε γὰρ πλησίον που ὤν—πᾶν
 οἶμαι ὅσον ἐν τῇ καμίνῳ πῦρ εἶχεν
 <note n="7.214.2">πᾶν ὅσον οἶμαι πῦρ εἶχε β.</note>

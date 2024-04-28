@@ -1,5 +1,17 @@
 # various files from summer 2023 work
 
+# Checklist for pull requests
+
+1. add the "xml:base" -- https://github.com/OpenGreekAndLatin/First1KGreek/wiki/CTS-URNs:-Using-the-xml:base-attribute-in-CTS-divs
+
+Misc header irregularities pertaining to credits, such as Perseus staff and release info
+missing translator role for Harmon, expanded initials (non-standard), and added brith/death dates (not used)
+missing n attributes in cRef (structure will read as "none")
+other minor header fixes, HathiTrust, changelog, etc.
+incomplete xml:base attributes
+notes need language attribute and finer level of language tagging
+all English files need to be bumped and changed to appropriate URNs
+
 ## Lucian
 
 Work adding English translations of Lucian 

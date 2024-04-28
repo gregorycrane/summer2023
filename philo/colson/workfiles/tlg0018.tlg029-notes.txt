@@ -1,0 +1,947 @@
+
+<note n="9.184.1">MSS.πόνος.</note>
+
+
+<note n="9.184.2">MSS.αὐτοειδῶς.</note>
+
+
+<note n="9.184.3">MSS.χρήσεων.</note>
+
+
+
+<note n="9.185.a">Bernays gives several references to the practice of invoking
+God at the beginning of a discussion, and clearly Philo
+has in mind <hi rend="italic">Timaeus</hi>27 C,where Socrates calls on Timaeus
+to speak after invoking the Gods, and Timaeus replies that every sensible person does so when speaking on any matter great or small, and he will certainly do so when speaking about the universe, whether it is created or uncreated (ἦ γέγονεν ἢ καὶ ἀγενές ἐστιν).</note>
+
+
+
+
+<note n="9.186.1">Bernays μολυσμοὺς. Cumont retains στοχασμοὺς where
+it is in the MSS., but does not attempt to make sense of it.
+I have followed Cohn’s transference of the word, but would
+prefer to read εἰκόσι καὶ στοχασμοῖς. Cohn in <hi rend="italic">Hermes,</hi>1916,
+p. 181, says that εἰκότες στοχασμοί is an exceedingly common
+collocation in Philo, but he gives no examples, and up to the
+present I have not found any. On the other hand, εἰκότα
+coupled with πιθανά occurs several times, e.g. στοχασταὶ . . .
+πιθανῶν καὶ εἰκότων <hi rend="italic">Spec. Leg.</hi>i. 61, and it is an established
+term in rhetoric; cf. also στοχασμοῖς καὶ εἰκασίαις <hi rend="italic">De Som.</hi> i. 23.</note>
+
+
+<note n="9.186.2">MSS.σημαίνεται.</note>
+
+
+<note n="9.186.3">MSS.δηλοῦνται.</note>
+
+
+<note n="9.186.4">MSS. τὰ πολλὰ πειρᾶται διανυκτερεύειν. The correction
+made by Bernays and accepted by Cohn and Cumont is
+based on Thuc. i. 134. 1 ἵνα μὴ ὑπαίθριος ταλαιπωροίη.</note>
+
+
+<note n="9.186.5">MSS. διήκων. Bernays and others διήκουσα. The correc-  tion to διῆκον in preference to διήκουσα seems to have been originally made by Jessen (see note, vol. viii. p. 428) to accord with his canon, that an open vowel is followed by μέχρι instead of ἄχρι in Philo. I do not see why &lt;ὁ&gt; διήκων (<hi rend="italic">sc.</hi> κόσμος) should not be possible.</note>
+
+
+
+<note n="9.187.a">That ἄχρι is here used inclusively is, I think, shown by ἀδιακόσμητος, a condition which only exists during the ἐκπύρωσις (cf. Philo’s disquisition on the inclusive use of ἀπό in <hi rend="italic">De Som.</hi> ii. 257). I understand Bernays to say that the addition of ἢ ἀδιακ. is inaccurate (“ungenau”) according to Stoic doctrine. But Philo implies the same in § 9.</note>
+
+
+
+
+<note n="9.188.1">MSS. ἐξ ὧν.</note>
+
+
+<note n="9.188.2">MSS. ἄπαυστον.</note>
+
+
+<note n="9.188.3">As a long syllable is required in the anapaestic, Cumont
+has ἄλλου, Bernays ἄλλῳ and so in the other places (§§ 30 and
+144) where the lines are quoted.</note>
+
+
+<note n="9.188.4">MSS. οὐδέ: Bernays and Cumont οὐδείς . . . εὐήθης,
+followed by ὥστε with most MSS., though one has τὸ but
+without ὡς.</note>
+
+
+
+<note n="9.189.a">For this accepted Stoic definition of time cf. Diog. Laert. vii. 141. It is repeated in this treatise, §§ 52 ff., <hi rend="italic">cf. De Op.</hi> 26, where it was translated “a measured space determined by the world’s movement,” which perhaps gives the idea of διάστημα (distance or interval) more exactly.</note>
+
+
+<note n="9.189.b">The stars are regarded as ζῷα.</note>
+
+
+<note n="9.189.c">Stated to be a fragment from Empedocles.</note>
+
+
+<note n="9.189.d">See on § 30.</note>
+
+
+
+
+<note n="9.190.1">MSS.ἐπιστάμενος.</note>
+
+
+
+<note n="9.191.a">The meaning would be clearer if ἐκπύρ. and διακ. changed
+places. When we consider the former we see that a world has perished. When we see it followed by the latter we recognize that it did not really perish.</note>
+
+
+
+
+<note n="9.192.1">MSS. μὲν οὖν.</note>
+
+
+<note n="9.192.2">MSS. μὴ.</note>
+
+
+
+<note n="9.193.a">See Introd. p. 175 note <hi rend="italic">a.</hi></note>
+
+
+<note n="9.193.b">Ocellus was a Pythagorean of earlier times. The work attributed to him, which is still extant and which Philo alludes to here, belongs to the first or second century B.C. See further App. p. 525.</note>
+
+
+<note n="9.193.c"><hi rend="italic">Tim.</hi> 41 a. For other ways of taking the opening words see App. p. 525.</note>
+
+
+
+
+<note n="9.194.1">MSS. καλλίεργον.</note>
+
+
+<note n="9.194.2">Bernays τουτουὶ, i.e. τοῦ θεοπλάστου.</note>
+
+
+<note n="9.194.3">Bernays νοῦ, see note 9.195.c.</note>
+
+
+<note n="9.194.4">MSS. ὑφηγητὴς.</note>
+
+
+
+<note n="9.195.a">For the first of these explanations Bernays refers to Ar.
+<hi rend="italic">De Caelo</hi> i. 10, 279 b 34: “They (i.e. those who hold that it
+is indestructible but generated) claim that what they say is
+analogous to the diagrams drawn by mathematicians: their
+exposition does not mean that the world ever was generated,
+but is used for instructional purposes, since it makes things
+easier to understand, just as the diagram does for those who
+see it in process of construction” (Guthrie’s translation, who
+adds that the defence according to Simplicius is “that of
+Xenocrates and other Platonists”).</note>
+
+
+<note n="9.195.b">Though the reference is to the <hi rend="italic">Timaeus, passim,</hi> Bernays notes ἔργον = κόσμος 30 B, περίεχον 31 B, and ἔκγονα 50 B,. We have also μίμημα παραδείγματος 49 B, and ἐκμαγεῖον 50 B,</note>
+
+
+<note n="9.195.c">Or perhaps rather “plastic substance” (for receiving imprints), which seems to be the meaning in 50 B,, in which case τελειοτάτου will agree with ἐκμαγείου understood rather than as Leisegang (in index) with παραδείγματος. The other is the regular meaning in Philo, but does not suit πρός so well. Bernays indeed translates “Abdruck,” but he reads νοῦ for νοῦν—i.e. “issuing from a most perfect mind.”</note>
+
+
+
+
+<note n="9.197.a"><hi rend="italic">Theogony</hi> 116 f.</note>
+
+
+<note n="9.197.b">Ar. <hi rend="italic">Phys.</hi> iv. 1, 208 b 29. “Hesiod seems to have been right in putting Chaos first, where he says Chaos was first, then earth ὡς δέον πρῶτον ὑπάρξαι χώραν τοῖς οὖσι διὰ τὸ νομίζειν, ὥσπερ οἱ πολλοί, πάντα εἶναί που καὶ ἐν τόπῳ.”</note>
+
+
+<note n="9.197.c">This opinion is attributed to Zeno himself, <hi rend="italic">S.V.F.</hi> i. 103, 104.</note>
+
+
+<note n="9.197.d">This remarkable difference in the LXX of Gen. i. 2 from the Hebrew translated in the A.V. “without form and void”
+(R.V. “waste and void”) is compared with <hi rend="italic">Timaeus</hi> 51 LXX ἀνόρατον εἶδός τι καὶ ἄμορφον by Bernays, who thinks that the translators had it in mind. He notes also Wisdom xi. 17 κτίσασα τὸν κόσμον ἐξ ἀμόρφου ὕλης.</note>
+
+
+
+
+<note n="9.198.1">Cohn ἔδειξαν. He quotes § 52 below and also <hi rend="italic">De Op.</hi>
+60 and <hi rend="italic">Spec. Leg.</hi> i. 90, and what is closer to this passage
+<hi rend="italic">Leg. All.</hi> i. 2 ἡ γὰρ οὐρανοῦ κίνησις χρόνου φύσιν ἔδειξεν.
+Still “indicating the nature of time” is not quite the same
+as “indicating the nature of the measurement of time.” On
+the other hand ἐδέξαντο φύσιν, which Bernays translates “die
+Eigenschaft empfingen,” is a strange expression.</note>
+
+
+
+<note n="9.199.a">The allusion is no doubt to Gen. viii. 22 E.V. “While
+the earth remaineth, seedtime and harvest, and cold and heat,
+and summer and winter, and day and night shall not cease.” The LXX text is confused and difficult to translate grammatically, but gives the same meaning that these will continue while the earth lasts, but not that the earth will last. In the words οἳ χρόνου κτλ. there is also an allusion to Gen. i. 14 “Let them be for signs, and for seasons, and for days, and years,” which again gives no proof of everlastingness.</note>
+
+
+<note n="9.199.b">A familiar figure with Philo, applied to desire or vice, <hi rend="italic">Quod Det.</hi> 110, <hi rend="italic">Spec. Leg.</hi> iv. 83, <hi rend="italic">De Dec.</hi> 150 and to the spread of famine <hi rend="italic">De Ios.</hi> 160 (there called ἑρπήν). See also <hi rend="italic">De Prov.</hi> 30.</note>
+
+
+<note n="9.199.c"><hi rend="italic">Cf. De Mut.</hi> 62 ἐπ᾿ ἀγχόνην ᾖξεν, ἵνα . . . μηδὲ καθαρῷ θανάτῳ τελευτήσῃ.</note>
+
+
+
+
+<note n="9.200.1">MSS. παθῶν.</note>
+
+
+<note n="9.200.2">So MSS. and the other editors. Cohn corrects it to ἔπειτα
+δέ, ὅτι, which is not needed. πρῶτον μὲν is, I believe, more
+often followed by ἔπειτα than by ἔπειτα δὲ or at least as often.</note>
+
+
+<note n="9.200.3">MSS. οἴεται.</note>
+
+
+<note n="9.200.4">On the displacement of the text in the MSS. at this point see App. p. 527.</note>
+
+
+
+<note n="9.201.a">See App. p. 526.</note>
+
+
+
+
+<note n="9.202.1">MSS. ὡς τὰ τῶ.</note>
+
+
+<note n="9.202.2">Plato λύει. On this and other variations in the quotations
+from Plato’s text see App. p. 527.</note>
+
+
+<note n="9.202.3">Plato ἓν.</note>
+
+
+<note n="9.202.4">MSS. ἀληθείας.</note>
+
+
+
+<note n="9.203.a"><hi rend="italic">Timaeus</hi> 32 C. The translation here and in § 38 mostly follows that of Archer-Hind.</note>
+
+
+<note n="9.203.b">The source is unknown.</note>
+
+
+
+
+<note n="9.204.1">MSS. συνθεὶς.</note>
+
+
+<note n="9.204.2">Suggestions for completing or correcting this sentence
+are: (1) Cumont εἰπεῖν for ἔχει, (2) Bernays &lt;ὧδε λέγειν· καὶ
+αὑτὴ μὲν ἡ ἀπόδειξις&gt; ὧδ᾿ ἔχει, (3) Cohn and Bücheler &lt;μαρτυρεῖν
+or ὁμολογεῖν ὅτι&gt; ὧδ᾿ ἔχει.</note>
+
+
+<note n="9.204.3">MSS. καὶ δῆτα.</note>
+
+
+<note n="9.204.4">Cohn, presumably like Bernays, takes οὐρανοῦ as agreeing
+with παντὸς. But though οὐρανός can=κόσμος (see § 4),
+can it be said to have four elements? Cumont expunges
+οὐρανοῦ. He quotes <hi rend="italic">De Som.</hi> i. 15, where the constituents, of
+which we as well as the Cosmos are composed, are said to be
+earth, water, air, heaven, and to the same effect <hi rend="italic">Mos.</hi> i. 113, ii. 37. These however rather point to the omission of πυρός. The addition of ὕδατος which all three editors make is evidently necessary.</note>
+
+
+<note n="9.204.5">One MSS. κεφαλῆ. Cumont ὥστε . . . ἐν κεφαλῇ. In this case ἐπέσχηκε = “has stopped”; or “takes up its place,”
+see note <hi rend="italic">a</hi>.</note>
+
+
+<note n="9.204.6">MSS. βίαιος.</note>
+
+
+
+<note n="9.205.a">i.e. the skull. Cumont’s reading (see note 5) gives a more natural sense. It is strange to find the head called our most earthy part.</note>
+
+
+
+
+<note n="9.206.1">MSS. γῆς.</note>
+
+
+<note n="9.206.2">So MSS. here, elsewhere ἑτέραν. See note <hi rend="italic">a.</hi></note>
+
+
+
+<note n="9.207.a">These seven lines, the last three of which are quoted also
+in §§ 5 and 144, are quoted in bits by several writers including
+Clement, who says that they come from the <hi rend="italic">Chrysippus</hi> of Euripides. Besides these seven there are seven others, given by Sextus Empiricus, which, we learn from the paraphrase given by Vitruvius of the whole fourteen, must have preceded our seven. In these Aether and Earth are addressed as the father and mother of all things living. Vitruvius’s paraphrase ends with “in eandem recidere, in qua fuerant, proprietatem,” which shows that he read ἰδίαν and not ἑτέραν. See Nauck on Fr. 839 of Euripides.</note>
+
+
+
+
+<note n="9.208.1">Cohn suspects ἐξασθενεῖ on account of the infinitive
+following it. It may perhaps be justified on the analogy of
+the construction not uncommon with adjectives, e.g., νῆες
+ὀλίγαι ἀμύνειν, or ὡς may have fallen out after ἀναγκαίως on the analogy of ψυχρόν ἐστι τὸ ὕδωρ ὥστε λούσασθαι (Madvig 149, 150).</note>
+
+
+<note n="9.208.2">MSS. διαφυλάττειν.</note>
+
+
+
+
+<note n="9.210.1">MSS. αὐτὸς . . . παρέχων . . . πάσχων.</note>
+
+
+
+<note n="9.211.a"><hi rend="italic">Od.</hi> vi. 107 f., said of Artemis and her nymphs.</note>
+
+
+<note n="9.211.b"><hi rend="italic">Timaeus</hi> 33 C.</note>
+
+
+<note n="9.211.c">i.e. each part or element feeds upon another. Archer-Hind compares the saying of Heracleitus quoted in § 111.</note>
+
+
+
+
+<note n="9.213.a">Source unknown.</note>
+
+
+<note n="9.213.b"><hi rend="italic">Cf. Il.</hi> xv. 362 ff.:
+<quote>
+<l>ὡς ὅτε τις ψάμαθον παῖς ἄγχι θαλάσσης,</l>
+<l>ὅς τ᾿ ἐπεὶ οὖν ποιήσῃ ἀθύρματα νηπιέῃσιν,</l>
+<l>ἂψ αὖτις συνέχευε ποσὶν καὶ χερσὶν ἀθύρων.</l></quote></note>
+
+
+
+
+<note n="9.214.1">Cohn corrects to τῳ, I think, unnecessarily. He says
+that παντί τῳ is very common in Philo, which is certainly
+true, and that που is unsuitable. Why? Having used παντί
+τῳ just above, § 35, he might naturally prefer to vary the
+form of introduction.</note>
+
+
+<note n="9.214.2">MSS. καὶ τοῖς or καίτοι.</note>
+
+
+<note n="9.214.3">MSS. ἐκείνου, χάριτι μὲν θεοῦ ὄν· θνητὸν μὲν γὰρ κτλ.</note>
+
+
+
+<note n="9.215.a"><hi rend="italic">Cf. De Gig.</hi> 7 and <hi rend="italic">De Plant.</hi> 12, where they are said to be seen particularly in Macedonia.</note>
+
+
+<note n="9.215.b">Bernays explains this as a Peripatetic hit at the Stoic readiness to believe that men become gods. He quotes among other references Cic. <hi rend="italic">De Nat. Deorum</hi> i. 39, where Chrysippus is declared to have included among the many things which he held to be divine “homines eos qui immortalitatem essent consecuti.” The Peripatetic then says here that a doctrine which involved the death of the heavenly beings is even worse than that which asserts the deification of men.</note>
+
+
+
+
+<note n="9.216.1">So Cohn and Cumont for MSS. εἰδοποιοὺς. Arnim however
+in <hi rend="italic">S. V. F.</hi> ii. 397 quoting this passage has ἰδίως ποιοὺς,
+and as several other passages from Plutarch, etc., have the
+masculine, it seems that this as nearer to the MSS. is correct.</note>
+
+
+
+<note n="9.217.a">The meaning is to be judged from <hi rend="italic">De Som.</hi> i. 22 “Some
+people have declared them (the stars) to be . . . masses of fiery
+metal, for which they themselves deserve a prison and mill-house
+(i.e. a place for hard labour like Lat. “pistrinum”), in which such instruments are kept to punish impiety.” And both passages seem to be connected with the story that Anaxagoras was prosecuted for impiety because he said that the sun was a μύδρος διάπυρος. They seem to be the only passages which suggest that such a form of punishment was used in prisons. Was there perhaps a story that Anaxagoras when imprisoned, as according to one version he was, was subjected to this as an appropriate punishment?</note>
+
+
+<note n="9.217.b">On the meaning of the term ἰδίως ποιόν or ποιός and the argument of §§ 48–51 see App, p. 528.</note>
+
+
+
+
+<note n="9.218.1">See note 1, p. 216.</note>
+
+
+<note n="9.218.2">MSS. ὁ μὲν . . . ὁ δὲ.</note>
+
+
+
+<note n="9.219.a">A fragment of the <hi rend="italic">Myrmidons</hi> of Aeschylus. The passage is often quoted with or without the preceding lines
+<quote>
+<l>ὧδ᾿ ἐστὶ μύθων τῶν Λιβυστικῶν κλέος,</l>
+<l>πληγέντ᾿ ἀτράκτῳ τοξικῷ τὸν αἰετὸν</l>
+<l>εἰπεῖν ἰδόντα μηχανὴν πτερώματος,</l>
+<l>τάδ᾿ οὐχ ὑπ᾿ ἄλλων ἀλλὰ τοῖς αὑτῶν πτεροῖς</l>
+<l>ἁλισκόμεσθα.</l></quote></note>
+
+
+
+
+<note n="9.220.1">MSS. χρόνος . . . κόσμος.</note>
+
+
+<note n="9.220.2">On the transposition of the text at this point see App.
+p. 527.</note>
+
+
+
+<note n="9.221.a"><hi rend="italic">Timaeus</hi> 37 E.</note>
+
+
+
+
+<note n="9.222.1">MSS. ἅτ᾿ ἐπ᾿ ἀνθρώπου.</note>
+
+
+<note n="9.222.2">MSS. πρὸς τὸν τῆς ὁράσεως.</note>
+
+
+
+<note n="9.223.a">Lived about the middle of the second century B.C. For some remarks on the part assigned to him in the argumentation which follows see Intr. p. 176.</note>
+
+
+<note n="9.223.b">Or “assumed”; cf. § 125.</note>
+
+
+
+
+<note n="9.224.1">Cohn thinks the superlative meaningless and suggests
+ἄνω, but “the uppermost steps are bounded by the ἀκμή”
+seems an intelligible phrase.</note>
+
+
+<note n="9.224.2">MSS. ἀποδίδωσιν ἐν ἀσθενεῖ.</note>
+
+
+
+
+<note n="9.226.1">Mangey, Bernays and Cumont correct to καταρθεῖσα
+(from κατάρδω=“irrigate”), and Cohn’s reference to <hi rend="italic">Timaeus</hi>
+22 D (“When the gods send a flood upon earth to purify
+her”) is hardly to the point; but the example which he
+quotes (<hi rend="italic">Hermes,</hi> 1916, p. 184) from <hi rend="italic">De Providentia</hi> 43,
+where the purification is effected by the ordinary rains which nourish animal and vegetable life, justifies the retention of
+καθαρθεῖσα.</note>
+
+
+<note n="9.226.2">D φθορᾶς.</note>
+
+
+
+
+<note n="9.228.1">MSS. βιάζονται.</note>
+
+
+
+<note n="9.229.a">Literally “the most and greatest of the mountains,” meaning perhaps “nearly all and even the highest.” In the next line τὴν πολλὴν may = “the greater part.”</note>
+
+
+
+
+<note n="9.230.1">MSS. εἰσέρχεται.</note>
+
+
+<note n="9.230.2">So Cohn and Cumont from Diels for MSS. ἰσόπαις ἦν,
+Bernays ὁπλίσεως ἦν.</note>
+
+
+
+<note n="9.231.a">This phrase is used several times by Philo, <hi rend="italic">Mos.</hi> ii. 84, <hi rend="italic">Spec. Leg.</hi> iii. 33, 109 and <hi rend="italic">Legatio</hi> 56. This is the only place where he indicates that it is a definite quotation.</note>
+
+
+
+
+<note n="9.233.a">Perhaps a reminiscence of Plato, <hi rend="italic">Symp.</hi> 206 C ἔστι δὲ
+τοῦτο θεῖον τὸ πρᾶγμα, καὶ τοῦτο ἐν θνητῷ ὄντι τῷ ζῴῳ ἀθάνατον
+ἔνεστιν, ἡ κύησις καὶ ἡ γέννησις. See App. p. 521 (on <hi rend="italic">De Vit.
+Cont.</hi> 59).</note>
+
+
+<note n="9.233.b">Alluding perhaps to the use of κομιδῆ νήπιος in § 42. Philo here speaks in the person of Critolaus, forgetting that Critolaus would not know what arguments had been adduced in the earlier parts of the treatise. This goes to show that Critolaus is throughout these sections paraphrased rather than quoted.</note>
+
+
+
+
+<note n="9.234.1">MSS. ἀγνοείσθω.</note>
+
+
+<note n="9.234.2">θεοὺς in this place is my insertion. Cumont and Cohn
+have τῶν ὁρατῶν &lt;θεῶν&gt;. It seems to me necessary, for the
+sense, to state that the κληροῦχοι of the περίβολος are gods,
+and with this insertion it is not necessary with Cumont to
+suppose that κληρούχους is corrupt. On the other hand
+ὁρατῶν can stand alone. Bernays also does not insert either
+θεῶν or θεοὺς, translates καὶ τοὺς . . . κληρούχους “welcher
+die einzelnen göttlichen Theilmächte umschliesst,” and περίβολος
+by “Tempelbezirk.” He says that περίβολος is speci- ally applied to temples. But I do not think the index bears this out for Philo. Though in several places it is used with reference to the temple, it does not seem in itself to mean more than “enclosure.”</note>
+
+
+
+<note n="9.235.a">The argument in this section is substantially the same as in §§ 20 ff., but it is expressed in a different way in many respects, particularly at the end.</note>
+
+
+
+
+<note n="9.236.1">Bernays has ἄνευ προφάσεως for the MSS. εὐπροφάσιστα,
+Cumont ἧττον ἂν ἠδίκουν οἱ φθορὰν εἰσηγούμενοι τοῦ κόσμου,
+μηδὲν γὰρ ἔχοντες παράδειγμ᾿ ἀιδιότητος ἐδόκουν ἂν εὐπροφάσιστα
+διδάσκειν. I have simply printed Cohn’s text rather than
+adopt that of Bernays or Cumont, neither of which I feel to
+be quite satisfactory. Cohn discusses his text in <hi rend="italic">Hermes</hi>
+(1916) and professes himself quite satisfied with it (he defends
+the anacoluthic γὰρ by other examples). But I cannot
+translate it, and the translation I have given involves either
+the omission of ἧττον or the substitution of ἄνευ προφάσεως
+for εὐπροφάσιστα.</note>
+
+
+
+<note n="9.237.a">This end of the section seems to be a not very happy
+adaptation of <hi rend="italic">Timaeus</hi> 73 A, where the bowels are said to have been formed so that the food should not pass too quickly, and so, producing ἀπληστία, make the whole race ἀφιλόσοφον καὶ ἄμουσον through gluttony (γαστριμαργία). Grammatically ἄμουσον might agree with γαστριμαργίαν or even with ἀπληστίαν, and so perhaps Philo (or Critolaus?) took it.</note>
+
+
+<note n="9.237.b">This is an allusion to the supposed connexion between εἱμαρμένη and εἱρμός, which would involve connexion with εἴρω also, <hi rend="italic">cf. De Mut.</hi> 135 ἡ εἱμαρμένη, ἀκολουθία καὶ ἀναλογία τῶν συμπάντων εἱρμὸν ἔχουσα ἀδιάλυτον. See note there (vol. v. p. 590), where reference is given to <hi rend="italic">S.V.F.</hi> ii. 918 ἡ εἱμαρμένη εἱρμός τις οὖσα αἰτιῶν ἀπαράβατος· οὕτω γὰρ αὐτὴν οἱ Στωικοὶ ὁρίζονται. It may be noted that here it appears in a non-Stoical argument.</note>
+
+
+
+
+<note n="9.238.1">Mangey and earlier editors read καὶ Ποσειδώνιος, which
+is rejected by later editors on the grounds that Boethus is
+elsewhere called a Sidonian and that Posidonius upheld the
+doctrine of ἐκπύρωσις.</note>
+
+
+<note n="9.238.2">MSS. πάνεπος.</note>
+
+
+<note n="9.238.3">So Cohn following Cumont for the MSS. θειότερον, which
+Bernays retains, translating “göttlicheren.” I do not feel
+that it is impossible.</note>
+
+
+
+<note n="9.239.a">For the fourfold classification cf. particularly <hi rend="italic">Quod</hi> <hi rend="italic">Deus</hi> 35 ff. This too appears to be an exclusively Stoic theory (see Zeller, <hi rend="italic">Stoics,</hi> p. 196). The addition of the fifth quality “virtue in the good” I have not seen elsewhere.</note>
+
+
+<note n="9.239.b">Boethus, middle of third century B.C. Panaetius, second century.</note>
+
+
+<note n="9.239.c">Diogenes (the Babylonian), late third and early second century.</note>
+
+
+
+
+<note n="9.240.1">MSS. τῶ.</note>
+
+
+<note n="9.240.2">MSS. συναπτόμενον.</note>
+
+
+<note n="9.240.3">MSS. καὶ λεαινόμενος.</note>
+
+
+
+<note n="9.241.a">This again is to some extent the same argument as that
+of §§ 20 and 74. But to these dissident Storics the main point
+is that since there is nothing to cause destruction either
+within or without the world, the destruction, if it came, would
+come from the non-existent, which is unthinkable.</note>
+
+
+<note n="9.241.b">Or perhaps “inherent.” I have not found any examples
+of such a meaning nor het of “prevailing.” Bernays “umhaftenden,”
+Mangey “primariae.” Later we have simply
+ποιότης.</note>
+
+
+<note n="9.241.c"><hi rend="italic">Cf. De Conf.</hi> 183–187, where the use of the word throughout the treatise makes it necessary to translate “confusion,”
+but here it can be avoided. But I do not know of any word which suggests the φθορὰ τῶν ἐξ ἀρχῆς ποιοτήτων. Possibly “fusion” may be better than “amalgamation,” cf. the quotation from Chrysippus in <hi rend="italic">S.V.F.</hi> ii. 473, given in vol. iv. p. 558.</note>
+
+
+<note n="9.241.d">The same illustration is given in <hi rend="italic">De Conf.</hi> 187, where the drug is said to be a compound of wax, tallow, resin and pitch.</note>
+
+
+
+
+<note n="9.242.1">So Bernays from τῇ τούτου ἰδιοσταλεῖσα found in the
+corresponding passage of the <hi rend="italic">De Mundo</hi>, the spurious work
+made up of centos from Philo. The MSS. themselves leave
+blanks of various length before σταλεῖσα. See note <hi rend="italic">a.</hi></note>
+
+
+<note n="9.242.2">MSS. ἀνάγκη.</note>
+
+
+
+<note n="9.243.a">“The Stoics distinguished between God the creator and sovereign of the world and subordinate gods; in other words, between the universal divine power as a Unity working in the world and its individual parts and manifestations. The former they denoted by the term Zeus; to the latter they applied the names of the subordinate gods”
+(Zeller, <hi rend="italic">Stoics</hi> (Eng. trans.), p. 328). Thus at the ἐκπύρωσις, such Unity alone remained.</note>
+
+
+
+
+<note n="9.244.1">MSS. οὐκ ἄξιον.</note>
+
+
+
+<note n="9.245.a">The thought of God as “the soul of the world” is
+mentioned by Philo, <hi rend="italic">Leg. All.</hi> i. 91, <hi rend="italic">De Mig.</hi> 179 and 181, in
+each case with a certain amount of disapproval (see note on
+<hi rend="italic">Leg. All.</hi> i. 91, vol. i. p. 478). The words κατὰ τοὺς ἀντι- δοξοῦντας quite suit Boethus, if we are still having his opinion. For he definitely rejected the common Stoic view that God was contained in the universe (Zeller, p. 152).</note>
+
+
+<note n="9.245.b">Or “Generative Reason” or “Seed Power” (Arnold). By the term “Generative Reason” must be understood the creative and forming forces in nature, which have collectively produced the universe, and particular exercises of which (στερματικοὶ λόγοι) produce individual things (Zeller).</note>
+
+
+
+
+<note n="9.246.1">Some MSS. ἄμα.</note>
+
+
+
+<note n="9.247.a">Bernays “geistiger Zusammenhalt.” But see the
+definition of ἕξις in <hi rend="italic">Quod Deus</hi> 35 as πνεῦμα ἀναστρέφον ἐφ᾿
+ἑαυτό, and note on <hi rend="italic">Quis Rerum</hi> 242 “the three terms πνεῦμα,
+ἕξις, τόνος for a permeating and binding force seem more or
+less convertible.” See <hi rend="italic">S.V.F.</hi> ii. 439–462.</note>
+
+
+<note n="9.247.b">Or “kindled by.” The word ἅμμα is common enough for a knot or fastening, but there is no example = “the thing fastened,” though such a meaning might easily have been developed. Nor is there any example = “the thing kindled,” though there is ἄναμμα in this sense. Perhaps we should read ἄναμμα.</note>
+
+
+
+
+<note n="9.248.1">MSS. εἴτε.</note>
+
+
+<note n="9.248.2">MSS. ἡ τροφή.</note>
+
+
+
+<note n="9.249.a">Or “totally and simultaneously,” and so below, § 92.</note>
+
+
+
+
+<note n="9.251.a"><hi rend="italic">Cf.</hi> Diog. Laert. vii. 142 ζῷον ὁ κόσμος καὶ λογικὸν καὶ
+ἔμψυχον καὶ νοερόν. The argument that follows does not
+depend upon these higher qualities, but they make it still more impossible that its qualities should be below even those of a plant.</note>
+
+
+
+
+<note n="9.252.1">MSS. φυτῶ ἔοικεν.</note>
+
+
+<note n="9.252.2">MSS. ὄχημα.</note>
+
+
+<note n="9.252.3">MSS. ὅλον.</note>
+
+
+<note n="9.252.4">MSS. αὐτῶν.</note>
+
+
+
+<note n="9.253.a"><hi rend="italic">Cf.</hi> Diog. Laert. vii. 110. The eight parts are the five
+senses, speech, the rational faculty and the generative. Philo has given the same classification in <hi rend="italic">De Op.</hi> 117, though there the point is that the irrational soul has seven parts. So too <hi rend="italic">De Ayr.</hi> 30, <hi rend="italic">Quod Det.</hi> 168, <hi rend="italic">Quis Rerum</hi> 232.</note>
+
+
+
+
+<note n="9.254.1">MSS. ἐνεργείας.</note>
+
+
+
+<note n="9.255.a">i.e. § 71.</note>
+
+
+
+
+<note n="9.256.1">Cohn pronounces ἀναλύεται to be corrupt. Alternatives
+suggested are ἐλαύνεται (based on ἐλάσεως in § 103), ἀναδίδοται
+and διαλύεται, which Bernays reads. I do not feel that ἀναλ.
+is quite impossible; see translation.</note>
+
+
+<note n="9.256.2">Cumont ἐκτελειοῦται μείων, in which case there is no
+lacuna, ἔχει λόγον being understood before τῆς συμπάσης
+οὐσίας. See note <hi rend="italic">b.</hi></note>
+
+
+
+<note n="9.257.a"><hi rend="italic">Cf.</hi> Diog. Laert. vii. 140 ἔξωθεν δ᾿ αὐτοῦ περικεχυμένον
+εἶναι τὸ κένον ἄπειρον, ὅπερ ἀσώματον εἶναι.</note>
+
+
+<note n="9.257.b">The text as printed gives “when at the rebirth it . . . of the whole substance . . .”, i.e. we must supply some verb as
+συνίσταται = “consisting of” to complete the protasis, and then
+something more = “it will take up less room.” This does not
+give any real antithesis to σπέρματος. Cumont’s suggestion
+(see note 2) was not accepted by Cohn, but seems to me very
+probable, and as it avoids the lacuna I have translated it.</note>
+
+
+<note n="9.257.c">“Common notions,” otherwise translated as “primary
+conceptions.” According to Zeller, <hi rend="italic">Stoics,</hi> pp. 79 f., they are
+not innate ideas, but “those conceptions which from the
+nature of thought can be equally formed by all men out of
+experience.”</note>
+
+
+
+
+<note n="9.258.1">MSS. ἐπιχῆται or ἐπισχῆται.</note>
+
+
+<note n="9.258.2">MSS. κρατούμενον.</note>
+
+
+
+
+<note n="9.260.1">MSS. θείου.</note>
+
+
+<note n="9.260.2">Cumont reads ἀεὶ for εἰς, and περιθέει for τίθησι, but
+the latter has little resemblance to the word which it replaces.
+Bernays φησί, but the introduction of the disputant at this
+point seems unlikely. But the mere omission is equally
+unsatisfactory.</note>
+
+
+
+<note n="9.261.a">The idea of the “uphill” and “downhill” journey
+comes from Heracleitus, see Diog. Laert. ix. 9, where they
+are called ἡ ἐπὶ τὸ ἄνω and ἡ ἐπὶ τὸ κάτω ὁδός.</note>
+
+
+
+
+<note n="9.262.1">The other editors retain μεταλαμβάνει, which gives a fair
+sense, “has, like the other elements, its share of change.”</note>
+
+
+<note n="9.262.2">Here again the omission is drastic. Cumont declares
+the text to be right, possibly regarding τὴν πολλὴν ἀνάχυσιν as
+an accusative of respect. Bernays τῇ πολλῇ ἀναχύσει, corresponding
+to μετὰ σβέσιν and ὅποτε θλίβοιτο. (If so why not
+&lt;διὰ&gt; τὴν πολλὴν ἀνάχυσιν?) The MSS. have πυκνουμένην (one
+πηγνυμένου).</note>
+
+
+<note n="9.262.3">MSS.. ἀπαραβλήτου (-ους) or ἀπεριβλήτου.</note>
+
+
+<note n="9.262.4">Bernays θεῖον δέ τι τέμενος, Cumont θεῖος δὲ τὸ μέγεθος.
+The objection to this and Conn’s is that size is a poor reason
+for the divinity of the Cosmos. Perhaps the most plausible
+suggestion is Wendland’s θεῖον δέ τι &lt;μᾶλλον δὲ&gt; μέγας θεὸς,
+which might perhaps be simplified with ἢ instead of μᾶλλον δὲ.</note>
+
+
+
+<note n="9.263.a">Philo is apparently mistaken here, and Heracleitus by
+“soul” meant fire, not air, which he did not consider to be
+one of the fundamental elements. See Zeller, <hi rend="italic">Presocratics,</hi>
+vol. ii. p. 50.</note>
+
+
+
+
+<note n="9.264.1">MSS. ζ or ζῆτα . . . ἢ or ἦτα (the letter printed here for
+zeta is an old form which accords with the argument).</note>
+
+
+<note n="9.264.2">MSS. ἔτι.</note>
+
+
+<note n="9.264.3">MSS. ἐν γῇ.</note>
+
+
+
+<note n="9.265.a">“The four ways of destruction are Peripatetic and Atomistic as contrasted with the three of the Stoics given in § 79” (Bernays).</note>
+
+
+
+
+<note n="9.266.1">MSS. ἀναλογίαις.</note>
+
+
+<note n="9.266.2">MSS. κατασκευάζει. See note <hi rend="italic">b.</hi></note>
+
+
+
+<note n="9.267.a">Or more exactly “those who affirm of the world that
+it is subject to γένεσις and φθορά,” with the suggestion
+perhaps that such an idea is depreciatory (κατηγοροῦντας).</note>
+
+
+<note n="9.267.b">Bernays retains the indicative κατασκευάζει, which is I
+think quite defensible. In either case the statement is loosely worded. The “first part” may be either that the surface of the world is uneven, or that they are deceived by this unevenness. Taking the infinitive, they prove neither of these, but that the unevenness shows that the world is everlasting. Taking the indicative, Theophrastus states their reason for holding this opinion, but the proof that it is misleading is deferred till § 143.</note>
+
+
+
+
+<note n="9.268.1">MSS. ἀναγραφὴν (-ειν).</note>
+
+
+<note n="9.268.2">διὸ . . . αἰνιττόμενος appears in the MSS. after ἀποβράττεσθαι
+at the end of § 122. It certainly is less appropriate
+there. Both Bernays and Cumont however retain it there.</note>
+
+
+
+<note n="9.269.a">Note the first person singular, an illustration of Philo’s tendency to identify himself with the argument he is stating, even though he disagrees with it. See on <hi rend="italic">Quod Omn. Prob.</hi> 6 ff. It can hardly be that he is verbally reproducing Theophrastus, for this is not what Theophrastus says but what he says the Stoics say.</note>
+
+
+<note n="9.269.b">Apparently a mistake. Delos and Anaphe are different islands.</note>
+
+
+<note n="9.269.c">The anacoluthic ἐπειδὴ γὰρ is read by all three editors (though γὰρ is omitted by some MSS.). <hi rend="italic">Cf.</hi> § 75.</note>
+
+
+
+
+<note n="9.270.1">MSS. σημεῖα τὰ.</note>
+
+
+<note n="9.270.2">Bernays χρῆται with some MSS. authority. <hi rend="italic">Cf.</hi> § 117.</note>
+
+
+
+<note n="9.271.a">The idea is supposed to be that earth seems dark-blue to
+the gods, as heaven seems to us, and that Delos shines like a star in it. See Sandys’s note on Pindar, fr. 87 (Loeb translation). Asteria was another name of Delos.</note>
+
+
+<note n="9.271.b">This argument is stated by Diog. Laert. vii. 141 in almost the same words as here, but the reason given there for believing that the parts are perishable is that they change into each other.</note>
+
+
+<note n="9.271.c">Or simply “assumed in this syllogism,” cf. § 56.</note>
+
+
+
+
+<note n="9.272.1">MSS. ἐξαναλύονται.</note>
+
+
+<note n="9.272.2">Cumont reads χωλὸς Ἥφαιστος . . . γεγονὼς ἐξ αὐτοῦ
+Διὸς σκηριπτόμενος. See App. p. 529.</note>
+
+
+<note n="9.272.3">Cumont νομήν.</note>
+
+
+
+<note n="9.273.a">See on § 86.</note>
+
+
+<note n="9.273.b">The lameness of Hephaestus (<hi rend="italic">cf. Il.</hi> xviii. 397) was interpreted
+by the allegorists as the inability of the earthly fire (in
+contrast to the heavenly) to go on without the support of
+fuel. See App. p. 529.</note>
+
+
+<note n="9.273.c">This story, which is found also in Pliny and Aelian,
+seems very inappropriate. The fire consumes the fuel and then perishes. The snakes suck the blood and then perish also; but not because they can get no blood, though Philo seems to suggest this by μηκέτ᾿ ἔχοντες τροφήν, but because the fallen elephants stifle them. We may suppose that the story interested him so much that he brought it in without considering whether it really illustrated his point. Cumont aptly quotes the account in <hi rend="italic">De Ebr.</hi> 174 of the elk, which camouflages its colours to illustrate the different impressions which an object makes on different people, and the same may be said of the polypus and chameleon in the same context.</note>
+
+
+
+
+<note n="9.275.a">See App. p. 530.</note>
+
+
+
+
+<note n="9.277.a">Presumably some words followed showing that the arts
+were invented by particular men who lived at one particular
+time and not by the gods, as Hermes is said to have invented
+the lyre and Hephaestus and Pallas artistic work (<hi rend="italic">cf.
+Od.</hi> vi. 233). Bernays’ suggestion that no such passage ever appeared in this treatise and that though it was in his source the author left it because the details were too much for him, depreciates the “Compilator,” as he calls him, far too much.</note>
+
+
+<note n="9.277.b"><hi rend="italic">Il.</hi> vi. 147 f.</note>
+
+
+
+
+<note n="9.278.1">MSS. βραχύτερα.</note>
+
+
+<note n="9.278.2">MSS.ἔξω δ᾿ ἐπιγενόμενον φέρεσθαι βραχύτερον. Cohn pronounces
+ἐπιγενόμενον to be corrupt, but does not suggest any emendation; nor does Cumont, who also retains it. Bernays ἡ δ᾿ ἔξωθεν ἐπιγενομένη. The translation I have given supposes ἐπιγενομένης (<hi rend="italic">sc.</hi> οὐσίας) and ἣ or ἡ δὲ for the ἣ expunged by Cohn.</note>
+
+
+
+
+<note n="9.280.1">So MSS., to which I can see no objection. Cohn and
+Cumont κἀνίσταται.</note>
+
+
+<note n="9.280.2">MSS., πολυπραγμονεῖται or πολυπραγμονεῖν ἔτι.</note>
+
+
+
+<note n="9.281.a">Bernays calls attention to the difference between the theory here stated to account for the permanence of mountains from that in § 132. Philo might reply that the two reasons though different are not inconsistent. The fire prevents them from being destroyed just as the trunk stands when the leaves go, but does not prevent the breaking-off of pieces, which are replaced by new accretions.</note>
+
+
+
+
+<note n="9.283.a">This belief including the derivation of the name Rhegium
+is mentioned by Diodorus, Strabo, Seneca and Pliny. Strabo’s notice, vi. 6, shows that it was also mentioned by Aeschylus, from whom he quotes the line ἀφ᾿ οὗ δὴ Ῥήγιον κικλήσκεται.</note>
+
+
+<note n="9.283.b">The source of these lines is unknown. In themselves they do not imply the submersion of any except Heliceia, and nothing is said elsewhere of that of Aegira. Bura (Buris) and Heliceia (Helice) are mentioned as submerged by later writers, including Seneca (<hi rend="italic">Nat. Quaest.</hi> vi. 23. 4 and vii. 5. 3), where he gives Callisthenes as his authority, as well as an unknown treatise of Aristotle.</note>
+
+
+
+
+<note n="9.285.a">Taken partly verbatim from <hi rend="italic">Timaeus</hi> 24 E and 25 E
+The meaning of βαραθρώδης is doubtful. Philo is paraphrasing
+Plato’s ἄπορον καὶ ἀδιερεύνητον . . . πηλοῦ κάρτα
+βραχέος (<hi rend="italic">v.l.</hi> βαθέος) ἐμποδὼν ὄντος, ὃν ἡ νῆσος ἱζομένη παρέσχετο.
+L. &amp; S. (revised) give (for this passage) “dangerous.”
+Bernays has “mit Untiefen besäete Wasserfläche.” Dr. Rouse suggests that he may mean hidden reefs, which he thinks of as sunken ravines. Stephanus quoting this passage says “fortasse coenosus,” and cites <hi rend="italic">De Agr.</hi> 144 θολερῷ δὲ καὶ βαραθρώδει βίῳ. There Mangey’s correction to βορβορώδει has been generally accepted. Is it possible that the same correction should be made here?</note>
+
+
+<note n="9.285.b">This use of ἐρωτάω = “to state a proposition or syllogism not in the form of a question,” is described as a late usage by L. &amp; S. (revised), who cite Galen v. 327. Stephanus speaks of it as a known usage, but after giving some examples of συνερωτάω, gives one example of the simple verb, Sext. Emp. <hi rend="italic">Pyrrh.</hi> iii. 13 οἱ κατὰ τῆς ἀποδείξεως ἠρωτημένοι λόγοι. Our passage seems to be a clear example, and <hi rend="italic">cf. Quod Omn. Prob.</hi> 53, though that may only apply to the question asked by Zeno. See also App. p. 530.</note>
+
+
+
+
+<note n="9.287.a">See on § 30. The citation of these three lines for the
+third time must be regarded as a piece of careless composition.</note>
+
+
+<note n="9.287.b">With this sentence begins the answer to the fourth argument.
+It is abruptly introduced and very imperfectly carried
+through. The fourth argument was (1) that aw men could
+not exist without the arts and the arts are known to have
+been invented by definite persons at definite times, man
+could not have existed from everlasting and therefore (2)
+neither the inferior animals, (3) nor their habitats. The
+answer to the first point is given at length and it might be
+said that, with the refutation of this, that of the second and
+third follows at once, but we should have expected Philo to
+indicate it.</note>
+
+
+<note n="9.287.c"><hi rend="italic">Cf.</hi> Plato, <hi rend="italic">Phaedo</hi> 96 A σοφίαν, ἣν δὴ καλοῦσι περὶ φύσεως ἱστορίαν. The phrase covers both the research as here and the result obtained as in the next sentence.</note>
+
+
+<note n="9.287.d">The substance of the next four sections is drawn from Plato, <hi rend="italic">Laws</hi> iii. 676, 677, and <hi rend="italic">Timaeus</hi> 22 A f. In the former we have the periodical destruction of mankind by deluge and other causes, and the consequent extinction of the arts, and also the remark that the traditional discoveries of the arts as we have them go back at most to a thousand or two thousand years. In the <hi rend="italic">Timaeus</hi> nothing is said about the arts (though it is noted that the records and traditions of a nation perish in the destruction), but we have a more specific account of the destruction by fire and deluge, and the different ways in which the two affect the inhabitants of the highlands and the lowlands. See also App. p. 530.</note>
+
+
+
+
+<note n="9.288.1">MSS. κατασύρει (-η).</note>
+
+
+<note n="9.288.2">MSS. φησὶ which Bernays retains.</note>
+
+
+<note n="9.288.3">MSS. ἡγεμόνων or ἡγουμένων.</note>
+
+
+<note n="9.288.4">MSS. ἐπιλιπεῖν.</note>
+
+
+
+<note n="9.289.a">So <hi rend="italic">Timaeus</hi> 22 C φθοραὶ . . . πυρὶ μὲν καὶ ὕδατι μέγισται, μυρίοις δὲ ἄλλοις ἕτεραι βραχύτεραι</note>
+
+
+
+
+<note n="9.290.1">MSS. οὔτε.</note>
+
+
+
+<note n="9.291.a">See Introduction, D. 177 note <hi rend="italic">a</hi>.</note>
+
+
+

@@ -58,12 +58,14 @@
 <p>optical character recognition</p>
 </correction>
 </editorialDecl>
-    <refsDecl n="CTS">
-        <cRefPattern matchPattern="(\w+)"
-            replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
-            <p>This pointer pattern extracts section.</p>
-        </cRefPattern>
-    </refsDecl>
+<refsDecl n="CTS">
+  <cRefPattern n="section" matchPattern="(\w+).(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])">
+      <p>This pointer pattern extracts book and section.</p>
+  </cRefPattern>
+  <cRefPattern n="book" matchPattern="(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+      <p>This pointer pattern extracts book.</p>
+  </cRefPattern>
+</refsDecl>
 <!-- <refsDecl doctype="TEI.2">
 <state unit="section" n="chunk"/>å
 </refsDecl>-->
@@ -255,7 +257,9 @@ the doorway, with my hands stretched out to feel
 for them. It was only my sheep I let out to the
 pasture, and I told my ram everything he’d to do
 for me.</p></sp>
+</div>
 
+<div type="textpart" subtype="section" n="4">
 <sp><speaker>POSEIDON</speaker><p>I see it all. They slipped out under your sheep.
 But you should have called in the other Cyclopes to
 look for him.</p></sp>
@@ -731,7 +735,12 @@ relent from his anger, but he wouldn’t; he only
 blocked up my stream with their bodies. Out of
 pity for the poor wretches, I attacked him, hoping
 to swallow him in a flood, and frighten him away
-from them. Then Hephaestus, happening to be
+from them. </p></sp>
+
+</div>
+
+<div type="textpart" subtype="section" n="2">
+<sp><p>Then Hephaestus, happening to be
 near, attacked me, with all the fire he had in his
 forge it seemed to me, yes, with all his fire in Etna,
 and burnt my elms and tamarisks, roasting my

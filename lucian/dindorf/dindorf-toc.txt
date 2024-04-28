@@ -1,0 +1,171 @@
+I		Περὶ τοῦ Ἐνυπνίου, ἤτοι Βίος Λουκιανοῦ	De somnio, seu, Vita Luciani.
+II		Πρὸς τὸν εἰπόντα, Προμηθεὺς εἶ ἐν λόγοις	Ad eum qui dixerat, Prometheus es in verbis.
+III		Πρὸς Νιγρῖνον ἐπιστολή	Epistola ad Nigrinum.
+IV		Δίκη Φωνηέντων	Judicium vocalium.
+V		Τίμων, ἢ Μισάνθρωπος	Timon, sive Misanthropos.
+VI		Ἀλκυών, ἢ περὶ Μεταμορφώσεως	Halcyon, seu de Transformatione.
+VII		Προμηθεύς, ἢ Καύκασος	Prometheus, sive Caucasus.
+VIII		ΘΕΩΝ ΔΙΑΛΟΓΟΙ   DEORUM DIALOGI.
+	1	Προμηθέως καὶ Διός	Promethei et Jovis.
+	2	Ἐρωτος καὶ Διός	Cupidinis et Jovis.
+	3	Διὸς καὶ Ἑρμοῦ	Jovis et Mercuri.
+	4	Διὸς καὶ Γανυμήδους	Jovis et Ganymedis.
+	5	Ηρας καὶ Διός	Junonis et Jovis.
+	6	Ηρας καὶ Διός	Junonis et Jovis.
+	7	Ηφαίστου καὶ Ἀπόλλωνος	Vulcani et Apollinis.
+	8	Ηφαίστου καὶ Διός	Vulcani et Jovis.
+	9	Ποσειδῶνος καὶ Ἑρμοῦ	Neptuni et Mercurii.
+	10	Ἑρμοῦ καὶ Ἡλίου	Mercurii et Solis.
+	11	Ἀφροδίτης καὶ Σελήνης	Veneris et Lunae.
+	12	Ἀφροδίτης καὶ Ἐρωτος	Veneris et Cupidinis.
+	13	Διὸς καὶ Ἀσκληπιοῦ καὶ Ἡρακλέους	Jovis, Esculapii et Herculis.
+	14	Ἑρμοῦ καὶ Ἀπόλλωνος	Mercurii et Apollinis.
+	15	Ἑρμοῦ καὶ Ἀπόλλωνος	Mercurii et Apollinis.
+	16	Ηρας καὶ Λητοῦς	Junonis et Latona.
+	17	Ἀπόλλωνος καὶ Ἑρμοῦ	Apollinis et Mercurii.
+	18	Ἥρας καὶ Διός	Junonis et Jovis.
+	19	Ἀφροδίτης καὶ Ἔρωτος	Veneris et Cupidinis.
+	20	Θεῶν κρίσις	Dearum judicium.
+	21	Ἀρεος καὶ Ἑρμοῦ	Martis et Mercurii.
+	22	Πανὸς καὶ Ἑρμοῦ	Panis et Mercurii.
+	23	Ἀπόλλωνος καὶ Διονύσου	Apollinis et Bacchi.
+	24	Ἑρμοῦ καὶ Μαίας	Mercurii et Maiae.
+	25	Διὸς καὶ Ἡλίου	Jovis et Solis.
+	26	Ἀπόλλωνος καὶ Ἑρμοῦ	Apollinis et Mercurii.
+IX		ΕΝΑΛΙΟΙ ΔΙΑΛΟΓΟΙ.   DIALOGI MARINI.
+	1	Δωρίδος καὶ Γαλατείας	Doridis et Galateae.
+	2	Κύκλωπος καὶ Ποσειδῶνος	Cyclopis et Neptuni.
+	3	Ποσειδῶνος καὶ Ἀλφειοῦ	Neptuni et Alphei.
+	4	Μενελάου καὶ Πρωτέως	Menelai et Protei.
+	5	Πανόπης καὶ Γαλήνης	Panopes et Galenes.
+	6	Τρίτωνος, Ἀμυμώνης καὶ Ποσειδῶνος	Tritonis, Amymones et Neptuni.
+	7	Νότου καὶ Ζεφύρου	Noti et Zephyri.
+	8	Ποσειδῶνος καὶ Δελφίνων	Neptuni et Delphinum.
+	9	Ποσειδῶνος καὶ Νηρηίδων	Neptuni et Nereidum.
+	10	Ἴριδος καὶ Ποσειδῶνος	Iridis et Neptuni.
+	11	Ξάνθου καὶ θαλάττης	Xanthi et Maris.
+	12	Δωρίδος καὶ Θέτιδος	Doridis et Thetidis.
+	13	Ἐνιπέως καὶ Ποσειδῶνος	Enipei et Neptuni.
+	14	Τρίτωνος καὶ Νηρηΐδων	Tritonis et Nereidum.
+	15	Ζεφύρου καὶ Νότου	Zephyri et Noti.
+X		ΝΕΚΡΙΚΟΙ ΔΙΑΛΟΓΟΙ. MORTUORUM DIALOGI.
+	1	Διογένους καὶ Πολυδεύκους	Diogenis et Pollucis.
+	2	Πλούτων ἢ Κατὰ Μενίππου	Pluto, seu Contra Menippura.
+	3	Μενίππου, Ἀμφιλόχου καὶ Τροφωνίου	Menippi, Amphilochi et Trophonii.
+	4	Ἑρμοῦ καὶ Χάρωνος	Mercurii et Charontis.
+	5	Πλούτωνος καὶ Ἑρμοῦ	Plutonis et Mercurii.
+	6	Τερψίωνος καὶ Πλούτωνος	Terpsionis et Plutonis.
+	7	Ζηνοφάντου καὶ Καλλιδημίδου	Zenophantae et Callidemida.
+	8	Κνήμωνος καὶ Δαμνίππου	Cnemonis et Damnippi.
+	9	Σιμύλου καὶ Πολυστράτου	Simyli et Polystrati.
+	10	Χάρωνος καὶ Ἑρμοῦ καὶ νεκρῶν διαφόρων	Charontis et Mercurii et mortuorum diversorum.
+	11	Κράτητος καὶ Διογένους	Cratetis et Diogenis.
+	12	Ἀλεξάνδρου, Ἀννίβου, Μίνωος καὶ Σκηπίωνος	Alexandri, Annibalis, Minois, Scipionis.
+	13	Διογένους καὶ Ἀλεξάνδρου	Diogenis et Alexandri.
+	14	Φιλίππου καὶ Ἀλεξάνδρου	Philippi et Alexandri.
+	15	Ἀχιλλέως καὶ Ἀντιλόχου	Achillis et Antilochi.
+	16	Διογένους καὶ Ἡρακλέους	Diogenis et Herculis.
+	17	Μενίππου καὶ Ταντάλου	Menippi et Tantali.
+	18	Μενίππου καὶ Ἑρμοῦ	Menippi et Mercurii.
+	19	Ἀἰακοῦ, Πρωτεσιλάου, Μενελάου καὶ Πάριδος.  Aeaci, Protesilai, Menelai ac Paridis.
+	20	Μενίππου καὶ Ἀἰακοῦ	Menippi et aeaci.
+	21	Μενίππου καὶ Κερβέρου	Menippi et Cerberi.
+	22	Χάρωνος καὶ Μενίππου	Charontis, Menippi (et Mercurii).
+	23	Πρωτεσιλάου, Πλούτωνος καὶ Περσεφόνης	Protesilai, Plutonis et Proserpinae.
+	24	Διογένους καὶ Μαυσώλου	Diogenis et Mausoli.
+	25	Νιρέως καὶ Θερσίτου καὶ Μενίππου	Nirei, Thersitae et Menippi.
+	26	Μενίππου καὶ Χείρωνος	Menippi et Chironis.
+	27	Διογένους καὶ Ἀντισθένους καὶ Κράτητος	Diogenis, Antisthenis et Cratetis.
+	28	Μενίππου καὶ Τειρεσίου	Menippi et Tiresiae.
+	29	Ἀἴαντος καὶ ᾿Αγαμέμνονος	Ajacis et Agamemnonis.
+	30	Μίνωος καὶ Σωστράτου	Minois et Sostrati.
+XI		Μένιππος ἢ Νεκυομαντεία	Menippus sive Oraculum mortuorum consultum.
+XII		Χάρων, ἢ Ἐπισκοποῦντες	Charon sive Contemplantes.
+XIII		Περὶ θυσιῶν	De sacrificiis.
+XIV		Βίων πρᾶσις	Vitarum auctio.
+XV		Ἀλιεὺς ἢ Ἀναβιοῦντες	Piscator vel Reviviscentes.
+XVI		Κατάπλους, ἢ Τύραννος	Trajectus sive Tyrannus.
+XVII		Περὶ τῶν ἐπὶ μισθῷ συνόντων	De mercede conductis potentium familiaribi
+XVIII		Ἀπολογία	Apologia.
+XIX		Ὑπὲρ τοῦ ἐν τῇ προσαγορεύσει πταίσματος	Pro lapsu in salutando.
+XX		Ἑρμότιμος ἢ περὶ Ἀἱρέσεων	Hermotimus sive De sectis.
+XXI		Ἡρόδοτος ἢ Ἀετίων	Herodotus sive Aetion.
+XXII		Ζεύξις ἢ Ἀντίοχος	Zeuxis aut Antiochus.
+XXIII		Ἁρμονίδης	Harmonides.
+XXIV		Σκύθης ἢ Πρόξενος	Scytha seu Conciliator hospitii.
+XXV		Πῶς δεῖ ἱστορίαν συγγράφειν	Quomodo historia conscribenda sit.
+XXVI		Ἀληθοῦς ἱστορίας λόγος πρῶτος	Verae historiae liber primus.
+XXVII		Ἀληθοῦς ἱστορίας λόγος δεύτερος	Verae historiae liber secundus.
+XXVIII		Τυραννοκτόνος	Tyrannicida.
+XXIX		Ἀποκηρυττόμενος	Abdicatus.
+XXX		Φάλαρις πρῶτος	Phalaris prior.
+XXXI		Φάλαρις δεύτερος	Phalaris alter.
+XXXII		Ἀλέξανδρος ἢ Ψευδόμαντις	Alexander s. Pseudomantis.
+XXXIII		περὶ ὀρχήσεως	De saltatione.
+XXXIV		Λεξιφάνης	Lexiphanes.
+XXXV		Εὐνοῦχος	Eunuchus.
+XXXVI		Περὶ τῆς ἀστρολογίης	De astrologia.
+XXXVII		Δημώνακτος βίος	Demonactis vita.
+XXXVIII		Έρωτες	Amores.
+XXXIX		Εἰκόνες	Imagines.
+XL		Ὑπὲρ τῶν εἰκόνων	Pro imaginibus.
+XLI		Τόξαρις ἢ Φιλία	Toxaris seu amicitia.
+XLII		Λούκιος ἢ Ονος	Lucius sive Asinus..
+XLIII		Ζεὺς ἐλεγχόμενος	Jupiter confutatus.
+XLIV		Ζεὺς τραγωδός	Jupiter tragoedus.
+XLV		Όνειρος ἢ Ἀλεκτρυών	Somnium seu Gallus.
+XLVI		Ἰκαρομένιππος ἢ Ὑπερνέφελος	Icaromenippus sive Hypernephelus.
+XLVII		Δὶς κατηγορούμενος ἢ Δικαστήρια	Bis accusatus sen Tribunalia.
+XLVIII		Περὶ παρασίτου ἤτοι ὅτι τέχνη ἡ παρασιτική	De parasito, sive Artem esse parasiticam.
+XLIX		Ἀνάχαρσις ἢ περὶ Γυμνασίων	Anacharsis sive De exercitationibus.
+L		Περὶ πένθους	De luctu.
+LI		Ρητόρων διδάσκαλος	Rhetorum praeceptor.
+LII		Φιλοψευδὴς ἡ Ἀπιστῶν	Philopseudes sive Incredulus.
+LIII		Ιππίας ἢ Βαλανείον	Hippias seu Balneum.
+LIV		Προλαλιὰ ὁ Διόνυσος	Praefatio Bacchus.
+LV		Προλαλιὰ ὁ Ἡρακλῆς	Praefatio Hercules.
+LVI		Περὶ τοῦ ἠλέκτρου ἢ τῶν κύκνων	De electro seu cycnis.
+LVII		Μυίας ἐγκώμιον	Musca encomium.
+LVIII		Πρὸς τὸν ἀπαίδευτον καὶ πολλὰ βιβλία ὠνούμενον	Adversus indoctum et libros multos ementem.
+LIX		Περὶ τοῦ μὴ ῥᾳδίως πιστεύειν διαβολῇ	Non temere credendum esse delationi.
+LX		Ψευδολογιστὴς ἢ Περὶ τῆς ἀποφράδος κατά Τιμάρχου	Pseudologista sive De die nefasto contrą Timarchum.
+LXI		Περὶ τοῦ οἴκου	De oeco.
+LXII		Μακρόβιοι	Longevi.
+LXIII		Πατρίδος ἐγκώμιον	Patriae encomium.
+LXIV		Περὶ τῶν διψάδων	De dipsadibus.
+LXV		Διάλεξις πρὸς Ἡσίοδον	Disputatio cum Hesiodo.
+LXVI		Πλοῖον ή Εὐχαί	Navigium seu vota.
+LXVII		ΕΤΑΙΡΙΚΟΙ ΔΙΑΛΟΓΟΙ. ßDIALOGI MERETRICII.
+	1	Γλυκέρα καὶ Θαΐς	Glycera et Thais.
+	2	Μύρτιον καὶ Πάμφιλος καὶ Δωρίς	Myrtium, Pamphilus et Doris.
+	3	Μήτηρ καὶ Φίλιννα	Mater et Philinna.
+	4	Μέλιττα καὶ Βακχίς	Melissa et Bacchus.
+	5	Κλωνάριον καὶ Λέαινα	Clonarium et Leaena.
+	6	Κρωβύλη καὶ Κόριννα	Crobyle et Corinna.
+	7	Μήτηρ καὶ Μουσάριον	Mater et Musarium.
+	8	Ἀμπελὶς καὶ Χρυσίς	Ampelis et Chrysis.
+	9	Δορκάς, Παννυχίς, Φιλόστρατος, Πολέμων	Dorcas, Pannychis, Philostratus, Pelemo.
+	10	Χελιδόνιον καὶ Δροσή	Chelidonium et Drose.
+	11	Τρύφαινα καὶ Χαρμίδης	Tryphaena et Charmides.
+	12	Ιόεσσα καὶ Πυθιὰς καὶ Λυσίας	Ioessa, Pythias et Lysias.
+	13	Λεόντιχος, Χηνίδας καὶ Ὑμνίς	Leontichus, Chenidas et Hymnis.
+	14	Δωρίων καὶ Μυρτάλη	Dorio et Myrtale.
+	15	Κοχλὶς καὶ Παρθενίς	Cochlis et Parthenis.
+LXVIII		Περὶ τῆς Περεγρίνου τελευτῆς	De morte Peregrini.
+LXIX		Δραπέται	Fugitivi.
+LXX		
+	1	Τὰ πρὸς Κρόνον	Saturnalia.
+	2	Κρονοσόλων	Cronosolon (legislator Saturnalium).
+	3	Ἐπιστολαὶ Κρονικαί	Epistolae Saturnales.
+LXXI		Συμπόσιον ἢ Λαπίθαι	Convivium seu Lapitha.
+LXXII		Περὶ τῆς Συρίης θεοῦ	De Syria dea.
+LXXIII		Δημοσθένους ἐγκώμιον	Demosthenis encomium.
+LXXIV		Θεῶν ἐκκλησία	Deorum concilium.
+LXXV		Κυνικός	Cynicus.
+LXXVI		Ψευδοσοφιστὴς ἢ Σολοικιστής	Pseudosophista seu Soloecista.
+LXXVII		Φιλόπατρις ή Διδασκόμενος	Philopatris seu Qui docetur.
+LXXVIII		Χαρίδημος ἢ περὶ Κάλλους	Charidemus sive De pulchritudine.
+LXXIX		Νέρων ἢ περὶ τῆς ὀρυχῆς τοῦ Ἰσθμού	Nero sive De Isthmo perfodiendo.
+LXXX		Τραγῳδοποδάγρα	Tragodopodagra.
+LXXXI		Ωκύπους	Ocypus (Celeripes).
+LXXXII		Ἐπιγράμματα	Epigrammata.

@@ -6,13 +6,13 @@
 <titleStmt>
 <title>The Mimes of the Courtesans</title>
 <author>Lucian of Samosata</author>
-<editor role="translator">Alex Hillman (1900-1968)</editor>
+<editor role="translator">A. L. H.</editor>
 <sponsor>Perseus Project, Tufts University</sponsor>
 <principal>Gregory Crane</principal>
 <respStmt>
-<resp>Prepared under the supervision of</resp>
-<name>Gregory Crane</name>
-<name>Lisa Cerrato</name>
+  <persName>Gregory Crane</persName>
+<resp>Conversion of HTML file to XML and conversion to Epidoc and CTS-XML</resp>
+
 
 </respStmt>
 <funder n="org:NEH">The National Endowment for the Humanities</funder>
@@ -33,14 +33,14 @@
  <listBibl>
  <biblStruct>
  <monogr>
- <author>Philo of Alexandria</author>
- <title>Philo in Ten Volumes</title>
- <editor>Francis Henry Colson (1857-1943)</editor>
- <editor>Alex Hillman (1900-1968)<note>https://www.pulpartists.com/Hillman.html</note></editor>
+ <author>Lucian</author>
+ <title>The mimes of the courtesans</title>
+<editor role="translator">A.L.H.</editor>
  <imprint>
  <pubPlace>New York</pubPlace>
- <publisher>Rarity Press.</publisher>
+ <publisher>Privately printed for Rarity Press.</publisher>
  <date>1928</date>
+ <note>HTML version of this edition was posted on Sacred Texts by John B. Hare</note>
  </imprint>
  </monogr>
  <ref target="https://www.sacred-texts.com/cla/luc/motc/index.htm">Sacred-Texts.com</ref>

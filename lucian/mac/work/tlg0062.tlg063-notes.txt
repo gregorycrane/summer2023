@@ -1,0 +1,326 @@
+
+<note n="6.261.1">Hippocrates.</note>
+
+
+
+
+<note n="6.262.1">ἂν add. Belinus.</note>
+
+
+
+<note n="6.263.1">Hesiod, <hi rend="italic">Works and Days</hi>, 289.</note>
+
+
+
+
+<note n="6.264.1">ἂν Fritzsche: ἄνω MSS.</note>
+
+
+
+<note n="6.265.1">Hesiod, <hi rend="italic">Works and Days</hi>, 40.</note>
+
+
+<note n="6.265.2">Homer, <hi rend="italic">Il</hi>. viii, 19.</note>
+
+
+
+
+<note n="6.266.1">λισσοτέραν E H Γ<sup>2</sup>: δισσοτέραν Γ<sup>1</sup>Ν.</note>
+
+
+
+
+<note n="6.268.1">χαμαιπετεῖς παντάπασι Ν: χαμαὶ παντάπασιν G: χαμαὶ πάντα παθεῖν other MSS.</note>
+
+
+
+
+
+<note n="6.272.1">ἀφεῖκεν Mras: ἀφηῖκεν? Γ: ἀφεὶς G: ἀφῆκε(ν) other MSS.</note>
+
+
+
+
+<note n="6.274.1">δουλεύοι Guyet: δουλεύσοι G: δουλεύσῃ M: δουλεύῃ other
+MSS.</note>
+
+
+<note n="6.274.2">ἦ Γ: εἶναι Ν.</note>
+
+
+
+
+
+
+
+<note n="6.283.1">For Nestor’s cup, see Homer, <hi rend="italic">Il</hi>. xi, 636.</note>
+
+
+
+
+<note n="6.284.1">γενέσθαι οἷός τε εἴην Mras: γενοίμην G C: γενέσθαι other
+MSS.</note>
+
+
+
+
+
+<note n="6.289.1">Chaerephon asked the oracle who was the wisest mortal and he was directed to Socrates.</note>
+
+
+
+
+
+<note n="6.292.1">after ὡς τὸ εἰκός MSS. have οὗτοι δὲ ἦσαν οἱ τὰ ἄλλα
+φιλοσοφοῦντες: del. Solanus.</note>
+
+
+<note n="6.292.2">So Fritzsche: κρειττόνων ἀξίων. οὐ γὰρ πιστεῦσαί σοι
+(πιστεῦσαί τι G) MSS.</note>
+
+
+
+<note n="6.293.1">A proverbial fool, the hero of a comic epic attributed to Homer.</note>
+
+
+
+
+
+
+<note n="6.298.1">εἰ Solanus from one late MS.: ἢ other MSS.</note>
+
+
+
+
+
+<note n="6.302.1">καὶ δὴ καὶ Schaefer: καὶ ἤδη καὶ MSS.</note>
+
+
+
+<note n="6.303.1">Homer, <hi rend="italic">Iliad</hi>, V, 201; xxii, 103; <hi rend="italic">Od</hi>., ix, 228.</note>
+
+
+
+
+<note n="6.304.1">τοῦ τῶν λαμπρῶν Fritzsche: οὕτω λαμπρὸν Γ: οὐδὲ λαμπρῶν N.</note>
+
+
+
+
+<note n="6.306.1">So Fritzsche: σὸν μὲν ἐπὶ τὸ ΓΝ: ὅσον μὲν ἐπὶ τὸ Seager.</note>
+
+
+<note n="6.306.2">ἑκάστης Jensius: ἕκαστος MSS.</note>
+
+
+
+
+
+<note n="6.310.1">ἢ δέον Solanus: ἡδέως MSS.</note>
+
+
+
+
+<note n="6.312.1">πνεούσῃ Solanus: πλεούσῃ MSS.</note>
+
+
+
+<note n="6.313.1">Homer, <hi rend="italic">Il.</hi> xxiii 867.</note>
+
+
+
+
+<note n="6.314.1">So Fritzsche: τἀληθῆ ὑπισχνούμενον (om. ὑπισχ. G) MSS.</note>
+
+
+
+
+
+
+
+<note n="6.323.1">Homer, <hi rend="italic">Il</hi>. xvi, 70.</note>
+
+
+
+
+
+
+
+
+
+
+<note n="6.336.1">ἂν add. Jacobitz.</note>
+
+
+
+
+<note n="6.338.1">οἷον β, ὅλον γ.</note>
+
+
+
+
+<note n="6.340.1">ἐντύχοις Belinus: ἐντύχῃς MSS.</note>
+
+
+
+
+
+
+<note n="6.346.1">ἂν D. A. Russell. Cf. critical note on p. 378.</note>
+
+
+<note n="6.346.2">ἂν add. Jacobitz.</note>
+
+
+
+
+<note n="6.348.1">οὐ γὰρ ἀπ. Seager οὐκ ἂν ἀπ. MSS.</note>
+
+
+
+
+<note n="6.350.1">μή U: om. other MSS</note>
+
+
+
+<note n="6.351.1">Epicharmus, frag. 250 Kaibel.</note>
+
+
+
+
+<note n="6.352.1">δὴ Bekker: δ᾿ MSS.</note>
+
+
+
+
+<note n="6.354.1">ἂν add. Bekker.</note>
+
+
+
+
+<note n="6.356.1">ἥτις β: εἴ τις γ.</note>
+
+
+
+
+
+
+<note n="6.362.1">οὐ edd.: καὶ MSS.</note>
+
+
+<note n="6.362.2">ὦπται anon. conjecture: ὦ παῖ MSS.</note>
+
+
+
+<note n="6.363.1"><hi rend="italic">I.e.</hi>, irrelevant. Epigenes of Sicyon, a tragic poet, is said
+to have been upbraided by his audience for introducing into the worship of Dionysus themes which had nothing to do with the god.</note>
+
+
+
+
+<note n="6.364.1">ἑκάστοις edd.: ἑκάστης MSS.</note>
+
+
+<note n="6.364.2">θυσιάζῃς τῳ Lehmann: θαυσιάζῃ τῷ N: θυσίας ζητῶν Γ.</note>
+
+
+
+
+
+<note n="6.368.1">εἰ μὴ Lehmann: εἴη MSS.: εἴη, εἰ μὴ Solanus.</note>
+
+
+
+
+<note n="6.370.1">εἴκοσιν ἔτη Solanus: εἰκὸς ἔτι MSS.</note>
+
+
+<note n="6.370.2">ἄλλως μεθύων περίει Fritzschei: καὶ ἄλλως μεθύων περιῄεις MSS.</note>
+
+
+
+
+
+
+<note n="6.376.1">αἰτιάασθαι Jacobitz: αἰτιᾶσθαι MSS.</note>
+
+
+
+<note n="6.377.1">Homer, <hi rend="italic">Il</hi>., 11, 654.</note>
+
+
+
+
+<note n="6.378.1">ἂν L. A. Post: δὴ MSS.</note>
+
+
+
+
+
+
+<note n="6.384.1">ἐξ add. edd.</note>
+
+
+
+
+
+<note n="6.388.1">εὕροις Belinus: εὕρῃς MSS. (εὕρεις Γ).</note>
+
+
+
+
+
+
+<note n="6.394.1">After Οὐρανίαν MSS. have εἶναι: del. Jacobitz.</note>
+
+
+
+
+
+<note n="6.398.1">παραδεκτέα Cobet: δεκτέα MSS.</note>
+
+
+
+
+<note n="6.400.1">ἂν add. Jacobitz.</note>
+
+
+
+<note n="6.401.1">The year 403–402 B.C. when the democracy was reestablished in Athens and an amnesty went into effect.</note>
+
+
+
+
+<note n="6.402.1">τοιούτῳ Στωϊκῷ τῶν ἄκρων Fritzsche: Στωϊκῷ τοιούτῳ ἐς (or καὶ) τῷ ἄκρῳ (or τὸ ἄκρον) MSS.</note>
+
+
+
+
+
+<note n="6.406.1">πτίττοι . . . πτίττων C, G: πτήττοι . . . πτήττων Γ:
+πλήττοι . . . πλήττων N.</note>
+
+
+<note n="6.406.2">τί σιγᾷς Graevius: τι σι γε MSS.</note>
+
+
+
+
+<note n="6.408.1">ἔφυγε Reitz: ἔφυγον MSS.</note>
+
+
+
+<note n="6.409.1">“Have you stopped beating your wife?” is the modern equivalent of the ancient “Have you lost your horns?”</note>
+
+
+
+
+
+
+<note n="6.414.1">ἄξων N; ἄξειν Γ.</note>
+
+
+<note n="6.414.2">ὁδῷ Fritzsche: ἐν ὁδῷ MSS.</note>
+
+
+

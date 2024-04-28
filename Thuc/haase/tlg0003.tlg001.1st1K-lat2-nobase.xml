@@ -4,7 +4,7 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Historia Belli Peloponnesiaci</title>
+<title xml:lang="lat">Historia Belli Peloponnesiaci</title>
 <author>Thucydides</author>
 <editor n="transl" role="translator">Friedrich Haase</editor>
 <sponsor>Perseus Project, Tufts University</sponsor>

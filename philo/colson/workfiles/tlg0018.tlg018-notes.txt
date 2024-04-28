@@ -1,0 +1,1028 @@
+
+<note n="5.142.1">MSS. ἑκατὸν.</note>
+
+
+
+<note n="5.143.a">Here used in the strict Stoic sense of reasonable forms of
+πάθος. See note on <hi rend="italic">Quod Det.</hi> 120. So also in <hi rend="italic">De Mig.</hi>
+157, <hi rend="italic">De Cong.</hi> 36, and below, §§ 131, 188.</note>
+
+
+
+
+<note n="5.144.1">MSS. μόνοι.</note>
+
+
+<note n="5.144.2">MSS.ὁρᾶν.</note>
+
+
+<note n="5.144.3">MSS. ἰσχύν, which Mangey translates by “facultatem.”
+But a better antithesis to αἴσθησις seems to be required.
+Perhaps &lt;νοῦ&gt; ἰσχύν.</note>
+
+
+<note n="5.144.4">That θεόπτης is unknown elsewhere, except in quite late
+writers, is hardly sufficient reason for expunging it, as
+Wendland following Cohn does. Philo might easily coin it.
+But it cannot be taken with τῆς ἀειδοῦς φύσεως, and seems pointless if taken by itself. Wend, himself conjectured θεοπρόπος. I should prefer ἐπόπτης, a well-known term in the mysteries and differing enough from θεάτης to give it some point.</note>
+
+
+
+<note n="5.145.a">See App. p. 586.</note>
+
+
+
+
+
+<note n="5.148.1">MSS. ὡς ἐν ὀνόματι τῶ κυρίω: Wend. prints following the
+text as quoted in the <hi rend="italic">Parallela</hi> of Joh. Damasc. (D) ὡς ἂν ὁ
+ὢν ὀνόματι τοιούτῳ. At the same time for ὡς ἂν ὁ ὢν he conjectures
+ὁ ἀκατονόμαστος ὢν. I do not indeed see how the
+text of Joh. Dam. can be construed as it stands, and have
+followed in the main the MSS. text, substituting with J. D.
+ἂν for ἐν and correcting τῷ κυρίῳ to κυρίῳ τῷ, a correction
+perhaps supported by J. D. τοιούτῳ.</note>
+
+
+<note n="5.148.2">So Mangey: MSS. ὀνόματι: Wend. τὸ ὄνομα (from Joh.
+Dam.). See App. p. 586.</note>
+
+
+<note n="5.148.3">Perhaps, as Wendland conjectures, ὑπηρετοῦσαι. Any
+use of the middle seems to be later than Philo.</note>
+
+
+
+<note n="5.149.a">Philo seems to mix in this passage two somewhat different uses of the grammatical term κύριον ὄνομα: (1) a noun used in its literal or strict sense, opposed to metaphorical or loose usage (ἐν καταχρήσει, see note on <hi rend="italic">De Cher.</hi> 121); (2) a proper or personal name.</note>
+
+
+<note n="5.149.b">See App. p. 586.</note>
+
+
+<note n="5.149.c">Philo seems to mean that while το ὄνομά μου κύριον will naturally mean “my name κύριος,” the text should (or perhaps may also) be regarded as an “hyperbaton” or “unusual order” of ὄνομά μου τὸ κύριον, “my proper name” For the technical use of the term see App. pp. 586 f.</note>
+
+
+
+
+<note n="5.150.1">MSS. μήτ᾿.</note>
+
+
+<note n="5.150.2">MSS. περιιππεύων. I have left the text as Wend. prints
+it, but it is not satisfactory: περιέπειν is rather “to honour,”
+and if it is read we should expect τοῦ κόσμου, or as Mangey
+τὰ κόσμου governed by μετεωρολεσχῶν. Perhaps περιάπτων.
+<hi rend="italic">cf. De Ebr.</hi> 73. But the periphrasis with ἦν is in itself
+somewhat strange.</note>
+
+
+
+<note n="5.151.a">I understand ἀοράτῳ, for which Mangey would substitute
+ἀρρήτῳ, to refer to the wrestling of the story taking place at night and stopping at dawn. Wendland suspected ἐπιστάτῃ and proposed παλαιστῇ, but Philo conceives of the angel rather as a master of the contest (ἀγωνοθέτης) training his pupil by wrestling with him; <hi rend="italic">cf. De Som.</hi> i. 129.</note>
+
+
+
+
+<note n="5.153.a">i.e. at the beginning of the speech to which the earlier
+quotation, “Behold I give thee etc.,” belongs. But as another quotation has intervened, this is rather forced. I should like to read ἐν ἀρχῇ, καί, i.e. “as an opening phrase.”</note>
+
+
+
+
+<note n="5.154.1">MSS. αἱρεῖται.</note>
+
+
+<note n="5.154.2">MSS. ἡμῶν.</note>
+
+
+<note n="5.154.3">οὕτως and ἑκείνως are my corrections of the οὖτος and ἐκεῖνος of the MSS. and editors. It seems clear to me that the sentence explains ἡγεμονεύεσθαι and εὐεργετεῖσθαι of the preceding clause and refers to the τελεῖος only.</note>
+
+
+
+
+<note n="5.156.1">The MSS. and editors have this sentence as follows:
+ἀλλὰ μὴ νομίσῃς τὸν αὐτὸν τρόπον ἄνθρωπόν τε γίνεσθαι καὶ
+ἄνθρωπον θεοῦ· ἄνθρωπον μὲν γάρ, θεοῦ ὡς κτῆμα· ἄνθρωπον
+δὲ θεοῦ, ὡς αὔχημα καὶ ὠφέλημα. The changes I have introduced,
+though involving little textual alteration, viz. the
+insertion of θεοῦ in one place, and the change of ἄνθρωπον
+θεοῦ twice over to ἀνθρώπου θεόν, make a vital change in the
+thought. As the text stands in the MSS. there is little point
+in the antithesis between being a man simply and being
+God’s man, and the next sentence does not carry on
+the antithesis, but indicates one between man being God’s
+and God being man’s. Moreover αὔχημα and ὠφέλημα should
+be genitives in apposition with θεοῦ. The thought in the
+corrected text is as follows: The phrase “I am thy God”
+makes God to be man’s. “Moses the man of God” makes man to be God’s. But the two relations are different. Man is God’s because he is God’s possession. God is man’s only in the sense that he can glory in Him and gain help from Him. He then continues “if we wish to establish this latter relation we must first establish in the right way the former and thus become not merely God’s possession, which we are in any case, but a possession worthy of Him.”</note>
+
+
+<note n="5.156.2">My correction for MSS. and editions’ νόμους. I can see no sense in this. For μώμους cf. <hi rend="italic">Leg. All.</hi> iii. 141 διὰ τὸ
+μηδένα ἔχειν μήθ᾿ ἐκούσιον μήτ᾿ ἀκούσιον μῶμον. For χειροποιήτους cf. its application to shipwrecks or famine caused needlessly by human ignorance or malice (<hi rend="italic">Spec. Leg.</hi> iv. 154 and iii. 203).</note>
+
+
+
+<note n="5.157.a">See App. p. 587.</note>
+
+
+
+
+<note n="5.158.1">Perhaps read &lt;τοι&gt;οῦτος δὲ πᾶς ὁ θίασος &lt;ὃς&gt;. See App.
+p. 587.</note>
+
+
+<note n="5.158.2">MSS. ἐκ τοῦ ἀφθόνου.</note>
+
+
+
+<note n="5.159.a">θεός being derived from τίθημι; see note on <hi rend="italic">De Conf.</hi> 137.</note>
+
+
+<note n="5.159.b"><hi rend="italic">Cf. De Op.</hi> 72 ff., <hi rend="italic">De Conf.</hi> 168 ff., <hi rend="italic">De Fug.</hi> 68 ff.</note>
+
+
+<note n="5.159.c">Or “indeed here with other lessons” (ἅμα), i.e. those of
+§§ 18 and 28.</note>
+
+
+<note n="5.159.d">In the other texts where God says “We” (see <hi rend="italic">De Conf.</hi> 16) and Gen. xlviii. 15, 16 (<hi rend="italic">ibid</hi>. 181).</note>
+
+
+<note n="5.159.e">See App. p. 587.</note>
+
+
+
+
+<note n="5.160.1">MSS. κατακλύζεται.</note>
+
+
+
+<note n="5.161.a">E.V. “Enoch walked with God; and he was not; for God took him” (LXX μετέθηκε). For “found” see App. p. 587.</note>
+
+
+<note n="5.161.b">See App. pp. 587 f.</note>
+
+
+
+
+<note n="5.162.1">MSS. παρέχει.</note>
+
+
+
+<note n="5.163.a">As E.V. in Hebrews xi. 5.</note>
+
+
+<note n="5.163.b"><hi rend="italic">Cf. Quis Rerum</hi>127.</note>
+
+
+<note n="5.163.c">See note on <hi rend="italic">De Fug.</hi> 170.</note>
+
+
+
+
+<note n="5.164.1">The text is questioned by Mangey and Wendland and
+Cohn, who proposed different emendations, in the first two
+cases bearing little likeness to the original. Cohn suggested
+ἐκτὸς ὁμοίως. I see no reason to dispute the text. The use of
+οἱ ὅμοιοι for “our neighbours” in antithesis to God is exactly
+paralleled in <hi rend="italic">Quis Rerum</hi> 172 τῶν πρὸς τοὺς ὁμοίους ἀδικημάτων, where no question is raised by the objectors to this passage. For χωρεῖν εἰς <hi rend="italic">cf</hi>. § 150.</note>
+
+
+
+<note n="5.165.a">See App. p. 588.</note>
+
+
+
+
+<note n="5.166.1">So MSS., but the adjective seems to be only known in the
+sense of “senile”or “antiquated.”Probably, as Wend.
+suggests, read πρεσβύτατον.</note>
+
+
+<note n="5.166.2">MSS., εὑρήσεις. Or perhaps κἂν &lt;εἰ&gt;. . . εὑρήσεις (W.H.D.R.).
+The καὶ in any case however seems otiose, and ἐὰν. . . εὕρῃς
+would be more natural.</note>
+
+
+
+<note n="5.167.a">For the general thought of this passage with the same illustration from the two robes and the words of Gen. xxxii, 28 cf. the fuller exposition in <hi rend="italic">De Ebr</hi>. 80–87.</note>
+
+
+<note n="5.167.b">See App. p. 588.</note>
+
+
+
+
+<note n="5.168.1">κινεῖ . . . ἐμφαίνουσαν. Following Wend. I have left this
+part of the sentence as the MSS.have it. But it is clearly
+corrupt, and Markland, Cohn and Wend. have suggested
+various emendations. The translation is based on a suggestion
+of my own that for στάσιν we should read τάσιν
+(self-extension). <hi rend="italic">Cf. De Sac.</hi> 68 ἕστηκα . . . οὐ μεταβατικῶς
+κινούμενος . . . ἀλλὰ τονικῇ χρώμενος τῇ κινήσει, also <hi rend="italic">De Post</hi> 30. I regard this however as very conjectural. If it were adopted, the rest of the passage might run somewhat as follows: κινεῖ τὴν σύμπασαν &lt;φύσιν or γένεσιν or σύστασιν κατὰ&gt; τάσιν . . . ἀλλὰ &lt;τὸ&gt; ἄτρεπτον καὶ ἀμετάβλητον ἐμφαίνουσαν. (Markland in place of the insertion of τό suggested ἐμφαίνων οὐσίαν.)</note>
+
+
+
+
+<note n="5.170.1">MSS.παντοίων.</note>
+
+
+
+<note n="5.171.a">Literally “he both speaks with emphasis (or “instructs”) and gives him a share of the speech.” See App. p. 588.</note>
+
+
+
+
+<note n="5.172.1">This or Wend.’s other suggestion of δίχα is needed to
+correspond with φιλούσης κρύπτεσθαι, which would be pointless
+with the MS. reading μετ᾿ ἀκριβοῦς (“hunting everywhere for
+examples”).</note>
+
+
+<note n="5.172.2">MS. δὲ.</note>
+
+
+<note n="5.172.3">See App. pp. 588 f.</note>
+
+
+
+<note n="5.173.a">See note on <hi rend="italic">Quis Rerum</hi> 242.</note>
+
+
+
+
+<note n="5.174.1">I leave this sentence as Wendland prints it, with MS.
+τὸ ἑνὸς corrected to τοῦ, προσθεὶς to προσθέσει and τὴν ῥῶ to
+τὸ ῥῶ, and in the translation have followed what he supplies
+for the supposed lacuna after παρεσχῆσθαι. For other
+possibilities see App. pp. 588 f.</note>
+
+
+<note n="5.174.2">MS. ὃς (Mangey ὃς καὶ πάντων δι᾿ ἐπιστήμης ἐχώρησε).</note>
+
+
+
+<note n="5.175.a">This use of ὑπονοίας is strange, though Wend.’s suggestion of τὰς &lt;τοιαύτας&gt; ὑπ. or Mangey’s τὰς &lt;κακὰς&gt; ὑπ. would make it more natural. See App. p. 589.</note>
+
+
+<note n="5.175.b">See App. p. 589.</note>
+
+
+
+
+<note n="5.176.1">MSS. ψυχαῖς βελτίοσιν.</note>
+
+
+<note n="5.176.2">MSS. ἀφ᾿.</note>
+
+
+
+<note n="5.177.a">The interpretation of Abram and Abraham has already been given in <hi rend="italic">De Cher</hi>. 4 f. and <hi rend="italic">De Gig</hi>. 62 f. That of Sarai and Sarah in <hi rend="italic">De Cher</hi>. 5 f.</note>
+
+
+
+
+<note n="5.178.1">MSS. δὲ.</note>
+
+
+<note n="5.178.2">MSS ἀπολαβόντες.</note>
+
+
+
+<note n="5.179.a">See <hi rend="italic">De Agr</hi>. 14 and <hi rend="italic">Leg. All</hi>. i. 57, and notes.</note>
+
+
+
+
+<note n="5.181.a"> See App. p. 589.</note>
+
+
+
+
+<note n="5.182.1">MSS. ἀπονητὶ.</note>
+
+
+
+
+<note n="5.184.1">MSS. μόνῃ.</note>
+
+
+<note n="5.184.2">MSS. τετρυμμένην.</note>
+
+
+<note n="5.184.3">MSS. μεταβάλῃ.</note>
+
+
+
+
+<note n="5.186.1">MSS. διδακτὴ, which might be retained, cf. § 263.</note>
+
+
+
+<note n="5.187.a">Literally “as in a musical instrument containing heightenings and lowerings of notes to the artistic blending of melody.”</note>
+
+
+<note n="5.187.b">ἄρτιον here combines its ordinary sense of “perfect” or “complete” with its technical use for an “even” number.</note>
+
+
+<note n="5.187.c">Hebrew and E.V. Zaphenath-paneah.</note>
+
+
+
+
+
+<note n="5.190.1">Perhaps, as Mangey, φυρόμενοι, <hi rend="italic">cf. De Ebr.</hi> 57 τίς . . . τῶν ἔτι φυρομένων ἐν κεναῖς δόξαις;</note>
+
+
+<note n="5.190.2">Or perhaps &lt;τῷ&gt; εὐφυεῖ.</note>
+
+
+
+<note n="5.191.a">As noted in the Introduction, §§ 97–102 are obviously irrelevant, as none of the four persons discussed have any change of name. The only link is that they show how different names symbolize contrasting qualities. Possibly the thought is partly induced by the proximity of the two sons of Rachel, <hi rend="italic">cf</hi>. the digression in <hi rend="italic">Quis Her</hi>. 252–266.</note>
+
+
+<note n="5.191.b">See <hi rend="italic">Leg. All</hi>. iii. 91 f., <hi rend="italic">De Sobr</hi>. 27 f., <hi rend="italic">De Mig</hi>. 205 f., <hi rend="italic">De Cong</hi>. 40 f.</note>
+
+
+
+
+<note n="5.193.a">Or “the inequalities produced by covetousness.”</note>
+
+
+
+
+<note n="5.194.1">Wendland [μὴ] ἀναδιδάσκειν . . . &lt;μὴ&gt; τὰ πρὸς ἀλλήλους.
+So also Mangey, more doubtfully. See note a below.</note>
+
+
+<note n="5.194.2">MSS. σχημάτων.</note>
+
+
+
+<note n="5.195.a">The suggestion of Mangey and Wendland to explain away
+this extraordinary perversion of the story of Jethro’s visit to
+Moses by transferring the negatives seems to me quite
+untenable. If it brings the passage into better agreement
+with the LXX, it does so at the cost of making nonsense of
+the whole, by representing something which is to Jethro’s
+credit as being to his discredit. Moreover, the text as it stands
+substantially agrees with the account of the interview given
+more shortly in <hi rend="italic">De Ebr.</hi> 37. Philo apparently gets his
+interpretation by stopping short at v. 17 of Ex. xviii. and
+ignoring the rest. Moses has said that he teaches the
+people “the ordinances of God and the law,” and Jethro
+replies οὐκ ὀρθῶς ποιεῖς. The sequel goes on to shew that
+Jethro means that Moses should employ subordinates for minor matters, and the last part of § 104 seems to be a vague reproduction of this, but completely twisted, whether through perversity or lapse of memory, so as to describe a policy of injustice called in <hi rend="italic">De Ebr.</hi> “playing the demagogue, and laying down laws contrary to the laws of nature.”</note>
+
+
+<note n="5.195.b"><hi rend="italic">Prima facie</hi> no doubt we should take ὁ μέγας as meaning Moses, particularly as Moses in the story does accept Jethro’s suggestion. But in view of the impossibility of Philo ascribing to Moses the acceptance of such advice, I take it generically, and this fits in with the evidently intended antithesis to μεγάλοις μεγάλα.</note>
+
+
+<note n="5.195.c">The Greek might mean “assigns important administrations of justice, etc.,” but here again the overwhelming argument of the necessity of discrediting Jethro demands the translation given. Philo is perhaps thinking of Deut. i. 17, and xxiv. 13–16, where the thought suggested in the translation appears.</note>
+
+
+
+
+<note n="5.196.1">MSS. στόματα.</note>
+
+
+<note n="5.196.2">So Wend. for MSS. ἐπήεσαν: better perhaps as Mangey
+ἐπίεσαν.</note>
+
+
+
+<note n="5.197.a">i.e. ἐκ κρίσεως may be taken as a single word ἐκκρίσεως,
+or as “belonging to judgement,” though in ἐκ λήθης (§ 100)
+the ἐκ is supposed to indicate the opposite of the noun.</note>
+
+
+<note n="5.197.b">See App. p. 589.</note>
+
+
+<note n="5.197.c">Or “mouth above skin” (or “leather,” cf. δερμάτινον
+ὄγκον Βεελφεγώρ, <hi rend="italic">De Conf.</hi> 55). I take the application to be
+that δέρμα indicates the body, and, if the form given in the translation is right, ἀνωτέρω suggests that in this case the body has usurped the superiority which belongs to the mind.</note>
+
+
+<note n="5.197.d">A strange use of τρανός. No satisfactory emendation is suggested. Wend.’s τρανὸς &lt;λόγος&gt; is fairly satisfactory in itself, but the λόγον which follows is an objection.</note>
+
+
+<note n="5.197.e">For σειρομάστην and other points in this sentence see the parallels, <hi rend="italic">Leg. All.</hi> iii. 242, <hi rend="italic">De Post</hi>. 183, <hi rend="italic">De Ebr</hi>. 73, and notes thereon.</note>
+
+
+
+
+<note n="5.198.1">MSS. κρεῖττον.</note>
+
+
+<note n="5.198.2">MSS. πίνουσι.</note>
+
+
+<note n="5.198.3">MSS. ἐξὸν.</note>
+
+
+
+<note n="5.199.a">See notes on <hi rend="italic">De Conf.</hi> 56 and <hi rend="italic">De Ebr.</hi> 144. Here there
+is no allusion to the original meaning of the word, and the
+derived sense of “is lost” may be given in the translation.</note>
+
+
+<note n="5.199.b">προβάσεις evidently alludes to the idea that πρόβατον is derived from προβαίνω, <hi rend="italic">cf. De Sac.</hi> 112 προκοπῆς δὲ πρόβατον, ὡς καὶ αὐτὸ δηλοῖ τοὔνομα, σύμβολον.</note>
+
+
+<note n="5.199.c">This is explained later in § 246.</note>
+
+
+
+
+<note n="5.200.1">MSS. πευστέον.</note>
+
+
+
+<note n="5.201.a">The thought is obscure. Cohn and Wend. proposed
+ἀγώγιμον παραδιδόναι τοῖς φαινομένοις (or πρὸς τὰ φαινόμενα).
+If the text is kept, I suggest that the thought may be that
+while the mind holds its proper seat, it makes the right use
+of αἰσθητά, but if it is enticed out into the body-loving region,
+αἰσθητά are used by it as slaves or prisoners. This would be
+brought out more clearly if we made the easy correction
+καὶ &lt;ἐκεῖ&gt; παραδιδόναι. But Mangey’s emendation of ποιμαινόμενα for φαινόμενα would greatly simplify the imagery and deserves all consideration. See App. pp. 589 f.</note>
+
+
+<note n="5.201.b">If this is right περίαπτα is used in a somewhat different sense from § 199 for “appendages”; cf. Aristot. <hi rend="italic">Nic. Eth.</hi> x. 8. 12 οὐδὲν δὴ προσδεῖται τῆς ήδονῆς ὁ βίος αὐτῶν, ὥσπερ περιάπτου τινός. For τραγῳδία <hi rend="italic">cf. De Post.</hi> 165 οἱ τραγῳδίαν τὸν βίον . . . νομίζοντες. But the words may refer to the masks of actors, and if so would be more in line with §§ 198, 199.</note>
+
+
+<note n="5.201.c">See App. p. 590.</note>
+
+
+
+
+<note n="5.202.1">MSS. συντόμως.</note>
+
+
+<note n="5.202.2">MSS. οἰκεῖον (Mangey οἰκεῖ οὖν).</note>
+
+
+
+<note n="5.203.a">For “Man” standing for the true man, the mind, <hi rend="italic">cf. De Agr</hi>. 9, <hi rend="italic">Quis Rerum</hi> 231, <hi rend="italic">De Fug.</hi> 71, and elsewhere.</note>
+
+
+
+
+<note n="5.204.1">&lt;σώζεται&gt;: my insertion, which I hope will meet with
+general acceptance. That Philo should have supposed that
+“Hoshea” meant “this person of a particular kind” seems
+to me absurd (for Siegfried’s defence of it see App. p. 590).
+Philo’s meaning, as I understand it, is that the finite verb
+necessarily implies a subject and therefore stands to the
+abstract noun as the ποιός does to the ποιότης or ἕξις. It will
+be seen that the juxtaposition of two -εται’s might easily lead
+to the omission of one. For the interpretation of a name by
+a finite verb cf. below, § 189.</note>
+
+
+<note n="5.204.2">So Mangey (approved by Wend.): MSS. ποιά, which
+cannot mean “of any kind,” and if we take it as “some
+particular kind” does not balance well with παντός.</note>
+
+
+
+<note n="5.205.a">ποιός (a person of a particular kind) is regularly used in antithesis to other ποιοί or ἄποιοι; but it may also be used in antithesis to ποιότης, <hi rend="italic">cf</hi>., ποιόν τι ἀλλ᾿ οὐ ποιότητα, <hi rend="italic">Theaetetus</hi> 182 A. In this case the ποιός is the concrete of the abstract ποιότης. Philo has used it in exactly the same way in <hi rend="italic">Leg. All</hi>. i. 67, 79, and also in <hi rend="italic">Leg. All</hi>. ii. 18, where ὁ κατὰ τὰς ἀρετὰς ποιός is φρόνιμος or σώφρων, etc., corresponding to φρόνησις, σωφροσύνη, etc.</note>
+
+
+
+
+<note n="5.206.1">MSS. ἦ.</note>
+
+
+<note n="5.206.2">MSS. καθαρσίω.</note>
+
+
+<note n="5.206.3">Perhaps τὸ δέ γε &lt;τόδε&gt; καὶ.</note>
+
+
+
+<note n="5.207.a">Or “a thing received,” the natural meaning of the word,
+i.e. Moses is named after the gift which he has received.</note>
+
+
+<note n="5.207.b">The meaning is obscure. Perhaps the fact that Moses
+“handled” the laws shews that his name of “receiving”
+must also be understood to include the kindred meaning of “handling.” The derivation here given applies only to the last part of the name. The common ancient derivation that “Mo” represented the Egyptian μῶυ, “water,” is given by Philo, <hi rend="italic">De Mos</hi>. i. 17, In <hi rend="italic">Leg. All.</hi> iii. 231 ψηλάφημα was used for “groping” (in darkness).</note>
+
+
+<note n="5.207.c">Clearly an allusion to the blessing of Levi (Deut. xxxiii. 9), “who said to his father and mother ‘I have not seen thee’ (οὐχ ἑώρακα)” <hi rend="italic">Cf. De Fug.</hi> 89 and elsewhere. Mangey and Wend, needlessly suspect the word.</note>
+
+
+
+
+<note n="5.208.1">MSS. θεὸς, which Wend. prints, though noting that
+ἄνθρωπος θεοῦ seems the right reading. But θεοῦ by itself is
+a simpler and, I think, quite sufficient correction.</note>
+
+
+<note n="5.208.2">Wend. puts no stop at μεγαλαυχῶν, apparently treating
+it as “boasting on account of this (what?) in particular.”
+Mangey gives a full stop after μεγαλαυχῶν, but inserts &lt;εὔχεται&gt;
+after ἥκιστα. I suggest that θεός ἐστι is to be understood;
+see note b on opposite page. τοῦτο looks forward, as <hi rend="italic">e.g. De
+Op.</hi> 72, 100, <hi rend="italic">De Som.</hi> i. 118.</note>
+
+
+<note n="5.208.3">Wend. and Mangey both punctuate γέλως, ὁ ἐν διάθετος
+υἱὸς θεοῦ (which Drummond translates “the ideal son of
+God”). But can ἐνδιάθετος mean this? I understand it in
+its usual sense of opposition to προφορικός, <hi rend="italic">cf. De Mig.</hi> 157 τοῦ ἐνδιαθέτου καὶ σπουδαίου γέλωτος, and so below § 154 τὸν ψυχῆς γέλωτα.</note>
+
+
+
+<note n="5.209.a">Philo, as often, connects εὐλογιστία with εὐλογία. See note on <hi rend="italic">De Sobr.</hi> 18.</note>
+
+
+<note n="5.209.b">The thought is: Moses’ “godship” to Pharaoh was particularly shewn in his not punishing him summarily, but allowing him so many chances of repenting, and in interceding with God for him, e.g. Ex. ix. 29.</note>
+
+
+
+
+<note n="5.210.1">An alternative to supposing a lacuna may be obtained
+by emending φιλόκαλον to φιλόκακον (or better ἀφιλόκαλον,
+W.H.D.R.), and referring αὐτῇ to εὐπαιδίας.</note>
+
+
+<note n="5.210.2">So Mangey suggests: Wend. prints ἡ [ὁ κόσμος] εἱμαρμένη:
+MSS. ἢ ὁ κόσμος εἱμαρμένη. I see no reason to exclude
+ὁ κόσμος, which naturally suggests “order” as well as
+“world.” Wend. also puts a question at παιδεία, as if σκῆπτρον
+began an explanation of another of Judah’s gifts. Clearly this is not so. The staff suggests (1) immovableness, (2) discipline, (3) royalty. I suggest &lt;ἡ&gt; ἀκολουθία.</note>
+
+
+
+<note n="5.211.a">For §§ 134–136 <hi rend="italic">cf. De Fug.</hi> 149 ff.</note>
+
+
+<note n="5.211.b">See App. p. 590.</note>
+
+
+
+
+<note n="5.212.1">I see no clear reason for supposing a lacuna here.</note>
+
+
+
+<note n="5.213.a">See App. p. 590.</note>
+
+
+<note n="5.213.b"><hi rend="italic">Cf. De Plant</hi>. 138.</note>
+
+
+
+
+<note n="5.214.1">My insertion. That κατὰ would be easily lost between
+–κα and τα– is obvious. The adverb τάχος appears to be poetical.</note>
+
+
+
+
+<note n="5.216.1">My correction for MS. ἀναλίσκουσαν, for which Wend.
+suggests ἀποδιδράσκουσαν and Mangey ἀναλυσκάζουσαν. <hi rend="italic">Cf.</hi>
+its use in <hi rend="italic">Theaetetus</hi> 149 MS., which Philo may have in mind.
+See App. pp. 590 f.</note>
+
+
+
+<note n="5.217.a">For this use of ἑβδόμη for ἑβδομάς see note on § 260.</note>
+
+
+<note n="5.217.b">See App. p. 591.</note>
+
+
+<note n="5.217.c">For this play upon ἀστῆς and ἀστεῖον (for which Mangey needlessly wished to substitute ἀστὸν <hi rend="italic">cf. De Mig.</hi> 99 ἀσταί τε καὶ ἀστεῖαι γυναῖκες and note on <hi rend="italic">De Conf.</hi> 106.</note>
+
+
+
+
+<note n="5.218.1">MSS. δηλονότι.</note>
+
+
+<note n="5.218.2">MSS. πρὸς ἔσχατα τὰ.</note>
+
+
+
+<note n="5.219.a">See App. p. 591.</note>
+
+
+
+
+<note n="5.221.a">See App. p. 591.</note>
+
+
+
+
+<note n="5.222.1">MSS. τοῦ μόνων (τοῦ perhaps rightly).</note>
+
+
+<note n="5.222.2">MSS. ἐπίλυτος.</note>
+
+
+<note n="5.222.3">MSS. ἔρυσιν.</note>
+
+
+
+
+<note n="5.224.1">MSS. δῆτα.</note>
+
+
+<note n="5.224.2">MSS. αὐτὰ.</note>
+
+
+<note n="5.224.3">MSS. αὐτῆς.</note>
+
+
+<note n="5.224.4">MSS. μέλλοντι, which perhaps retain, reading with Mangey &lt;ἐπ&gt;ελπίζομεν.</note>
+
+
+<note n="5.224.5">MSS.. ἐνέργειαν. The change seems to me very doubtful: ἐνέργεια is frequently used in connexion with the sense organs, <hi rend="italic">e.g. De Abr.</hi> 154, 158.</note>
+
+
+
+<note n="5.225.a">See App. p. 591.</note>
+
+
+
+
+<note n="5.226.1">MSS. ἱδρυσάμενος.</note>
+
+
+<note n="5.226.2">MSS. ἀπάθειαν.</note>
+
+
+
+<note n="5.227.a">This perversion of the laughter of Abraham and Sarah has some excuse in the case of the latter in the obscurity of
+the LXX in which the E.V. “After I am waxed old shall I
+have pleasure, my lord being old also?” appears as here
+quoted. So also in <hi rend="italic">Leg. All.</hi> iii. 217 f.</note>
+
+
+<note n="5.227.b">See App. p. 591.</note>
+
+
+<note n="5.227.c">Or “well-being.” See App. p. 591.</note>
+
+
+<note n="5.227.d">See note on <hi rend="italic">De Mig.</hi> 79.</note>
+
+
+
+
+<note n="5.228.1">MSS. ὑπομορφάζειν.</note>
+
+
+<note n="5.228.2">αὖ τὸν &lt;νοῦν&gt;: my correction for αὐτὸν in MSS. and all editions. As the text stands, αὐτόν can only refer to Joseph
+and this is hardly sense. How could the arrival of the brethren, always representing the good, cause Joseph already more or less corrupted by Egypt to change for the worse? The sequel clearly shows that it is the brethren and Jacob in particular whom they hope to corrupt. But συνετράφη and παρακόψαντα forbid us to correct to αὐτοὺς. The suggestion of αὖ is not necessary to the sense, but it enriches it, as well as diminishing the departure from the MSS.. Egypt hopes to do with the new arrivals what it has already done with Joseph. This is supported by § 173, where the ills which will be inflicted on them are those which Joseph has already suffered.</note>
+
+
+
+
+<note n="5.230.1">Wend. suggests ἐπ᾿ &lt;ἀγαθὰ&gt;, and adds “certe corruptela
+latet.” I doubt whether there is anything very unusual in
+this use of ἐπί with the genitive.</note>
+
+
+
+<note n="5.231.a">i.e. at present only the brethren representing virtue at
+its earliest stages have come to Egypt. Egypt hopes also to
+win over the more perfected virtue of Jacob.</note>
+
+
+<note n="5.231.b">So LXX. E.V. “an officer of Pharaoh’s, the captain of the guard”; <hi rend="italic">cf. Leg. All.</hi> iii. 236.</note>
+
+
+<note n="5.231.c">See note on <hi rend="italic">Quis Rerum</hi> 242.</note>
+
+
+
+
+
+<note n="5.234.1">MSS. ἄπειρα μεγέθη διὰ στόματος.</note>
+
+
+<note n="5.234.2">MSS. ὥραν.</note>
+
+
+
+<note n="5.235.a"><hi rend="italic">Odyssey</hi> vii. 36, cf. the saying of Thales (Diog. Laert. i. 35) τάχιστον νοῦς· διά παντὸς γὰρ τρέχει.</note>
+
+
+<note n="5.235.b">The sense of the word is not clear. Wend, suggests συντέμνουσα “cutting down,” “making a short cut of.”</note>
+
+
+
+
+<note n="5.237.a">The common title for Deut. xxxii. in contrast to the song of Ex. xv.</note>
+
+
+
+
+<note n="5.238.1">MSS. τοῖς ἐννενηκονταέταις οὖσι: Mangey proposed ἑκατονταέταις.
+I should suggest τοῖς ἐνενηκονταέταις &lt;καὶ ἑκατονταέταις&gt; οὖσι.
+The latter word occurs in the narrative of Gen.
+xvii. 17, though, as apparently elsewhere, in the third
+declension. Perhaps here -εσι.</note>
+
+
+<note n="5.238.2">MSS. ἑκάτερα.</note>
+
+
+<note n="5.238.3">MSS. χώματος.</note>
+
+
+
+<note n="5.239.a">i.e. Philo interprets ἄρουραν in the technical sense of a piece of land of 100 square cubits, cf. ἡ δὲ ἄρουρα ἐκατὸν
+πηχέων ἐστὶ Αἰγυπτίων πάντῃ, Herodotus ii. 168, <hi rend="italic">cf. De Plant.</hi> 75.</note>
+
+
+
+
+<note n="5.240.1">&lt;δεκάτων&gt;: my insertion. Wendland proposes ἑτέρας
+δεκάτας &lt;ἑκάτοστον&gt; λόγον περιέχουσας or δεκάτην ὡς ἀπαρχὴν
+ἱεράν: Mangey δεκάτην ἑκατόστῳ λόγῳ ἱεράν. I do not know
+why they preferred these wide departures from the MSS. to
+the obvious correction which is printed above. The periphrasis
+with λόγος for the ordinal is quite common, as their
+conjectures indeed admit, and I do not think the plural is
+any objection.</note>
+
+
+<note n="5.240.2">&lt;δεκάδος&gt;: again my insertion. Wend. &lt;δευτέρας&gt;, in which
+I can see no meaning. Ninety is certainly the borderland
+between ten and a hundred, which is here called the tenth
+ten to bring out the analogy with the veil which separates the ἅγια.</note>
+
+
+<note n="5.240.3">I suggest τὰ ἅγια &lt;τῶν ἁγίων&gt; τῶν ἁγίων (the holy place
+from the holy of holies), <hi rend="italic">cf. Leg. All.</hi> ii. 55. This will bring out more clearly the correspondence with the first and the tenth ten. Perhaps also insert διὰ after τρόπον, in which case the form of the sentence will be the same as τοῦτον (eight words) τὸν τρόπον <hi rend="italic">De Conf.</hi> 69.</note>
+
+
+
+<note n="5.241.a">For this use of φέρω see note on <hi rend="italic">Quis Rerum</hi> 36. So also in § 256 below. In § 225 the use is somewhat different, as there φέρειν precedes τίκτειν.</note>
+
+
+<note n="5.241.b">i.e. ἐν τῇ διανοίᾳ αὐτοῦ must under this second interpretation be understood not, as in the first interpretation, as indicating a passing thought, but as “sincerely.” Though Philo does not state this expressly, it is implied by the antithesis with κατὰ τὴν διάνοιαν τῆς παρθένου below.</note>
+
+
+
+
+<note n="5.242.1">MSS. οὖν.</note>
+
+
+<note n="5.242.2">Wend. suggests ἐχρῆν (rather χρῆν) οὖν.</note>
+
+
+<note n="5.242.3">MSS. δίκη.</note>
+
+
+
+<note n="5.243.a">For Philo’s use of this text see note on <hi rend="italic">De Sobr.</hi> 50.</note>
+
+
+<note n="5.243.b">See App. pp. 591 f.</note>
+
+
+
+
+<note n="5.244.1">MSS. βούλεσθαι.</note>
+
+
+<note n="5.244.2">MSS. ἄνθρωποι.</note>
+
+
+<note n="5.244.3">MSS. κατατεχνοῦντες.</note>
+
+
+<note n="5.244.4">So MSS.: Wend. prints τὰ αἴσχη. I do not see any sufficient reason for the change.</note>
+
+
+<note n="5.244.5">I have put a comma after ὁρμῆς, instead of a full stop as Mangey and Wend. The “blessings” refer to the two blessings of Jacob and Moses.</note>
+
+
+<note n="5.244.6">Is this word, often used by Philo of impressing a stamp, appropriate to this case where Simeon is wholly absorbed? I suggest ἐνέναξε. The compound is not noted in the lexicon, but νάσσω exactly expresses the idea. Or ἐνέπλασε (W.H.D.R.).</note>
+
+
+
+
+<note n="5.246.1">MSS. ἀπαγγελίαν.</note>
+
+
+<note n="5.246.2">MSS. and all editions λαλοῦσαν. I have made this correction,
+feeling that, though ἔγνω λαλοῦσαν is a more natural
+construction, it is impossible that the divine message should
+be spoken of as full of εὐλάβεια or even of αἰδώς. I under- Stand λαλήσας . . . διάνοιαν to repeat εἶπε τῇ διανοίᾳ αὐτοῦ as interpreted in §§ 193 ff.</note>
+
+
+<note n="5.246.3">MSS. προε(υ)χάραξε.</note>
+
+
+
+
+<note n="5.248.1">MSS. τούτου for τοῦ υἱοῦ.</note>
+
+
+<note n="5.248.2">Should we read θεοπροπῶς &lt;θεοπροπῶν&gt; as the balance of the sentence perhaps suggests?</note>
+
+
+
+<note n="5.249.a"><hi rend="italic">Cf. De Mig.</hi> 69.</note>
+
+
+<note n="5.249.b">For the full development of this theme see <hi rend="italic">De Ebr.</hi> 13–94.</note>
+
+
+<note n="5.249.c">See App. p. 592.</note>
+
+
+
+
+<note n="5.250.1">I should suggest φαίνονται as making better sense.</note>
+
+
+
+<note n="5.251.a">Ascribed by inadvertence to the Blessing of Jacob, instead of to that of Moses.</note>
+
+
+
+
+<note n="5.252.1">MSS. μετὰ . . . μετὰ.</note>
+
+
+<note n="5.252.2">MSS. ἀπ᾿.</note>
+
+
+<note n="5.252.3">MSS. ἀποδεδραμηκότα.</note>
+
+
+
+<note n="5.253.a"><hi rend="italic">Cf. Quis Rerum</hi> 181 where the simile is definitely referred to Plato (<hi rend="italic">Theaetetus</hi> 191 C).</note>
+
+
+
+
+<note n="5.254.1">So MSS.: Wendland εὔχεται. I do not think the change is necessary; see note a on opposite page.</note>
+
+
+<note n="5.254.2">MSS. ζῆ.</note>
+
+
+<note n="5.254.3">παρόντος ἀεὶ εἰ περιβλέπεται] this (or perhaps παρόντος εἰ) is my suggestion for MSS. παρόντος καὶ περιβλέπεται. Wend. proposes αἰεὶ περιβλεπόμενος, Mangey καὶ προσβλέποντος.</note>
+
+
+<note n="5.254.4">The lacuna might be filled by ἀπιστεῖ δὲ τῷ γενητῷ, cf. § 201 (rather this than §178 as Wend.).</note>
+
+
+
+<note n="5.255.a">The objection of Cohn and Wendland to the first person ignores the fact that Philo constantly regards the stories and sayings of the Pentateuch as representing the spiritual experiences of every generation. It is “the holy word speaking to everyone,” as just above in § 215. Compare νοῦς ἡμῶν in § 16. Good examples appear in <hi rend="italic">De Som</hi>. i. 143 and 226, ii. 170. Cohn’s εὐχώμεθα does not fit in well with Philo’s use of παγκάλως (see note on <hi rend="italic">De Mig.</hi> 101). There would be no objection to εὐξόμεθα, but the change seems unnecessary.</note>
+
+
+<note n="5.255.b">See App. p. 592.</note>
+
+
+
+
+<note n="5.256.1">MSS. ἔδειξε.</note>
+
+
+
+
+<note n="5.258.1">MSS. ἑνός.</note>
+
+
+
+<note n="5.259.a">Philo again shews his doubt of the propriety of the phrase ἡ τοῦ παντὸς ψυχή, <hi rend="italic">cf. De Mig.</hi> 179 and note on <hi rend="italic">Leg.</hi> <hi rend="italic">All.</hi> i. 91.</note>
+
+
+
+
+<note n="5.260.1">MSS. πεντάδα.</note>
+
+
+<note n="5.260.2">MSS. εὔξεσθαι.</note>
+
+
+<note n="5.260.3">MSS. ἀρετῆς.</note>
+
+
+<note n="5.260.4">Clearly corrupt: Mangey proposed δή, Wendland τελείως. The simplest correction would be οἵδε, if this can stand so at the end of a clause. (It does so stand in <hi rend="italic">De Conf.</hi> 87, but in the sense of “the following.”)</note>
+
+
+
+<note n="5.261.a"><hi rend="italic">Cf. De Sac.</hi> 122.</note>
+
+
+
+
+<note n="5.262.1">So LXX: MSS. ἐπιχρίσει.</note>
+
+
+
+<note n="5.263.a">Or (reading ἰσότητι &lt;τῇ&gt; παρ᾽ ἑαυτῷ) “the equality inherent in Himself.”</note>
+
+
+
+
+<note n="5.264.1">MSS. ἀγαθὴ.</note>
+
+
+<note n="5.264.2">MSS. δείκνυσι. The correction is mine and I have also removed the full stop at ἐγγύς. The quotation, though free, goes on continuously.</note>
+
+
+
+
+<note n="5.266.1">MSS. ἀνέντα.</note>
+
+
+
+<note n="5.267.a">Or “silence.” See App. p. 592.</note>
+
+
+<note n="5.267.b">See App. p. 592.</note>
+
+
+
+
+<note n="5.268.1">MSS. ὑπαίτιαι.</note>
+
+
+<note n="5.268.2">Or ἀσφάλειαν as Mangey; cf. § 111, also ἀσφάλειαν καὶ εὐκοσμίαν <hi rend="italic">Quis Rerum</hi> 125.</note>
+
+
+
+
+<note n="5.270.1">So LXX: MSS. αὐτῶν.</note>
+
+
+
+<note n="5.271.a">κυοφορῆσαι rather strangely used for γεννᾶν. Has ἀρετή fallen out?</note>
+
+
+
+
+<note n="5.272.1">MSS.θεοῦ or θεὸν.</note>
+
+
+<note n="5.272.2">MSS.τῶν ἡγεμόνων.</note>
+
+
+<note n="5.272.3">MSS.θείου.</note>
+
+
+<note n="5.272.4">MSS.πείσεις.</note>
+
+
+
+<note n="5.273.a">See note on <hi rend="italic">De Cher.</hi> 41.</note>
+
+
+
+
+<note n="5.274.1">MSS. ἐφιέμενα.</note>
+
+
+<note n="5.274.2">MSS. ἀποτροφήν.</note>
+
+
+<note n="5.274.3">So Mangey: MSS. and Wend. ἔχων.</note>
+
+
+<note n="5.274.4">I should be inclined to correct to οὐδ᾿ and perhaps to
+ἀνατελούντων, in which case the phrase, which Mangey and
+Wend. would emend by substituting respectively ὑλικῆς (?)
+and ἀνθρωπίνης for ὅλης, would not, I think, present any
+difficulty. Another possibility would be ἐκ πολλῆς.</note>
+
+
+
+<note n="5.275.a">Wendland gives the reference for this as Ex. xvi. 23 ff.
+But this can hardly be right, as no manna fell on the Sabbath. The reference is clearly to the Sabbatical year of Lev. xxv. 4, 5, definitely called “Sabbath,” on which he has dwelt in <hi rend="italic">De Fug.</hi> 170 ff. ἡ ἑβδόμη seems to be used for ἑβδομάς in <hi rend="italic">De Decal.</hi> 159 and <hi rend="italic">De Spec. Leg.</hi> ii. 40, as well as in § 144 above. Presumably no noun but ἡμέρα can be understood, but by frequent use it has come to be a noun, which Philo can extend to cover any sacred period, day, month, or year.</note>
+
+
+
+
+<note n="5.277.a"><hi rend="italic">Cf. De Post.</hi>122, where however the καιρός is the false god who deserts his votaries.</note>
+
+
+
+
+<note n="5.278.1">MSS. ὁ.</note>
+
+
+
+<note n="5.279.a">From <hi rend="italic">Timaeus</hi> 37 D, as also in <hi rend="italic">Quis Rerum</hi> 165, <hi rend="italic">Quod</hi> <hi rend="italic">Deus</hi> 32, where see note.</note>
+
+
+
+
+<note n="5.280.1">Perhaps αὐτοῦ.</note>
+
+
+<note n="5.280.2">MSS. ὥσπερ.</note>
+
+
+

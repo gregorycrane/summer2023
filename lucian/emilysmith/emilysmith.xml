@@ -6,34 +6,29 @@
 <titleStmt>
 <title xml:lang="lat">Phalaris</title>
  <author>Lucian of Samosata</author>
-<editor>Emily James Smith, 1865-1944</editor>
+<editor>Emily James Smith</editor>
  <funder>National Endowment for the Humanities</funder>
  <principal>Gregory Crane</principal>
  <respStmt>
   <persName>Gregory Crane</persName>
-  <resp>OCRd, tagged and added initial corrections to  the text</resp>
+  <resp>Digital conversion and editing</resp>
  </respStmt>
  </titleStmt>
 <publicationStmt>
-<authority>Perseus Digital Library</authority>
-<idno type="filename">tlg0062.tlg001.1st1K-eng1.xml</idno>
-<availability>
+<publisher>Trustees of Tufts University</publisher>
+<pubPlace>Medford, MA</pubPlace>
+<authority>Perseus Project</authority>
+ <date type="release" when="2023-08-11">Perseus 5.0</date>
+ <idno type="filename">tlg0062.tlg012.perseus-eng5.xml</idno>
+ <availability>
  <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
-</availability>
-<date>2023</date>
-<publisher>Harvard College Library</publisher>
-<pubPlace>United States</pubPlace>
-</publicationStmt>
-<sourceDesc>
+ </availability>
+</publicationStmt><sourceDesc>
 <listBibl>
  <biblStruct>
  <monogr>
-  <title>Lucian</title>
-  <editor>
-	<persName>
-	 <name>Emily James Smith, 1865-1944</name>
-   </persName>
-  </editor>
+<title xml:lang="eng">Selections from Lucian</title>
+  <editor role="translator">Emily James Smith</editor>
   <author ref="urn:cts:greekLit:tlg0062">Lucian of Samosata</author>
   <imprint>
    <publisher>Harper and Brothers</publisher>
@@ -60,7 +55,7 @@
 </langUsage>
 </profileDesc>
 <revisionDesc>
-<change/>
+<change who="Gregory Crane" when="2023-08-11">Created initial file in repository. The major task was adding section breaks. There are missing sections because the translator silently skipped passages that did not conform with contemporary standards of propiety.</change>
 </revisionDesc>
 </teiHeader>
 <text>
@@ -85,8 +80,8 @@ prejudice to the minds of English readers, the task
 of introducing him would be as light as possible,
 for no writer is more frankly ready to speak for
 himself. Not even Benvenuto Cellini makes a
-cleaner breast of it than does the hero of The
-Ass, who, it is fair to suppose, shares Lucian's
+cleaner breast of it than does the hero of <title>The
+Ass</title>, who, it is fair to suppose, shares Lucian's
 ideas on most subjects. Not even Dumas chronicles the faults and virtues of his characters
 with a more engaging naivete than the author
 of A True History. But this quality of simplicity in a writer, this easy approachableness
@@ -100,7 +95,7 @@ The fair landscape he opens to us, blooming and
 
 <pb n="vi"/>
 
-vi
+
 
 cheerful as the Happy Islands that he tells of, is
 no longer the safe and tranquil place the wayfarer used to find it, for footsore Erudition, having munched her bread and cheese beneath his
@@ -594,7 +589,7 @@ the other began, somewhat in this way:
 
 </p>
 </div>
-<div type="textpart" subtype="section" n="ZZ">
+<div type="textpart" subtype="section" n="9">
 <p>
 
 "I, my child, am Culture, an acquaintance and
@@ -1744,18 +1739,15 @@ about.</p>
 us, my child? The symptoms that precede the
 utterance are already alarming. His color is
 fading, his eyes are rolling, his hair is standing
-on end, and his gestures are those of a Ko-
-
+on end, and his gestures are those of a Korybant.
 
 <pb n="38"/>
 
-
-
-rybant. His whole bearing is mystic, frantic,
+His whole bearing is mystic, frantic,
 possessed.</p>
 
 </div>
-<div type="textpart" subtype="section" n="30">
+<div type="textpart" subtype="section" n="31">
 <p><label>Apollo</label> 
 
 <l>Hear now the word divine, declared by the prophet Apollo</l>
@@ -1786,12 +1778,11 @@ to us what he says.</p>
 
 <p><label>Momos</label> It is perfectly plain, so that we shall
 not need Themistokles. The oracle says clearly
-that the seer is a juggler and that we are pack-
-
+that the seer is a juggler and that we are packasses,
 
 <pb n="39"/>
 
-asses, by Zeus! and mules to believe in him, with
+by Zeus! and mules to believe in him, with
 not the wit of a locust among us.</p>
 </div>
 <div type="textpart" subtype="section" n="32">
@@ -2098,14 +2089,11 @@ going on and called Briareos, our glorious Zeus
 would have been seized and tied up. It was in
 return for this and to repay his obligation to Thetis that he deceived Agamemnon by sending him
 a false dream for the destruction of many Greeks.
-Notice that he was unable to launch a thunder-
-
+Notice that he was unable to launch a thunderbolt
 
 <pb n="46"/>
 
-
-
-bolt and burn up Agamemnon himself, but must
+and burn up Agamemnon himself, but must
 assume the role of cheat. Or was conviction forced
 upon you chiefly when you heard how Diomedes
 wounded Aphrodite and then Ares himself at the
@@ -2482,13 +2470,11 @@ your father was and your mother, too, and how
 you strangled your brother, and are an evil-liver
 and corrupter of lads, you filthy, shameless wretch?
 Don't run away now, for you are going to get
-blows from me, too, before you get off. I am go-
-
+blows from me, too, before you get off. I am going
 
 <pb n="55"/>
 
-
-ing to cut your throat directly with this potsherd,
+to cut your throat directly with this potsherd,
 miscreant that you are!</p>
 
 </div>
@@ -3831,7 +3817,7 @@ are going to put up the lives of the private citizens and artisans and tradesfol
 <pb n="84"/>
 </p></div>
 </div>
-<div type="translation" n="tlg0062.tlg029">
+<div type="translation" n="tlg0062.tlg019">
 <head>THE COCK</head> 
 <head>CHARACTERS. <label>MIKYLLOS</label> THE SHOEMAKER. <label>SIMON</label> THE <label>MISER</label>. HIS <label>COOK</label>.
 </head>
@@ -5909,8 +5895,7 @@ before you do.
 
 
 <pb n="135"/></p>
-</div>
-<div type="textpart" subtype="section" n="20">
+
 
 <p><label>Klotho</label> Heaven forbid. Come up with him
 and catch him. You, Hermes, help pull him in.</p>
@@ -6654,7 +6639,7 @@ they flew towards the ship; but, on learning that
 we were allies, they withdrew. 
 </p>
 </div>
-<div type="textpart" subtype="section" n="28">
+<div type="textpart" subtype="section" n="29">
 <p>
 The Hippogyps,
 too, had already left us.
@@ -6847,13 +6832,11 @@ up to our engulfment by the whale.
 He was
 greatly astonished, and in turn gave us an account
 of his own fortunes.
-"By birth, friends, I am a Cypriote. Being en-
-
+"By birth, friends, I am a Cypriote. Being engaged
 
 <pb n="159"/>
 
-
-gaged in commerce, I set out from my
+in commerce, I set out from my
 native land
 with my boy, whom you see, and a number of
 slaves as well, and sailed for Italy, carrying a
@@ -6888,14 +6871,11 @@ since we were swallowed.
 As far as these
 things go, our life was perhaps tolerable; but
 our neighbors, the people who live near us,
-are extremely rough and violent, for they are sav-
-
+are extremely rough and violent, for they are savages
 
 <pb n="160"/>
 
-
-
-ages who have never had commerce with civilization."
+who have never had commerce with civilization."
 "What!" said I, "are there, then, still other
 men in the whale ?"
 "Numbers of them," said he, "inhospitable
@@ -7736,14 +7716,11 @@ return to them, and they showed me a chair and
 a couch made ready against that day near the
 noblest. I went to Rhadamanthos and begged
 and besought him to read the future for me and
-map out my voyage, and he told me I should re-
-
+map out my voyage, and he told me I should return
 
 <pb n="182"/>
 
-
-
-turn to my native land after many wanderings
+to my native land after many wanderings
 and dangers, but he persisted in refusing to set
 the time of my arrival. However, he pointed out
 the neighboring islands, of which five were visible, with a sixth in the distance, and told me
@@ -7812,15 +7789,11 @@ letter and read the contents. It ran as follows:</p>
 <p>
 ODYSSEUS GREETS KALYPSO.</p>
 <p>Know that as soon as I sailed away from your
-island on the raft I had built I suffered ship-
-
-
+island on the raft I had built I suffered shipwreck,
 
 <pb n="184"/>
 
-
-
-wreck, and was only just saved by Leukothea and
+and was only just saved by Leukothea and
 brought to the country of the Phaeacians. They
 conveyed me to my own land, where I found my
 wife's numerous suitors revelling at my expense.
@@ -8135,14 +8108,11 @@ gods of the Greeks, do not take it ill if I tell you
 some of the things I have noted in my long stay
 among you. You seem to me to be able to discuss friendship, it is true, better than other people, but your practice of it is by no means worthy
 of your preaching. In fact, you are perfectly satisfied when you have eulogized it and shown how
-great a good it is, and in time of need you forsake your theories and make your escape some-
-
+great a good it is, and in time of need you forsake your theories and make your escape somehow
 
 <pb n="196"/>
 
-
-
-how from the thick of action. Whenever the tragedians mount the stage and show you instances
+from the thick of action. Whenever the tragedians mount the stage and show you instances
 of the friendship you admire, you cry, "Bravo!"
 and applaud; and when they run into danger for
 another, most of you are even moved to tears;
@@ -8171,13 +8141,11 @@ beautiful language. But let us select a few from
 our contemporaries and tell their exploits-I for
 Scythia, you for Greece-and he who is victorious and able to produce the best friends will be
 openly the better man, and will proclaim his the
-better country, because he has won in a very no-
-
+better country, because he has won in a very noble
 
 <pb n="197"/>
 
-
-ble and beautiful contest. For my part, I should
+and beautiful contest. For my part, I should
 vastly prefer losing my right hand for having
 been worsted in single combat-that is the Scythian forfeit to being judged inferior to another
 man in respect of friendship, and that, too, though
@@ -8890,15 +8858,13 @@ him, but he shouted the word "Ziris!" When a
 man says this word the enemy do not kill him,
 but receive him as a messenger about exchange
 of prisoners. So he was led to the commander,
-and of him he demanded his friend. The com-
-
+and of him he demanded his friend. The commander
 
 <pb n="217"/>
 
-
-mander asked for a ransom, saying the prisoner
+asked for a ransom, saying the prisoner
 should not go forth unless he got a great price
-for him.
+for him.<milestone unit="para"/>
 "All that I possessed," said Dandamis, "has
 been pillaged by you. But if, stripped as I am,
 I can in any way pay the price, I am at your service. Command what you will. If you like, take
@@ -9305,13 +9271,11 @@ been summoned from Sauromatia, where he was
 sojourning. He returned home, collected a great
 army, and marched through the hill-country upon
 Scythia. Soon after, Eubiotos, too, made an attack, leading a rabble of Greeks and picked
-troops from Alania and Sauromatia, forty thou-
-
+troops from Alania and Sauromatia, forty thousand
 
 <pb n="229"/>
 
-
-sand strong. He and Adyrmachos joined forces,
+strong. He and Adyrmachos joined forces,
 thus forming an army of ninety thousand men, of
 whom a third were mounted archers. But wefor I, too, had a share in their rising, and contributed a hundred found horsemen on the occasion
 of the ox-hide-assembled to the number of nearly thirty thousand, counting the horsemen, and
@@ -10104,13 +10068,11 @@ a quick pace, and before evening we came to their
 house. An old woman was sitting inside, where
 a great fire was burning. The robbers took all the
 things we had been carrying and set them inside.
-Then they asked the old woman, “Why in Heav-
-
+Then they asked the old woman, “Why in Heaven's
 
 <pb n="253"/>
 
-
-en's name are you sitting like this instead of getting our supper ready?"
+name are you sitting like this instead of getting our supper ready?"
 "Why, everything is ready for you," said the
 hag. "Plenty of bread, jars of old wine, and
 some game that I have cooked for you.”
@@ -10670,13 +10632,11 @@ foreign goddess very gladly, and lodged her with
 their own.
 To us they assigned lodgings with a
 poor family. When my masters had made a long
-stay here they desired to go on to the neighbor-
-
+stay here they desired to go on to the neighboring
 
 <pb n="269"/>
 
-
-ing city, and asked their goddess back from the
+city, and asked their goddess back from the
 villagers. They entered the sacred precincts
 themselves, brought her away, set her on my
 back, and drove me off. But, as luck would have
@@ -11273,6 +11233,4 @@ towards the town.</p>
 </p>
 </div>
 </div>
-</body>
-</text>
-</TEI>
+</body></text></TEI>

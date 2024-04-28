@@ -1,0 +1,147 @@
+
+<note n="6.88.1">εὐκτέον Γ: εὐκταῖον other MSS.</note>
+
+
+<note n="6.88.2">ἀγρῶν Courier: ἀνδρῶν MSS.</note>
+
+
+
+
+<note n="6.90.1">καθιστάναι Halm: καθιστᾶν F: καθίστασθαι ΓΝ.</note>
+
+
+
+
+<note n="6.92.1">ᾆσαι one late MS.: ἅμα other MSS.</note>
+
+
+<note n="6.92.2">καὶ ἀράμενον N: παράμενον Γ.</note>
+
+
+
+
+<note n="6.94.1">λοιδορεῖσθαι N: δωρεῖσθαι Γ.</note>
+
+
+
+
+<note n="6.96.1">εἰ μή τις Θ. ἦν ἀσεβεῖ ἀδελφῷ περιπεσὼν ἤσθιε καὶ τοῦτο γ᾿ ἂν
+εἴη X B: εἰ . . . ἦν ἀσεβεῖ περιπεσὼν κἂν τοῦτό γ᾿ ἂν εἴη N.
+εἰ . . . ἦν ἀσεβείᾳ ἀδελφῷ (ἀδελφῶν Α Ω) περιπεσὼν
+εἴσθιε καὶ τοῦτο μανείη ΓΑΩ: H. ὢν Jacobitz: καὶ εἰ Mras.</note>
+
+
+<note n="6.96.2">τὴν ἀρχὴν . . . ἄρχει Γ: τὴν ἀρχὴν ἀφείλετο . . . ἄρχειν N.</note>
+
+
+
+
+<note n="6.98.1">τὸ add Jacobitz.</note>
+
+
+<note n="6.98.2">πεδότριβας two late MSS.: παιδοτρίβας other MSS.</note>
+
+
+
+
+<note n="6.100.1">ὁ add. Jacobitz.</note>
+
+
+<note n="6.100.2">κυβέρνους.</note>
+
+
+
+
+<note n="6.103.1">Named after Solon, lawgiver of Athens.</note>
+
+
+
+
+<note n="6.104.1">προσπελάζειν Guyet: προσεικάζειν MSS.</note>
+
+
+
+
+<note n="6.106.1">μὴ add. Solanus.</note>
+
+
+
+<note n="6.107.1">Cybele.</note>
+
+
+
+
+
+
+<note n="6.112.1">κατ᾿ Schaefer: καὶ Γ: om. N.</note>
+
+
+
+
+<note n="6.114.1">L. A. Post proposes &lt;ἀλλ᾿&gt; ἄρτι μανθάνοντα.</note>
+
+
+
+
+<note n="6.117.1">i.e. there are only the very rich or the very poor.</note>
+
+
+
+
+
+<note n="6.120.1">φακῆν one late MS.: κεφαλὴν other MSS.</note>
+
+
+<note n="6.120.2">After ἐμβαλεῖν MSS. read τῶν ἰχθύων (Γ om. τῶν): del.
+Guyet.</note>
+
+
+
+<note n="6.121.1">Homer, <hi rend="italic">Od.</hi> xii, 395.</note>
+
+
+
+
+<note n="6.122.1">τὸ add. Schmieder.</note>
+
+
+
+
+
+<note n="6.126.1">After ἐμφορουμένους Aldinus has ὑμᾶς δὲ κάρδαμον ἢ θύμον
+ἢ κρόμμυον ἐπιτρώγοντας ἐν τῇ ἑορτῇ.</note>
+
+
+<note n="6.126.2">πρὸς δὲ τὰ Halm: ὡς δὲ MSS.</note>
+
+
+<note n="6.126.3">συγκεκαττυμέναι Solanus: συγκεκομμέναι MSS.</note>
+
+
+<note n="6.126.4">ἡδύ Guyet: ἔτι MSS.</note>
+
+
+
+
+
+<note n="6.130.1">μηδὲ Jacobitz: μήτε MSS.</note>
+
+
+
+<note n="6.131.1">Homer, <hi rend="italic">Od.</hi> xii, 173 ff.</note>
+
+
+
+
+<note n="6.132.1">ἰσοδαίτης Gesner: ἰσοδιαίτης MSS.</note>
+
+
+<note n="6.132.2">καὶ add. Guyet.</note>
+
+
+
+
+<note n="6.134.1">τὴν add. Jacobitz.</note>
+
+
+

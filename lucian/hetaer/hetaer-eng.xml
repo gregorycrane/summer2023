@@ -6,7 +6,6 @@
 <titleStmt>
 <title xml:lang="lat">Dialogues of Courtesans</title>
  <author>Lucian of Samosata</author>
-<editor role="translator">A. J. Pons, 1829-1884</editor>
 <editor role="translator">Unknown</editor>
  <funder>National Endowment for the Humanities</funder>
  <principal>Gregory Crane</principal>
@@ -30,29 +29,29 @@
  <biblStruct>
  <monogr>
   <title>Lucian</title>
-  <editor>
-	<persName>
-	 <name>Austin Morris Harmon</name>
-	</persName>
-  </editor>
+  <editor role="translator">Not listed.</editor>
   <author ref="urn:cts:greekLit:tlg0062">Lucian of Samosata</author>
   <imprint>
-   <publisher>G. Barrie and Son</publisher>
+   <publisher>Printed for subscribers only by G. Barrie and Son</publisher>
 	<pubPlace>Philadelphia, PA</pubPlace>
 	<date>1902</date>
   </imprint>
  </monogr>
-  <ref target="https://catalog.hathitrust.org/Record/009797199">The Hathi Trust</ref>
+  <ref target="https://hdl.handle.net/2027/uva.x004203014?urlappend=%3Bseq=31%3Bownerid=27021597769027815-35">The Hathi Trust</ref>
  </biblStruct>
 </listBibl>
 </sourceDesc>
 </fileDesc>
 <encodingDesc>
  <p>Text encoded in accordance with the latest EpiDoc standards</p>
- <refsDecl n="CTS">
-  <cRefPattern n="section" matchPattern="(.+).(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])"/>
-  <cRefPattern n="book" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
- </refsDecl>
+            <refsDecl n="CTS">
+                <cRefPattern n="section" matchPattern="(\w+).(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])">
+                    <p>This pointer pattern extracts book and section.</p>
+                </cRefPattern>
+                <cRefPattern n="book" matchPattern="(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+                    <p>This pointer pattern extracts book.</p>
+                </cRefPattern>
+            </refsDecl>
 </encodingDesc>
 <profileDesc>
 <langUsage>
@@ -60,14 +59,15 @@
 <language ident="grc">Greek</language>
 </langUsage>
 </profileDesc>
-<revisionDesc>
-<change/>
-</revisionDesc>
+        <revisionDesc>
+            <change who="Lisa Cerrato" when="2023-08-11">Converted raw OCR to CTS epiDoc TEI and added sections</change>
+        </revisionDesc>
+
 </teiHeader>
 <text>
 <body>
 <pb n="3"/>
-<div type="translation" n="tlg0062.tlg069">
+<div type="translation" n="urn:cts:greekLit:tlg0062.tlg069.perseus-eng7" xml:lang="eng">
 <div type="textpart" subtype="book" n="1">
 <head>I. GLYCERA AND THAIS</head>
 <div type="textpart" subtype="section" n="1">
@@ -85,8 +85,7 @@ have you forgotten him?</p>
 <p><label>THAIS</label> No, Glycera; I remember
 him well. He drank with us last
 year at the Cerealia. But why do
-you ask? You seem to have some-
-thing to say to me about him.</p>
+you ask? You seem to have something to say to me about him.</p>
 
 <p><label>GLYCERA</label> That hussy, Gorgona,
 has stolen him, whisked him away
@@ -94,8 +93,7 @@ from me; and I thought she was my
 friend!</p>
 
 <p><label>THAIS</label> Ah! is he no longer with
-you? So he has taken up with Gor-
-gona, has he?</p>
+you? So he has taken up with Gorgona, has he?</p>
 
 <p><label>GLYCERA</label> Alas! yes, Thais; and
 it makes me very unhappy.</p>
@@ -111,7 +109,11 @@ among us courtesans. So don't be
 downcast, and don't blame Gorgona.
 Abrotonum bore you no grudge for
 the same trick, and you were good
-friends too. What surprises me is
+friends too. </p>
+</div>
+<div type="textpart" subtype="section" n="2">
+  <p>
+What surprises me is
 that the soldier can find anything
 beautiful in Gorgona. Unless he is
 blind, he can't help seeing that she
@@ -123,8 +125,7 @@ bone, her veins swollen, and her
 nose long and pointed. I can see
 nothing fine about her but her
 figure, which is not so very bad,
-and her smile, which is very win-
-ning.
+and her smile, which is very winning.
 
 
 </p>
@@ -135,8 +136,7 @@ ning.
 that it's her beauty the Acarnanian
 is in love with? Don't you know that
 her mother is Chrysarium the witch,
-skilled in the charms of the Thes-
-salians, and able to bring the moon
+skilled in the charms of the Thessalians, and able to bring the moon
 down to the earth? Why, they say
 she flies about at night. It is she
 who has made the man love-mad by
@@ -159,8 +159,7 @@ and let him go to the devil!
 
 
 <label>MYRTIUM</label> So you are going to
-marry Phido the fisherman's daugh-
-ter, are you, Pamphilus; indeed,
+marry Phido the fisherman's daughter, are you, Pamphilus; indeed,
 some say you have done so already.
 And so all your oaths and tears are
 
@@ -203,11 +202,9 @@ looking at the daughter.</p>
 </div>
 <div type="textpart" subtype="section" n="2">
 
-<p><label>PAMPHILUS</label> How long, O Myr-
-tium, do you propose to deafen me
+<p><label>PAMPHILUS</label> How long, O Myrtium, do you propose to deafen me
 with your nonsense about a fine
-marriage and fishermen's daugh-
-ters? As if I knew whether the girl
+marriage and fishermen's daughters? As if I knew whether the girl
 is pretty or snub-nosed! or whether
 Phido of Alopece-for I suppose you
 mean him-has a daughter old
@@ -229,8 +226,7 @@ as I know. If my heart were in
 such haste to marry, would I take
 Phido's daughter, when I refused
 Demeas's daughter, my cousin on
-my mother's side, whose father com-
-manded our army last year? Who
+my mother's side, whose father commanded our army last year? Who
 told you this? did you invent this
 absurd cause of jealousy yourself,
 Myrtium?</p>
@@ -286,16 +282,14 @@ Doris ?</p>
 what she told me.</p>
 </div>
 <div type="textpart" subtype="section" n="4">
-<p><label>PAMPHILUS</label> Ah! now I under-
-stand your mistake.
+<p><label>PAMPHILUS</label> Ah! now I understand your mistake.
 Lesbia didn't
 tell you a downright
 lie; what you
 told Myrtium is true.
 But you were
 wrong to be alarmed; I'm not the
-one who's to be married. I remem-
-ber that my mother said to me last
+one who's to be married. I remember that my mother said to me last
 night when I went home from you:
 
 
@@ -330,8 +324,7 @@ me that trick.
 
 <p><label>PAMPHILUS</label> But I never dreamed
 of such a thing. Could I be so mad
-as to forget my dear Myrtium, espe-
-cially when she bears in her womb
+as to forget my dear Myrtium, especially when she bears in her womb
 the fruit of our love?
 
 
@@ -375,8 +368,7 @@ and began to sing just to tease him.</p>
 <p><label>PHILINNA</label> He cannot have told
 you, mother, what he did himself;
 if he had, you would not stand up
-for him, when it is he who has in-
-sulted me. He went and flirted with
+for him, when it is he who has insulted me. He went and flirted with
 Thais, Lamprias's friend, before
 Lamprias arrived. He saw plainly
 enough from my actions that that
@@ -411,8 +403,7 @@ always in rhythm with the cithara,
 
 and her lovely leg, and so forth and
 so on, as if he were singing the
-praises of Sosandra of Calamis, in-
-stead of Thais, whom you have seen
+praises of Sosandra of Calamis, instead of Thais, whom you have seen
 at the bath, mother, and you know
 what a figure she has! But she
 herself began to flout me. "If,"
@@ -452,8 +443,7 @@ answer. That was inexcusable.</p>
 <p><label>PHILINNA</label> I wanted to pay him
 in his own coin.</p>
 
-<p><label>THE MOTHER</label> Was that a rea-
-son for refusing to lie with him?
+<p><label>THE MOTHER</label> Was that a reason for refusing to lie with him?
 You sang all night, while he wept.
 Don't you know how poor we are,
 child? Have you forgotten what
@@ -463,11 +453,9 @@ we have had from him? What a
 <pb n="37"/>
 
 winter we should have passed, had
-not Venus sent us this good cus-
-tomer!</p>
+not Venus sent us this good customer!</p>
 
-<p><label>PHILINNA</label> Must I endure his in-
-sults, pray?</p>
+<p><label>PHILINNA</label> Must I endure his insults, pray?</p>
 
 <p><label>THE MOTHER</label> Lose your temper,
 but don't treat him with contempt.
@@ -492,8 +480,7 @@ pulling too hard upon it."
 Bacchis, any old woman who, like
 the hags of Thessaly, possesses the
 art of making people lovable by her
-enchantments, even though she hap-
-pen to be a thoroughly detestable
+enchantments, even though she happen to be a thoroughly detestable
 
 
 <pb n="41"/>
@@ -532,8 +519,7 @@ this trouble between you? He must
 have had some reason for throwing
 you over.</p>
 
-<p><label>MELISSA</label> I have no idea. Yes-
-terday, on returning from Piraeus,
+<p><label>MELISSA</label> I have no idea. Yesterday, on returning from Piraeus,
 whither his father had sent him, I
 believe, to collect some money that
 was owing them, he came into the
@@ -543,8 +529,7 @@ him as usual, "Leave me," he said,
 pushing me away; "go to your
 sailor Hermotimus, go and read
 your name and his carved on the
-walls of the Ceramicus, on a pil-
-lar where every one can see them."
+walls of the Ceramicus, on a pillar where every one can see them."
 "What Hermotimus?" I asked;
 
 
@@ -556,8 +541,7 @@ went to bed with his face to the wall.
 What means did I not try to pacify
 him! What an outlay of unavailing
 caresses! I put my arms about him
-gently, I kissed his back, the in-
-grate! cold as marble, hard as
+gently, I kissed his back, the ingrate! cold as marble, hard as
 stone." Leave me," he said; "if
 you continue to annoy me, I will go
 elsewhere to sleep, although it is
@@ -568,8 +552,7 @@ past midnight."</p>
 <p><label>BACCHIS</label> Do you know this
 Hermotimus?</p>
 
-<p><label>MELISSA</label> May I be more woe-
-begone than I am now, if I know
+<p><label>MELISSA</label> May I be more woebegone than I am now, if I know
 the man! However, Charinus woke
 at cock-crow and went away at
 daybreak. As I was determined to
@@ -583,8 +566,7 @@ my name was carved on the walls
 of the Ceramicus, I sent Acis there
 to see. She found only these words,
 written at the right of the gate:
-Melissa loves Hermotimus, and, be-
-low: The sailor Hermotimus loves
+Melissa loves Hermotimus, and, below: The sailor Hermotimus loves
 Melissa.</p>
 
 <p><label>BACCHIS</label> A wretched jest of
@@ -616,8 +598,7 @@ magician, who once reconciled me
 with Phanias when he broke with
 me for a mere nothing, like your
 Charinus. She brought my faithless
-lover back to me by her enchant-
-ments, after he had been away four
+lover back to me by her enchantments, after he had been away four
 months, and just as I was beginning
 to lose hope.</p>
 
@@ -632,17 +613,17 @@ You must also
 
 <pb n="51"/>
 
-take her some salt, seven obols, sul-
-phur, and a torch. The old woman
+take her some salt, seven obols, sulphur, and a torch. The old woman
 takes them, then pours wine into a
 jar, and drinks it all by herself. She
-must also have something that be-
-longed to the man, a coat, a shoe,
+must also have something that belonged to the man, a coat, a shoe,
 or a lock of hair.</p>
 
-<p><label>MELISSA</label> Good! I have his san-
-dals.</p>
+<p><label>MELISSA</label> Good! I have his sandals.</p>
 
+</div>
+<div type="textpart" subtype="section" n="5">
+  
 <p><label>BACCHIS</label> She will hang them
 on a peg, burn sulphur underneath,
 sprinkle salt on the chafing-dish,
@@ -674,8 +655,7 @@ her right, saying: "I am walking on
 you, I am on your heels." I did just
 as she told me.</p>
 
-<p><label>MELISSA</label> Hasten, hasten, O Bac-
-chis, and bring this Syrian to me.
+<p><label>MELISSA</label> Hasten, hasten, O Bacchis, and bring this Syrian to me.
 And do you, Acis, prepare sulphur,
 a loaf, and all that she needs to cast
 her spell.
@@ -692,9 +672,7 @@ her spell.
 <p>
 <label>CLONARIUM</label>
 
- hear strange sto-
-ries about you, Leana: that Me-
-gilla, the wealthy Lesbian dame,
+We hear strange stories about you, Leana: that Megilla, the wealthy Lesbian dame,
 treats you as a man would do; and
 that you lie in bed, doing I don't
 ge
@@ -735,8 +713,7 @@ men themselves.
 
 <p><label>LEANA</label> That's about it.</p>
 
-<p><label>CLONARIUM</label> Tell me all, Le-
-aena; how she approached you,
+<p><label>CLONARIUM</label> Tell me all, Leaena; how she approached you,
 how she seduced you, and all the
 rest.</p>
 
@@ -744,8 +721,7 @@ rest.</p>
 of Corinth, who has the same tastes,
 were on a carouse together, they
 sent for me to entertain them with
-my cithara. When I finished sing-
-ing, it was late, and time to retire to
+my cithara. When I finished singing, it was late, and time to retire to
 bed; they were warm with wine, and
 detained me.-"Come, Leana," said
 Megilla; "it is time to sleep; you
@@ -762,8 +738,7 @@ like men; not simply putting their
 
 <pb n="61"/>
 
-lips to mine, but kissing me open-
-mouthed. Then they embraced me
+lips to mine, but kissing me openmouthed. Then they embraced me
 and pressed my bosom; Demonassa
 became so excited that she even bit
 me, between her kisses. I did not
@@ -776,8 +751,7 @@ shaven like an athlete's, which
 alarmed me.-"
 "Leaena," she said,
 "did you ever see such a fine young
-man?"-"I see none, Megilla," I re-
-plied. "Don't insult me by calling
+man?"-"I see none, Megilla," I replied. "Don't insult me by calling
 me that; I am Megillus, and there is
 my wife"-pointing to Demonassa.
 At that, Clonarium, I began to laugh.
@@ -794,16 +768,20 @@ the husband with Demonassa ?”-
 "No," she said; "for I do not need
 to. If you choose, you shall see
 that my ways are much better."-
-'Then," said I, "you must be a
+"Then," said I, "you must be a
 hermaphrodite, partaking of a dual
 nature;"-for, Clonarium, I did not,
 up to that time, comprehend the
 matter. "No," she replied; "I
-am entirely a man."-"I have
+am entirely a man."-
+
+</p>
+</div>
+<div type="textpart" subtype="section" n="4">
+  <p>"I have
 heard that the famous soothsayer
 of Thebes, Tiresias, I think, whose
-story Ismenodora, the Boeotian flute-
-player, once told me, was changed
+story Ismenodora, the Boeotian fluteplayer, once told me, was changed
 from a woman to a man. Has
 
 
@@ -821,10 +799,8 @@ me show you, Leaena, if you don't
 credit it, and you will see that I am
 not inferior to a man; that I possess
 equal attractions to his. But try,
-and be convinced."—I yielded, Clo-
-narium, to her urgent entreaties; for
-she had given me a beautiful neck-
-lace and a linen gown of the finest
+and be convinced."—I yielded, Clonarium, to her urgent entreaties; for
+she had given me a beautiful necklace and a linen gown of the finest
 fabric. She embraced me, just as
 if she had been a man, and kissed
 me, and the fulfilment of her desire
@@ -840,8 +816,7 @@ enjoyed herself.
 do? How did she go about it? That
 is what you must tell me.</p>
 
-<p><label>LEAENA</label> No, you are too inquisi-
-tive; that is quite enough. No, by
+<p><label>LEAENA</label> No, you are too inquisitive; that is quite enough. No, by
 Venus, I will tell you nothing more.
 
 
@@ -866,8 +841,7 @@ gives you a mina at the outset, with
 
 <pb n="71"/>
 
-which I propose to buy you a neck-
-lace.</p>
+which I propose to buy you a necklace.</p>
 
 <p><label>CORINNA</label> Yes, mamma; and get
 one with beautiful flame-colored
@@ -945,7 +919,7 @@ now! Gold, embroidered dresses,
 four servants!</p>
 
 </div>
-<div type="textpart" subtype="section" n="4">
+<div type="textpart" subtype="section" n="3">
 <p><label>CORINNA</label> How did she get it
 all?
 
@@ -956,8 +930,7 @@ all?
 
 <p><label>CROBYLE</label> In the first place, by
 her refined dress, by her graceful
-bearing, by being affable to every-
-body. She doesn't laugh every
+bearing, by being affable to everybody. She doesn't laugh every
 minute as you do, but smiles in
 a gracious, captivating way; she
 treats all the men courteously, and
@@ -970,8 +943,7 @@ which makes a woman ridiculous,
 and which men detest; instead of
 eating greedily like an ill-bred miss,
 she lifts her food daintily with the
-tips of her fingers, eats each mouth-
-ful noiselessly and without filling
+tips of her fingers, eats each mouthful noiselessly and without filling
 her mouth, and drinks quietly, not
 
 
@@ -1010,8 +982,7 @@ live alone!</p>
 all lovers like Eucritus, who was
 with me yesterday?</p>
 
-<p><label>CROBYLE</label> There are some hand-
-somer; others are more stoutly
+<p><label>CROBYLE</label> There are some handsomer; others are more stoutly
 built; there are some, too, who are
 less handsome.</p>
 
@@ -1024,19 +995,16 @@ the handsome ones pay with their
 good looks only. Think before all
 else of procuring open-handed lovers,
 if you want to hear people say in a
-little while: "Look at Corinna, Cro-
-byle's daughter; how rich she is,
+little while: "Look at Corinna, Crobyle's daughter; how rich she is,
 
 
 <pb n="83"/>
 
-and how lucky her mother is!"-
-What do you say? Will you do
+and how lucky her mother is!"What do you say? Will you do
 what I tell you?
 Yes, you will do it,
 I am sure; and
-you will soon out-
-shine them all. Now, go and take
+you will soon outshine them all. Now, go and take
 your bath. Eucritus may come again
 to-day; he promised me that he
 would.
@@ -1054,8 +1022,7 @@ would.
 
 
 <label>THE MOTHER</label> If we happen upon
-another lover like Chaereas, O Mu-
-sarium, we must sacrifice a white
+another lover like Chaereas, O Musarium, we must sacrifice a white
 goat to Venus Pandemos, a heifer to
 Venus Urania and to the goddess of
 the gardens, and offer a crown to the
@@ -1072,8 +1039,7 @@ nor a pair of sandals, nor a jar of
 perfume! Only promises and hopes,
 with a long time to run! Every
 day, it's the same old story: "If my
-father-When I come into my prop-
-erty, everything shall be yours."—
+father-When I come into my property, everything shall be yours."—
 And you say he has sworn to marry
 you?</p>
 
@@ -1115,8 +1081,7 @@ re
 <pb n="91"/>
 
 so affecting! Besides, he is the son
-of Deinomache and Laches, the Are-
-opagite, and he promises to marry
+of Deinomache and Laches, the Areopagite, and he promises to marry
 me; we have everything to hope
 from him, as soon as his old father
 dies.</p>
@@ -1128,11 +1093,9 @@ him: "There's no money, but what
 do you say to a few hopes?" and
 we must say the same to the baker.
 When we are asked for our rent, it
-will be: "Wait till Laches of Colyt-
-tus is dead; we'll pay you after the
+will be: "Wait till Laches of Colyttus is dead; we'll pay you after the
 wedding."-Aren't you ashamed to
-be the only one among your compan-
-ions without ear-rings or necklaces,
+be the only one among your companions without ear-rings or necklaces,
 or Tarentine dresses?
 
 
@@ -1156,8 +1119,7 @@ only the other day, when that farmer
 from Acarnania came and offered
 you two minae, the price of the wine
 which his father had sent him to
-sell, you refused him with a con-
-temptuous air. And yet he, too, is
+sell, you refused him with a contemptuous air. And yet he, too, is
 young and beardless; but you had
 promised the night to your Adonis
 Chaereas.
@@ -1175,17 +1137,17 @@ all events, while that pig of an
 Acarnanian-
 </p>
 
-<p><label>THE</label> MOTHER.-I admit that he's
+<p><label>THE MOTHER</label>-I admit that he's
 a clodhopper and doesn't smell sweet.
 But why didn't you take up with
 Antiphon the son of Menecrates,
 who offered you a mina? He is
-handsome, gallant, and about Chae-
-reas's age.</p>
+handsome, gallant, and about Chaereas's age.</p>
+</div>
+<div type="textpart" subtype="section" n="4">
 
 <p><label>MUSARIUM</label> Chaereas threatened
-to kill us both if he found us to-
-gether.</p>
+to kill us both if he found us together.</p>
 
 <p><label>THE MOTHER</label> Many other men
 have made the same threat. If you
@@ -1211,8 +1173,7 @@ he send some rascally servant to
 him, or apply to his mother for
 money, threatening to set sail for the
 army if she refuses? No; he prefers
-to stay here in our house, ruin-
-ing us, giving us nothing himself,
+to stay here in our house, ruining us, giving us nothing himself,
 and preventing others from giving.
 Do you suppose, pray, Musarium,
 that you will always be eighteen
@@ -1230,8 +1191,7 @@ his tears, and your kisses!</p>
 
 <p><label>MUSARIUM</label> He forgets nothing.
 To prove it, I have his refusal to
-marry thus far. In spite of per-
-sistent urging and constraint, he
+marry thus far. In spite of persistent urging and constraint, he
 has never consented.</p>
 
 <p><label>THE MOTHER</label> Heaven grant
@@ -1248,8 +1208,7 @@ I have just said, O Musarium.
 <div type="textpart" subtype="book" n="8">
 <head>VIII. AMPELIS AND CHRYSIS</head>
 <div type="textpart" subtype="section" n="1">
-<p><label>AMPELIS</label> If a man is not jeal-
-ous, Chrysis, if he doesn't fly into
+<p><label>AMPELIS</label> If a man is not jealous, Chrysis, if he doesn't fly into
 a rage, strike you, tear your hair or
 your dress, why, then he is not in
 love.
@@ -1264,16 +1223,14 @@ we love the
 <pb n="103"/>
 
 <p><label>CHRYSIS</label> Do you mean that
-those are the only proofs of affec-
-tion?</p>
+those are the only proofs of affection?</p>
 
 <p><label>AMPELIS</label> Yes, there are no surer
 signs of a heart truly in love. All the
 rest-kisses, tears, oaths, frequent
 visits-simply indicate a dawning
 love which aspires to grow. But
-real ardor manifests itself in jeal-
-ousy. So that, if Gorgias has struck
+real ardor manifests itself in jealousy. So that, if Gorgias has struck
 you, as you say, if he is violently
 jealous, be of good cheer, and pray
 that he may always do the same.</p>
@@ -1295,8 +1252,7 @@ another lover.</p>
 
 <p><label>CHRYSIS</label> But I haven't. He has
 no reason to suspect me of loving
-that young Croesus whom I hap-
-pened heedlessly to mention in his
+that young Croesus whom I happened heedlessly to mention in his
 presence the other day.</p>
 
 </div>
@@ -1319,12 +1275,10 @@ him.
 
 <pb n="107"/>
 
-<p><label>AMPELIS</label> He will give you some-
-thing else later. Jealous lovers
+<p><label>AMPELIS</label> He will give you something else later. Jealous lovers
 become generous at last.</p>
 
-<p><label>CHRYSIS</label> But I don't see, Ampe-
-lis, why you want me to be beaten.</p>
+<p><label>CHRYSIS</label> But I don't see, Ampelis, why you want me to be beaten.</p>
 
 <p><label>AMPELIS</label> I do not. I simply tell
 you that they fall deeper in love
@@ -1332,8 +1286,7 @@ when they believe that they are
 scorned. On the other hand, when
 a lover believes that he alone is
 loved, his ardor fades away. I am
-speaking from twenty years' expe-
-rience, and you are barely eighteen
+speaking from twenty years' experience, and you are barely eighteen
 yet. Shall I tell you what happened
 to me some time ago? I had for my
 lover Demophantus the usurer, who
@@ -1344,12 +1297,14 @@ drachmae, but he tried to domineer
 
 <pb n="109"/>
 
-over me. His love was only skin-
-deep; he didn't sigh, or weep, or
+over me. His love was only skindeep; he didn't sigh, or weep, or
 stand guard over my door at night.
 He just passed the night with me
-now and again. One day he ap-
-peared, and I shut the door in his
+now and again. </p>
+
+</div>
+<div type="textpart" subtype="section" n="4">
+<p>One day he appeared, and I shut the door in his
 face. I had the painter Callides with
 me, who had sent me ten drachmae.
 At first, my old usurer went away,
@@ -1359,8 +1314,7 @@ not sent for him, and Callides was
 still with me, he began to feel the
 fire of love, and came to my house
 in a ferment. The door was open;
-he rushed in, wept, beat me, threat-
-ened to kill me, to tear my dress off
+he rushed in, wept, beat me, threatened to kill me, to tear my dress off
 my back, acted like a madman, and
 ended by giving me a talent, which
 
@@ -1368,8 +1322,7 @@ ended by giving me a talent, which
 <pb n="111"/>
 
 assured my fidelity for eight months.
-His wife told everybody I had be-
-witched him; but jealousy did it all.
+His wife told everybody I had bewitched him; but jealousy did it all.
 Try it with your Gorgias, Chrysis.
 He will be a rich man when' his
 father dies.
@@ -1383,8 +1336,7 @@ father dies.
 <div type="textpart" subtype="book" n="9">
 <head>IX. DORCAS, PANNYCHIS, PHILOSTRATUS, AND POLEMO</head>
 <div type="textpart" subtype="section" n="1">
-<p><label>DORCAS</label> We are undone, mis-
-tress, we are undone! Polemo has
+<p><label>DORCAS</label> We are undone, mistress, we are undone! Polemo has
 come back from the army, so they
 say, rolling in gold. I saw him go
 by, wearing a purple cloak fastened
@@ -1397,8 +1349,7 @@ Se
 by a gold clasp, and followed by
 a crowd of servants. As soon as
 his friends saw him, they hastened
-to salute him; just then, I saw be-
-hind him the fellow he had before
+to salute him; just then, I saw behind him the fellow he had before
 he went away. I went up to him,
 and began: "Well, Parmeno, what
 luck have you had? what fine
@@ -1424,16 +1375,14 @@ thinking of Polemo."</p>
 
 </div>
 <div type="textpart" subtype="section" n="2">
-<p><label>DORCAS</label> That is how I did be-
-gin. I didn't want to say it all over
+<p><label>DORCAS</label> That is how I did begin. I didn't want to say it all over
 again to you; I was so impatient to
 tell you what I found out. When
 I first accosted Parmeno, I said to
 him: "Your ears must often have
 burned, for my mistress has done
 nothing but talk about you, and has
-wept from morning till night, espe-
-cially when she heard of a battle in
+wept from morning till night, especially when she heard of a battle in
 which many were said to have been
 killed; then she would tear her hair,
 beat her breast, and burst into tears
@@ -1475,8 +1424,7 @@ the Pisidians; but I left him, and
 
 hurried home to tell you the news,
 so that you might decide what was
-to be done. For if Polemo comes,-
-and he is sure to come as soon as
+to be done. For if Polemo comes,and he is sure to come as soon as
 he gets rid of his friends,-when he
 sees what he has come back to, and
 finds Philostratus here, what will
@@ -1489,8 +1437,7 @@ try to get out of the scrape. It
 wouldn't be fair to turn Philostratus
 out of doors, when he has just given
 me a talent. Besides, he is a rich
-tradesman, and has promised won-
-ders. On the other hand, it wouldn't
+tradesman, and has promised wonders. On the other hand, it wouldn't
 be well to refuse to receive Polemo,
 who has come back so prosperous.
 And you know how jealous he is.
@@ -1506,11 +1453,9 @@ be now that he's rich?</p>
 <p><label>DORCAS</label> Here he comes!</p>
 
 <p><label>PANNYCHIS</label> O Dorcas, I shall
-faint. What shall I do? I am trem-
-bling with fright.</p>
+faint. What shall I do? I am trembling with fright.</p>
 
-<p><label>DORCAS</label> And here's Philostra-
-tus, too!</p>
+<p><label>DORCAS</label> And here's Philostratus, too!</p>
 
 <p><label>PANNYCHIS</label> What will become
 of me? Oh! if only the earth would
@@ -1518,8 +1463,7 @@ open!</p>
 
 </div>
 <div type="textpart" subtype="section" n="4">
-<p><label>PHILOSTRATUS</label> Well, Panny-
-chis, when do we sup?</p>
+<p><label>PHILOSTRATUS</label> Well, Pannychis, when do we sup?</p>
 
 <p><label>PANNYCHIS</label> Oh! you wretch,
 you have ruined me.-Good-morning, Polemo! it's a long while since
@@ -1543,8 +1487,7 @@ be, my good man?</p>
 <p><label>POLEMO</label> Do you happen to
 know Polemo of Styria, of the tribe
 of Pandion, formerly commander of
-a thousand men, now of five thou-
-sand, and Pannychis's lover before
+a thousand men, now of five thousand, and Pannychis's lover before
 she went mad?</p>
 
 <p><label>PHILOSTRATUS</label> But Pannychis
@@ -1590,26 +1533,20 @@ Ho! Parmeno, my Thracians! Let
 <pb n="129"/>
 
 them come with their arms; draw
-up the phalanx at the door: men-
-at-arms in front, slingmen and bow-
-men on each wing, the others in the
+up the phalanx at the door: menat-arms in front, slingmen and bowmen on each wing, the others in the
 rear.</p>
 
-<p><label>PHILOSTRATUS</label> -
-
-Your threats
+<p><label>PHILOSTRATUS</label> Your threats
 may serve to frighten children;
 but do you expect to frighten
 me, O captain of mercenaries?
 You never killed so much as a
 chicken. If you ever saw a battle,
 I doubt not it was from the top of
-a rampart. You may have com-
-manded a squad; that's the most I
+a rampart. You may have commanded a squad; that's the most I
 can allow.</p>
 
-<p><label>POLEMO</label> You will find out pres-
-ently, when you see us marching
+<p><label>POLEMO</label> You will find out presently, when you see us marching
 upon you, encased in glittering
 armor.
 
@@ -1618,10 +1555,8 @@ armor.
 
 <pb n="131"/>
 
-<p><label>PHILOSTRATUS</label> Come on. Tib-
-ias, my only servant, and I will make
-you turn tail with stones and oyster-
-shells, and you won't know where
+<p><label>PHILOSTRATUS</label> Come on. Tibias, my only servant, and I will make
+you turn tail with stones and oystershells, and you won't know where
 to hide.
 
 
@@ -1646,13 +1581,10 @@ your house.
 <p><label>DROSIS</label> Alas, no! his master
 won't let him come.</p>
 
-<p><label>CHELIDONIUM</label> -
-What master?
-do you mean Diotimus, the school-
-master? He is a friend of mine.</p>
+<p><label>CHELIDONIUM</label> What master?
+do you mean Diotimus, the schoolmaster? He is a friend of mine.</p>
 
-<p><label>DROSIS</label> No; I mean Aristane-
-tus, the most hateful of philosophers.</p>
+<p><label>DROSIS</label> No; I mean Aristanetus, the most hateful of philosophers.</p>
 
 <p><label>CHELIDONIUM</label> What! you mean
 that monkey-faced creature with the
@@ -1660,8 +1592,7 @@ long beard, who walks every day
 in the Pocile, surrounded by young
 men?</p>
 
-<p><label>DROSIS</label> Yes, that estimable in-
-dividual. I should delight to see the
+<p><label>DROSIS</label> Yes, that estimable individual. I should delight to see the
 hangman drag him to the gallows
 by his beard.
 
@@ -1669,8 +1600,7 @@ by his beard.
 
 </div>
 <div type="textpart" subtype="section" n="2">
-<p><label>CHELIDONIUM</label> Whatever in-
-duced him to give Clinias such
+<p><label>CHELIDONIUM</label> Whatever induced him to give Clinias such
 advice?
 
 
@@ -1678,16 +1608,13 @@ advice?
 
 <pb n="137"/>
 
-<p><label>DROSIS</label> I have no idea, Cheli-
-donium. That young man has never,
+<p><label>DROSIS</label> I have no idea, Chelidonium. That young man has never,
 since he knew what women were,
 passed a single night out of my arms,
-for I first initiated him in the mys-
-teries of love; and now he hasn't
+for I first initiated him in the mysteries of love; and now he hasn't
 appeared for three days, hasn't even
 passed my door. As I was worried
-by his absence, as if by a presenti-
-ment of what was coming, I decided
+by his absence, as if by a presentiment of what was coming, I decided
 to send Nebris to the places he
 frequents, to try to find him in the
 market-place or in the Pocile. When
@@ -1712,15 +1639,12 @@ he could have against me. I said
 to myself: "Have I done anything to
 hurt him? Is he in love with some
 other woman? Does he hate me
-now? Doubtless his father has for-
-bidden him to come."-Such were my
-thoughts when, last night, after sup-
-per, Dromo came with a letter from
-him. Here it is; read it to me, Cheli-
-donium; for you can read, can't you?</p>
+now? Doubtless his father has forbidden him to come."-Such were my
+thoughts when, last night, after supper, Dromo came with a letter from
+him. Here it is; read it to me, Chelidonium; for you can read, can't you?</p>
 
 </div>
-<div type="textpart" subtype="section" n="2">
+<div type="textpart" subtype="section" n="3">
 <p><label>CHELIDONIUM</label> Let me see it.
 The handwriting is very bad, and the
 words are written over one another,
@@ -1741,12 +1665,10 @@ greeting!
 <p><label>CHELIDONIUM</label> (reading)." My
 sentiments are still the same, but I am
 compelled to part from you. My father
-has put me in the hands of Aristane-
-tus, to learn philosophy. Aristaenetus
+has put me in the hands of Aristanetus, to learn philosophy. Aristaenetus
 knew of our intimacy, and reproached
 me bitterly. 'It is a shame,' he said,
-'for the son of Architeles and Erasi-
-clea to live with a harlot; virtue
+'for the son of Architeles and Erasiclea to live with a harlot; virtue
 should be preferred to debauchery.""</p>
 
 <p><label>DROSIS</label> A plague on the old fool
@@ -1763,8 +1685,7 @@ obliged to obey him, for he follows
 me everywhere, watches me all the
 time, and doesn't allow me to look at
 anybody but him. He promises that,
-if I am good and obey him in every-
-thing, he will make me happy, and
+if I am good and obey him in everything, he will make me happy, and
 lead me on to virtue through long
 and trying labors. I have found it
 difficult to write this secretly. Be
@@ -1793,8 +1714,7 @@ handsomest youths. He has already
 talked privately with Clinias; he
 makes the finest promises, and says
 that he will make him equal to the
-gods. He gives him the erotic dia-
-logues between the philosophers of
+gods. He gives him the erotic dialogues between the philosophers of
 old times and their disciples to read; in
 fact, he never lets him alone. Dromo
 threatens to tell Clinias's father.</p>
@@ -1815,8 +1735,7 @@ will go well. My advice is that we
 write on the wall of the Ceramicus,
 near where Architeles walks every
 day: Aristaenetus defiles Clinias.
-That would help amazingly to con-
-firm what Dromo says.</p>
+That would help amazingly to confirm what Dromo says.</p>
 
 <p><label>DROSIS</label> But how can we do it
 without being seen?</p>
@@ -1859,8 +1778,7 @@ night with you, even if I have had
 no sleep.</p>
 
 <p><label>CHARMIDES</label> I am dying with
-love, Tryphaena; I am sinking be-
-neath a frantic passion.</p>
+love, Tryphaena; I am sinking beneath a frantic passion.</p>
 
 <p><label>TRYPHAENA</label> It evidently isn't
 for me, or you wouldn't treat me so
@@ -1888,8 +1806,7 @@ of the most famous courtesans.</p>
 <p><label>CHARMIDES</label> Philematium.</p>
 
 <p><label>TRYPHAENA</label> Which one? There
-are two of them: one, who has re-
-cently joined the sisterhood, lives
+are two of them: one, who has recently joined the sisterhood, lives
 at Piraeus, and is the mistress of
 Damyllus, the general's son; the
 other is called the Trap.</p>
@@ -1917,8 +1834,7 @@ be seven months at the Dionysia.</p>
 
 <p><label>TRYPHAENA</label> Have you seen the
 whole of her, or only her face? As
-for the rest! if you knew! How-
-ever, every one knows what to
+for the rest! if you knew! However, every one knows what to
 expect in a woman of forty-five.</p>
 
 <p><label>CHARMIDES</label> She swears that
@@ -1944,8 +1860,7 @@ gray they are.
 insist upon her allowing you to view
 her charms unveiled?</p>
 
-<p><label>CHARMIDES</label> She has always re-
-fused.</p>
+<p><label>CHARMIDES</label> She has always refused.</p>
 
 <p><label>TRYPHAENA</label> I can quite believe
 it. She knows that you would be
@@ -1973,11 +1888,13 @@ my mistress, to repay her in kind.</p>
 <p><label>TRYPHAENA</label> By Venus, I would
 never have come to you if I had
 been told that you sent for me to
-spite somebody else, and that some-
-body an old mummy like Phile-
-matium. But it's time for me to
+spite somebody else, and that somebody an old mummy like Philematium. But it's time for me to
 go; the cock has already crowed
 thrice.</p>
+
+
+</div>
+<div type="textpart" subtype="section" n="4">
 
 <p><label>CHARMIDES</label> Don't be in such a
 hurry, Tryphaena. If what you tell
@@ -1999,8 +1916,7 @@ he's still alive.</p>
 
 <p><label>CHARMIDES</label>  That being the
 case, let us remove the rampart
-separating us, and be lover and mis-
-tress in very truth.
+separating us, and be lover and mistress in very truth.
 To the devil with Philematium !
 
 
@@ -2014,8 +1930,7 @@ To the devil with Philematium !
 <div type="textpart" subtype="book" n="12">
 <head>XII. IOESSA, PYTHIAS, AND LYSIAS</head>
 <div type="textpart" subtype="section" n="1">
-<p><label>IOESSA</label> You despise me, O Lys-
-ias, and it's my own fault. I have
+<p><label>IOESSA</label> You despise me, O Lysias, and it's my own fault. I have
 never asked you for money, never
 closed my door to you, saying:
 "Some one is here"; never urged
@@ -2031,8 +1946,7 @@ first day I ever saw you, I welcomed
 you, never asking you for anything,
 or making you pay for what you
 consumed. You know how many
-lovers I have refused for you: Etho-
-cles, now one of the Prytanes, Pasion
+lovers I have refused for you: Ethocles, now one of the Prytanes, Pasion
 the sea-captain, and Melissus, who
 is as young as you, and whose father
 has just died leaving a handsome
@@ -2042,8 +1956,7 @@ you, have opened my door to none
 but you, for I was mad enough to
 believe in the genuineness of your
 oaths; I loved you so that I have
-lived like the chaste Penelope, de-
-spite my mother's lamentations and
+lived like the chaste Penelope, despite my mother's lamentations and
 
 
 <pb n="167"/>
@@ -2058,8 +1971,7 @@ done nothing but torture me, either
 by toying with Lycana before my
 eyes, or by praising Magidium the
 harp-player to the skies when you
-were lying with me. I have an-
-swered these insults, bitterly as I
+were lying with me. I have answered these insults, bitterly as I
 have felt them, with tears alone.
 Only the other day, when you and
 Thraso and Diphilus were carousing
@@ -2071,9 +1983,7 @@ you know. Although you kissed
 
 <pb n="169"/>
 
-Cymbalium five times, I said noth-
-ing; you insulted no one but your-
-self by kissing such a creature; but
+Cymbalium five times, I said nothing; you insulted no one but yourself by kissing such a creature; but
 your nods and winks at Pyrallis!
 you did not drink once that you did
 not raise the cup to her, and when
@@ -2091,8 +2001,7 @@ bosom. </p>
 </div>
 <div type="textpart" subtype="section" n="2"><p>
 Why do you treat me
-so? Have I failed you in any re-
-spect? Have I offended you in the
+so? Have I failed you in any respect? Have I offended you in the
 least degree? Have I so much as
 
 
@@ -2113,8 +2022,7 @@ live, in order not to annoy you by
 her presence. You will be at liberty
 to boast of such a glorious triumph.
 But why do you scowl at me? Why
-gnash your teeth? Have you any-
-thing to reproach me for? Speak!
+gnash your teeth? Have you anything to reproach me for? Speak!
 Pythias here will judge between us.
 What! you are going away without
 
@@ -2155,11 +2063,8 @@ close my door to him.</p>
 
 </div>
 <div type="textpart" subtype="section" n="3">
-<p><label>LYSIAS</label> I have come back, Pyth-
-ias, not for her sake, whom I never-
-more want to see, but so that you
-cannot say again that I am heart-
-less.</p>
+<p><label>LYSIAS</label> I have come back, Pythias, not for her sake, whom I nevermore want to see, but so that you
+cannot say again that I am heartless.</p>
 
 <p><label>PYTHIAS</label> I did say so, Lysias, I
 admit.</p>
@@ -2197,14 +2102,12 @@ courtyard door tightly closed; it
 was late; instead of knocking, I
 softly opened the door, as I had done
 so many times, turned it noiselessly
-on its hinges, and entered. Every-
-body was asleep; I felt my way
+on its hinges, and entered. Everybody was asleep; I felt my way
 
 
 <pb n="179"/>
 
-along the wall, and reached my faith-
-less one's bed.</p>
+along the wall, and reached my faithless one's bed.</p>
 
 </div>
 <div type="textpart" subtype="section" n="4">
@@ -2240,8 +2143,11 @@ Pythias, my love. I asked her to
 pass the night with me, to lighten
 the tedium of your absence.</p>
 
-<p><label>LYSIAS</label> Do you mean that Pyth-
-ias had a shaven head? Has she
+
+</div>
+<div type="textpart" subtype="section" n="5">
+
+<p><label>LYSIAS</label> Do you mean that Pythias had a shaven head? Has she
 grown such a head of hair as hers
 in six days?</p>
 
@@ -2256,8 +2162,7 @@ young spark you were jealous of.</p>
 loving you as I do, when I felt that
 head?</p>
 
-<p><label>IOESSA</label> But now you are satis-
-fied; would you like me to take my
+<p><label>IOESSA</label> But now you are satisfied; would you like me to take my
 
 
 
@@ -2291,8 +2196,7 @@ fleece.
 <div type="textpart" subtype="book" n="13">
 <head>XIII. LEONTICHUS, CHENIDAS, AND HYMNIS</head>
 <div type="textpart" subtype="section" n="1">
-<p><label>LEONTICHUS</label> Tell her, Cheni-
-das, how, in the battle against the
+<p><label>LEONTICHUS</label> Tell her, Chenidas, how, in the battle against the
 Galatians, I darted bravely forth
 I from the ranks, mounted on a white
 charger, and how the foe, at sight
@@ -2309,10 +2213,8 @@ rushed upon the barbarians who
 resisted, the shattered remnant of
 the phalanx had formed a square,—
 charged furiously upon them, and
-seven in the foremost rank fell be-
-fore my impetuous onset. With a
-stroke of the sword, I clove the cap-
-tain's skull, despite the thickness
+seven in the foremost rank fell before my impetuous onset. With a
+stroke of the sword, I clove the captain's skull, despite the thickness
 of his helmet; and when you came
 up, O Chenidas, the foe had fled.</p>
 
@@ -2328,8 +2230,7 @@ with the great satrap there!
 
 <pb n="189"/>
 
-<p><label>LEONTICHUS</label> You do well to re-
-mind me of it. Yes, that was one
+<p><label>LEONTICHUS</label> You do well to remind me of it. Yes, that was one
 of my greatest feats. What a giant
 that satrap was! he was said to be
 one of the most expert in the game
@@ -2357,8 +2258,7 @@ his terrible spear to frighten us.</p>
 
 <p><label>CHENIDAS</label> I trembled for you,
 Leontichus. You remember that I
-begged you not to expose your-
-self to the danger, swearing that I
+begged you not to expose yourself to the danger, swearing that I
 would not survive your death by
 one instant.
 
@@ -2370,8 +2270,7 @@ my courage; encased in armor as
 glittering as the Paphlagonian's, I
 rushed forth to the battle-field.
 shout of surprise arose from both
-camps. Greeks and barbarians rec-
-ognized me at once by my shield
+camps. Greeks and barbarians recognized me at once by my shield
 and the crest on my helmet. Tell
 us, O Chenidas, to whom I was
 likened at that moment.
@@ -2409,12 +2308,10 @@ his head on the point of my spear.
 
 </div>
 <div type="textpart" subtype="section" n="4">
-<p><label>HYMNIS</label> O Leontichus, how hor-
-rible! all that you have told me is
+<p><label>HYMNIS</label> O Leontichus, how horrible! all that you have told me is
 shocking, execrable. I cannot look
 at you without shuddering, when
-you boast of such horrible blood-
-shed. I will not drink or lie with
+you boast of such horrible bloodshed. I will not drink or lie with
 you again. I am going.</p>
 
 <p><label>LEONTICHUS</label> I will give you
@@ -2453,8 +2350,7 @@ of the poor captain whose head
 you cut in two. What would it
 be if I had actually seen such a
 ghastly spectacle, blood flowing and
-dead bodies lying on the battle-
-field? I should have died of fright,
+dead bodies lying on the battlefield? I should have died of fright,
 I think, I who never saw a chicken
 bleed.
 
@@ -2508,8 +2404,7 @@ that duel.</p>
 to bolster up your lies? I saw
 through your swashbuckling, but
 you made the battle too bloody. It
-was enough to cut off the un-
-happy Paphlagonian's head, without
+was enough to cut off the unhappy Paphlagonian's head, without
 sticking it on the end of a spear
 and drenching yourself with his
 blood.
@@ -2522,8 +2417,7 @@ blood.
 <div type="textpart" subtype="section" n="6">
 <p><label>LEONTICHUS</label> That was rather
 a disgusting touch, Chenidas; but
-the rest of the battle was well con-
-ceived. Run after her now, and try
+the rest of the battle was well conceived. Run after her now, and try
 to persuade her to come back and
 pass the night with me.</p>
 
@@ -2551,8 +2445,7 @@ and lie with Hymnis.
 <p><label>LEONTICHUS</label> Either alternative
 is painful; but I prefer to possess
 Hymnis, Go quickly; tell her that
-we have been telling fairy tales-
-but not in every case.
+we have been telling fairy talesbut not in every case.
 
 
 </p>
@@ -2605,8 +2498,7 @@ drachmae; put down two drachmae.
 two nights with me.</p>
 
 <p><label>DORIO</label> On my return from
-Syria, an alabaster jar full of Pho-
-nician perfumes; that, too, was worth
+Syria, an alabaster jar full of Phonician perfumes; that, too, was worth
 two drachmae, by Neptune!</p>
 
 <p><label>MYRTALE</label> And when you sailed,
@@ -2628,8 +2520,7 @@ eight ship-biscuits in their basket,
 <pb n="213"/>
 
 and a jar of Carian figs; and, a very
-short time ago, a pair of gilded san-
-dals from Patara, ungrateful woman!
+short time ago, a pair of gilded sandals from Patara, ungrateful woman!
 and a huge cheese from Gythium.</p>
 
 <p><label>MYRTALE</label> The worth of five
@@ -2646,8 +2537,7 @@ at the goddess's feet for you, at the
 festival of Venus? And what about
 the shoes worth two drachmae which
 I gave your mother? And your maid
-Lyde, whose fingers I grease some-
-times with two obols, sometimes
+Lyde, whose fingers I grease sometimes with two obols, sometimes
 with four? All these things together
 would make a sailor's fortune.
 
@@ -2659,8 +2549,7 @@ would make a sailor's fortune.
 <p><label>MYRTALE</label> The onions and the
 fish, I suppose, Dorio?</p>
 
-<p><label>DORIO</label> To be sure; I had noth-
-ing else to give you. As if I should
+<p><label>DORIO</label> To be sure; I had nothing else to give you. As if I should
 be a rower, if I had any money! And
 in all this time I've brought my own
 mother nothing, not even a sprig of
@@ -2701,8 +2590,7 @@ playing the lyre! Take your fill of
 him; you are a worthy mate for him.
 May you have a brat who looks
 like his father! I shall soon find a
-Delphis or Cymbalium, or my neigh-
-bor the flute-player, or somebody
+Delphis or Cymbalium, or my neighbor the flute-player, or somebody
 else. Every one can't supply rugs
 and necklaces and sums of two
 minae.
@@ -2731,8 +2619,7 @@ voyage to Gythium.
 Parthenis? Whence come you with
 your broken pipes?</p>
 
-<p><label>PARTHENIS</label> It was that tall sol-
-dier, the AEtolian, Crocale's lover,
+<p><label>PARTHENIS</label> It was that tall soldier, the AEtolian, Crocale's lover,
 who beat me because he found me
 
 
@@ -2742,13 +2629,10 @@ playing at his mistress's house by
 order of his rival Gorgos, who had
 hired me. He broke my flute, and
 overturned the supper-table and the
-wine-cups; then, taking that coun-
-tryman Gorgos by the hair, he and
+wine-cups; then, taking that countryman Gorgos by the hair, he and
 another soldier, a friend of his,
 dragged the poor fellow from the
-room, all covered with blood. Dino-
-machus-I believe that is the sol-
-dier's name-beat him so savagely
+room, all covered with blood. Dinomachus-I believe that is the soldier's name-beat him so savagely
 that I don't know whether he is dead
 or alive. The blood flowed from his
 nose in rivers, his face was swollen
@@ -2792,9 +2676,7 @@ themselves on Gorgos, as I have
 told you, knocked him down, and
 trampled on him. Crocale escaped,
 I don't know how, and took refuge
-with her neighbor Thespias. Dino-
-machus, after cuffing me and break-
-ing my pipes, threw them at my
+with her neighbor Thespias. Dinomachus, after cuffing me and breaking my pipes, threw them at my
 head and bade me go to the devil.
 I am going to tell the whole story
 to my master, while the farmer has
@@ -2804,8 +2686,7 @@ order to have the Megarian arrested.</p>
 </div>
 <div type="textpart" subtype="section" n="3">
 <p><label>COCHLIS</label> That's what one gets
-for having a soldier for a lover-
-constant quarrels and blows! To
+for having a soldier for a loverconstant quarrels and blows! To
 hear them talk, you would say they
 were all colonels or captains. But
 if you try to touch their pockets-
@@ -2818,8 +2699,7 @@ again, and I have received my pay;
 then you'll have no fault to find."—
 The deuce take the braggarts! I
 have good reasons for receiving none
-of them. Fishermen, sailors, farm-
-ers-they are good fellows! Few
+of them. Fishermen, sailors, farmers-they are good fellows! Few
 fine words, but plenty of presents.
 But I tell you, Parthenis, all these
 beplumed blusterers, these describers

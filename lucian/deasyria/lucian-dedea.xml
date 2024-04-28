@@ -4,20 +4,20 @@
 <teiHeader xml:lang="eng">
 <fileDesc>
 <titleStmt>
-<title xml:lang="lat">Phalaris</title>
+<title xml:lang="eng">The Syrian goddess</title>
  <author>Lucian of Samosata</author>
-<editor>Herbert Augustus Strong, 1841-1918</editor>
-<editor>John Garstang, 1876-1956</editor>
- <funder>National Endowment for the Humanities</funder>
+<editor role="translator">Herbert Augustus Strong</editor>
+<editor role="commentator">John Garstang</editor>
+ <funder  n="org:NEH">National Endowment for the Humanities</funder>
  <principal>Gregory Crane</principal>
  <respStmt>
   <persName>Gregory Crane</persName>
-  <resp>OCRd, tagged and added initial corrections to  the text</resp>
+  <resp>Digital conversion and formatting.</resp>
  </respStmt>
  </titleStmt>
 <publicationStmt>
 <authority>Perseus Digital Library</authority>
-<idno type="filename">tlg0062.tlg001.1st1K-eng1.xml</idno>
+<idno type="filename">tlg0062.tlg041.perseus-eng3.xml</idno>
 <availability>
  <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Available under a Creative Commons Attribution-ShareAlike 4.0 International License</licence>
 </availability>
@@ -29,50 +29,49 @@
 <listBibl>
  <biblStruct>
  <monogr>
-  <title>Lucian</title>
-  <editor>
-	<persName>
-	 <name>Austin Morris Harmon</name>
-	</persName>
-  </editor>
-  <author ref="urn:cts:greekLit:tlg0062">Lucian of Samosata</author>
+  <title xml:lang="eng">The Syrian goddess</title>
+  <author>Lucian</author>
+  <editor role="translator">Herbert Augustus Strong</editor>
+  <editor role="commentator">John Garstang</editor>
+	  <author ref="urn:cts:greekLit:tlg0062">Lucian of Samosata</author>
   <imprint>
-   <publisher>Harvard University Press</publisher>
-	<pubPlace>Cambridge, MA</pubPlace>
-	<date>1961</date>
+   <publisher>Constable</publisher>
+	<pubPlace>London</pubPlace>
+	<date>1913</date>
   </imprint>
-  <biblScope unit="volume">1</biblScope>
  </monogr>
-  <ref target="https://archive.org/details/lucianha01luciuoft">The Hathi Trust</ref>
+  <ref target="https://hdl.handle.net/2027/mdp.39015007059127?urlappend=%3Bseq=74%3Bownerid=13510798888303286-78">The Hathi Trust</ref>
  </biblStruct>
 </listBibl>
 </sourceDesc>
 </fileDesc>
 <encodingDesc>
- <p>Text encoded in accordance with the latest EpiDoc standards</p>
+ <p>Text encoded in accordance with the latest EpiDoc standards.</p>
  <refsDecl n="CTS">
-  <cRefPattern n="section" matchPattern="(.+).(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])"/>
-  <cRefPattern n="book" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
+  <cRefPattern matchPattern="(\w+)"
+   replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+   <p>This pointer pattern extracts section.</p>
+  </cRefPattern>
  </refsDecl>
+
 </encodingDesc>
 <profileDesc>
 <langUsage>
-<language ident="grc">Greek</language>
+  <language ident="eng">English</language>
+  <language ident="grc">Greek</language>
 <language ident="lat">Latin</language>
 </langUsage>
 </profileDesc>
 <revisionDesc>
-<change/>
+  <change who="Gregory Crane" when="2023-08-11">Converted raw OCR to CTS epiDoc TEI and added sections</change>
 </revisionDesc>
 </teiHeader>
 <text>
 <body>
 
-<pb n="53"/>
+<pb n="41"/>
 
-<div type="edition">
-<head>Introduction</head></div>
-<div type="translation" n="tlg0062.tlg041">
+<div type="translation" n="urn:cts:greekLit:tlg0062.tlg041.perseus-eng3" xml:lang="eng">
 
 <div type="textpart" subtype="section" n="1">
 	<head>The Sacred City</head><p>
@@ -98,8 +97,7 @@ but the sacred lake and other features are still to be seen
 (see note 55).</p></note>
 
 <note n="2"><p>Cf. § 31. By the words “Assyrian Hera” Lucian
-tersely identifies the goddess and distinguishes her attri-
-butes:—“Hera,” because mated (§ 31) to a “Zeus”;
+tersely identifies the goddess and distinguishes her attributes:—“Hera,” because mated (§ 31) to a “Zeus”;
 “Assyrian,’” because she is to be distinguished from the
 classical conception of the deity. For this use of the term
 Assyrian in the sense of North Syrian (or Aramaean), cf.
@@ -145,7 +143,7 @@ to me.</p></div>
 The first men on earth to receive knowledge of the
 gods, and to build temples and shrines and to summon
 meetings for religious observances are said to have been
-the Egyptians.<ref n="5"/> They were the first, too, to take cog-
+the Egyptians.<ref n="5"/> They were the first, too, to take 
 
 <note n="4"><p>“An Assyrian born”—actually born about a.pD. 125 at
 Samsat, on the Euphrates. The place in Hittite times, of
@@ -153,9 +151,9 @@ which there are traces [cf. Land of the Hittites (hereafter
 cited L. H.), pp. 130, 131; Corp. Inscr. Hit. (1900), p. 14,
 pl. xvii.; Humann and Puchstein, Retsen, Atlas,
 pl. xlix. 1-3], was on the Mitannian and later the Assyrian
-frontier, and by the Assyrians several times attacked, as in 1120 B.c. and again about 885 B.c. About 750 B.c. it was
+frontier, and by the Assyrians several times attacked, as in 1120 B.C. and again about 885 B.C. About 750 B.C. it was
 in possession of the Vannic kings, and it was finally annexed
-to the Assyrian empire about 743 B.c. Nineveh fell to the
+to the Assyrian empire about 743 B.C. Nineveh fell to the
 Medes in 606. After the period of Persian domination it
 became first capital of the province of Commagene in the
 Greek kingdom of Syria. The district was later ruled by
@@ -167,12 +165,12 @@ Cf. inter alia Hilprecht, Exploration in Bible Lands
 (1903); King and Hall, Egypt and Western Asta in the
 Light of Recent Discoveries (1907). Cf. Herodotus, ii.2 et seq.</p></note>
 
-<pb n="53"/>
+<pb n="43"/>
 
 
 
 
-nizance of holy names, and to repeat sacred traditions.
+cognizance of holy names, and to repeat sacred traditions.
 Not long after them the Assyrians heard from the
 Egyptians their doctrines as to the gods, and they reared
 temples and shrines: in these they placed statues and
@@ -198,8 +196,7 @@ Astarte.<ref n="7"/> I hold this Astarte to be no other than the
 the local tradition that the temple was 2,300 years old, and
 convinced himself that this Hercules was a god of very
 great antiquity. Rawlinson (Hist. of Phenicia, p. 330)
-points out his identity with Melkarth, who originally repre-
-sented one aspect of Baal. Similarly the Hittite god
+points out his identity with Melkarth, who originally represented one aspect of Baal. Similarly the Hittite god
 represented in the rock sculpture at Ivriz in Asia Minor
 (L. H., pl. lvii. and pp. 192-195) was identified by the
 Greeks with Hercules; and is recognised by Frazer (Adonis,
@@ -208,8 +205,7 @@ Cf. also Ramsay, Luke the Physician, pp. 171-179, and a
 note in his Pauline and other Studies, pp. 172-173, and
 note 47 below.</p></note>
 
-<note n="7"><p>The Phoenician Astarte [‘Astart], the goddess of pro-
-ductivity in Nature, particularly in the animal world, and
+<note n="7"><p>The Phoenician Astarte [‘Astart], the goddess of productivity in Nature, particularly in the animal world, and
 hence the guardian of births. Like the Dea Syria, she is
 differentiated only by local custom or tradition from other
 aspects of the Mother-goddess. As the natural consort and
@@ -318,8 +314,7 @@ temples at Hierapolis and at Carchemish were similarly
 approached by steps.</p></note>
 
 <note n="11"><p>Differing, if at all, only by local attributes from the
-Sidonian Astarte. Cf. Cicero, De natura deorum, iii. -
-23, 59; also see, for a useful summary of the argument,
+Sidonian Astarte. Cf. Cicero, De natura deorum, iii. 23, 59; also see, for a useful summary of the argument,
 Bennett, Relig. Cults associated with the Amazons (New
 York, 1912), p. 50.</p></note>
 
@@ -367,8 +362,7 @@ i. 94, 115;  Cumont, in Pauly’s Real-Encyclopddie
 Fortnightly Review, Dec., 1904, p. 985. For the survival
 of the custom on old Hittite sites, cf. Strabo, xii. iii.
 32, 34, 36; ibid. ii. 3, etc.). Belin de Ballu, Oeuvres de
-Lucien, v. p. 141, n. I, cites a similar custom obli-
-gatory before marriage (Chez les Angiles, peuples d’Afrique,
+Lucien, v. p. 141, n. I, cites a similar custom obligatory before marriage (Chez les Angiles, peuples d’Afrique,
 dont parla Pomponius Méla, liv. 1, ch. 8). Cf. also
 the comprehensive review of the question by Farnell,
 Greece and Babylon, p. 269 ff, and the valuable résumé
@@ -499,8 +493,7 @@ Arabia, and from the  Phoenicians and the Babylonians:
 the Cilicians, too, and the Assyrians bring their tribute.<ref n="21"/>
 And I saw with my own eyes treasures stored away
 privately in the temple; many garments, and other
-valuables, which are exchanged for silver or gold. No-
-where among mankind are so many festivals and sacred
+valuables, which are exchanged for silver or gold. Nowhere among mankind are so many festivals and sacred
 assemblies instituted as among them.
 
 
@@ -546,8 +539,7 @@ the story about Deukalion as the Greeks narrate it from
 the Greeks themselves. The story runsas follows: The
 present race of men was not the first to be created. The
 first generation perished to a man; the present is a
-second creation. This generation became a vast multi-
-tude, owing to Deukalion. Of the men of the original
+second creation. This generation became a vast multitude, owing to Deukalion. Of the men of the original
 creation they tell this tale: they were rebellious, and
 wilful, and performed unholy deeds, disregarding the
 sanctity of oaths and hospitality, and behaving cruelly
@@ -602,14 +594,12 @@ Lucian’s Greek informants with Deucalion, is clearly of
 eastern origin, having little resemblance to the Greek
 legend, and much in common with the Babylonian versions,
 viz., the story of Xisuthros, recorded by Berosus, and partly
-preserved; the legend of Tsit-napishtim in the epic of Gil-
-gamesh, preserved on seventh century tablets from the
+preserved; the legend of Tsit-napishtim in the epic of Gilgamesh, preserved on seventh century tablets from the
 library of Assurbanipal (and independently appearing on
 tablets of a king of the first dynasty of Babylon, dating from
-about 2100 B.c.); and lastly with the Biblical story of Noah
+about 2100 B.C.); and lastly with the Biblical story of Noah
 in Genesis. A fundamental difference is that in the Greek
-legend only Deucalion and Pyrrha were saved, and man-
-kind was subsequently renewed miraculously in response
+legend only Deucalion and Pyrrha were saved, and mankind was subsequently renewed miraculously in response
 to the oracle of Themis. Lucian’s account of the animals
 coming in couples has its parallel in the Babylonian text:
 “With all living seed of every kind I filled it, ... the
@@ -648,8 +638,7 @@ of. Rob. Smith, Engl. Hist. Rev., 1887, p. 312.</p></note>
 “daughter of the fish goddess Derceto; confused in myth or
 identified with Ishtar (Astarte). The legends of Semiramis
 are given by Diodorus (ap. Ctesias), II. i. The historical
-character of Semiramis and. her identity with Sammu-
-tamat, wife of Samsi-Ada /(c. B.c. 820)—son of the
+character of Semiramis and. her identity with Sammutamat, wife of Samsi-Ada /(c. B.C. 820)—son of the
 Assyrian king Shalmeneser II.—mother of Adad-nirari III.
 and the development of the myth from historical origins,
 have been recently demonstrated by Lehmann-Haupt,
@@ -662,10 +651,8 @@ Sayce in the Engl. Hist. Rev., 1887, p. 303, and 1888, p. 104.</p></note>
 
 <note n="25"><p>Derceto, identified with Atargatis by Pliny, Nat.
 Hist. v. 19; indeed, the two names are linguistically
-similar. That Atargatis was the name of the goddess wor-
-shipped at Hierapolis is stated by Strabo (xvi. i. 27), and
-confirmed by the local coins and other sources (see Intro-
-duction, p. 21, and note 57). Atargatis, according to the
+similar. That Atargatis was the name of the goddess worshipped at Hierapolis is stated by Strabo (xvi. i. 27), and
+confirmed by the local coins and other sources (see Introduction, p. 21, and note 57). Atargatis, according to the
 scholiast on Germanicus’ “Aratus,’” was of local origins,
 being born in the Euphrates, like Aphrodite from the foam
 of the sea. (Cf. Rob.-Smith, Relig. Semites, p. 175, and
@@ -674,21 +661,17 @@ of ‘ATHAR (Phoen. ‘Astart, Heb. ‘Ashtoreth) with ‘ATTI
 or ‘ATTAH (vide Koenig in Hasting’s Abrig. Dict.,
 p. 70 b); or in Aramaic ‘ATHAR and ‘ATHE (cf. Ed. Meyer,
 Geschichte des Alierthums,i., isted., p. 246, § 205 ff). Frazer
-(Adonis, etc., pp. 129, 130) points out that the com-
-pound according to this derivation includes the name of
+(Adonis, etc., pp. 129, 130) points out that the compound according to this derivation includes the name of
 the Cilician goddess ‘Atheh, consort of Baal, as well as
 that of Astarte or Ishtar, amounting thus to Ishtar-Atheh,
 the latter being presumably a Cilician aspect of the former.
 Thus far there is no difficulty; but_Pliny further describes
-the goddess as “monstrous’ (prodigiosa), and his identi-
-fication with Derceto suggests the familiar fish goddess of
-Askalon. Moreover, travellers have seen local represen-
-tations of the characteristic “mermaid” form (see note 26).
+the goddess as “monstrous’ (prodigiosa), and his identification with Derceto suggests the familiar fish goddess of
+Askalon. Moreover, travellers have seen local representations of the characteristic “mermaid” form (see note 26).
 Yet in what follows Lucian is careful to distinguish Derceto
 from the “Hera” of Hierapolis, who is seated on a lion-throne
 (§ 31), and never assumes any fish-like or other monstrous
-aspect on the local coins. (Cf. also Dussaud, in Rev. Archéo-
-logique, 1904, lil. p. 258.) Assuming the identity of Atargatis
+aspect on the local coins. (Cf. also Dussaud, in Rev. Archéologique, 1904, lil. p. 258.) Assuming the identity of Atargatis
 with Derceto to be correct, it is more consistent with
 Lucian’s observations (§§ I, 14-16, 31, 32), and with the
 argument developed in our Introduction, to see embodied
@@ -735,8 +718,7 @@ stone with three figures carved on it, in Basso Relievo.
 They were two Syrens, which, twining their fishy tails
 together, made a seat, on which was placed sitting a naked
 woman, her arms and the Syrens on each side mutually
-entwined” (Appendix, p. 91). This sculpture was appa-
-rently seen also by Pocock, who describes it as a stone
+entwined” (Appendix, p. 91). This sculpture was apparently seen also by Pocock, who describes it as a stone
 about four feet long and three wide, on which there was a
 relief of two winged persons holding a sheet behind a woman,
 a little over her head; they seem tocarry her on their fishy
@@ -760,8 +742,7 @@ noticed by Maundrell and Pocock.</p></note>
 are interestingly discussed by Cumont, Les Religions
 Orieniales, p. 357, note 36, where he quotes Ramsay in
 support of his contention that the poor quality of the fish
-was the underlying cause of this apparent “totemic pro-
-hibition.” But see Dussaud, Rev. Arch., 1904, ii. 247. See
+was the underlying cause of this apparent “totemic prohibition.” But see Dussaud, Rev. Arch., 1904, ii. 247. See
 also Belin de Ballu, in his Ceuvres de Lucien (Paris,
 1789), p. 149, note 2. Ancient superstitions and uses are
 recited by Pliny, Nat. Hist. xxxii. 16.</p></note>
@@ -806,8 +787,7 @@ pp. 29, 30; and his Mykenean Tree and Pillar Cuit,
 §22. On the cult of the goddess in Asia Minor, see especially
 Ramsay, in numerous works (Bibl. L. H., pp. 393-4), ¢.g.,
 Jour. R. Asiatic Soc., 1883, and in Hastings’ Dict. Bib.,
-extra vol., p. 122 ff. The points of resemblance to Atar-
-gatis, and the relationship of both with the Hittite
+extra vol., p. 122 ff. The points of resemblance to Atargatis, and the relationship of both with the Hittite
 goddess, are discussed in our Introduction, pp. 20, 26, and
 note 69. (Cf. also Farnell, Greece and Babylon, pp. 62-63.) On the cult transferred to Italy, see Cumont,
 Oriental Relig. in Rom. Pag., 1911, p. 46 ff., and our
@@ -840,10 +820,10 @@ Omphale (Ovid, Fasiz, ii. 305 ff; Diodorus, iv. ii.; etc.).</p></note>
 
 <note n="32"><p>It is instructive to note that the Mitannians, who
 occupied the eastern side of the Euphrates in the fifteenth
-and fourteenth centuries B.c., though in some way related to
+and fourteenth centuries B.C., though in some way related to
 the Hittites, embraced ethnic elements whose deities were
 radically different, including the Vedic cycle, Mithras,
-Varuna, etc. Cf. Winckler, Miutteil. d. Deut. Orient.
+Varuna, etc. Cf. Winckler, Mitteil. d. Deut. Orient.
 Ges., No. 35 (Dec., 1907), p. 51 (transl. Williams, Liv.
 Ann. Arch., iv. p. 93, Extract xxiv.). In post-Hittite times
 the increasing tendency to local development must have
@@ -851,12 +831,10 @@ emphasised the distinction between the Assyrian and the
 Phrygian conceptions of the goddess.</p></note>
 
 <note n="33"><p>Cf. § 32, etc., where Lucian states that she holds a
-sceptre in one hand and a distaff in the other, and illustra-
-tion, p. 70. The “tower on her head,” i.e., mural crown,
+sceptre in one hand and a distaff in the other, and illustration, p. 70. The “tower on her head,” i.e., mural crown,
 emblematic of the goddess as protectress of her cities, is an
 invariable feature on all but the latest coins, where it
-sometimes degenerates (see Frontispiece, Nos, 1, 8). Com-
-pare the chief Hittite goddess (see Fig. 1), and Kybele or
+sometimes degenerates (see Frontispiece, Nos, 1, 8). Compare the chief Hittite goddess (see Fig. 1), and Kybele or
 Rhea (Fig. 8, p. 72), who is described as ¢urrita by Lucretius.</p></note>
 
 <pb n="57"/>
@@ -941,7 +919,7 @@ and to be introduced as the fulfilment of Lucian’s wish to
 explain the origin of emasculation and other customs among
 the Galli (see end of § 15). None the less, Stratonice is a
 recognisable historical character, wife of Seleucus Nicator
-(of Antioch), at the close of the third century B.c., and
+(of Antioch), at the close of the third century B.C., and
 Movers (i., p. 687) has urged the identity of Combabus with
 the god of Hierapolis. On the resemblance of the name
 to the Elamite Khumbaba, cf. Ungnad, D. Gilgamesch-Epos,
@@ -975,14 +953,12 @@ malady was no normal malady, but a wrongful action:
 and madness. He longs to possess what he will never
 obtain; he loves my wife, whom I will never give up.”
 This was the trick of the wise physician. The father
-straightway begged the doctor by his prudence and pro-
-fessional skill not to let his son perish. ‘His malady
+straightway begged the doctor by his prudence and professional skill not to let his son perish. ‘His malady
 depended not on his will; it was involuntary. Pray
 then do not you let your jealousy bring grief on the
 whole realm, and do not, dear doctor, draw unpopularity
 on your profession.” Such was the unwitting father’s
-request. The doctor replied: “Your request is scanda-
-lous. You would deprive me of my wife and outrage
+request. The doctor replied: “Your request is scandalous. You would deprive me of my wife and outrage
 the honour of a medical man. I put it to you, what
 would be your conduct, since you are deprecating mine,
 if your wife were the object of his guilty love?” He
@@ -1038,8 +1014,7 @@ begged and prayed not to be despatched, and not to be
 entrusted with matters far above his powers—moneys,
 the lady, the holy work: not merely so, but he feared
 lest in the future some jealousy might make itself felt
-as to his relations with Stratonice, as he was unaccom-
-panied should he consent to escort her.
+as to his relations with Stratonice, as he was unaccompanied should he consent to escort her.
 
 </p></div>
 
@@ -1170,8 +1145,7 @@ When, however, the news was brought to
 Hierapolis, Combabus took count of the charge and
 departed in a spirit of full confidence, conscious that
 the visible proof necessary for his defence had been left
-in the city his home. On his arrival the king imme-
-diately put him in prison under strict guard. Then in
+in the city his home. On his arrival the king immediately put him in prison under strict guard. Then in
 the presence of the friends of the accused who had been
 present when Combabus was commissioned to depart,
 the king summoned him into open court and began to
@@ -1179,8 +1153,7 @@ accuse him of adultery and evil lust; and deeply moved,
 recounting the confidence he had reposed in his favourite
 and his long friendship, he arraigned Combabus on three
 distinct charges: first, that he was an adulterer, secondly,
-that he had broken his trust, finally, that he had blas-
-phemed the goddess by acting thus while engaged in her
+that he had broken his trust, finally, that he had blasphemed the goddess by acting thus while engaged in her
 service. Many of the bystanders bore witness against
 him, saying that they had seen the guilty pair embracing.
 
@@ -1214,8 +1187,7 @@ errand: I left with a heavy heart, and I did my duty,
 constrained by sheer necessity. I obeyed my lord and
 master to mine own undoing. Such as I am, I stand
 accused of a crime which none but a man in every sense
-could have committed. The king cried out in amaze-
-ment at these words, embraced Combabus and said with
+could have committed. The king cried out in amazement at these words, embraced Combabus and said with
 tears, “What great ruin, Combabus, hast thou wrought
 upon thyself? What monstrous deed of ill hast thou,
 alone of men, wrought to thy sorrow? I cannot praise
@@ -1227,8 +1199,7 @@ thee, first and foremost, as thy revenge, the death of the
 informers: and next there shall follow a mighty gift, a
 store of silver and countless gold, and raiment ‘of
 Assyria, and steeds from the royal stud. Thou shalt
-enter freely to us unannounced and none shall with-
-stand thee: none shall keep thee from my sight, even
+enter freely to us unannounced and none shall withstand thee: none shall keep thee from my sight, even
 
 
 
@@ -1476,8 +1447,7 @@ north.</p></note>
 
 
 
-sacred shrine is reared within it; the ascent to this like-
-wise is not steep, nor is it fitted with doors, but is
+sacred shrine is reared within it; the ascent to this likewise is not steep, nor is it fitted with doors, but is
 entirely open as you approach it. The great temple is
 open to ail; the sacred shrine to the priests alone and
 not to all even of these, but only to those who are deemed
@@ -1502,8 +1472,7 @@ with its common shrine of “Hera” and “Zeus,’” and the
 details by which he distinguishes these deities, form the
 basis of our argument in the Introduction (pp. 11, 23, 27),
 that this god and goddess are identical with the chief Hittite
-male and female deities, who are “mated” in the sculp-
-tures at Yasily Kaya. The historical inference is that
+male and female deities, who are “mated” in the sculptures at Yasily Kaya. The historical inference is that
 the origins of the temple date from the period of Hittite
 supremacy; and this conclusion is in seeming agreement with
 what Lucian says in § 17 of the antiquity of the original
@@ -1529,8 +1498,7 @@ nature of the cult may be detected.
 <p>
 Hera, however, as you look at her will recall to
 you a variety of forms. Speaking generally she is
-undoubtedly Hera, but she has something of the attri-
-butes of Athene, and of Aphrodite, and of Selene, and of
+undoubtedly Hera, but she has something of the attributes of Athene, and of Aphrodite, and of Selene, and of
 Rhea, and of Artemis, and of Nemesis, and of The Fates.
 In one of her hands she holds a sceptre, in the other a
 distaff; on her head she bears rays and a tower and she
@@ -1616,8 +1584,7 @@ spoken.<ref n="46"/>
 
 <note n="45"><p>This object, “with characteristics of the other gods,”
 etc., is hardly explained by the later structure of Roman
-character which appears upon the coin of the third cen-
-tury A.D. (cf. Fig. 7, and p. 23); butin sculptures at Fraktin
+character which appears upon the coin of the third century A.D. (cf. Fig. 7, and p. 23); butin sculptures at Fraktin
 in Southern Asia Minor (L. H., xlvii.) there are two groups.
 In the one there is a shrine and image of a god, whom a
 walrior-priest seems to be worshipping. In the other
@@ -1625,8 +1592,7 @@ the Great Mother is enthroned, with a priestess pouring
 out an oblation before her. In each case between the
 deity and the worshipper there rises a special form of altar,
 with pedestal and flat round top (see Fig. 4, p. 24). The
-pedestal takes the form of a human body, from waist down-
-wards, being swathed by many cross folds of a fringed cloth
+pedestal takes the form of a human body, from waist downwards, being swathed by many cross folds of a fringed cloth
 or garment. Upon the top is perched a dove or pigeon.
 The bird appears similarly placed on a similar altar
 at Yarre (Crowfoot, Jour. Hell. Stud. xix., 1899, fig. 4:
@@ -1710,8 +1676,7 @@ origin in Lycia; while others derive him from the East
 or from Egypt. However that may be, most scholars are
 agreed that some aspects of the god are associated with
 primitive Nature-worship, and there is a general suspicion
-of an Oriental or Asiatic element in his cult. (See especi-
-ally the Oxford lectures of Wilamowitz, 1908, ‘* Apollo,”
+of an Oriental or Asiatic element in his cult. (See especially the Oxford lectures of Wilamowitz, 1908, ‘* Apollo,”
 p. 30 ff.) This conclusion seems to be supported by the
 character and seasons of his festivals in Greece. In
 particular, the Theophania at Delphi, celebrating the return
@@ -1740,7 +1705,7 @@ a god of agriculture, with corn and grapes; he is bearded
 and wears the Hittite dressand hat. There he was identified
 by the Greeks with Hercules. Professor Frazer has shown
 (op. cit., pp. 110, 151 ff.) that Sandan bore to Baal much
-the same relation as the Hittite “Atys ’” to their “Zeus.” -
+the same relation as the Hittite “Atys ’” to their “Zeus.” 
 But the youthful god, after the fall of the Hatti and their
 chief god, seems to have filled in the popular mind the place
 of the father god also, and to have become more and more
@@ -1799,18 +1764,15 @@ When they approach him and bear him up,<ref n="48"/> he drives
 them round in a circle, and leaps on one after another.
 At last the high priest confronts him, and questions him
 on every subject. The god, if he disapproves of any
-action proposed, retreats into the background; if, how-
-ever, he happens to approve it, he drives his bearers
+action proposed, retreats into the background; if, however, he happens to approve it, he drives his bearers
 forward as if they were horses. It is thus that they
 gather the oracles, and they undertake nothing public or
 private without this preliminary. This god, too, speaks
 about the symbol, and points out when it is the due season
-for the expedition of which I spoke in connexion there-
-with.</p></div>
+for the expedition of which I spoke in connexion therewith.</p></div>
 
 <div type="textpart" subtype="section" n="37"><p>
-I will speak of another wonder, too, which he per-
-formed in my presence. The priests were raising him
+I will speak of another wonder, too, which he performed in my presence. The priests were raising him
 aloft, but he left them on the ground, and was born aloft
 himself alone.</p></div>
 
@@ -1830,8 +1792,7 @@ pl. lxv. and p. 239). Strabo (xii. iii. 32) relates a similar
 custom at Comana (Pontus) at the Exodi of the Goddess,
 also (xv. iii. 15) in the worship by the Persian settlers of
 Omanus at Zela in Cappadocia. So, too, the statue of
-Hadad in Assyria is shown borne by his priests on a re-
-presentation from Nineveh (Layard, Nineveh, ii-, 1849,
+Hadad in Assyria is shown borne by his priests on a representation from Nineveh (Layard, Nineveh, ii-, 1849,
 pl. f. p. 451); and Macrobius (Sat, i. 17) tells us that the
 image of the analogous god of Heliopolis (cf. n. 26, p. 70)
 was carried about in a similar manner on a bier.</p></note>
@@ -1851,13 +1812,11 @@ It contains also countless other brazen effigies of kings
 and priests. I will mention those which seem most
 worthy of remembrance. To the left of the temple
 stands the image of Semiramis, pointing with her right
-hand to the temple. That image was erected to com-
-memorate the following occurrence: The queen had
+hand to the temple. That image was erected to commemorate the following occurrence: The queen had
 issued a decree that all the Syrians should worship
 her as a deity, adding that they were to take no count
 of the others, not excepting even Hera; and they obeyed
-her decree. Afterwards, however, when disease and mis-
-fortune and grief were inflicted on her, she calmed down
+her decree. Afterwards, however, when disease and misfortune and grief were inflicted on her, she calmed down
 from her frenzied infatuation, and avowed herself a
 mere mortal, and ordered her subjects to turn again to
 Hera. This is why she stands to-day in this posture,
@@ -1912,8 +1871,7 @@ Minor,” in Hastings’ Dict, Bibi., extra vol., p. 115 b.)</p></note>
 Many priests also are in attendance, some of whom
 sacrifice the victims, others bring libations, others are
 called fire-bearers, and others altar attendants. In my
-presence more than 300 of these were present at a sacri-
-fice; all had vestments of white and wore caps on their
+presence more than 300 of these were present at a sacrifice; all had vestments of white and wore caps on their
 heads. Every year a new high priest is appointed.<ref n="51"/> He,
 and he alone, is clad in purple and crowned with a golden
 tiara.</p></div>
@@ -1979,8 +1937,7 @@ There is too a lake<ref n="55"/> in the same place, not far
 
 
 
-<note n="54"><p>Notwithstanding the differences of ritual, the asso-
-ciation of “Zeus” and “Hera” together in this paragraph
+<note n="54"><p>Notwithstanding the differences of ritual, the association of “Zeus” and “Hera” together in this paragraph
 is again significant of the original dual character of the cult.</p></note>
 
 <note n="55"><p>The sacred lake is still conspicuous. Cf. Maundrell,
@@ -1990,8 +1947,7 @@ buildings all round it, with the pillars and ruins of which it
 is now almost filled up, . . . but... there was still water
 in it.” Chesney, Exped. Euphrat. i. 516: “a rocky
 hollow.’” Hogarth (Jour. Hell. Stud. xiv. p. 187) describes
-also “the scanty remains of a stepped quay wall or revet-
-ment, with water stairs at intervals.”</p>
+also “the scanty remains of a stepped quay wall or revetment, with water stairs at intervals.”</p>
 
 <p>The Hittite river-gods are invoked in witness of their
 treaty with Egypt (c. 1271 B.C.). Cf. also Ramsay, Luke
@@ -2050,11 +2006,9 @@ ashore. On the general subject, see Robertson-Smith,
 op. cit. p. 292, also pp. 174-175 and 219.</p></note>
 
 <note n="57"><p>Cf. the legend that Hera bathed in the Chaboras, a
-Mesopotamian tributary of the Euphrates, after her mar-
-riage with Zeus (A¢lian, Nat. Animalium, xii. 30). The
+Mesopotamian tributary of the Euphrates, after her marriage with Zeus (A¢lian, Nat. Animalium, xii. 30). The
 further reference to fishes implies their sanctity to the
-goddess, and to this extent reveals Atargatis as a fish-
-goddess (see note 25). This is, however, clearly not her
+goddess, and to this extent reveals Atargatis as a fishgoddess (see note 25). This is, however, clearly not her
 chief character at Hierapolis.</p></note>
 
 <pb n="82"/>
@@ -2090,8 +2044,7 @@ narrative, cf. §§ 13, 36. It is of interest to notice that
 Pliny (Nat. Hist. xxxi. 37) describes a method of filtering
 sea water into empty sealed vessels.</p></note>
 
-<note n="59"><p>ἀλεκτρύων ἱρός. The narrative is unintelligible un-
-less we suppose that the words by allusion or textual
+<note n="59"><p>ἀλεκτρύων ἱρός. The narrative is unintelligible unless we suppose that the words by allusion or textual
 change signify some special priestly office. Thus Blunt
 (Works of Lucian, London: Briscoe, 1711, p. 267)
 translates “a sacred cock, or priest, called Alectryo.” Is
@@ -2269,8 +2222,7 @@ harm these birds, and if anyone have harmed them
 
 
 
-<note n="66"><p>Cf. also § 16. This statement is confirmed by Xeno-
-phon, Anabasis, I. iv. 9. According to Alian (Nat. Ann.
+<note n="66"><p>Cf. also § 16. This statement is confirmed by Xenophon, Anabasis, I. iv. 9. According to Alian (Nat. Ann.
 iv. 2), the dove was an especially sacred companion to
 Astarte, and this is borne out by archaic clay figurines of
 the goddess from Phoenicia, Asia Minor, Rhodes, Delos,
@@ -2285,8 +2237,7 @@ though we have the suggestive passage: “Like a lonely
 dove, I rest” (Pinches, op. cit., col. iii. ll. 1, 2). On this
 point Mr. L. W. King writes: ‘In the earlier periods
 there is no evidence that a bird was associated with Ishtar,
-and I have little doubt that the association was a com-
-paratively late addition to her cult. Of course the myth
+and I have little doubt that the association was a comparatively late addition to her cult. Of course the myth
 of the Allatu bird is early, but can hardly be connected
 with the symbolic or votive bird under her Phoenician
 form” (Letter dated Sept. 7, 1912). Diodorus relates
@@ -2328,15 +2279,15 @@ and commonly feed on-the ground.</p></div>
 I will speak, too, about those who come to these
 sacred meetings and of what they do. As soon as a
 man comes to Hierapolis he shaves his head and his
-eyebrows;<ref n="67"/> afterwards he sacrifices a sheep<ref n="68"/> and cuts
+eyebrows;<ref n="67"/> afterwards he sacrifices 
+a sheep<ref n="68"/> and cuts
 up its flesh and eats it; he then lays the fleece on the
 ground, places his knee on it, but puts the feet and
 head of the animal on his own head and at the same
 time he prays that the gods may vouchsafe to receive
 him, and he promises a greater victim hereafter. When
 this is performed he crowns his head with a garland
-and the heads of all those engaged in the same pro-
-cession, Starting from his house he passes into the
+and the heads of all those engaged in the same procession, Starting from his house he passes into the
 road, previously bathing himself and drinking cold
 water. He always sleeps on the ground, for he
 may not enter his bed till the completion of his
@@ -2389,8 +2340,7 @@ They all tattoo themselves—some on the hands
 
 
 
-<note n="69"><p>The libation is a feature of Hittite worship repre-
-sented on several sculptures, e.g., at Fraktin and at Malatia
+<note n="69"><p>The libation is a feature of Hittite worship represented on several sculptures, e.g., at Fraktin and at Malatia
 (see Fig. 1, p. 5). At the latter place live animals (rams)
 are shown in the sculpture (L. H., pl. xliv.) behind the
 priest, being led by an attendant. This is not shown in
@@ -2399,8 +2349,7 @@ are omitted from the field for the sake of clearness. These
 sculptures have been lately removed, it is reported, to
 Constantinople.</p></note>
 
-<note n="70"><p>The special character of this sacrifice is strongly sug-
-gestive of a totemistic influence. On the general aspect
+<note n="70"><p>The special character of this sacrifice is strongly suggestive of a totemistic influence. On the general aspect
 of human sacrifice among the Semites, cf. Rob.-Smith,
 op. cit., pp. 371, 464. On human sacrifice in the Cult of
 Dionysus, cf. Frazer, op. cit., p. 332. Children were
@@ -2435,8 +2384,7 @@ down the locks of the maidens, which have been sacred
 from their birth; they then cut these off<ref n="72"/> in the temple
 and place them in vessels, some in silver vessels, some
 in gold, and after placing these in the temple and
-inscribing the name on the vessel they depart. I per-
-formed this act myself when a youth, and my hair
+inscribing the name on the vessel they depart. I performed this act myself when a youth, and my hair
 remains still in the temple, with my name on the
 vessel.
 
@@ -2446,7 +2394,7 @@ Sudan, according to Bruce, some of the tribes tattooed
 their stomachs, sides and backs, as with fish-scales.
 Professor Strong reminds us that there have been found
 a number of bodies of Nubians of the time of the Middle
-Empire (c. 2000 B.c.) with definite tattooing; and the
+Empire (c. 2000 B.C.) with definite tattooing; and the
 patterns pricked upon the skin of these desiccated bodies
 were identical with those painted on the dolls buried with
 them. Cf. Dr. Elliot Smith, The Ancient Egyptians, p. 56.</p></note>
@@ -2457,9 +2405,9 @@ female locks could be sacrificed as an alternative to offering
 their own persons. At Troezene, according to Pausanias
 (xxxii.), the custom was to sacrifice the hair before
 marriage. In Catullus, Ode lxvi., Berenice dedicates her
-hair to Venus. On the general question, see Robertson-
-Smith, op. ctt., p. 329.</p>
+hair to Venus. On the general question, see Robertson-Smith, op. ctt., p. 329.</p>
 </note>
+<pb/>
 </p>
 </div>
 </div>

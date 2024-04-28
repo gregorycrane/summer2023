@@ -58,15 +58,14 @@
 <p>optical character recognition</p>
 </correction>
 </editorialDecl>
-    <refsDecl n="CTS">
-        <cRefPattern matchPattern="(\w+)"
-            replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
-            <p>This pointer pattern extracts section.</p>
-        </cRefPattern>
-    </refsDecl>
-<!-- <refsDecl doctype="TEI.2">
-<state unit="section" n="chunk"/>å
-</refsDecl>-->
+<refsDecl n="CTS">
+    <cRefPattern n="section" matchPattern="(\w+).(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])">
+        <p>This pointer pattern extracts book and section.</p>
+    </cRefPattern>
+    <cRefPattern n="book" matchPattern="(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+        <p>This pointer pattern extracts book.</p>
+    </cRefPattern>
+</refsDecl>
 </encodingDesc>
 <profileDesc>
 <langUsage>
@@ -486,7 +485,7 @@
 <div type="textpart" subtype="section" n="1">
 
 
-<sp><speaker>ΕΡΩΣ</speaker><p>1.Ἀλλ᾿ εἰ καί τι ἥμαρτον, ὦ Ζεῦ, σύγγνωθί μοι·
+<sp><speaker>ΕΡΩΣ</speaker><p>Ἀλλ᾿ εἰ καί τι ἥμαρτον, ὦ Ζεῦ, σύγγνωθί μοι·
 παιδίον γάρ εἰμι καὶ ἔτι ἄφρων.</p></sp>
 
 <sp><speaker>ΖΕΥΣ</speaker><p>Σὺ παιδίον ὁ Ἔρως, ὃς ἀρχαιότερος εἶ πολὺ
@@ -1475,6 +1474,9 @@
 <note n="7.314.2">ἐπιθήσειν β.</note>
  τῶν φαρμάκων, ἀνδρῶδες δὲ οὐδὲν  ἐπιδεδειγμένος.</p></sp>
  <milestone unit="altpage" n="237"/>
+</div> 
+
+<div type="textpart" subtype="section" n="2"> 
 <sp><speaker>ΑΣΚΛΗΠΙΟΣ</speaker><p> Οὐ
 <note n="7.314.3">Οὐ . . .; γ: Εὖ . . .· β.</note>
  λέγεις, ὅτι σου τὰ ἐγκαύματα ἰασάμην, ὅτε
@@ -2195,7 +2197,9 @@
 ὁ δὲ τὰς ἡνίας ἀφείς, οἶμαι δεδιὼς μὴ ἐκπέσῃ αὐτός,
 εἴχετο τῆς ἄντυγος. ἀλλὰ ἐκεῖνός τε ἤδη ἔχει
 τὴν δίκην κἀμοί, ὦ Ζεῦ, ἱκανὸν τὸ πένθος.</p></sp>
+</div>
 
+<div type="textpart" subtype="section" n="3">
 <sp><speaker>ΖΕΥΣ</speaker><p>Ἱκανὸν λέγεις τοιαῦτα τολμήσας; νῦν μὲν οὖν
 συγγνώμην ἀπονέμω σοι, ἐς δὲ τὸ λοιπόν, ἤν τι
 ὅμοιον παρανομήσῃς ἤ τινα τοιοῦτον σεαυτοῦ
@@ -2266,6 +2270,9 @@
 
 
 <pb n="7.352"/>
+</div>
+
+<div type="textpart" subtype="section" n="2">
 <sp><speaker>ΕΡΜΗΣ</speaker><p>Ὑπὸ φιλαδελφίας τοῦτο ποιοῦσιν· ἐπεὶ γὰρ ἔδει
 ἕνα μὲν τεθνάναι τῶν Λήδας υἱέων, ἕνα δὲ ἀθάνατον
 εἶναι, ἐνείμαντο οὕτως αὐτοὶ τὴν ἀθανασίαν.</p></sp>
